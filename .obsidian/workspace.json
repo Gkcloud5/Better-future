@@ -18,8 +18,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2e321e7be4cf3bc5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Python/Tasks related to python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Python/Tasks related to python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Python/Tasks related to python.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43ce29b969c5a6d5",
+  "active": "2e321e7be4cf3bc5",
   "lastOpenFiles": [
+    "Learning/Python/Tasks related to python.md",
     "Untitled.canvas",
     "2023-01-25.md",
     "Testing.md",
