@@ -128,13 +128,21 @@
                 "file": "Testing.md"
               }
             }
+          },
+          {
+            "id": "2fd8d51adc5b5ed8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
