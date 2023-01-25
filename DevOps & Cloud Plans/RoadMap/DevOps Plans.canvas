@@ -4,7 +4,6 @@
 		{"id":"a44e3577c53eb1de","x":54,"y":328,"width":250,"height":60,"type":"text","text":"Github"},
 		{"id":"50ea4f5c521eac19","x":-252,"y":328,"width":250,"height":60,"type":"text","text":"CI/CD Tools"},
 		{"id":"7cd31c0b2fa36a60","x":-818,"y":97,"width":250,"height":60,"type":"text","text":"DevOps & Cloud"},
-		{"id":"f166b74ff008af61","x":69,"y":734,"width":250,"height":60,"type":"text","text":"Infrastructure"},
 		{"id":"2c9caa5b5d1bd1de","x":-252,"y":199,"width":250,"height":60,"type":"text","text":"Infrastructure Code"},
 		{"id":"4167007e8dc5c4e2","x":-252,"y":67,"width":250,"height":60,"type":"text","text":"DevOps"},
 		{"id":"354f381348cae3fa","x":-252,"y":-52,"width":250,"height":60,"type":"text","text":"Database"},
@@ -15,11 +14,12 @@
 		{"id":"2f44db0ead3af74f","x":384,"y":97,"width":250,"height":60,"type":"text","text":"Kubernetes"},
 		{"id":"1e01c4bb7b43ebe9","x":63,"y":8,"width":250,"height":60,"type":"text","text":"Container"},
 		{"id":"fff0c2c06555daef","x":384,"y":7,"width":250,"height":60,"type":"text","text":"Docker"},
-		{"id":"6ccef542b4318982","x":69,"y":826,"width":250,"height":60,"type":"text","text":"Application"},
 		{"id":"25dd7f6ce6288e85","x":-252,"y":456,"width":250,"height":60,"type":"text","text":"WebServer"},
 		{"id":"80b914a479ffc660","x":-252,"y":581,"width":250,"height":60,"type":"text","text":"Cloud Providers"},
 		{"id":"c7648ea7ff8b969c","x":69,"y":581,"width":250,"height":60,"type":"text","text":"AWS OR AZURE"},
-		{"id":"a707e63825819e25","x":-252,"y":704,"width":250,"height":60,"type":"text","text":"Monitoring"}
+		{"id":"a707e63825819e25","x":-252,"y":704,"width":250,"height":60,"type":"text","text":"Monitoring"},
+		{"id":"f166b74ff008af61","x":69,"y":704,"width":250,"height":60,"type":"text","text":"Infrastructure"},
+		{"id":"6ccef542b4318982","x":69,"y":802,"width":250,"height":60,"type":"text","text":"Application"}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
