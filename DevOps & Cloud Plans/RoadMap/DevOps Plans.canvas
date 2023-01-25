@@ -6,9 +6,11 @@
 		{"id":"39f4be99baf83c58","x":-255,"y":-184,"width":250,"height":60,"type":"text","text":"Scripting Programme"},
 		{"id":"354f381348cae3fa","x":-252,"y":-82,"width":250,"height":60,"type":"text","text":"Database"},
 		{"id":"4167007e8dc5c4e2","x":-258,"y":37,"width":250,"height":60,"type":"text","text":"DevOps"},
-		{"id":"1e01c4bb7b43ebe9","x":58,"y":-37,"width":250,"height":60,"type":"text","text":"Docker"},
-		{"id":"57fb384da60aa2cc","x":64,"y":128,"width":250,"height":60,"type":"text","text":"Kubernatives"},
-		{"id":"2c9caa5b5d1bd1de","x":-245,"y":218,"width":250,"height":60,"type":"text","text":"Infrastructure C"}
+		{"id":"1e01c4bb7b43ebe9","x":58,"y":-22,"width":250,"height":60,"type":"text","text":"Docker"},
+		{"id":"57fb384da60aa2cc","x":58,"y":67,"width":250,"height":60,"type":"text","text":"Kubernatives"},
+		{"id":"2c9caa5b5d1bd1de","x":-258,"y":199,"width":250,"height":60,"type":"text","text":"Infrastructure Code"},
+		{"id":"fb6f805e732582a5","x":58,"y":199,"width":250,"height":60,"type":"text","text":"Terraform"},
+		{"id":"50ea4f5c521eac19","x":-258,"y":346,"width":250,"height":60,"type":"text","text":"Coding storage"}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
@@ -18,6 +20,8 @@
 		{"id":"b9f366c636add3f4","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"4167007e8dc5c4e2","toSide":"left"},
 		{"id":"c30cc2856c8be4d9","fromNode":"4167007e8dc5c4e2","fromSide":"right","toNode":"1e01c4bb7b43ebe9","toSide":"left"},
 		{"id":"d4806d8c3ffb4621","fromNode":"4167007e8dc5c4e2","fromSide":"right","toNode":"57fb384da60aa2cc","toSide":"left"},
-		{"id":"97c4fc4762ecbefd","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"2c9caa5b5d1bd1de","toSide":"left"}
+		{"id":"97c4fc4762ecbefd","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"2c9caa5b5d1bd1de","toSide":"left"},
+		{"id":"32ecdd3ab520037a","fromNode":"2c9caa5b5d1bd1de","fromSide":"right","toNode":"fb6f805e732582a5","toSide":"left"},
+		{"id":"8d8f6eb8ac80496e","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"50ea4f5c521eac19","toSide":"left"}
 	]
 }
