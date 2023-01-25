@@ -1,2 +1,1 @@
-Source: Python tutorial --> https://www.youtube.com/watch?v=xErUnOKQbFw
-[Python tutorial ]()
+Source:   [Python tutorial ]( https://www.youtube.com/watch?v=xErUnOKQbFw)
