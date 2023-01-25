@@ -19,7 +19,10 @@
 		{"id":"c7648ea7ff8b969c","x":69,"y":581,"width":250,"height":60,"type":"text","text":"AWS OR AZURE"},
 		{"id":"a707e63825819e25","x":-252,"y":704,"width":250,"height":60,"type":"text","text":"Monitoring"},
 		{"id":"f166b74ff008af61","x":69,"y":704,"width":250,"height":60,"type":"text","text":"Infrastructure"},
-		{"id":"6ccef542b4318982","x":69,"y":802,"width":250,"height":60,"type":"text","text":"Application"}
+		{"id":"6ccef542b4318982","x":69,"y":802,"width":250,"height":60,"type":"text","text":"Application"},
+		{"id":"ea2aeea29db013e8","x":70,"y":-370,"width":250,"height":60,"type":"text","text":"Linux"},
+		{"id":"27460b1e343aa414","x":73,"y":-213,"width":250,"height":60,"type":"text","text":"Python"},
+		{"id":"b69415b8104df46b","x":74,"y":-109,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
@@ -40,6 +43,9 @@
 		{"id":"9be008cc11591c23","fromNode":"57fb384da60aa2cc","fromSide":"right","toNode":"2f44db0ead3af74f","toSide":"left"},
 		{"id":"8348b3831e286d8b","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"a707e63825819e25","toSide":"left"},
 		{"id":"6cc5aa3625a3e01f","fromNode":"a707e63825819e25","fromSide":"right","toNode":"f166b74ff008af61","toSide":"left"},
-		{"id":"aee129aff3186847","fromNode":"a707e63825819e25","fromSide":"right","toNode":"6ccef542b4318982","toSide":"left"}
+		{"id":"aee129aff3186847","fromNode":"a707e63825819e25","fromSide":"right","toNode":"6ccef542b4318982","toSide":"left"},
+		{"id":"3d17c7fddb302571","fromNode":"396c8063b1823198","fromSide":"right","toNode":"ea2aeea29db013e8","toSide":"left"},
+		{"id":"c361755095942a20","fromNode":"39f4be99baf83c58","fromSide":"right","toNode":"27460b1e343aa414","toSide":"left"},
+		{"id":"3cbcfddc4e6c15c4","fromNode":"39f4be99baf83c58","fromSide":"right","toNode":"b69415b8104df46b","toSide":"left"}
 	]
 }
