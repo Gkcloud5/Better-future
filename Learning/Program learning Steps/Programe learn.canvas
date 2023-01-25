@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"928c0c3773e2393d","x":-366,"y":-67,"width":250,"height":60,"color":"1","type":"text","text":"PROGRAMMING"},
-		{"id":"ca8ceabcb1646fc5","x":-21,"y":-175,"width":250,"height":60,"type":"text","text":""}
+		{"id":"ca8ceabcb1646fc5","x":-21,"y":-175,"width":250,"height":60,"type":"text","text":"Be Clear in fundamentals"}
 	],
 	"edges":[
 		{"id":"92c7aa53f892547e","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"ca8ceabcb1646fc5","toSide":"left"}
