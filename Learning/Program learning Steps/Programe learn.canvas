@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"928c0c3773e2393d","x":-366,"y":-67,"width":250,"height":60,"color":"1","type":"text","text":"PROGRAMMING"},
 		{"id":"ca8ceabcb1646fc5","x":-7,"y":-175,"width":250,"height":60,"type":"text","text":"Be Clear in fundamentals"},
 		{"id":"0c803f8ef48c5d33","x":326,"y":-215,"width":250,"height":60,"type":"text","text":"Data Structures"},
 		{"id":"3308b2c7db0fd501","x":326,"y":-301,"width":250,"height":60,"type":"text","text":"Variable"},
@@ -10,7 +9,8 @@
 		{"id":"3f1727b3c2d6eae2","x":319,"y":94,"width":250,"height":60,"type":"text","text":"Select Project Based"},
 		{"id":"9d3656b67d0996e0","x":644,"y":-22,"width":250,"height":60,"type":"text","text":"Interests"},
 		{"id":"a6655cc6cf5db63a","x":644,"y":91,"width":250,"height":60,"type":"text","text":"Simple Projects"},
-		{"id":"bd1bc728e1da2f6f","x":644,"y":204,"width":250,"height":60,"type":"text","text":"Useful Projects"}
+		{"id":"bd1bc728e1da2f6f","x":644,"y":204,"width":250,"height":60,"type":"text","text":"Useful Projects"},
+		{"id":"928c0c3773e2393d","x":-488,"y":91,"width":250,"height":60,"color":"1","type":"text","text":"PROGRAMMING"}
 	],
 	"edges":[
 		{"id":"92c7aa53f892547e","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"ca8ceabcb1646fc5","toSide":"left"},

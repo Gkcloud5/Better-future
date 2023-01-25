@@ -27,8 +27,8 @@
               "state": {
                 "file": "Learning/Program learning Steps/Programe learn.canvas",
                 "viewState": {
-                  "x": 432,
-                  "y": 175.04372260139567,
+                  "x": 118,
+                  "y": 118.0437226013957,
                   "zoom": -0.5,
                   "snapToGrid": false
                 }
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
