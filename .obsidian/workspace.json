@@ -21,7 +21,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Learning/Untitled Kanban.md"
+                "file": "Learning/Python/Untitled Kanban.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Untitled Kanban.md",
+                "file": "Learning/Python/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Untitled Kanban.md",
+                "file": "Learning/Python/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Untitled Kanban.md"
+                "file": "Learning/Python/Untitled Kanban.md"
               }
             }
           },
