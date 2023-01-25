@@ -1,9 +1,17 @@
 {
 	"nodes":[
 		{"id":"7cd31c0b2fa36a60","x":-634,"y":-83,"width":250,"height":60,"type":"text","text":"DevOps & Cloud"},
-		{"id":"396c8063b1823198","x":-255,"y":-358,"width":250,"height":60,"type":"text","text":"OS"}
+		{"id":"396c8063b1823198","x":-255,"y":-401,"width":250,"height":60,"type":"text","text":"OS"},
+		{"id":"5538dc4701101ec8","x":-255,"y":-290,"width":250,"height":60,"type":"text","text":"Networking"},
+		{"id":"39f4be99baf83c58","x":-255,"y":-184,"width":250,"height":60,"type":"text","text":"Scripting Programme"},
+		{"id":"354f381348cae3fa","x":-252,"y":-82,"width":250,"height":60,"type":"text","text":"Database"},
+		{"id":"4167007e8dc5c4e2","x":-258,"y":37,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
-		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"}
+		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
+		{"id":"92249bd65cd3b5ce","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"5538dc4701101ec8","toSide":"left"},
+		{"id":"72d248591f96b583","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"39f4be99baf83c58","toSide":"left"},
+		{"id":"3b9838c6d4f10b8e","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"354f381348cae3fa","toSide":"left"},
+		{"id":"b9f366c636add3f4","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"4167007e8dc5c4e2","toSide":"left"}
 	]
 }
