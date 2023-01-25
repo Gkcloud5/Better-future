@@ -130,14 +130,6 @@
             }
           },
           {
-            "id": "2fd8d51adc5b5ed8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "43ce29b969c5a6d5",
             "type": "leaf",
             "state": {
@@ -162,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fd8d51adc5b5ed8",
+  "active": "43ce29b969c5a6d5",
   "lastOpenFiles": [
     "Untitled.canvas",
     "2023-01-25.md",
