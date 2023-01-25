@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"7cd31c0b2fa36a60","x":-634,"y":-83,"width":250,"height":60,"type":"text","text":"DevOps & Cloud"},
-		{"id":"396c8063b1823198","x":-255,"y":-401,"width":250,"height":60,"type":"text","text":"OS"},
 		{"id":"5538dc4701101ec8","x":-255,"y":-290,"width":250,"height":60,"type":"text","text":"Networking"},
 		{"id":"39f4be99baf83c58","x":-255,"y":-184,"width":250,"height":60,"type":"text","text":"Scripting Programme"},
 		{"id":"354f381348cae3fa","x":-252,"y":-82,"width":250,"height":60,"type":"text","text":"Database"},
@@ -14,7 +13,8 @@
 		{"id":"a44e3577c53eb1de","x":54,"y":328,"width":250,"height":60,"type":"text","text":"Github"},
 		{"id":"25dd7f6ce6288e85","x":-242,"y":480,"width":250,"height":60,"type":"text","text":"WebServer"},
 		{"id":"80b914a479ffc660","x":-237,"y":610,"width":250,"height":60,"type":"text","text":"Cloud Platform"},
-		{"id":"c7648ea7ff8b969c","x":69,"y":611,"width":250,"height":60,"type":"text","text":"AWS OR AZURE"}
+		{"id":"c7648ea7ff8b969c","x":69,"y":611,"width":250,"height":60,"type":"text","text":"AWS OR AZURE"},
+		{"id":"396c8063b1823198","x":-242,"y":-401,"width":250,"height":60,"type":"text","text":"OS"}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
