@@ -19,8 +19,10 @@
             "id": "adb43e2e0f00755b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Learning/Untitled Kanban.md"
+              }
             }
           }
         ],
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Untitled Kanban.md"
+              }
             }
           },
           {
@@ -157,6 +163,8 @@
   },
   "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2023-01-25.md",
     "Testing.md",
     "Note/Folder inside file.md",
     "README.md"
