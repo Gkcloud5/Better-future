@@ -12,7 +12,9 @@
 		{"id":"fb6f805e732582a5","x":58,"y":199,"width":250,"height":60,"type":"text","text":"Terraform"},
 		{"id":"50ea4f5c521eac19","x":-258,"y":328,"width":250,"height":60,"type":"text","text":"Store a code"},
 		{"id":"a44e3577c53eb1de","x":54,"y":328,"width":250,"height":60,"type":"text","text":"Github"},
-		{"id":"25dd7f6ce6288e85","x":-242,"y":480,"width":250,"height":60,"type":"text","text":"WebServer"}
+		{"id":"25dd7f6ce6288e85","x":-242,"y":480,"width":250,"height":60,"type":"text","text":"WebServer"},
+		{"id":"80b914a479ffc660","x":-237,"y":610,"width":250,"height":60,"type":"text","text":"Cloud Platform"},
+		{"id":"c7648ea7ff8b969c","x":69,"y":611,"width":250,"height":60,"type":"text","text":"AWS OR AZURE"}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
@@ -26,6 +28,8 @@
 		{"id":"32ecdd3ab520037a","fromNode":"2c9caa5b5d1bd1de","fromSide":"right","toNode":"fb6f805e732582a5","toSide":"left"},
 		{"id":"8d8f6eb8ac80496e","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"50ea4f5c521eac19","toSide":"left"},
 		{"id":"3de16e0216b24206","fromNode":"50ea4f5c521eac19","fromSide":"right","toNode":"a44e3577c53eb1de","toSide":"left"},
-		{"id":"aa3558513c4183c8","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"25dd7f6ce6288e85","toSide":"left"}
+		{"id":"aa3558513c4183c8","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"25dd7f6ce6288e85","toSide":"left"},
+		{"id":"d6708f53faa9c82d","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"80b914a479ffc660","toSide":"left"},
+		{"id":"0abf62518dbadccf","fromNode":"80b914a479ffc660","fromSide":"right","toNode":"c7648ea7ff8b969c","toSide":"left"}
 	]
 }
