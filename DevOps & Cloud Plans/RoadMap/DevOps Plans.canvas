@@ -5,16 +5,18 @@
 		{"id":"39f4be99baf83c58","x":-255,"y":-184,"width":250,"height":60,"type":"text","text":"Scripting Programme"},
 		{"id":"354f381348cae3fa","x":-252,"y":-82,"width":250,"height":60,"type":"text","text":"Database"},
 		{"id":"1e01c4bb7b43ebe9","x":58,"y":-22,"width":250,"height":60,"type":"text","text":"Container"},
-		{"id":"57fb384da60aa2cc","x":58,"y":67,"width":250,"height":60,"type":"text","text":"Kubernatives"},
+		{"id":"57fb384da60aa2cc","x":58,"y":67,"width":250,"height":60,"type":"text","text":"Container Orchestration"},
 		{"id":"fb6f805e732582a5","x":58,"y":199,"width":250,"height":60,"type":"text","text":"Terraform"},
 		{"id":"a44e3577c53eb1de","x":54,"y":328,"width":250,"height":60,"type":"text","text":"Github"},
 		{"id":"c7648ea7ff8b969c","x":69,"y":611,"width":250,"height":60,"type":"text","text":"AWS OR AZURE"},
 		{"id":"4167007e8dc5c4e2","x":-252,"y":37,"width":250,"height":60,"type":"text","text":"DevOps"},
 		{"id":"2c9caa5b5d1bd1de","x":-252,"y":199,"width":250,"height":60,"type":"text","text":"Infrastructure Code"},
 		{"id":"396c8063b1823198","x":-252,"y":-401,"width":250,"height":60,"type":"text","text":"OS"},
-		{"id":"50ea4f5c521eac19","x":-252,"y":328,"width":250,"height":60,"type":"text","text":"Store a code"},
+		{"id":"50ea4f5c521eac19","x":-252,"y":328,"width":250,"height":60,"type":"text","text":"CI/CD Tools"},
 		{"id":"25dd7f6ce6288e85","x":-252,"y":477,"width":250,"height":60,"type":"text","text":"WebServer"},
-		{"id":"80b914a479ffc660","x":-252,"y":611,"width":250,"height":60,"type":"text","text":"Cloud Platform"}
+		{"id":"80b914a479ffc660","x":-252,"y":611,"width":250,"height":60,"type":"text","text":"Cloud Platform"},
+		{"id":"fff0c2c06555daef","x":384,"y":-23,"width":250,"height":60,"type":"text","text":"Docker"},
+		{"id":"2f44db0ead3af74f","x":384,"y":67,"width":250,"height":60,"type":"text","text":"Kubernetes"}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
@@ -30,6 +32,8 @@
 		{"id":"3de16e0216b24206","fromNode":"50ea4f5c521eac19","fromSide":"right","toNode":"a44e3577c53eb1de","toSide":"left"},
 		{"id":"aa3558513c4183c8","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"25dd7f6ce6288e85","toSide":"left"},
 		{"id":"d6708f53faa9c82d","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"80b914a479ffc660","toSide":"left"},
-		{"id":"0abf62518dbadccf","fromNode":"80b914a479ffc660","fromSide":"right","toNode":"c7648ea7ff8b969c","toSide":"left"}
+		{"id":"0abf62518dbadccf","fromNode":"80b914a479ffc660","fromSide":"right","toNode":"c7648ea7ff8b969c","toSide":"left"},
+		{"id":"1f2f3f99bd1c3572","fromNode":"1e01c4bb7b43ebe9","fromSide":"right","toNode":"fff0c2c06555daef","toSide":"left"},
+		{"id":"9be008cc11591c23","fromNode":"57fb384da60aa2cc","fromSide":"right","toNode":"2f44db0ead3af74f","toSide":"left"}
 	]
 }
