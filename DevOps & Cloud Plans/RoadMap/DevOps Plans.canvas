@@ -26,7 +26,9 @@
 		{"id":"fc525892ca9e7793","x":133,"y":454,"width":250,"height":60,"type":"text","text":"Ngnix"},
 		{"id":"f166b74ff008af61","x":131,"y":674,"width":250,"height":60,"type":"text","text":"Infrastructure"},
 		{"id":"6ccef542b4318982","x":131,"y":764,"width":250,"height":60,"type":"text","text":"Application"},
-		{"id":"9f4dbd8c611b7f95","x":134,"y":863,"width":250,"height":60,"type":"text","text":"Logs Management"}
+		{"id":"9f4dbd8c611b7f95","x":134,"y":863,"width":250,"height":60,"type":"text","text":"Logs Management"},
+		{"id":"f3e447c8c3d5e2a9","x":-252,"y":956,"width":250,"height":60,"type":"text","text":"Configuration Management"},
+		{"id":"3f929d0d721fa9d0","x":135,"y":959,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
@@ -54,6 +56,8 @@
 		{"id":"22949003c9553df6","fromNode":"354f381348cae3fa","fromSide":"right","toNode":"8074ddc6ebb2b958","toSide":"left"},
 		{"id":"cc45b9f039fe3e24","fromNode":"354f381348cae3fa","fromSide":"right","toNode":"485676cc9106c7e7","toSide":"left"},
 		{"id":"2046ea7810666ecf","fromNode":"25dd7f6ce6288e85","fromSide":"right","toNode":"fc525892ca9e7793","toSide":"left"},
-		{"id":"eeeaff07127a1d03","fromNode":"a707e63825819e25","fromSide":"right","toNode":"9f4dbd8c611b7f95","toSide":"left"}
+		{"id":"eeeaff07127a1d03","fromNode":"a707e63825819e25","fromSide":"right","toNode":"9f4dbd8c611b7f95","toSide":"left"},
+		{"id":"fd1bc057891f1f5c","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"f3e447c8c3d5e2a9","toSide":"left"},
+		{"id":"d010cff7a07340f9","fromNode":"f3e447c8c3d5e2a9","fromSide":"right","toNode":"3f929d0d721fa9d0","toSide":"left"}
 	]
 }
