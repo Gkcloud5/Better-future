@@ -29,7 +29,8 @@
 		{"id":"9f4dbd8c611b7f95","x":134,"y":863,"width":250,"height":60,"type":"text","text":"##### Logs Management"},
 		{"id":"f3e447c8c3d5e2a9","x":-252,"y":956,"width":250,"height":63,"type":"text","text":"#### Configuration Management"},
 		{"id":"3f929d0d721fa9d0","x":135,"y":959,"width":250,"height":60,"type":"text","text":""},
-		{"id":"8d32dfb8c54c5dc6","x":-252,"y":1103,"width":250,"height":60,"type":"text","text":"#### Cloud Design Patterns"}
+		{"id":"8d32dfb8c54c5dc6","x":-252,"y":1103,"width":250,"height":60,"type":"text","text":"#### Cloud Design Patterns"},
+		{"id":"60df61f98fc29be7","x":-740,"y":-773,"width":1458,"height":100,"type":"text","text":"# Road Map Or learning Curve for Devops and Cloud platform"}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
