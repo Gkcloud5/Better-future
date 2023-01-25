@@ -11,7 +11,9 @@
 		{"id":"928c0c3773e2393d","x":-488,"y":91,"width":250,"height":60,"color":"1","type":"text","text":"PROGRAMMING"},
 		{"id":"aa6cce30457ac2c6","x":-7,"y":335,"width":250,"height":60,"type":"text","text":"Debugging Skills"},
 		{"id":"aaf61776863e740a","x":-7,"y":174,"width":250,"height":60,"type":"text","text":"Do project based learned program"},
-		{"id":"3f1727b3c2d6eae2","x":326,"y":174,"width":250,"height":60,"type":"text","text":"Select Project Based"}
+		{"id":"3f1727b3c2d6eae2","x":326,"y":174,"width":250,"height":60,"type":"text","text":"Select Project Based"},
+		{"id":"4c9ed2bbddbbb458","x":319,"y":-391,"width":250,"height":60,"type":"text","text":"Operators and parsers"},
+		{"id":"c6018d513cb90686","x":319,"y":64,"width":250,"height":60,"type":"text","text":"Functions"}
 	],
 	"edges":[
 		{"id":"92c7aa53f892547e","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"ca8ceabcb1646fc5","toSide":"left"},
@@ -24,6 +26,8 @@
 		{"id":"e113bc31ea5d72de","fromNode":"3f1727b3c2d6eae2","fromSide":"right","toNode":"9d3656b67d0996e0","toSide":"left"},
 		{"id":"f3d8f283c2c109f0","fromNode":"3f1727b3c2d6eae2","fromSide":"right","toNode":"a6655cc6cf5db63a","toSide":"left"},
 		{"id":"454f9f0c394534c6","fromNode":"3f1727b3c2d6eae2","fromSide":"right","toNode":"bd1bc728e1da2f6f","toSide":"left"},
-		{"id":"ac53b6619afb4764","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"aa6cce30457ac2c6","toSide":"left"}
+		{"id":"ac53b6619afb4764","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"aa6cce30457ac2c6","toSide":"left"},
+		{"id":"386e3fd0cc21e23a","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"4c9ed2bbddbbb458","toSide":"left"},
+		{"id":"26ca0d50ad11ee96","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"c6018d513cb90686","toSide":"left"}
 	]
 }
