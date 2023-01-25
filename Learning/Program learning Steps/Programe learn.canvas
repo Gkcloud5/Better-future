@@ -8,7 +8,9 @@
 		{"id":"dc0db51900dbd78f","x":323,"y":-39,"width":250,"height":60,"type":"text","text":"Syntax"},
 		{"id":"aaf61776863e740a","x":-7,"y":93,"width":250,"height":60,"type":"text","text":"Do project based learned program"},
 		{"id":"3f1727b3c2d6eae2","x":319,"y":94,"width":250,"height":60,"type":"text","text":"Select Project Based"},
-		{"id":"9d3656b67d0996e0","x":644,"y":-22,"width":250,"height":60,"type":"text","text":"Interests"}
+		{"id":"9d3656b67d0996e0","x":644,"y":-22,"width":250,"height":60,"type":"text","text":"Interests"},
+		{"id":"a6655cc6cf5db63a","x":644,"y":91,"width":250,"height":60,"type":"text","text":"Simple Projects"},
+		{"id":"bd1bc728e1da2f6f","x":644,"y":204,"width":250,"height":60,"type":"text","text":"Useful Projects"}
 	],
 	"edges":[
 		{"id":"92c7aa53f892547e","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"ca8ceabcb1646fc5","toSide":"left"},
@@ -18,6 +20,8 @@
 		{"id":"359d9fe22c38b482","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"edf57e47b5347ab1","toSide":"left"},
 		{"id":"a36922dabda02b84","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"dc0db51900dbd78f","toSide":"left"},
 		{"id":"f4a25066e3653ff7","fromNode":"aaf61776863e740a","fromSide":"right","toNode":"3f1727b3c2d6eae2","toSide":"left"},
-		{"id":"e113bc31ea5d72de","fromNode":"3f1727b3c2d6eae2","fromSide":"right","toNode":"9d3656b67d0996e0","toSide":"left"}
+		{"id":"e113bc31ea5d72de","fromNode":"3f1727b3c2d6eae2","fromSide":"right","toNode":"9d3656b67d0996e0","toSide":"left"},
+		{"id":"f3d8f283c2c109f0","fromNode":"3f1727b3c2d6eae2","fromSide":"right","toNode":"a6655cc6cf5db63a","toSide":"left"},
+		{"id":"454f9f0c394534c6","fromNode":"3f1727b3c2d6eae2","fromSide":"right","toNode":"bd1bc728e1da2f6f","toSide":"left"}
 	]
 }
