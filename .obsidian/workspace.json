@@ -23,15 +23,9 @@
             "id": "2e321e7be4cf3bc5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Learning/Program learning Steps/Programe learn.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 65.76093065034891,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Learning/Python/Tasks related to python.md"
               }
             }
           }
@@ -102,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Program learning Steps/Programe learn.canvas",
+                "file": "Learning/Python/Tasks related to python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Program learning Steps/Programe learn.canvas",
+                "file": "Learning/Python/Tasks related to python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Program learning Steps/Programe learn.canvas"
+                "file": "Learning/Python/Tasks related to python.md"
               }
             }
           },
@@ -173,6 +167,7 @@
   },
   "active": "2e321e7be4cf3bc5",
   "lastOpenFiles": [
+    "Learning/Program learning Steps/Programe learn.canvas",
     "Learning/Python/Tasks related to python.md",
     "Untitled.canvas",
     "2023-01-25.md",
