@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 298.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -172,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e321e7be4cf3bc5",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
     "Learning/Python/To-do--PYTHON.md",
     "Learning/Program learning Steps/Programe learn.canvas",
