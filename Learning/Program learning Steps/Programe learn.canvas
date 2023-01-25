@@ -2,10 +2,14 @@
 	"nodes":[
 		{"id":"928c0c3773e2393d","x":-366,"y":-67,"width":250,"height":60,"color":"1","type":"text","text":"PROGRAMMING"},
 		{"id":"aaf61776863e740a","x":-7,"y":-67,"width":250,"height":60,"type":"text","text":"Do project based learned program"},
-		{"id":"ca8ceabcb1646fc5","x":-7,"y":-175,"width":250,"height":60,"type":"text","text":"Be Clear in fundamentals"}
+		{"id":"ca8ceabcb1646fc5","x":-7,"y":-175,"width":250,"height":60,"type":"text","text":"Be Clear in fundamentals"},
+		{"id":"3308b2c7db0fd501","x":307,"y":-304,"width":250,"height":60,"type":"text","text":"Variable"},
+		{"id":"0c803f8ef48c5d33","x":326,"y":-215,"width":250,"height":60,"type":"text","text":"Data Structures"}
 	],
 	"edges":[
 		{"id":"92c7aa53f892547e","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"ca8ceabcb1646fc5","toSide":"left"},
-		{"id":"11e0f7af4122b5c5","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"aaf61776863e740a","toSide":"left"}
+		{"id":"11e0f7af4122b5c5","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"aaf61776863e740a","toSide":"left"},
+		{"id":"747573905057ef17","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"3308b2c7db0fd501","toSide":"left"},
+		{"id":"14307b850a052e8e","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"0c803f8ef48c5d33","toSide":"left"}
 	]
 }
