@@ -157,13 +157,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "904c795512713830",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "4139104f6dd36cb1",
   "lastOpenFiles": [
     "Learning/Python/Index of Python.md",
     "Learning/Python/To-do--PYTHON.md",
