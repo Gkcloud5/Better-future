@@ -11,24 +11,16 @@
             "id": "44279d5f9a5f720c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "adb43e2e0f00755b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note/Folder inside file.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Folder inside file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Folder inside file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Note/Folder inside file.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adb43e2e0f00755b",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Note/Folder inside file.md",
     "Testing.md",
     "README.md"
   ]
