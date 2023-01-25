@@ -17,7 +17,9 @@
 		{"id":"fff0c2c06555daef","x":384,"y":-23,"width":250,"height":60,"type":"text","text":"Docker"},
 		{"id":"2f44db0ead3af74f","x":384,"y":67,"width":250,"height":60,"type":"text","text":"Kubernetes"},
 		{"id":"7cd31c0b2fa36a60","x":-818,"y":97,"width":250,"height":60,"type":"text","text":"DevOps & Cloud"},
-		{"id":"a707e63825819e25","x":-261,"y":734,"width":250,"height":60,"type":"text","text":"Monitoring"}
+		{"id":"a707e63825819e25","x":-261,"y":734,"width":250,"height":60,"type":"text","text":"Monitoring"},
+		{"id":"f166b74ff008af61","x":69,"y":734,"width":250,"height":60,"type":"text","text":"Infrastructure"},
+		{"id":"6ccef542b4318982","x":63,"y":864,"width":250,"height":60,"type":"text","text":"Application"}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
@@ -36,6 +38,8 @@
 		{"id":"0abf62518dbadccf","fromNode":"80b914a479ffc660","fromSide":"right","toNode":"c7648ea7ff8b969c","toSide":"left"},
 		{"id":"1f2f3f99bd1c3572","fromNode":"1e01c4bb7b43ebe9","fromSide":"right","toNode":"fff0c2c06555daef","toSide":"left"},
 		{"id":"9be008cc11591c23","fromNode":"57fb384da60aa2cc","fromSide":"right","toNode":"2f44db0ead3af74f","toSide":"left"},
-		{"id":"8348b3831e286d8b","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"a707e63825819e25","toSide":"left"}
+		{"id":"8348b3831e286d8b","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"a707e63825819e25","toSide":"left"},
+		{"id":"6cc5aa3625a3e01f","fromNode":"a707e63825819e25","fromSide":"right","toNode":"f166b74ff008af61","toSide":"left"},
+		{"id":"aee129aff3186847","fromNode":"a707e63825819e25","fromSide":"right","toNode":"6ccef542b4318982","toSide":"left"}
 	]
 }
