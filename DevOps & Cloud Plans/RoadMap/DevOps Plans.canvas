@@ -13,7 +13,7 @@
 		{"id":"50ea4f5c521eac19","x":-252,"y":328,"width":250,"height":60,"type":"text","text":"#### CI/CD Tools"},
 		{"id":"25dd7f6ce6288e85","x":-252,"y":456,"width":250,"height":60,"type":"text","text":"#### WebServer"},
 		{"id":"80b914a479ffc660","x":-252,"y":581,"width":250,"height":60,"type":"text","text":"#### Cloud Providers"},
-		{"id":"27460b1e343aa414","x":134,"y":-345,"width":250,"height":60,"type":"text","text":"##### [Python]()"},
+		{"id":"27460b1e343aa414","x":134,"y":-345,"width":250,"height":60,"type":"text","text":"##### [[ Index of Python | Python]]"},
 		{"id":"b69415b8104df46b","x":134,"y":-243,"width":250,"height":60,"type":"text","text":"##### Bash"},
 		{"id":"8074ddc6ebb2b958","x":131,"y":-160,"width":250,"height":60,"type":"text","text":"##### Relationale"},
 		{"id":"485676cc9106c7e7","x":131,"y":-78,"width":250,"height":60,"type":"text","text":"##### Non-Relational"},
