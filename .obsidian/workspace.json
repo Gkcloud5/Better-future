@@ -33,15 +33,11 @@
             "id": "4139104f6dd36cb1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": 651.7429449372958,
-                  "zoom": -0.6131021802598002,
-                  "snapToGrid": false
-                }
+                "file": "Learning/Programming/Python/Index of Python.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Learning/Programming/Python/Index of Python.md"
               }
             }
           },
@@ -191,11 +187,11 @@
   },
   "active": "4139104f6dd36cb1",
   "lastOpenFiles": [
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "README.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Untitled.canvas",
     "2023-01-25.md",
     "Testing.md",
