@@ -20,6 +20,8 @@
 **Escape character** --> It prints functions instead of character
 	`print('/a')`
 
-**Separation:**
-	`print('Hello')`
+**Separation argument:**
+	`print('Hello', 'Gokul',sep="__")`
 
+**End argument:**
+	`print()`
