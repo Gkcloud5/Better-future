@@ -7,3 +7,8 @@
 * Integer
 * String
 * Float
+* List
+* Tuple
+* Dictionary
+
+##### String:
