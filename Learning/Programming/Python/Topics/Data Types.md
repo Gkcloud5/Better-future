@@ -20,4 +20,8 @@
 	* `n=10`
 
 **Float:**
-* 
+* Number with point values
+	* `f=1.2`
+
+##### Check data type:
+* `print(type(a))`
