@@ -10,3 +10,9 @@ b=int(input("Enter a number:"))
 print(a+b)
 ```
 
+**Print division output without float value:**
+```
+a=int(input("Enter a number:"))
+b=int(input("Enter a number:"))
+print(a//b)
+```
