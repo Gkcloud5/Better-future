@@ -8,4 +8,7 @@ single line print statement --> `print("Gokul")`
 		* Here `print` is a function
 			* `Function` helps to run a set of code multiple times without writing multiple times 
 		* `Gokul` is a argument
-			* If functions get input it called as 
+			* If functions get input it called as `argument`
+			* If functions gives output then we called it `return`
+
+In python 
