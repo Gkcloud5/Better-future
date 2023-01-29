@@ -1,5 +1,6 @@
 * Python is a interpreted language
 
+**About interpreted language:**
 `Computer knows only 0 and 1, compiler and interpreter helps to convert our code to machine understandable, compiler run our code only after we wrote fully but interpreter is convert code when we typing`
 
 ## PRINT:
@@ -29,5 +30,8 @@
 
 **3 Times print a string(String replication)**
 	`print('Gokul'*3)`
+
+**String concatenation**
+	`print('Gokul' + 'Cool')`
 
 
