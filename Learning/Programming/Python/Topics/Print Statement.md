@@ -5,3 +5,6 @@
 ## PRINT:
 
 single line print statement --> `print("Gokul")`
+		* Here `print` is a function
+			* `Function` means
+		* `Gokul` is a argument
