@@ -17,3 +17,5 @@ Examples:
 	`print(''' Gokul 
 	`cool'''`
 
+Escape character --> It prints functions instead of character
+	
