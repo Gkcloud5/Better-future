@@ -4,4 +4,4 @@ Topics:
          * [[Print Statement]]
          *  [[Data Types]]
          *  [[Variable]]
-         * [[Input Statememt]]
+         * [[Input Statement]]

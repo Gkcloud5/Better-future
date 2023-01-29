@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Data Types.md",
+                "file": "Learning/Programming/Python/Topics/Input Statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Data Types.md",
+                "file": "Learning/Programming/Python/Topics/Input Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Data Types.md",
+                "file": "Learning/Programming/Python/Topics/Input Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Data Types.md"
+                "file": "Learning/Programming/Python/Topics/Input Statement.md"
               }
             }
           },
@@ -188,15 +188,15 @@
   },
   "active": "4139104f6dd36cb1",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Topics/Variable.md",
+    "Input Statememt.md",
+    "Learning/Programming/Python/Topics/Input Statement.md",
     "Learning/Programming/Python/Index of Python.md",
-    "Learning/Programming/Python/Topics/Data Types.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
+    "Learning/Programming/Python/Topics/Variable.md",
     "Learning/Programming/Python/Topics/Print Statement.md",
+    "Learning/Programming/Python/Topics/Data Types.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "README.md",
-    "Untitled.canvas",
-    "2023-01-25.md"
+    "README.md"
   ]
 }
