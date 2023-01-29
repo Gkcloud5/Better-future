@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Print Statement.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Print Statement.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Print Statement.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Print Statement.md"
+                "file": "Learning/Programming/Python/Index of Python.md"
               }
             }
           },
@@ -186,10 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "4139104f6dd36cb1",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
+    "Learning/Programming/Python/Topics/Print Statement.md",
+    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "README.md",
