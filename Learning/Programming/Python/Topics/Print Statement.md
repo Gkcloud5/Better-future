@@ -24,4 +24,5 @@
 	`print('Hello', 'Gokul',sep="__")`
 
 **End argument:**
-	`print()`
+	`print('Hello', 'Gokul',sep="__",end= `\t`)`
+	`print('End argument')`
