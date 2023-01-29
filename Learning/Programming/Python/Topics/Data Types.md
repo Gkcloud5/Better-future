@@ -5,4 +5,5 @@
 #### Some Data types:
 
 * Integer
-* Strin
+* String
+* Float
