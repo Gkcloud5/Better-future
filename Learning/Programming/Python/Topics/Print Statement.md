@@ -11,4 +11,5 @@ single line print statement --> `print("Gokul")`
 			* If functions get input it called as `argument`
 			* If functions gives output then we called it `return`
 
-In python 
+--> In python don't have character only string if enclosed with quotes
+
