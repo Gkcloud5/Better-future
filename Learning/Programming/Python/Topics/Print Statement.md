@@ -4,7 +4,7 @@
 
 ## PRINT:
 
-single line print statement --> `print("Gokul")`
+<b>single line print statement --> `print("Gokul")`
 		* Here `print` is a function
 			* `Function` helps to run a set of code multiple times without writing multiple times 
 		* `Gokul` is a argument
@@ -17,5 +17,5 @@ Examples:
 	`print(''' Gokul 
 	`cool'''`
 
-Escape character --> It prints functions instead of character
-	
+<b>Escape character</b> --> It prints functions instead of character
+	`print('/a')`
