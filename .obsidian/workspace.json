@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "4139104f6dd36cb1",
   "lastOpenFiles": [
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
