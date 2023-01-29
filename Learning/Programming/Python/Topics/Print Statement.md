@@ -13,3 +13,7 @@ single line print statement --> `print("Gokul")`
 
 --> In python don't have character only string if enclosed with quotes
 
+Examples:
+	`print(''' Gokul 
+	`cool'''`
+
