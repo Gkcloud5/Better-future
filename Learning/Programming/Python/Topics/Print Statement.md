@@ -27,3 +27,7 @@
 	`print('Hello', 'Gokul',sep="__",end= `\t`)`
 	`print('End argument')`
 
+**3 Times print a string(String replication)**
+	`print('Gokul'*3)`
+
+
