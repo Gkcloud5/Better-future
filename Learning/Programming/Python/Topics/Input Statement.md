@@ -7,7 +7,10 @@ a=input('Enter a number')
 print(a)
 ```
 
-**Convert o:**
+**Convert to integer type:**
 ```
 a=int(input("Enter a number"))
+print(a)
+print(type(a))
 ```
+
