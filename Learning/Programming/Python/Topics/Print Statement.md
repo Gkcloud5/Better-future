@@ -6,5 +6,6 @@
 
 single line print statement --> `print("Gokul")`
 		* Here `print` is a function
-			* `Function` means
+			* `Function` helps to run a set of code multiple times without writing multiple times 
 		* `Gokul` is a argument
+			* If functions get input it called as 
