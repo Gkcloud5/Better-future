@@ -1,4 +1,10 @@
 ### About Operators:
 
-* Helps to perform operations.
+* It Helps to perform operations.
+
+**Examples**
+
+```
+a=int(input)
+```
 
