@@ -11,4 +11,8 @@
 * Tuple
 * Dictionary
 
-##### String:
+****#####** String:**
+* Collection of character
+	* `a="Gokul"`
+
+**Integer**:
