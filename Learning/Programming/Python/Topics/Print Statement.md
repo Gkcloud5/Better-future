@@ -4,4 +4,4 @@
 
 ## PRINT:
 
-single line print st
+single line print statement --> `print("Gokul")`
