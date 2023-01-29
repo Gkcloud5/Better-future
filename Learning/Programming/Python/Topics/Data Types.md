@@ -16,4 +16,8 @@
 	* `a="Gokul"`
 
 **Integer**:
+*  Store number values
+	* `n=10`
+
+**Float:**
 * 
