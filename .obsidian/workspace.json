@@ -20,25 +20,19 @@
             }
           },
           {
-            "id": "2e321e7be4cf3bc5",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Learning/Programming/Python/To-do--PYTHON.md"
-              }
-            }
-          },
-          {
             "id": "4139104f6dd36cb1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Index of Python.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Programming/Python/Index of Python.md"
+              }
             }
           },
           {
@@ -180,8 +178,8 @@
   },
   "active": "4139104f6dd36cb1",
   "lastOpenFiles": [
-    "README.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
+    "README.md",
     "Learning/Programming/Python/Topics/Data Types.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Topics/Operators.md",
