@@ -5,7 +5,7 @@
 		{"id":"ca8ceabcb1646fc5","x":-351,"y":-331,"width":250,"height":60,"color":"2","type":"text","text":"Be Clear in fundamentals"},
 		{"id":"9d3656b67d0996e0","x":644,"y":-85,"width":250,"height":60,"type":"text","text":"Interests"},
 		{"id":"a6655cc6cf5db63a","x":644,"y":64,"width":250,"height":60,"type":"text","text":"Simple Projects"},
-		{"id":"4c9ed2bbddbbb458","x":161,"y":-576,"width":250,"height":60,"type":"text","text":"Operators and parsers"},
+		{"id":"4c9ed2bbddbbb458","x":161,"y":-576,"width":250,"height":60,"type":"text","text":"Operators"},
 		{"id":"3308b2c7db0fd501","x":161,"y":-478,"width":250,"height":60,"type":"text","text":"Variable"},
 		{"id":"0c803f8ef48c5d33","x":161,"y":-391,"width":250,"height":60,"type":"text","text":"Data Structures"},
 		{"id":"edf57e47b5347ab1","x":161,"y":-301,"width":250,"height":60,"type":"text","text":"Control structures"},
