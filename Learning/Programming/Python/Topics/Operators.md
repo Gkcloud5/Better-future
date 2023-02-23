@@ -27,4 +27,6 @@ print(a//b)
 * Assignment operators
 * Comparison operators
 * logical operators
-* I
+* Identity operators
+* Membership operators
+* Bitwise operators
