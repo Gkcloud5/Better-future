@@ -62,4 +62,4 @@ CapWords
 my_name
 current_salary
 ```
-
+* Python is case-sensitive. So **num** and **Num** are different variables
