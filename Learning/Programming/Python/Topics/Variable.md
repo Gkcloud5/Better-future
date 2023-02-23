@@ -11,4 +11,16 @@
 			`number = 10`
 *Here number storing the value 10*
 
-#### 
+
+### Assigning values to variables:
+
+```
+# assign value to site_name variable
+site_name = 'programiz.pro'
+
+print(site_name)
+
+# Output: programiz.pro
+
+```
+
