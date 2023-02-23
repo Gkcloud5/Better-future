@@ -1,27 +1,10 @@
 ## About Data type:
 
+#### Source: [Data Type](https://www.programiz.com/python-programming/variables-datatypes)
+
 * How can we store a data in code that's data type
 
-#### Some Data types:
+## Python Data Types
 
-* Integer
-* String
-* Float
-* List
-* Tuple
-* Dictionary
+![[Pasted image 20230223185225.png]]
 
-**String:**
-* Collection of character
-	* `a="Gokul"`
-
-**Integer**:
-*  Store number values
-	* `n=10`
-
-**Float:**
-* Number with point values
-	* `f=1.2`
-
-##### Check data type:
-* `print(type(a))`
