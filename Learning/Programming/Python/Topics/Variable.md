@@ -63,3 +63,5 @@ my_name
 current_salary
 ```
 * Python is case-sensitive. So **num** and **Num** are different variables
+*  Avoid using [keywords](https://www.programiz.com/python-programming/keywords-identifier) like if, True, class, etc. as variable names.
+
