@@ -65,4 +65,7 @@ current_salary
 * Python is case-sensitive. So **num** and **Num** are different variables
 *  Avoid using [keywords](https://www.programiz.com/python-programming/keywords-identifier) like if, True, class, etc. as variable names.
 
-#### Python con
+#### Python constants:
+
+* A constant is a special type of variable whose value cannot be changed
+* In Python, constants are usually declared and assigned in a [module](https://www.programiz.com/python-programming/modules)
