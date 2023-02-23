@@ -100,3 +100,5 @@ After that, we create the **main.py** file and import the `constant` module.
 ![[Pasted image 20230223183527.png]]
 
 
+##### Boolean Literals:
+* There are two boolean literals: `tru`
