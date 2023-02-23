@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Program learning Steps/Programe learn.canvas",
+                "file": "Learning/Programming/Python/Topics/Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Program learning Steps/Programe learn.canvas",
+                "file": "Learning/Programming/Python/Topics/Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Program learning Steps/Programe learn.canvas"
+                "file": "Learning/Programming/Python/Topics/Variable.md"
               }
             }
           },
@@ -226,10 +226,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4139104f6dd36cb1",
+  "active": "abdeaa9ea697f23c",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Topics/Variable.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
+    "Learning/Programming/Python/Topics/Variable.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Index of Python.md",
