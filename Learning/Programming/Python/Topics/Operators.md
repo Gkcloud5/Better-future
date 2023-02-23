@@ -16,3 +16,5 @@ a=int(input("Enter a number:"))
 b=int(input("Enter a number:"))
 print(a//b)
 ```
+
+##### Operators are used to perform operations on variables and values
