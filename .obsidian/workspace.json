@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Variable.md",
+                "file": "Learning/Programming/Python/Topics/Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Variable.md",
+                "file": "Learning/Programming/Python/Topics/Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Variable.md",
+                "file": "Learning/Programming/Python/Topics/Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Variable.md"
+                "file": "Learning/Programming/Python/Topics/Data Types.md"
               }
             }
           },
@@ -228,11 +228,11 @@
   },
   "active": "abdeaa9ea697f23c",
   "lastOpenFiles": [
-    "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Topics/Variable.md",
+    "Learning/Programming/Python/Index of Python.md",
+    "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Topics/Operators.md",
     "Learning/Programming/Python/Images/Pasted image 20230223175531.png",
     "Learning/Programming/Python/Topics/Print Statement.md",
