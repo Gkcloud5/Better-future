@@ -21,4 +21,10 @@ print(a//b)
 
 **Example:** `print(15+5)`
 
-##Op
+### Operators group:
+
+* Arithmetic operators
+* Assignment operators
+* Comparison operators
+* logical operators
+* I
