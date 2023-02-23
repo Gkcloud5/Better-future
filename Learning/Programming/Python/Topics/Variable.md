@@ -46,4 +46,7 @@ print(site2)  # prints programiz.com
 ```
 
 
-### Rules for Naming p
+### Rules for Naming variables:
+
+* Variable names should have a combination of letters in lowercase (a to z) or uppercase (**A to Z**) or digits (**0 to 9**) or an underscore `(__)`
+* 
