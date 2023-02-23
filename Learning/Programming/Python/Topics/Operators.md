@@ -55,4 +55,4 @@ print(a//b)
 #### Identity operators:
 *It is used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location*
 
-**Objects:Ob**
+**Object: It is an entity having specific identity and specific charactersticsis**
