@@ -89,3 +89,5 @@ In the above example, we created the **constant.py** module file. Then, we ass
 After that, we create the **main.py** file and import the `constant` module. Finally, we printed the constant value.
 
 #### Python Literals:
+
+**Literals are representations of fixed values in a program, they can be numbers, characters or strings, etc
