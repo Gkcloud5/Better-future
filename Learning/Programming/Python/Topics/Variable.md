@@ -37,3 +37,13 @@ print(b)  # prints 3.2
 print(c)  # prints Hello 
 ```
 
+*Assign same value = to multiple variables*
+```
+site1 = site2  = 'programiz.com'
+
+print(site1)  # prints programiz.com
+print(site2)  # prints programiz.com
+```
+
+
+### Rules for Naming p
