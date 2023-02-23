@@ -6,4 +6,7 @@
 	* a = 10.
 	* Here `a` is identifier
 
-**In programing, a va
+**In programing, a variable is a container to hold a data
+
+			`number = 10`
+
