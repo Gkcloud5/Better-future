@@ -2,32 +2,32 @@
 	"nodes":[
 		{"id":"bd1bc728e1da2f6f","x":644,"y":204,"width":250,"height":60,"type":"text","text":"Useful Projects"},
 		{"id":"928c0c3773e2393d","x":-835,"y":61,"width":250,"height":60,"color":"1","type":"text","text":"PROGRAMMING"},
-		{"id":"aa6cce30457ac2c6","x":-351,"y":348,"width":250,"height":60,"type":"text","text":"Debugging Skills"},
-		{"id":"ca8ceabcb1646fc5","x":-351,"y":-331,"width":250,"height":60,"type":"text","text":"Be Clear in fundamentals"},
+		{"id":"ca8ceabcb1646fc5","x":-351,"y":-331,"width":250,"height":60,"color":"2","type":"text","text":"Be Clear in fundamentals"},
 		{"id":"9d3656b67d0996e0","x":644,"y":-85,"width":250,"height":60,"type":"text","text":"Interests"},
 		{"id":"a6655cc6cf5db63a","x":644,"y":64,"width":250,"height":60,"type":"text","text":"Simple Projects"},
 		{"id":"4c9ed2bbddbbb458","x":161,"y":-576,"width":250,"height":60,"type":"text","text":"Operators and parsers"},
 		{"id":"3308b2c7db0fd501","x":161,"y":-478,"width":250,"height":60,"type":"text","text":"Variable"},
 		{"id":"0c803f8ef48c5d33","x":161,"y":-391,"width":250,"height":60,"type":"text","text":"Data Structures"},
 		{"id":"edf57e47b5347ab1","x":161,"y":-301,"width":250,"height":60,"type":"text","text":"Control structures"},
-		{"id":"c6018d513cb90686","x":161,"y":-115,"width":250,"height":60,"type":"text","text":"Functions"},
 		{"id":"dc0db51900dbd78f","x":161,"y":-205,"width":250,"height":60,"type":"text","text":"Syntax"},
+		{"id":"aa6cce30457ac2c6","x":-351,"y":348,"width":250,"height":60,"type":"text","text":"Debugging Skills"},
+		{"id":"c6018d513cb90686","x":161,"y":-115,"width":250,"height":60,"type":"text","text":"Functions"},
 		{"id":"3f1727b3c2d6eae2","x":161,"y":64,"width":250,"height":60,"type":"text","text":"Select Project Based"},
-		{"id":"aaf61776863e740a","x":-351,"y":61,"width":250,"height":60,"type":"text","text":"Do project based learned program"}
+		{"id":"aaf61776863e740a","x":-351,"y":61,"width":250,"height":60,"color":"5","type":"text","text":"Do project based learned program"}
 	],
 	"edges":[
 		{"id":"92c7aa53f892547e","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"ca8ceabcb1646fc5","toSide":"left"},
 		{"id":"11e0f7af4122b5c5","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"aaf61776863e740a","toSide":"left"},
-		{"id":"747573905057ef17","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"3308b2c7db0fd501","toSide":"left"},
-		{"id":"359d9fe22c38b482","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"edf57e47b5347ab1","toSide":"left"},
-		{"id":"a36922dabda02b84","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"dc0db51900dbd78f","toSide":"left"},
-		{"id":"f4a25066e3653ff7","fromNode":"aaf61776863e740a","fromSide":"right","toNode":"3f1727b3c2d6eae2","toSide":"left"},
+		{"id":"747573905057ef17","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"3308b2c7db0fd501","toSide":"left","color":"2"},
+		{"id":"359d9fe22c38b482","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"edf57e47b5347ab1","toSide":"left","color":"2"},
+		{"id":"a36922dabda02b84","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"dc0db51900dbd78f","toSide":"left","color":"2"},
+		{"id":"f4a25066e3653ff7","fromNode":"aaf61776863e740a","fromSide":"right","toNode":"3f1727b3c2d6eae2","toSide":"left","color":"5"},
 		{"id":"e113bc31ea5d72de","fromNode":"3f1727b3c2d6eae2","fromSide":"right","toNode":"9d3656b67d0996e0","toSide":"left"},
 		{"id":"f3d8f283c2c109f0","fromNode":"3f1727b3c2d6eae2","fromSide":"right","toNode":"a6655cc6cf5db63a","toSide":"left"},
 		{"id":"454f9f0c394534c6","fromNode":"3f1727b3c2d6eae2","fromSide":"right","toNode":"bd1bc728e1da2f6f","toSide":"left"},
 		{"id":"ac53b6619afb4764","fromNode":"928c0c3773e2393d","fromSide":"right","toNode":"aa6cce30457ac2c6","toSide":"left"},
-		{"id":"386e3fd0cc21e23a","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"4c9ed2bbddbbb458","toSide":"left"},
-		{"id":"26ca0d50ad11ee96","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"c6018d513cb90686","toSide":"left"},
-		{"id":"14307b850a052e8e","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"0c803f8ef48c5d33","toSide":"left"}
+		{"id":"386e3fd0cc21e23a","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"4c9ed2bbddbbb458","toSide":"left","color":"2"},
+		{"id":"26ca0d50ad11ee96","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"c6018d513cb90686","toSide":"left","color":"2"},
+		{"id":"14307b850a052e8e","fromNode":"ca8ceabcb1646fc5","fromSide":"right","toNode":"0c803f8ef48c5d33","toSide":"left","color":"2"}
 	]
 }
