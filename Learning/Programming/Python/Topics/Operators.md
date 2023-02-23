@@ -67,3 +67,9 @@ A car as an example of an object, it has characteristics like color, model, vers
 ![[Pasted image 20230223180154.png]]
 
 
+#### Bitwise Operators:
+*It used to compare binary numbers*
+
+![[Pasted image 20230223180306.png]]
+
+
