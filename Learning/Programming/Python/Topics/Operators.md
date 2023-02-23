@@ -37,20 +37,24 @@ print(a//b)
 
 ![[Pasted image 20230223174411.png]]
 
+
 #### Assignment operators:
 *It used to assign values to variables*
 
 ![[Pasted image 20230223174714.png]]
+
 
 #### Comparison operators:
 *It used to compare two values*
 
 ![[Pasted image 20230223174810.png]]
 
+
 #### Logical operators:
 *It used to combine conditional statements*
 
 ![[Pasted image 20230223175533.png]]
+
 
 #### Identity operators:
 *It is used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location*
@@ -58,4 +62,8 @@ print(a//b)
 **Object: It is an entity having specific identity, specific characteristics and specific behaviors**
 
 ##### Example For Object:
-A car as an example of an object, it has characteristics like colour, model, version, registration number, etc. It has behaviours like start the engine, stop the engine, accelerate the car, apply the brakes, etc.
+A car as an example of an object, it has characteristics like color, model, version, registration number, etc. It has behavior's like start the engine, stop the engine, accelerate the car, apply the brakes, etc.
+
+![[Pasted image 20230223180154.png]]
+
+
