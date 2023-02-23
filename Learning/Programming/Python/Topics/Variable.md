@@ -69,3 +69,4 @@ current_salary
 
 * A constant is a special type of variable whose value cannot be changed
 * In Python, constants are usually declared and assigned in a [module](https://www.programiz.com/python-programming/modules)
+* 
