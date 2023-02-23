@@ -41,3 +41,9 @@ print(a//b)
 *It used to assign values to variables*
 
 ![[Pasted image 20230223174714.png]]
+
+#### Comparison operators:
+*It used to compare two values*
+
+![[Pasted image 20230223174810.png]]
+
