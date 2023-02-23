@@ -57,4 +57,5 @@ print(a//b)
 
 **Object: It is an entity having specific identity, specific characteristics and specific behaviors**
 
-###### 
+##### Example For Object:
+A car as an example of an object, it has characteristics like colour, model, version, registration number, etc. It has behaviours like start the engine, stop the engine, accelerate the car, apply the brakes, etc.
