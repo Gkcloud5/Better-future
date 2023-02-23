@@ -91,3 +91,7 @@ After that, we create the **main.py** file and import the `constant` module.
 #### Python Literals:
 
 **Literals are representations of fixed values in a program, they can be numbers, characters or strings, etc
+
+*Literals are often used to assign values to variables or constants*
+
+##### Numberic 
