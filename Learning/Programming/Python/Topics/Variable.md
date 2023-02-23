@@ -104,4 +104,8 @@ After that, we create the **main.py** file and import the `constant` module.
 * There are two Boolean literals: `true` and `false`
 		`pass = true`
 
-#### 
+##### Literal Collections:
+* List
+* Tuple
+* Dictionary
+* Set
