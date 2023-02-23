@@ -79,3 +79,7 @@ A car as an example of an object, it has characteristics like color, model, vers
 
 ![[Pasted image 20230223180553.png]]
 
+*If two operators have the same precedence, the expression is evaluated from left to right.*
+
+![[Pasted image 20230223180720.png]]
+

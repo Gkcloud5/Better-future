@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Index of Python.md",
+                "file": "Learning/Programming/Python/Topics/Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Index of Python.md",
+                "file": "Learning/Programming/Python/Topics/Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Index of Python.md"
+                "file": "Learning/Programming/Python/Topics/Operators.md"
               }
             }
           },
@@ -208,12 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94a48251ee023719",
+  "active": "e6137579181d46fc",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Topics/Operators.md",
     "Pasted image 20230223175531.png",
-    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Topics/Print Statement.md",
     "Learning/Programming/Python/Topics/Variable.md",
     "Learning/Programming/Python/Topics/Data Types.md",

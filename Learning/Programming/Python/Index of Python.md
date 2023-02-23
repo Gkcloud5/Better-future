@@ -3,7 +3,7 @@
 #### Topics:
 
 * [[Print Statement]]
-*  [[Data Types]]
+* [[Data Types]]
 * [[Variable]]
 * [[Input Statement]]
 * [[Operators]]
