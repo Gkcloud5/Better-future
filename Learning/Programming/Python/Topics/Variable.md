@@ -9,4 +9,6 @@
 **In programing, a variable is a container to hold a data
 
 			`number = 10`
+*Here number storing the value 10*
 
+#### 
