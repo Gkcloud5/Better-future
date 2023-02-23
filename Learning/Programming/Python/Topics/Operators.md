@@ -53,4 +53,6 @@ print(a//b)
 ![[Pasted image 20230223175533.png]]
 
 #### Identity operators:
-*It is used to compare the objects, not if they are equal*
+*It is used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location*
+
+**Objec**
