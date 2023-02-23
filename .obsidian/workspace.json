@@ -23,15 +23,11 @@
             "id": "4139104f6dd36cb1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": 225,
-                  "zoom": -1.1131021802598002,
-                  "snapToGrid": false
-                }
+                "file": "Learning/Programming/Python/Index of Python.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Learning/Programming/Python/Index of Python.md"
               }
             }
           },
@@ -182,6 +178,7 @@
   },
   "active": "4139104f6dd36cb1",
   "lastOpenFiles": [
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "README.md",
@@ -190,7 +187,6 @@
     "Learning/Programming/Python/Topics/Variable.md",
     "Learning/Programming/Python/Topics/Input Statement.md",
     "Input Statememt.md",
-    "Learning/Programming/Python/Topics/Print Statement.md",
-    "Learning/Programming/Program learning Steps/Programe learn.canvas"
+    "Learning/Programming/Python/Topics/Print Statement.md"
   ]
 }
