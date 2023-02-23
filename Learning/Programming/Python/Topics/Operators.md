@@ -18,3 +18,7 @@ print(a//b)
 ```
 
 ##### Operators are used to perform operations on variables and values
+
+**Example:** `print(15+5)`
+
+##Op
