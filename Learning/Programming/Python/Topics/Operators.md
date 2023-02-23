@@ -73,5 +73,9 @@ A car as an example of an object, it has characteristics like color, model, vers
 ![[Pasted image 20230223180306.png]]
 
 
-##  Operator Precedence:
-**Operator precendence describes the order in which operations are performed
+## Operator Precedence:
+
+**Operator precedence describes the order in which operations are performed
+
+![[Pasted image 20230223180553.png]]
+
