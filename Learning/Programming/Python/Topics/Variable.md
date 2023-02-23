@@ -97,4 +97,6 @@ After that, we create the **main.py** file and import the `constant` module.
 ##### Numeric literals:
 **Numeric Literals are immutable (unchangeable). Numeric literals can belong to 3 different numerical types: `Integer`, `Float`, and `Complex`.**
 
+![[Pasted image 20230223183527.png]]
+
 
