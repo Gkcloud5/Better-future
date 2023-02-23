@@ -101,4 +101,6 @@ After that, we create the **main.py** file and import the `constant` module.
 
 
 ##### Boolean Literals:
-* There are two boolean literals: `tru`
+* There are two Boolean literals: `true` and `false`
+		`pass = true`
+
