@@ -84,3 +84,6 @@ import constant
 print(constant.PI) # prints 3.14
 print(constant.GRAVITY) # prints 9.8
 ```
+
+In the above example, we created the **constant.py** module file. Then, we assigned the `constant` value to `PI` and `GRAVITY`.
+After that, we create the **main.py** file and import the `constant` module. Finally, we printed the constant value.
