@@ -109,3 +109,24 @@ After that, we create the **main.py** file and import the `constant` module.
 * Tuple
 * Dictionary
 * Set
+
+**Examples:**
+```
+# list literal
+fruits = ["apple", "mango", "orange"] 
+print(fruits)
+
+# tuple literal
+numbers = (1, 2, 3) 
+print(numbers)
+
+# dictionary literal
+alphabets = {'a':'apple', 'b':'ball', 'c':'cat'} 
+print(alphabets)
+
+# set literal
+vowels = {'a', 'e', 'i' , 'o', 'u'} 
+print(vowels)
+```
+
+![[Pasted image 20230223184152.png]]
