@@ -31,4 +31,7 @@ print(a//b)
 * Membership operators
 * Bitwise operators
 
+
 #### Arithmetic operators:
+
+*It used to per*
