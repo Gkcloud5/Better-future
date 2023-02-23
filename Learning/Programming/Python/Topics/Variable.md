@@ -94,4 +94,7 @@ After that, we create the **main.py** file and import the `constant` module.
 
 *Literals are often used to assign values to variables or constants*
 
-##### Numberic 
+##### Numeric literals:
+**Numeric Literals are immutable (unchangeable). Numeric literals can belong to 3 different numerical types: `Integer`, `Float`, and `Complex`.**
+
+
