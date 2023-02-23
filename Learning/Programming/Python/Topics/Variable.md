@@ -12,7 +12,7 @@
 *Here number storing the value 10*
 
 
-### Assigning values to variables:
+#### Assigning values to variables:
 
 ```
 # assign value to site_name variable
@@ -27,7 +27,7 @@ print(site_name)
 ![[Pasted image 20230223181543.png]]
 
 
-### Assigning multiple values to multiple variables:
+#### Assigning multiple values to multiple variables:
 
 ```
 a, b, c = 5, 3.2, 'Hello'
@@ -46,7 +46,7 @@ print(site2)  # prints programiz.com
 ```
 
 
-### Rules for Naming variables:
+#### Rules for Naming variables:
 
 * Variable names should have a combination of letters in lowercase (**a to z**) or uppercase (**A to Z**) or digits (**0 to 9**) or an underscore `(__)`
 ```
@@ -87,3 +87,5 @@ print(constant.GRAVITY) # prints 9.8
 
 In the above example, we created the **constant.py** module file. Then, we assigned the `constant` value to `PI` and `GRAVITY`.
 After that, we create the **main.py** file and import the `constant` module. Finally, we printed the constant value.
+
+#### Python Literals:
