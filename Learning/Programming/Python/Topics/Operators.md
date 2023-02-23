@@ -30,3 +30,5 @@ print(a//b)
 * Identity operators
 * Membership operators
 * Bitwise operators
+
+#### Arithmetic operators:
