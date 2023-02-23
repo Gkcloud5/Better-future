@@ -56,4 +56,10 @@ camelCase
 CapWords
 ```
 
-**
+* Create a name that makes sense. For example, `vowel` makes more sense than `v`.
+* If you want to create a variable name having two words, use underscore to separate them
+```
+my_name
+current_salary
+```
+
