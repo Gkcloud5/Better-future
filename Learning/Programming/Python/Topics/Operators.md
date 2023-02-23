@@ -33,5 +33,7 @@ print(a//b)
 
 
 #### Arithmetic operators:
+*It used with numerical values to perform common mathematical operations*
 
-*It used to per*
+![[Pasted image 20230223174411.png]]
+
