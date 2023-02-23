@@ -40,17 +40,31 @@
           {
             "id": "94a48251ee023719",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Input Statement.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e6137579181d46fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Topics/Variable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Input Statement.md",
+                "file": "Learning/Programming/Python/Topics/Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Input Statement.md",
+                "file": "Learning/Programming/Python/Topics/Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Input Statement.md"
+                "file": "Learning/Programming/Python/Topics/Variable.md"
               }
             }
           },
@@ -194,17 +208,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94a48251ee023719",
+  "active": "e6137579181d46fc",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Index of Python.md",
+    "Learning/Programming/Program learning Steps/Programe learn.canvas",
+    "Learning/Programming/Python/Topics/Data Types.md",
+    "Learning/Programming/Python/Topics/Input Statement.md",
     "README.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Topics/Operators.md",
-    "Learning/Programming/Python/Index of Python.md",
-    "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/To-do--PYTHON.md",
-    "Learning/Programming/Python/Topics/Data Types.md",
     "Learning/Programming/Python/Topics/Variable.md",
-    "Learning/Programming/Python/Topics/Input Statement.md",
     "Input Statememt.md"
   ]
 }
