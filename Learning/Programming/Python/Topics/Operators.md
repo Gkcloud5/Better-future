@@ -47,3 +47,4 @@ print(a//b)
 
 ![[Pasted image 20230223174810.png]]
 
+#### Logical
