@@ -50,5 +50,7 @@ print(a//b)
 #### Logical operators:
 *It used to combine conditional statements*
 
+![[Pasted image 20230223175533.png]]
 
-
+#### Identity operators:
+*It is used to compare the objects, not if they are equal*
