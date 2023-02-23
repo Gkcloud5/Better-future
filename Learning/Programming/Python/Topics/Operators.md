@@ -37,3 +37,5 @@ print(a//b)
 
 ![[Pasted image 20230223174411.png]]
 
+#### Assignment operators:
+*It used to assign values to variables*
