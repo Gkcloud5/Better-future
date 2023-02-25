@@ -80,19 +80,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "dc971c322a20a03b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,8 +226,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc971c322a20a03b",
+  "active": "abdeaa9ea697f23c",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Images/Pasted image 20230223185225.png",
+    "Learning/Programming/Python/Topics/Data Types.md",
+    "Learning/Programming/Python/Images/Pasted image 20230225233106.png",
     "Learning/Programming/Python/Topics/Variable.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
@@ -246,7 +239,6 @@
     "Learning/Programming/Python/Topics/Operators.md",
     "Learning/Programming/Python/Images/Pasted image 20230223175531.png",
     "Learning/Programming/Python/Topics/Print Statement.md",
-    "Learning/Programming/Python/Topics/Data Types.md",
     "Learning/Programming/Python/Topics/Input Statement.md"
   ]
 }
