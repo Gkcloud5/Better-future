@@ -18,8 +18,7 @@
                 "viewState": {
                   "x": -20,
                   "y": 225,
-                  "zoom": -1.2939326827080244,
-                  "snapToGrid": false
+                  "zoom": -1.2939326827080244
                 }
               },
               "pinned": true
@@ -48,8 +47,7 @@
                 "viewState": {
                   "x": 29.5,
                   "y": -84,
-                  "zoom": -0.1824192436928652,
-                  "snapToGrid": false
+                  "zoom": -0.1824192436928652
                 }
               },
               "pinned": true
@@ -72,17 +70,29 @@
           {
             "id": "abdeaa9ea697f23c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Learning/Programming/Python/Topics/Data Types.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dc971c322a20a03b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,7 +236,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abdeaa9ea697f23c",
+  "active": "dc971c322a20a03b",
   "lastOpenFiles": [
     "Learning/Programming/Python/Topics/Variable.md",
     "Learning/Programming/Python/Index of Python.md",
