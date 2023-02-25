@@ -114,3 +114,17 @@ print(type(student_id))
 ![[Pasted image 20230225234947.png]]
 
 
+#### Dictionary Data types:
+
+* Python dictionary is an ordered collection of items. It stores elements in key and value pairs
+* Here keys are unique identifiers that are associated with each value.
+
+```
+# create a dictionary named capital_city
+capital_city = {'Nepal': 'Kathmandu', 'Italy': 'Rome', 'England': 'London'}
+
+print(capital_city)
+```
+
+![[Pasted image 20230225235911.png]]
+
