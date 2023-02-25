@@ -41,4 +41,58 @@ languages = ["Swift", "Java", "Python"]
 
 ##### Access List items:
 
-We need to use index numbers to
+We need to use index numbers to access list data type values
+
+```
+languages = ["Swift", "Java", "Python"]
+
+# access element at index 0
+print(languages[0])   # Swift
+
+# access element at index 2
+print(languages[2])   # Python
+```
+
+
+#### Tuple data type:
+
+**Tuple is same as list but it's a immutable, tuples once created cannot be modified**
+
+*We use parentheses `()` to store items of tuple*
+
+```
+product = ('Xbox', 499.99)
+```
+
+* Here product is tuple with a string value and integer value
+
+##### Access Tuple items:
+
+We need to use index number to access tuple items in python.
+
+```
+# create a tuple 
+product = ('Microsoft', 'Xbox', 499.99)
+
+# access element at index 0
+print(product[0])   # Microsoft
+
+# access element at index 1
+print(product[1])   # Xbox
+```
+
+
+#### String data type:
+
+* String is a sequence of characters represented by a either single or double quotes.
+
+```
+name = 'Python'
+print(name)  
+
+message = 'Python for beginners'
+print(message)
+```
+
+![[Pasted image 20230225234229.png]]
+
