@@ -85,9 +85,14 @@
             "id": "a813895187ebebe8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230225234947.png"
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": 23.831446540880563,
+                  "zoom": -1.1131021802598002
+                }
               }
             }
           }
@@ -218,8 +223,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,7 +240,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "a813895187ebebe8",
   "lastOpenFiles": [
     "Learning/Programming/Python/Topics/Data Types.md",
     "Learning/Programming/Python/Images/Pasted image 20230225235911.png",
