@@ -80,9 +80,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a813895187ebebe8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Learning/Programming/Python/Images/Pasted image 20230225234947.png"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Data Types.md",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Data Types.md",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Data Types.md"
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
               }
             }
           },
@@ -226,13 +236,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abdeaa9ea697f23c",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "Pasted image 20230225235911.png",
-    "Pasted image 20230225234947.png",
+    "Learning/Programming/Python/Topics/Data Types.md",
+    "Learning/Programming/Python/Images/Pasted image 20230225235911.png",
+    "Learning/Programming/Python/Images/Pasted image 20230225234947.png",
     "Learning/Programming/Python/Images/Pasted image 20230225234229.png",
     "Learning/Programming/Python/Index of Python.md",
-    "Learning/Programming/Python/Topics/Data Types.md",
     "Learning/Programming/Python/Images/Pasted image 20230223185225.png",
     "Learning/Programming/Python/Images/Pasted image 20230225233106.png",
     "Learning/Programming/Python/Topics/Variable.md",
