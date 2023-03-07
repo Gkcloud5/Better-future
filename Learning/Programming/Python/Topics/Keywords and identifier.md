@@ -22,4 +22,8 @@ language = 'Python'
 ##### Important things while naming a identifiers:
 * Identifiers cannot be a keyword
 * identifiers are case-sensitive
-* it can have a sequence of letters and digits.
+* it can have a sequence of letters and digits.*the first letter of an identifier cannot be a digit*
+* we cannot use special symbols like *!, @, #, $*.
+
+![[Pasted image 20230307202120.png]]
+

@@ -8,4 +8,5 @@
 * [[Input Statement]]
 * [[Operators]]
 * [[Keywords and identifier]]
-* 
+* [[Comments]]
+* [[Type]]
