@@ -85,14 +85,11 @@
             "id": "a813895187ebebe8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": 23.831446540880563,
-                  "zoom": -1.1131021802598002
-                }
+                "file": "Learning/Programming/Python/Topics/Data Types.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -163,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Python/Topics/Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Python/Topics/Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Learning/Programming/Python/Topics/Data Types.md"
               }
             }
           },
@@ -242,20 +239,20 @@
   },
   "active": "a813895187ebebe8",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Topics/Print Statement.md",
+    "Learning/Programming/Python/Topics/Operators.md",
+    "Learning/Programming/Python/Topics/Input Statement.md",
+    "Learning/Programming/Python/Index of Python.md",
+    "Learning/Programming/Program learning Steps/Programe learn.canvas",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Topics/Data Types.md",
     "Learning/Programming/Python/Images/Pasted image 20230225235911.png",
     "Learning/Programming/Python/Images/Pasted image 20230225234947.png",
     "Learning/Programming/Python/Images/Pasted image 20230225234229.png",
-    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Images/Pasted image 20230223185225.png",
     "Learning/Programming/Python/Images/Pasted image 20230225233106.png",
     "Learning/Programming/Python/Topics/Variable.md",
-    "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/To-do--PYTHON.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Learning/Programming/Python/Topics/Operators.md",
-    "Learning/Programming/Python/Images/Pasted image 20230223175531.png",
-    "Learning/Programming/Python/Topics/Print Statement.md",
-    "Learning/Programming/Python/Topics/Input Statement.md"
+    "Learning/Programming/Python/Images/Pasted image 20230223175531.png"
   ]
 }
