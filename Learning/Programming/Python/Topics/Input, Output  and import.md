@@ -108,3 +108,9 @@ print('Data type of num:', type(num))
 
 ![[Pasted image 20230307224929.png]]
 
+
+### Python import:
+
+ We can use import function to call library in code
+
+`import math`

@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Input, Output  and import.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Input, Output  and import.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Input, Output  and import.md"
+                "file": "Learning/Programming/Python/Index of Python.md"
               }
             }
           },
@@ -237,11 +237,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41978801b73f31e3",
+  "active": "94a48251ee023719",
   "lastOpenFiles": [
-    "Pasted image 20230307224929.png",
-    "Learning/Programming/Python/Topics/Data Types.md",
     "Learning/Programming/Python/Topics/Input, Output  and import.md",
+    "Learning/Programming/Python/Images/Pasted image 20230307224929.png",
+    "Learning/Programming/Python/Topics/Data Types.md",
     "Learning/Programming/Python/Topics/Keywords and identifier.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Images/Pasted image 20230307223454.png",
@@ -261,7 +261,6 @@
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Images/Pasted image 20230225235911.png",
-    "Learning/Programming/Python/Images/Pasted image 20230225234947.png",
-    "Learning/Programming/Python/Images/Pasted image 20230225234229.png"
+    "Learning/Programming/Python/Images/Pasted image 20230225234947.png"
   ]
 }
