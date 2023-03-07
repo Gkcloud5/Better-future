@@ -7,7 +7,8 @@
 
 ```
 print('Python is powerful')
-
 # Output: Python is powerful
 ```
+
+##### Syntax of print();
 
