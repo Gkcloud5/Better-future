@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Keywords and identifier.md",
+                "file": "Learning/Programming/Python/Topics/Namespace and Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Keywords and identifier.md",
+                "file": "Learning/Programming/Python/Topics/Namespace and Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Keywords and identifier.md"
+                "file": "Learning/Programming/Python/Topics/Namespace and Scope.md"
               }
             }
           },
@@ -237,10 +238,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48f26fe80bef88b5",
+  "active": "8f3a0ce596a35a1b",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Topics/Namespace and Scope.md",
     "Learning/Programming/Python/Topics/Keywords and identifier.md",
+    "Learning/Programming/Python/Topics/Namespace and Scope.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
