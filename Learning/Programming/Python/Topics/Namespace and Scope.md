@@ -10,3 +10,12 @@
 
 ![[Pasted image 20230309233304.png]]
 
+
+Each module creates it's own **Global namespace**
+
+A **Local namespace** is created when a function is called.
+
+### Scope:
+ There are various unique namespaces defined, we may not able to access all of them from every part of the program. the concept of scope comes into play.
+
+ 
