@@ -18,4 +18,6 @@ A **Local namespace** is created when a function is called.
 ### Scope:
  There are various unique namespaces defined, we may not able to access all of them from every part of the program. the concept of scope comes into play.
 
- 
+ A scope is the portion of a program from where a namespace can be accessed directly without any prefix.
+
+ **3 Nested scope:
