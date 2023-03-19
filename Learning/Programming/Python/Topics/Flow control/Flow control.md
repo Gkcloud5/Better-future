@@ -1,3 +1,4 @@
 * [[If..Else]]
-* [[Loop]]
+* [[For Loop]]
+* [[While Loop]]
 * 

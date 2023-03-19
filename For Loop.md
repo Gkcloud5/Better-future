@@ -35,6 +35,33 @@ for language in languages:
 
 ![[Pasted image 20230319201346.png]]
 
-##### For loop with range:
+#### For loop with range:
 
 **range() is a python built-in function** 
+
+##### Example 2:
+
+```
+# use of range() to define a range of values
+values = range(4)
+
+# iterate from i = 0 to i = 3
+for i in values:
+    print(i)
+```
+
+![[Pasted image 20230319202746.png]]
+
+#### For loop with else:
+
+```
+digits = [0, 1, 5]
+
+for i in digits:
+    print(i)
+else:
+    print("No items left.")
+```
+
+![[Pasted image 20230319202856.png]]
+
