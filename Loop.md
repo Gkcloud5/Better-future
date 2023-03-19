@@ -35,3 +35,6 @@ for language in languages:
 
 ![[Pasted image 20230319201346.png]]
 
+##### For loop with range:
+
+**range() is a python built-in function** 
