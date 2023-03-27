@@ -75,3 +75,25 @@ print('Square:',square)
 # Output: Square: 9
 ```
 
+
+### Benefits of using function:
+
+1. Code reusable:
+   We can use same function multiple times in our program which makes our code reusable.
+
+```
+# function definition
+def get_square(num):
+    return num * num
+
+for i in [1,2,3]:
+    # function call
+    result = get_square(i)
+    print('Square of',i, '=',result)
+```
+
+![[Pasted image 20230327193141.png]]
+
+2. Code readability:
+    Function help us break our code into chunks to make our program readable and easy to understand.
+
