@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "While Loop.md",
+                "file": "Break and continue.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "While Loop.md",
+                "file": "Break and continue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "While Loop.md",
+                "file": "Break and continue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "While Loop.md"
+                "file": "Break and continue.md"
               }
             }
           },
@@ -237,10 +237,16 @@
   },
   "active": "199d3a6d90964852",
   "lastOpenFiles": [
-    "Pasted image 20230319203130.png",
-    "Pasted image 20230319203107.png",
+    "Pasted image 20230327184902.png",
+    "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
+    "Break and continue.md",
     "Learning/Programming/Python/Topics/Flow control/Flow control.md",
     "While Loop.md",
+    "Pasted image 20230327184606.png",
+    "Pasted image 20230327184520.png",
+    "Pasted image 20230327184212.png",
+    "Pasted image 20230319203130.png",
+    "Pasted image 20230319203107.png",
     "For Loop.md",
     "Pasted image 20230319202856.png",
     "Pasted image 20230319202746.png",
@@ -248,13 +254,8 @@
     "Pasted image 20230319201313.png",
     "Learning/Programming/Python/Topics/Flow control/If..Else.md",
     "Pasted image 20230319200639.png",
-    "Pasted image 20230319200453.png",
-    "Pasted image 20230319200142.png",
-    "Pasted image 20230319195954.png",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
-    "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
-    "Learning/Programming/Python/Images/Pasted image 20230309233304.png",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Topics/Introduction/Python intro.md",
     "Learning/Programming/Python/Topics/Introduction/Comments.md",
