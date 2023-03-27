@@ -20,3 +20,40 @@ def function_name(arguments):
     return
 ```
 
+![[Pasted image 20230327190944.png]]
+
+##### Example 1:
+```
+def greet():
+    print('Hello World!')
+```
+
+![[Pasted image 20230327191536.png]]
+
+
+#### Python function arguments:
+An argument is a value that is accepted by a function.
+
+##### Example 1:
+```
+# function with two arguments
+def add_numbers(num1, num2):
+    sum = num1 + num2
+    print('Sum: ',sum)
+
+# function with no argument
+def add_numbers():
+    # code
+```
+
+![[Pasted image 20230327191741.png]]
+
+##### Return statement in python:
+
+If we want our function to return some value to a function call, use the `return` statement.
+
+```
+def add_numbers():
+    ...
+    return sum
+```
