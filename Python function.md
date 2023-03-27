@@ -57,3 +57,21 @@ def add_numbers():
     ...
     return sum
 ```
+
+**The return statement also denotes that the function has ended. Any code after return is not executed**
+
+##### Example 1:
+```
+# function definition
+def find_square(num):
+    result = num * num
+    return result
+
+# function call
+square = find_square(3)
+
+print('Square:',square)
+
+# Output: Square: 9
+```
+
