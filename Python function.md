@@ -1,0 +1,22 @@
+#### Source: [function](https://www.programiz.com/python-programming/function)
+
+A function is a block of code that performs a specific task
+
+Dividing a complex problem into smaller chunks makes our program easy to understand and reuse
+
+
+### Types of function:
+2 Types of function:
+* **Standard library functions** -- These are built-in functions in python that are available to use.
+* **User-defined functions** -- We can create our own functions based on our requirements
+
+#### Function declaration:
+
+##### Syntax:
+```
+def function_name(arguments):
+    # function body 
+
+    return
+```
+

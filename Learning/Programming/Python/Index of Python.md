@@ -4,4 +4,5 @@
 
 1. [[Python intro]]
 2. [[Flow control]]
-3. 
+3. [[Python Functions]]
+4. 
