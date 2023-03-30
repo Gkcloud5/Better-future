@@ -79,12 +79,12 @@
             }
           },
           {
-            "id": "59f46721f253fe4d",
+            "id": "23b94577e4b4efb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lambda or Anonymous function.md",
+                "file": "Local and global variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lambda or Anonymous function.md",
+                "file": "Local and global variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lambda or Anonymous function.md",
+                "file": "Local and global variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lambda or Anonymous function.md"
+                "file": "Local and global variable.md"
               }
             }
           },
@@ -235,27 +235,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59f46721f253fe4d",
+  "active": "23b94577e4b4efb4",
   "lastOpenFiles": [
     "Learning/Programming/Python/Topics/Function/Python Functions.md",
-    "Lambda or Anonymous function.md",
-    "Recursion.md",
-    "Pasted image 20230330200658.png",
-    "Pasted image 20230329200206.png",
-    "Pasted image 20230329200052.png",
-    "Function Argument.md",
-    "Pasted image 20230329195755.png",
-    "Pasted image 20230329195702.png",
-    "Learning/Programming/Python/Topics/Function/Python function.md",
+    "Local and global variable.md",
+    "Learning/Programming/Python/Topics/Function/Lambda or Anonymous function.md",
     "().md",
+    "Learning/Programming/Python/Topics/Function/Recursion.md",
+    "Learning/Programming/Python/Topics/Function/Python function.md",
+    "Learning/Programming/Python/Topics/Function/Function Argument.md",
+    "Learning/Programming/Python/Images/Pasted image 20230329195702.png",
+    "Learning/Programming/Python/Images/Pasted image 20230330201709.png",
+    "Learning/Programming/Python/Images/Pasted image 20230330201659.png",
+    "Learning/Programming/Python/Images/Pasted image 20230330200658.png",
+    "Learning/Programming/Python/Images/Pasted image 20230329200206.png",
+    "Learning/Programming/Python/Images/Pasted image 20230329200052.png",
+    "Learning/Programming/Python/Images/Pasted image 20230329195755.png",
     "Learning/Programming/Python/Topics/Flow control/While Loop.md",
     "Learning/Programming/Python/Topics/Function",
     "Learning/Programming/Python/Topics/Flow control/Break and continue.md",
     "Learning/Programming/Python/Images/Pasted image 20230319195954.png",
     "Learning/Programming/Python/Images/Pasted image 20230327190944.png",
     "Learning/Programming/Python/Images/Pasted image 20230327193141.png",
-    "Learning/Programming/Python/Images/Pasted image 20230327191741.png",
-    "Learning/Programming/Python/Images/Pasted image 20230327191536.png",
     "Learning/Programming/Python/Topics/Flow control/Pass Statement.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Topics/Flow control/Flow control.md",
