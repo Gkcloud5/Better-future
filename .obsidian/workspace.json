@@ -17,8 +17,8 @@
                 "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
                   "x": -20,
-                  "y": 224.99999999999997,
-                  "zoom": -0.7939326827080244
+                  "y": -177.73627266494447,
+                  "zoom": -0.5874984233751366
                 }
               },
               "pinned": true
@@ -44,20 +44,6 @@
               "type": "markdown",
               "state": {
                 "file": "Learning/Programming/Python/Index of Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "48f26fe80bef88b5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
                 "mode": "source",
                 "source": false
               },
@@ -91,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -238,7 +223,11 @@
   "active": "23b94577e4b4efb4",
   "lastOpenFiles": [
     "Learning/Programming/Python/Topics/Function/Python Functions.md",
+    "Learning/Programming/Python/Index of Python.md",
+    "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
+    "Learning/Programming/Python/To-do--PYTHON.md",
     "Local and global variable.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Topics/Function/Lambda or Anonymous function.md",
     "().md",
     "Learning/Programming/Python/Topics/Function/Recursion.md",
@@ -258,25 +247,20 @@
     "Learning/Programming/Python/Images/Pasted image 20230327190944.png",
     "Learning/Programming/Python/Images/Pasted image 20230327193141.png",
     "Learning/Programming/Python/Topics/Flow control/Pass Statement.md",
-    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Topics/Flow control/Flow control.md",
-    "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
     "Learning/Programming/Python/Topics/Flow control/For Loop.md",
     "Learning/Programming/Python/Topics/Flow control/If..Else.md",
-    "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Topics/Introduction/Python intro.md",
     "Learning/Programming/Python/Topics/Introduction/Comments.md",
     "Learning/Programming/Python/Topics/Flow control",
     "Learning/Programming/Python/Topics/Introduction",
     "Learning/Programming/Python/Topics/Introduction/Namespace and Scope.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Programming/Python/Topics/Introduction/Data Types.md",
     "Learning/Programming/Python/Topics/Introduction/Type Conversion.md",
     "Learning/Programming/Python/Topics/Introduction/Operators.md",
     "Learning/Programming/Python/Topics/Introduction/Input Statement.md",
-    "Learning/Programming/Python/Topics/Introduction/Variable.md",
-    "Learning/Programming/Python/Topics/Introduction/Print Statement.md"
+    "Learning/Programming/Python/Topics/Introduction/Variable.md"
   ]
 }

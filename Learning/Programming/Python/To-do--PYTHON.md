@@ -10,11 +10,11 @@ kanban-plugin: basic
 
 ## Learning
 
-- [ ] need to learn flow control
 
 
 ## Completed
 
+- [ ] need to learn flow control
 - [ ] Need to cover python introduction
 
 

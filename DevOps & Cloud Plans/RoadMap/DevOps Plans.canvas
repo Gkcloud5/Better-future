@@ -30,7 +30,7 @@
 		{"type":"text","text":"##### Application","id":"6ccef542b4318982","x":131,"y":764,"width":250,"height":60},
 		{"type":"text","text":"##### Logs Management","id":"9f4dbd8c611b7f95","x":134,"y":863,"width":250,"height":60},
 		{"type":"text","text":"","id":"3f929d0d721fa9d0","x":135,"y":959,"width":250,"height":60},
-		{"type":"text","text":"# DevOps and Cloud Roadmap","id":"60df61f98fc29be7","x":-440,"y":-700,"width":940,"height":74}
+		{"type":"text","text":"# DevOps and Cloud Roadmap","id":"60df61f98fc29be7","x":-200,"y":-680,"width":480,"height":80}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
