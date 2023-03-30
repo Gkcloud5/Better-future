@@ -24,3 +24,5 @@ print("The factorial of", num, "is", factorial(num))
 
 ![[Pasted image 20230329200206.png]]
 
+![[Pasted image 20230330200658.png]]
+

@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion.md",
+                "file": "Lambda or Anonymous function.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion.md",
+                "file": "Lambda or Anonymous function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion.md",
+                "file": "Lambda or Anonymous function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion.md"
+                "file": "Lambda or Anonymous function.md"
               }
             }
           },
@@ -237,10 +237,12 @@
   },
   "active": "59f46721f253fe4d",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Topics/Function/Python Functions.md",
+    "Lambda or Anonymous function.md",
+    "Recursion.md",
+    "Pasted image 20230330200658.png",
     "Pasted image 20230329200206.png",
     "Pasted image 20230329200052.png",
-    "Learning/Programming/Python/Topics/Function/Python Functions.md",
-    "Recursion.md",
     "Function Argument.md",
     "Pasted image 20230329195755.png",
     "Pasted image 20230329195702.png",
@@ -258,8 +260,6 @@
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Topics/Flow control/Flow control.md",
     "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
-    "Learning/Programming/Python/Images/Pasted image 20230327190138.png",
-    "Learning/Programming/Python/Images/Pasted image 20230327190124.png",
     "Learning/Programming/Python/Topics/Flow control/For Loop.md",
     "Learning/Programming/Python/Topics/Flow control/If..Else.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
