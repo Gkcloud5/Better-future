@@ -10,4 +10,13 @@ def add(a, b):
    result = a + b
    return result
 ```
-* here we have defined a function `add` inside a module. the function takes in two numbers and return their su
+* here we have defined a function `add` inside a module. the function takes in two numbers and return their sum.
+
+#### Import modules in python:
+* We use `import` keyword to import one module to another file.
+
+`import example(file name)`
+
+* Import only imports the module name then we need to use function name to use function 
+
+`addition.add`
