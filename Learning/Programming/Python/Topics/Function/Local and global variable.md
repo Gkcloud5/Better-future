@@ -39,5 +39,10 @@ message = 'Hello'
 
 def greet():
    print ('local', message)
-   
+
+greet()
+print('Global', message)
 ```
+
+![[Pasted image 20230401143948.png]]
+
