@@ -15,4 +15,19 @@
 file1 = open("test.txt")
 ```
 
-##### To give option
+##### To give option:
+
+```
+file1 = open("test.txt", "r")
+```
+
+![[Pasted image 20230401151521.png]]
+
+
+#### Reading files in python:
+
+ we use `read()` method to read it's content.
+
+```
+file1 = open
+```
