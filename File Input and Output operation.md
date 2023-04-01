@@ -29,5 +29,16 @@ file1 = open("test.txt", "r")
  we use `read()` method to read it's content.
 
 ```
-file1 = open
+file1 = open("test.txt", "r")
+
+read_content = file1.read()
+print(read_content)
 ```
+
+![[Pasted image 20230401151839.png]]
+
+#### Closing files in python:
+
+ After performing operations on the file we need to properly close the file
+
+we need to use `close()` 
