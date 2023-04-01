@@ -4,4 +4,5 @@
 4. [[Lambda or Anonymous function]]
 5. [[Local and global variable]]
 6. [[Modules]]
-7. 
+7. [[Package]]
+8. 

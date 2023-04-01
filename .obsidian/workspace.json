@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Function/Modules.md",
+                "file": "Package.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Function/Modules.md",
+                "file": "Package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Function/Modules.md",
+                "file": "Package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Function/Modules.md"
+                "file": "Package.md"
               }
             }
           },
@@ -223,9 +223,11 @@
   },
   "active": "23b94577e4b4efb4",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Images/Pasted image 20230401143704.png",
-    "Learning/Programming/Python/Topics/Function/Modules.md",
+    "Pasted image 20230401150222.png",
     "Learning/Programming/Python/Topics/Function/Python Functions.md",
+    "Package.md",
+    "Learning/Programming/Python/Topics/Function/Modules.md",
+    "Learning/Programming/Python/Images/Pasted image 20230401143704.png",
     "Learning/Programming/Python/Topics/Function/Local and global variable.md",
     "Learning/Programming/Python/Images/Pasted image 20230401143948.png",
     "Learning/Programming/Python/Index of Python.md",
@@ -261,7 +263,6 @@
     "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Programming/Python/Topics/Introduction/Data Types.md",
     "Learning/Programming/Python/Topics/Introduction/Type Conversion.md",
-    "Learning/Programming/Python/Topics/Introduction/Operators.md",
-    "Learning/Programming/Python/Topics/Introduction/Input Statement.md"
+    "Learning/Programming/Python/Topics/Introduction/Operators.md"
   ]
 }
