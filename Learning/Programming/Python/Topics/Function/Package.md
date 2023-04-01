@@ -17,3 +17,12 @@
 
 `Game.Level.start.select_difficulty(2)`
 
+##### Another method:
+
+```
+from Game.Level import start
+
+start.select_difficulty(2)
+
+```
+
