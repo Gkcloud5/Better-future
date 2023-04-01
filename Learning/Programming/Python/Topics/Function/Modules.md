@@ -19,4 +19,25 @@ def add(a, b):
 
 * Import only imports the module name then we need to use function name to use function 
 
-`addition.add`
+`addition.add(4,5)`
+
+**we can import python standard module**
+
+
+#### import with rename
+`import math as m`
+
+#### import from particular function inside a module:
+```
+from math import pi
+
+print(pi)
+```
+
+#### import all names:
+
+```
+from math import *
+
+print("The value of pi is", pi)
+```
