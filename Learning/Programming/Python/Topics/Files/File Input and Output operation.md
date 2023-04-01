@@ -41,4 +41,15 @@ print(read_content)
 
  After performing operations on the file we need to properly close the file
 
-we need to use `close()` 
+we need to use `close()` to close a file.
+
+```
+file1 = open("test.txt", "r")
+
+read_content = file1.read()
+print(read_content)
+
+file1.close()
+```
+
+![[Pasted image 20230401152217.png]]
