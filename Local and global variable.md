@@ -28,3 +28,16 @@ greet()
 print(message)
 ```
 
+![[Pasted image 20230401143704.png]]
+
+#### Global variable:
+* When we declare a variable outside of a function or in global scope is know as a global variable. 
+* These means that a global variable can be accessed inside or outside of the function.
+
+```
+message = 'Hello'
+
+def greet():
+   print ('local', message)
+   
+```
