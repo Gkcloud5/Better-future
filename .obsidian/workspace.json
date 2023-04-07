@@ -17,7 +17,7 @@
                 "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
                   "x": -20,
-                  "y": 241.5000000000001,
+                  "y": 381.2454242216483,
                   "zoom": -0.5874984233751366
                 }
               },
@@ -218,6 +218,7 @@
   },
   "active": "e6137579181d46fc",
   "lastOpenFiles": [
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Python Directory.md",
     "Learning/Programming/Python/Topics/Files/File Input and Output operation.md",
     "Learning/Programming/Python/Topics/Files/Python Files.md",
@@ -237,7 +238,6 @@
     "Learning/Programming/Python/Topics/Function/Local and global variable.md",
     "Learning/Programming/Python/Images/Pasted image 20230401143948.png",
     "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Topics/Function/Lambda or Anonymous function.md",
     "().md",
     "Learning/Programming/Python/Topics/Function/Recursion.md",
@@ -259,7 +259,6 @@
     "Learning/Programming/Python/Topics/Introduction/Comments.md",
     "Learning/Programming/Python/Topics/Flow control",
     "Learning/Programming/Python/Topics/Introduction",
-    "Learning/Programming/Python/Topics/Introduction/Namespace and Scope.md",
-    "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md"
+    "Learning/Programming/Python/Topics/Introduction/Namespace and Scope.md"
   ]
 }
