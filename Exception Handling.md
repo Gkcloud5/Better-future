@@ -1,3 +1,3 @@
 #### Source: [Handle Exception](https://www.programiz.com/python-programming/exception-handling)
 
-**Exception abnormally terminate the ex
+**Exception abnormally terminate the execution of a program**
