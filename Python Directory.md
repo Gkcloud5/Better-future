@@ -27,3 +27,21 @@ print(os.getcwd())
 
 output: C:\Python33
 ```
+
+
+#### List directories and files in python:
+```
+listdir()
+```
+This method takes in a path and returns a list of subdirectories and files in that path
+
+```
+import os
+print(os.getcwd())
+C://Python33
+
+os.listdir()
+['dir1',
+
+]
+```
