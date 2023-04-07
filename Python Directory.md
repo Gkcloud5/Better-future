@@ -1,3 +1,16 @@
 #### Source: [Directory](https://www.programiz.com/python-programming/directory)
 
-A directory is a collection of files
+A directory is a collection of files and subdirectories. A directory inside a directory is known as a subdirectory.
+Python has the `os` module that provides us with many useful methods to work with directories.
+
+
+#### Get Current directory:
+We can get the present working directory using the `getcwd` method of the `os` module.
+
+##### Example:
+```
+import os
+print(os.getcwd)
+```
+
+#### Changing directory in python:
