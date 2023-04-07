@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Programming/Python/Index of Python.md"
+              }
             }
           },
           {
@@ -224,11 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d2594196166ae81",
+  "active": "94a48251ee023719",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Topics/Introduction/Data Types.md",
-    "Learning/Programming/Python/Topics/Introduction/Python intro.md",
     "Learning/Programming/Python/Topics/Files/Python Files.md",
+    "Learning/Programming/Python/Topics/Introduction/Python intro.md",
+    "Learning/Programming/Python/Topics/Introduction/Data Types.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Topics/Files/Exception Handling.md",
