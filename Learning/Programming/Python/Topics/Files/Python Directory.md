@@ -84,3 +84,23 @@ os.listdir()
 ['new_name']
 ```
 
+#### Removing a directory:
+```
+remove()
+or
+rmdir()
+```
+
+##### remove() --> to delete a file
+```
+import os
+
+os.remove("myfile.txt")
+```
+
+##### rmdir() --> to delete a directory
+```
+import os
+
+os.rmdir("m")
+```
