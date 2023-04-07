@@ -10,3 +10,4 @@ The above code causes an exception as it is not possible to divide a number by 0
 
 * Errors that occur at runtime are called exceptions or logical errors.
 
+Some erro
