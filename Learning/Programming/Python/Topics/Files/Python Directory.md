@@ -71,3 +71,15 @@ rename()
 It needs two arguments
 	First argument      --> old name
 	Second argument --> Second name
+
+```
+import os
+os.listdir()
+['test']
+
+#rename
+os.rename('test', 'new_name')
+
+os.listdir()
+['new_name']
+```
