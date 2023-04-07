@@ -42,6 +42,32 @@ C://Python33
 
 os.listdir()
 ['dir1',
+'dir2',
+'file.txt']
 
-]
+os.listdir('G:\\')
+['dir2',
+'dir3',
+'file1.txt']
 ```
+
+#### Making a new directory:
+```
+mkdir()
+```
+
+```
+os.mkdir('test')
+
+os.listdir()
+['test']
+```
+
+#### Renaming a directory:
+```
+rename()
+```
+
+It needs two arguments
+	First argument      --> old name
+	Second argument --> Second name
