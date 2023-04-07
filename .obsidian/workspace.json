@@ -65,12 +65,14 @@
             }
           },
           {
-            "id": "fd4789afdbb8ed45",
+            "id": "7e08f9b3b79f878f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230401152217.png"
+                "file": "Learning/Programming/Python/Topics/Files/File Input and Output operation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230401152217.png",
+                "file": "Learning/Programming/Python/Topics/Files/File Input and Output operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230401152217.png",
+                "file": "Learning/Programming/Python/Topics/Files/File Input and Output operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230401152217.png"
+                "file": "Learning/Programming/Python/Topics/Files/File Input and Output operation.md"
               }
             }
           },
@@ -219,14 +221,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd4789afdbb8ed45",
+  "active": "7e08f9b3b79f878f",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Topics/Files/Python Files.md",
+    "Learning/Programming/Python/Images/Pasted image 20230401152217.png",
     "Learning/Programming/Python/Images/Pasted image 20230401151521.png",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Topics/Files/File Input and Output operation.md",
-    "Learning/Programming/Python/Images/Pasted image 20230401152217.png",
     "Learning/Programming/Python/Images/Pasted image 20230401151839.png",
-    "Learning/Programming/Python/Topics/Files/Python Files.md",
     "Learning/Programming/Python/Index of Python.md",
     "File I/O operation.md",
     "File I",
