@@ -98,9 +98,17 @@ import os
 os.remove("myfile.txt")
 ```
 
-##### rmdir() --> to delete a directory
+##### rmdir() --> to delete a directory(empty)
 ```
 import os
 
-os.rmdir("m")
+os.rmdir("mydir")
 ```
+
+##### rmtree() --> remove non empty directory
+```
+import shutil
+
+shutil.rmtree("mydir")
+```
+
