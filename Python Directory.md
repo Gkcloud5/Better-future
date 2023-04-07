@@ -14,3 +14,16 @@ print(os.getcwd)
 ```
 
 #### Changing directory in python:
+```
+chdir()
+```
+The new path that we want to change into must be supplied as a string to this method. And we can use both the forward-slash or the backward-slash to separate the path elements
+
+```
+import os
+os.chdir('C:\\Python33')
+
+print(os.getcwd())
+
+output: C:\Python33
+```
