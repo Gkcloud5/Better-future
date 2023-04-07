@@ -23,3 +23,10 @@ Some errors:
 print(dir(locals()['__builtins__']))
 ```
 
+#### Error and exception:
+
+**Error** represent conditions such as compilation error, syntax and error in logical part of the code.
+
+**Exceptions** can be caught and handled by the program.
+
+
