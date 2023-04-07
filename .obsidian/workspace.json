@@ -68,12 +68,24 @@
             "id": "5a885999e1bf363c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Topics/Introduction/Python intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d2594196166ae81",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -213,20 +224,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a885999e1bf363c",
+  "active": "3d2594196166ae81",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Topics/Introduction/Data Types.md",
+    "Learning/Programming/Python/Topics/Introduction/Python intro.md",
     "Learning/Programming/Python/Topics/Files/Python Files.md",
-    "Exception Handling.md",
-    "Learning/Programming/Python/Topics/Files/Exception.md",
-    "Pasted image 20230407141451.png",
-    "Learning/Programming/Python/Topics/Files/Python Directory.md",
     "Learning/Programming/Python/Index of Python.md",
+    "Learning/Programming/Python/To-do--PYTHON.md",
+    "Learning/Programming/Python/Topics/Files/Exception Handling.md",
+    "Learning/Programming/Python/Topics/Files/Exception.md",
+    "Learning/Programming/Python/Images/Pasted image 20230407141451.png",
+    "Learning/Programming/Python/Topics/Files/Python Directory.md",
     "File I/O operation.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Topics/Files/File Input and Output operation.md",
     "Learning/Programming/Python/Images/Pasted image 20230401152217.png",
     "Learning/Programming/Python/Images/Pasted image 20230401151521.png",
-    "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Images/Pasted image 20230401151839.png",
     "File I",
     "Learning/Programming/Python/Images/Pasted image 20230401150222.png",
@@ -254,8 +267,6 @@
     "Learning/Programming/Python/Topics/Flow control/For Loop.md",
     "Learning/Programming/Python/Topics/Flow control/If..Else.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
-    "Learning/Programming/Python/Topics/Introduction/Python intro.md",
-    "Learning/Programming/Python/Topics/Introduction/Comments.md",
     "Learning/Programming/Python/Topics/Flow control",
     "Learning/Programming/Python/Topics/Introduction"
   ]
