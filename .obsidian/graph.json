@@ -5,8 +5,37 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Learning/Programming/Python/Topics/Files",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Learning/Programming/Python/Topics/Flow control\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Learning/Programming/Python/Topics/Introduction",
+      "color": {
+        "a": 1,
+        "rgb": 382643
+      }
+    },
+    {
+      "query": "path:Learning/Programming/Python/Topics/Function",
+      "color": {
+        "a": 1,
+        "rgb": 9366670
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
