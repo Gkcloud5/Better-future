@@ -51,27 +51,31 @@
             }
           },
           {
-            "id": "ae56aeb0fc02b989",
+            "id": "20ec3b3b04070e84",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230408210821.png"
+                "file": "Variable and types.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "11631cdf83b1a8b2",
+            "id": "e8c1dccbc8518729",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230408210455.png"
+                "file": "Learning/Programming/Python/Practice/Basic things/Print output.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230408210455.png",
+                "file": "Variable and types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230408210455.png",
+                "file": "Variable and types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230408210455.png"
+                "file": "Variable and types.md"
               }
             }
           },
@@ -215,13 +219,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11631cdf83b1a8b2",
+  "active": "20ec3b3b04070e84",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Images/Pasted image 20230408210821.png",
     "Learning/Programming/Python/Practice/Basic things/Print output.md",
+    "Variable and types.md",
+    "Learning/Programming/Python/Practice/Practice in IDE.md",
+    "Learning/Programming/Python/Images/Pasted image 20230408210821.png",
     "Learning/Programming/Python/Images/Pasted image 20230408210455.png",
     "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
-    "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Index of Python.md",

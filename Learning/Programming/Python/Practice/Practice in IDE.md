@@ -2,4 +2,5 @@
 
 1. [[Some Basics]]
 2. [[Print output]]
-3. 
+3. [[Variable and types]]
+4. 
