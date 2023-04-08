@@ -54,16 +54,24 @@
             "id": "ae56aeb0fc02b989",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Print output.md",
-                "mode": "source",
-                "source": false
+                "file": "Learning/Programming/Python/Images/Pasted image 20230408210821.png"
+              }
+            }
+          },
+          {
+            "id": "11631cdf83b1a8b2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Learning/Programming/Python/Images/Pasted image 20230408210455.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -129,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Print output.md",
+                "file": "Learning/Programming/Python/Images/Pasted image 20230408210455.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Print output.md",
+                "file": "Learning/Programming/Python/Images/Pasted image 20230408210455.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Print output.md"
+                "file": "Learning/Programming/Python/Images/Pasted image 20230408210455.png"
               }
             }
           },
@@ -206,11 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae56aeb0fc02b989",
+  "active": "11631cdf83b1a8b2",
   "lastOpenFiles": [
-    "Pasted image 20230408210455.png",
-    "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
+    "Learning/Programming/Python/Images/Pasted image 20230408210821.png",
     "Learning/Programming/Python/Practice/Basic things/Print output.md",
+    "Learning/Programming/Python/Images/Pasted image 20230408210455.png",
+    "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/To-do--PYTHON.md",
@@ -247,8 +257,6 @@
     "().md",
     "Learning/Programming/Python/Topics/Function/Recursion.md",
     "Learning/Programming/Python/Images/Pasted image 20230329195702.png",
-    "Learning/Programming/Python/Images/Pasted image 20230330201709.png",
-    "Learning/Programming/Python/Images/Pasted image 20230330201659.png",
     "Learning/Programming/Python/Topics/Function",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Topics/Flow control",
