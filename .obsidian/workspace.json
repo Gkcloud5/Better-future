@@ -40,12 +40,8 @@
             "id": "459114359f94d986",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Python/Practice/Practice in IDE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -95,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Practice in IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Practice in IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Programming/Python/Practice/Practice in IDE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,12 +184,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72cf1b3b9425c5cf",
+  "active": "459114359f94d986",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
+    "Learning/Programming/Python/Practice/Practice in IDE.md",
+    "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Topics/Files/Python Files.md",
-    "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Topics/Flow control/Pass Statement.md",
     "Learning/Programming/Python/Topics/Flow control/Flow control.md",
     "Learning/Programming/Python/Topics/Flow control/For Loop.md",
@@ -230,11 +223,9 @@
     "().md",
     "Learning/Programming/Python/Topics/Function/Recursion.md",
     "Learning/Programming/Python/Topics/Function/Python function.md",
-    "Learning/Programming/Python/Topics/Function/Function Argument.md",
     "Learning/Programming/Python/Images/Pasted image 20230329195702.png",
     "Learning/Programming/Python/Images/Pasted image 20230330201709.png",
     "Learning/Programming/Python/Images/Pasted image 20230330201659.png",
-    "Learning/Programming/Python/Topics/Flow control/While Loop.md",
     "Learning/Programming/Python/Topics/Function",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Topics/Flow control",
