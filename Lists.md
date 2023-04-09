@@ -4,7 +4,7 @@
 
 ```
 mylist = []
-mylist.append(1)
+mylist.append(1) #index starts with 0 value
 mylist.append(2)
 mylist.append(3)
 
@@ -13,4 +13,8 @@ print(mylist[2])
 
 for x in mylist:
     print(x)
+
+str=["gk", "hope"]
+print(str[1])
 ```
+
