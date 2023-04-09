@@ -51,6 +51,18 @@
             }
           },
           {
+            "id": "93c2e1d88522825c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20ec3b3b04070e84",
             "type": "leaf",
             "state": {
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variable and types.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variable and types.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variable and types.md"
+                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md"
               }
             }
           },
@@ -207,13 +219,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20ec3b3b04070e84",
+  "active": "93c2e1d88522825c",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Practice in IDE.md",
+    "Variable and types.md",
     "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Programming/Python/Practice/Basic things/Print output.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Variable and types.md",
-    "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Images/Pasted image 20230408210821.png",
     "Learning/Programming/Python/Images/Pasted image 20230408210455.png",
     "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
