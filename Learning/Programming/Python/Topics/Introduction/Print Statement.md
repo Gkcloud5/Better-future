@@ -1,3 +1,4 @@
+#Basics
 * Python is a interpreted language
 
 **About interpreted and compiler:**

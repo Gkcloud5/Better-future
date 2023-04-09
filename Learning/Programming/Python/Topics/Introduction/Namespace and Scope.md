@@ -1,4 +1,4 @@
-
+#Basics 
 #### Source: [Namespace and scope](https://www.programiz.com/python-programming/namespace)
 [Namespace-2](https://insideaiml.com/blog/Namespaces-and-Scope-in-Python-1142)
 

@@ -1,3 +1,4 @@
+#Basics 
 ### About INPUT:
 
 * Always return string

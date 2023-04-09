@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#Basics",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +32,6 @@
   "repelStrength": 9.0625,
   "linkStrength": 0.421875,
   "linkDistance": 285,
-  "scale": 0.8474148479724996,
+  "scale": 0.8474148479725,
   "close": false
 }
