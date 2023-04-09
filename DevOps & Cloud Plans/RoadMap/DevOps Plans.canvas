@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"text","text":"## DevOps & Cloud","id":"7cd31c0b2fa36a60","x":-818,"y":97,"width":250,"height":60},
+		{"type":"text","text":"## DevOps & Cloud","id":"7cd31c0b2fa36a60","x":-818,"y":97,"width":250,"height":60,"color":"1"},
 		{"type":"text","text":"#### Infrastructure Code","id":"2c9caa5b5d1bd1de","x":-252,"y":199,"width":250,"height":60},
 		{"type":"text","text":"#### DevOps","id":"4167007e8dc5c4e2","x":-252,"y":67,"width":250,"height":60},
 		{"type":"text","text":"#### OS","id":"396c8063b1823198","x":-252,"y":-526,"width":250,"height":60},
@@ -9,7 +9,6 @@
 		{"type":"text","text":"#### Database","id":"354f381348cae3fa","x":-252,"y":-108,"width":250,"height":60},
 		{"type":"text","text":"#### Monitoring","id":"a707e63825819e25","x":-252,"y":764,"width":250,"height":60},
 		{"type":"text","text":"##### Container Orchestration","id":"57fb384da60aa2cc","x":134,"y":97,"width":250,"height":60},
-		{"type":"text","text":"#### Cloud Design Patterns","id":"8d32dfb8c54c5dc6","x":-252,"y":1103,"width":250,"height":77},
 		{"type":"text","text":"#### Configuration Management","id":"f3e447c8c3d5e2a9","x":-252,"y":959,"width":250,"height":81},
 		{"type":"text","text":"#### CI/CD Tools","id":"50ea4f5c521eac19","x":-252,"y":328,"width":250,"height":60},
 		{"type":"text","text":"#### WebServer","id":"25dd7f6ce6288e85","x":-252,"y":456,"width":250,"height":60},
@@ -29,9 +28,9 @@
 		{"type":"text","text":"##### Infrastructure","id":"f166b74ff008af61","x":131,"y":674,"width":250,"height":60},
 		{"type":"text","text":"##### Application","id":"6ccef542b4318982","x":131,"y":764,"width":250,"height":60},
 		{"type":"text","text":"##### Logs Management","id":"9f4dbd8c611b7f95","x":134,"y":863,"width":250,"height":60},
-		{"type":"text","text":"# DevOps and Cloud Roadmap","id":"60df61f98fc29be7","x":-200,"y":-680,"width":480,"height":80},
-		{"id":"e690bf16ec5ccc40","x":-819,"y":247,"width":250,"height":60,"type":"text","text":"#### Virtualization"},
-		{"type":"text","text":"","id":"3f929d0d721fa9d0","x":134,"y":970,"width":250,"height":60}
+		{"type":"text","text":"","id":"3f929d0d721fa9d0","x":134,"y":970,"width":250,"height":60},
+		{"id":"e690bf16ec5ccc40","x":-1180,"y":97,"width":250,"height":60,"type":"text","text":"#### Virtualization"},
+		{"type":"text","text":"# DevOps and Cloud Roadmap","id":"60df61f98fc29be7","x":-693,"y":-680,"width":480,"height":80}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
@@ -62,7 +61,6 @@
 		{"id":"eeeaff07127a1d03","fromNode":"a707e63825819e25","fromSide":"right","toNode":"9f4dbd8c611b7f95","toSide":"left"},
 		{"id":"fd1bc057891f1f5c","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"f3e447c8c3d5e2a9","toSide":"left"},
 		{"id":"d010cff7a07340f9","fromNode":"f3e447c8c3d5e2a9","fromSide":"right","toNode":"3f929d0d721fa9d0","toSide":"left"},
-		{"id":"f41e0105b452eb34","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"8d32dfb8c54c5dc6","toSide":"left"},
-		{"id":"acc523b65919f0e5","fromNode":"7cd31c0b2fa36a60","fromSide":"bottom","toNode":"e690bf16ec5ccc40","toSide":"top"}
+		{"id":"acc523b65919f0e5","fromNode":"7cd31c0b2fa36a60","fromSide":"left","toNode":"e690bf16ec5ccc40","toSide":"right"}
 	]
 }

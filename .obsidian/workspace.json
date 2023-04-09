@@ -16,9 +16,9 @@
               "state": {
                 "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
-                  "x": -127,
-                  "y": 53.52186130069782,
-                  "zoom": -0.5
+                  "x": -201,
+                  "y": 50.54716981132077,
+                  "zoom": -1.1007449737398172
                 }
               },
               "pinned": true
@@ -68,13 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Print output.md",
+                "file": "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md"
               }
             }
           },
@@ -218,10 +219,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6137579181d46fc",
+  "active": "e8c1dccbc8518729",
   "lastOpenFiles": [
-    "Variable and types.md",
     "Learning/Programming/Python/Practice/Basic things/Print output.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "Variable and types.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Images/Pasted image 20230408210821.png",
     "Learning/Programming/Python/Images/Pasted image 20230408210455.png",
@@ -242,7 +244,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230407141451.png",
     "Learning/Programming/Python/Topics/Files/Python Directory.md",
     "File I/O operation.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Topics/Files/File Input and Output operation.md",
     "Learning/Programming/Python/Images/Pasted image 20230401152217.png",
     "Learning/Programming/Python/Images/Pasted image 20230401151521.png",
@@ -259,7 +260,6 @@
     "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
     "Learning/Programming/Python/Topics/Function/Lambda or Anonymous function.md",
     "().md",
-    "Learning/Programming/Python/Topics/Function/Recursion.md",
     "Learning/Programming/Python/Images/Pasted image 20230329195702.png",
     "Learning/Programming/Python/Topics/Function",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
