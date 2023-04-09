@@ -14,6 +14,22 @@ num=7
 print(num)
 
 #Declare a float value
-float_value=7.0
-float_value=
+float_value=8.0
+print(float_value)
+float_value=float(7)
+print(float_value)
+```
+
+##### Output:
+![[Pasted image 20230409191311.png]]
+
+#### Strings:
+* It defined either single quote or a double quote
+
+```
+my_str1='Gk'
+print(my_str1)
+
+my_str2="Gkloud"
+print(my_str2)
 ```
