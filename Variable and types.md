@@ -33,3 +33,23 @@ print(my_str1)
 my_str2="Gkloud"
 print(my_str2)
 ```
+
+If you use double quote then you can add single quote inside a content easily
+
+```
+mystring = "Don't worry about apostrophes"
+print(mystring)
+```
+
+##### Operators executed in string and numbers:
+
+```
+first=1
+second=2
+third=first+second
+print(third)
+```
+
+```
+Str1=
+```
