@@ -12,7 +12,7 @@
 	* Example `python3 test.py`
 * `/.filename.py`
 	* Add `#!/usr/bin/pyhton3` line in script
-	* chmod +x filename.py
+	* `chmod +x filename.py`
 	* `./SCRIPTNAME.py` to run the executable script.
 
  

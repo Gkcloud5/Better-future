@@ -6,3 +6,14 @@
 
 
 #### Numbers:
+* Python supports two type of numbers
+	* Integer
+	* Floating
+```
+num=7
+print(num)
+
+#Declare a float value
+float_value=7.0
+float_value=
+```
