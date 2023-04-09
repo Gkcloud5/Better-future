@@ -51,5 +51,19 @@ print(third)
 ```
 
 ```
-Str1=
+str1='GK'
+str2='Hope'
+str3=str1+str2
+print(str3)
 ```
+
+![[Pasted image 20230409192057.png]]
+
+##### Assigning one or more variable at same time
+
+```
+a, b = 3, 4
+print(a, b)
+```
+
+**Mixing operators between numbers and strings is not supported**
