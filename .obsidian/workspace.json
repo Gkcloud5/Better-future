@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lists.md",
+                "file": "Learning/Programming/Python/Practice/Practice in IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lists.md",
+                "file": "Learning/Programming/Python/Practice/Practice in IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lists.md"
+                "file": "Learning/Programming/Python/Practice/Practice in IDE.md"
               }
             }
           },
@@ -207,10 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bce0ea0c895f884",
+  "active": "459114359f94d986",
   "lastOpenFiles": [
-    "Variable and types.md",
     "Lists.md",
+    "Pasted image 20230409193054.png",
+    "Variable and types.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Pasted image 20230409192122.png",
     "Pasted image 20230409192057.png",
@@ -242,14 +243,12 @@
     "Learning/Programming/Python/Images/Pasted image 20230401151521.png",
     "Learning/Programming/Python/Images/Pasted image 20230401151839.png",
     "File I",
-    "Learning/Programming/Python/Images/Pasted image 20230401150222.png",
     "Learning/Programming/Python/Topics/Files",
     "Learning/Programming/Python/Topics/Function/Python Functions.md",
     "Learning/Programming/Python/Topics/Function/Package.md",
     "Learning/Programming/Python/Topics/Function/Modules.md",
     "Learning/Programming/Python/Topics/Function/Local and global variable.md",
     "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
-    "Learning/Programming/Python/Topics/Function/Lambda or Anonymous function.md",
     "Learning/Programming/Python/Topics/Function",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Topics/Flow control",

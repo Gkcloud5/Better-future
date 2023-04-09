@@ -18,3 +18,6 @@ str=["gk", "hope"]
 print(str[1])
 ```
 
+##### output:
+![[Pasted image 20230409193054.png]]
+
