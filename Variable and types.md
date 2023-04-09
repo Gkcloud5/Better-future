@@ -67,3 +67,14 @@ print(a, b)
 ```
 
 **Mixing operators between numbers and strings is not supported**
+
+```
+# This will not work!
+one = 1
+two = 2
+hello = "hello"
+
+print(one + two + hello)
+```
+
+![[Pasted image 20230409192122.png]]
