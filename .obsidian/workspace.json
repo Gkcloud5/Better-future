@@ -51,31 +51,39 @@
             }
           },
           {
-            "id": "ad6cda84d3ef7e93",
+            "id": "ed123cdb24889477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String format.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8bce0ea0c895f884",
+            "id": "58ba6e5d0cb0b6cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lists.md",
+                "file": "Learning/Programming/Python/Topics/Introduction/Python intro.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad6cda84d3ef7e93",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -125,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -142,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "String format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "String format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "String format.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,19 +224,21 @@
   },
   "active": "ad6cda84d3ef7e93",
   "lastOpenFiles": [
-    "Pasted image 20230409200227.png",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
-    "String format.md",
-    "Lists.md",
-    "Basic Operators.md",
-    "Variable and types.md",
-    "Pasted image 20230409194348.png",
-    "Pasted image 20230409194208.png",
-    "Pasted image 20230409193948.png",
-    "Pasted image 20230409193054.png",
-    "Pasted image 20230409192122.png",
-    "Pasted image 20230409192057.png",
-    "Pasted image 20230409191311.png",
+    "Learning/Programming/Python/Index of Python.md",
+    "Learning/Programming/Python/Topics/Introduction/Python intro.md",
+    "Learning/Programming/Python/Practice/Basic things/String format.md",
+    "Learning/Programming/Python/Practice/Basic things/Lists.md",
+    "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
+    "Learning/Programming/Python/Images/Pasted image 20230409191311.png",
+    "Learning/Programming/Python/Images/Pasted image 20230409200227.png",
+    "Learning/Programming/Python/Practice/Basic things/Variable and types.md",
+    "Learning/Programming/Python/Images/Pasted image 20230409194348.png",
+    "Learning/Programming/Python/Images/Pasted image 20230409194208.png",
+    "Learning/Programming/Python/Images/Pasted image 20230409193948.png",
+    "Learning/Programming/Python/Images/Pasted image 20230409193054.png",
+    "Learning/Programming/Python/Images/Pasted image 20230409192122.png",
+    "Learning/Programming/Python/Images/Pasted image 20230409192057.png",
     "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
     "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Programming/Python/Practice/Basic things/Print output.md",
@@ -242,18 +247,15 @@
     "Learning/Programming/Python/Images/Pasted image 20230408210455.png",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/To-do--PYTHON.md",
-    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Topics/Files/Python Files.md",
     "Learning/Programming/Python/Topics/Flow control/Pass Statement.md",
     "Learning/Programming/Python/Topics/Flow control/Flow control.md",
     "Learning/Programming/Python/Topics/Flow control/For Loop.md",
     "Learning/Programming/Python/Topics/Flow control/If..Else.md",
     "Learning/Programming/Python/Practice",
-    "Learning/Programming/Python/Topics/Introduction/Python intro.md",
     "Learning/Programming/Python/Topics/Introduction/Data Types.md",
     "Learning/Programming/Python/Topics/Files/Exception Handling.md",
     "Learning/Programming/Python/Topics/Files/Exception.md",
-    "Learning/Programming/Python/Images/Pasted image 20230407141451.png",
     "Learning/Programming/Python/Topics/Files/Python Directory.md",
     "File I/O operation.md",
     "Learning/Programming/Python/Topics/Files/File Input and Output operation.md",

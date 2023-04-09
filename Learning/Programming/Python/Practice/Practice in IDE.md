@@ -1,4 +1,4 @@
-#Practice_intro
+#index
 
 1. [[Some Basics]]
 2. [[Print output]]
