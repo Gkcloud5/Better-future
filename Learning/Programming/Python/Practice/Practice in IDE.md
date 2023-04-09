@@ -4,4 +4,5 @@
 2. [[Print output]]
 3. [[Variable and types]]
 4. [[Lists]]
-5. [[]]
+5. [[Basic Operators]]
+6. 
