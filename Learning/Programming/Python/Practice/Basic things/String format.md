@@ -16,5 +16,8 @@ print("Hello, %s!" % name)
 ##### Use string and number:
 
 ```
-str1=
+str1="GK"
+num1=26
+print("%s is %d year old" % (str1, num1))
 ```
+
