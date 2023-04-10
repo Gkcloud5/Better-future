@@ -24,3 +24,13 @@ print(len(str1))
 str1="Gk is a Hope guy"
 print(str1.index(o))
 ```
+
+![[Pasted image 20230411000109.png]]
+* This only takes first instance
+
+##### Count in string:
+
+```
+str1="Gk is a Hope guy and Gk is working hard for better future"
+print(str1.count("e"))
+```
