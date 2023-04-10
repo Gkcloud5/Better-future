@@ -23,4 +23,6 @@ print("%s is %d year old" % (str1, num1))
 
 #### Some basic argument specifiers:
 
-%s --
+%s -- String (Or any object with string representation)
+%d -- Integers
+%f  -- Floating point numbers
