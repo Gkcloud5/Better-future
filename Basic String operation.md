@@ -47,3 +47,17 @@ print(str1[3:9])
 str1="welcome to my page"
 print(str1[::-1])
 ```
+
+##### Check string starts and end with particular line:
+```
+str1="it's me gokul"
+print(str1.startswith("Hello"))
+print(str1.endswith("thanks"))
+```
+
+##### Split a string:
+```
+str1="Gk hope guy"
+str2=str1.split(" ")
+print(str2)
+```
