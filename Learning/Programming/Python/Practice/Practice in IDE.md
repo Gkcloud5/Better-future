@@ -6,4 +6,5 @@
 4. [[Lists]]
 5. [[Basic Operators]]
 6. [[String format]]
-7. 
+7. [[Basic String operation]]
+8. 
