@@ -61,3 +61,6 @@ str1="Gk hope guy"
 str2=str1.split(" ")
 print(str2)
 ```
+
+![[Pasted image 20230411001346.png]]
+
