@@ -61,14 +61,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "58ba6e5d0cb0b6cf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -217,9 +209,9 @@
   },
   "active": "2f347cb960cde319",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Basic things/String format.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
-    "Learning/Programming/Python/Practice/Basic things/String format.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
     "Learning/Programming/Python/Practice/Basic things/Lists.md",
     "Learning/Programming/Python/Practice/Basic things/Variable and types.md",

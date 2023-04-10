@@ -16,5 +16,5 @@ print("Hello, %s!" % name)
 ##### Use string and number:
 
 ```
-
+str1=
 ```
