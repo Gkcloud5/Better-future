@@ -21,3 +21,6 @@ num1=26
 print("%s is %d year old" % (str1, num1))
 ```
 
+#### Some basic argument specifiers:
+
+%s --
