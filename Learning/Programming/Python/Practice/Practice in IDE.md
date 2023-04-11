@@ -7,4 +7,5 @@
 5. [[Basic Operators]]
 6. [[String format]]
 7. [[Basic String operation]]
-8. 
+8. [[Conditions]]
+9. 
