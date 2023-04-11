@@ -14,6 +14,18 @@ block_head:
 ##### Example:
 
 ```
-def my_function()
+def my_function():
     print("Gk is hope")
+
+my_function()
+```
+
+
+##### Passing arguments in function:
+```
+def func(name,age):
+    print("my name is %s" %(name))
+    print("My age is %d" %(age))
+
+func(gokul,26)
 ```
