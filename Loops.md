@@ -69,3 +69,6 @@ else:
     print("this is not printed because for loop is terminated because of break but not due to fail in condition")
 
 ```
+
+![[Pasted image 20230411230023.png]]
+

@@ -9,4 +9,5 @@
 7. [[Basic String operation]]
 8. [[Conditions]]
 9. [[Loops]]
-10. 
+10. [[Functions]]
+11. 
