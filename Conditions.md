@@ -57,3 +57,18 @@ else:
 ![[Pasted image 20230411202030.png]]
 
 ##### is operator:
+* It is not same as ``==`` operators, it print true only match address same like should be same object
+
+```
+num1 = 5
+num2 =5
+
+list1 = [1,2,3]
+list2 = [1,2,3]
+
+print(id(num1))
+print(id(num2))
+
+print(id(list1))
+print(id(list2))
+```
