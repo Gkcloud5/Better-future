@@ -53,3 +53,7 @@ elif str2 is True:
 else:
 	pass
 ```
+
+![[Pasted image 20230411202030.png]]
+
+##### is operator:
