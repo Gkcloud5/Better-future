@@ -10,4 +10,5 @@
 8. [[Conditions]]
 9. [[Loops]]
 10. [[Functions]]
-11. 
+11. [[Class and objects]]
+12. 

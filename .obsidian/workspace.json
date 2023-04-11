@@ -51,15 +51,11 @@
             }
           },
           {
-            "id": "f3cf3e440b35cf2b",
+            "id": "93ade3af2a0223bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -130,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Functions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,24 +199,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3cf3e440b35cf2b",
+  "active": "93ade3af2a0223bc",
   "lastOpenFiles": [
-    "Pasted image 20230411231003.png",
+    "Class and objects.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
-    "Functions.md",
-    "Loops.md",
-    "Pasted image 20230411230023.png",
-    "Pasted image 20230411225545.png",
+    "Learning/Programming/Python/Practice/Basic things/Functions.md",
+    "Learning/Programming/Python/Images/Pasted image 20230411203640.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411232132.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411231003.png",
+    "Learning/Programming/Python/Practice/Basic things/Loops.md",
+    "Learning/Programming/Python/Images/Pasted image 20230411230023.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411225545.png",
     "Learning/Programming/Python/Practice/Basic things/Conditions.md",
     "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
-    "Pasted image 20230411203640.png",
     "Learning/Programming/Python/Images/Pasted image 20230410235216.png",
     "Learning/Programming/Python/Images/Pasted image 20230411203509.png",
     "Learning/Programming/Python/Images/Pasted image 20230411202030.png",
     "Learning/Programming/Python/Images/Pasted image 20230411201016.png",
     "Learning/Programming/Python/Images/Pasted image 20230411200651.png",
-    "Learning/Programming/Python/Images/Pasted image 20230411200134.png",
-    "Learning/Programming/Python/Images/Pasted image 20230411001346.png",
     "Learning/Programming/Python/Practice/Basic things/String format.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",

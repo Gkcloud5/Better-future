@@ -59,3 +59,6 @@ def name_the_benefits_of_functions():
 
 name_the_benefits_of_functions()
 ```
+
+![[Pasted image 20230411232132.png]]
+
