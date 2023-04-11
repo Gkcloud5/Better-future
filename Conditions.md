@@ -21,5 +21,19 @@ print(num1 == 1)
 name = "GK"
 Age = 26
 if name == "GK" and age = 26:
-    print("My name is")
+    print("My name is gokul and i am 26 year old")
+
+if name == "GK" or name == "Hope"
+    print(My name is GK)
+```
+
+![[Pasted image 20230411200651.png]]
+
+##### "in" operator:
+* `in` operator could be used to check if a specified object exists within an iterable object container.
+
+```
+name = "Gk"
+if name in ["Gk", "Hope"]
+    print()
 ```
