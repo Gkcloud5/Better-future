@@ -29,3 +29,16 @@ def func(name,age):
 
 func(gokul,26)
 ```
+
+![[Pasted image 20230411231003.png]]
+
+##### return:
+
+```
+def add_num(a,b):
+    return a + b
+
+x = add_num(10,12)
+print(x)
+```
+
