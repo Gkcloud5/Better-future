@@ -35,5 +35,8 @@ if name == "GK" or name == "Hope"
 ```
 name = "Gk"
 if name in ["Gk", "Hope"]
-    print()
+    print("Your name is GK or Hope")
 ```
+
+![[Pasted image 20230411201016.png]]
+
