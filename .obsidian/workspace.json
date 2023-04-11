@@ -51,12 +51,24 @@
             }
           },
           {
+            "id": "6bf52762006409f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b86d7c6acba3fab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditions.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Conditions.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditions.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditions.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditions.md"
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic String operation.md"
               }
             }
           },
@@ -207,20 +219,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b86d7c6acba3fab5",
+  "active": "6bf52762006409f1",
   "lastOpenFiles": [
-    "Pasted image 20230411202030.png",
-    "Pasted image 20230411201016.png",
-    "Pasted image 20230411200651.png",
-    "Pasted image 20230411200134.png",
-    "Basic String operation.md",
-    "Conditions.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
-    "Pasted image 20230411001346.png",
-    "Pasted image 20230411000603.png",
-    "Pasted image 20230411000407.png",
-    "Pasted image 20230411000109.png",
-    "Pasted image 20230410235216.png",
+    "Learning/Programming/Python/Practice/Basic things/Conditions.md",
+    "Pasted image 20230411203640.png",
+    "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
+    "Learning/Programming/Python/Images/Pasted image 20230410235216.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411203509.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411202030.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411201016.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411200651.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411200134.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411001346.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411000603.png",
+    "Learning/Programming/Python/Images/Pasted image 20230411000407.png",
     "Learning/Programming/Python/Practice/Basic things/String format.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
@@ -239,8 +252,6 @@
     "Learning/Programming/Python/Topics/Introduction/Variable.md",
     "Learning/Programming/Python/Topics/Introduction/Data Types.md",
     "Learning/Programming/Python/Topics/Introduction/Print Statement.md",
-    "Learning/Programming/Python/Images/Pasted image 20230409191311.png",
-    "Learning/Programming/Python/Images/Pasted image 20230409200227.png",
     "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Practice/Basic things",

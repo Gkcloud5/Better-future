@@ -72,3 +72,15 @@ print(id(num2))
 print(id(list1))
 print(id(list2))
 ```
+
+![[Pasted image 20230411203509.png]]
+
+##### not operator:
+* It used to revert a boolean expression
+```
+print (not False)
+```
+
+![[Pasted image 20230411203640.png]]
+
+
