@@ -44,3 +44,28 @@ for x in range(10):
        continue
     print(x)
 ```
+
+![[Pasted image 20230411225545.png]]
+
+#### Else in for loop:
+
+* While statement failed then else part executed
+* If a break statement executed inside a loop the Else part is skipped.
+* Else part is executed even if there is a continue statement.
+
+```
+count = 0
+while(count<5):
+     print(count)
+     count+=1
+else:
+    print("last count value is %d" % (count))
+
+for i in range(1, 10):
+    if(i%5==0):
+        break
+    print(i)
+else:
+    print("this is not printed because for loop is terminated because of break but not due to fail in condition")
+
+```
