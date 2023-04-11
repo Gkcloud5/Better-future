@@ -40,3 +40,16 @@ if name in ["Gk", "Hope"]
 
 ![[Pasted image 20230411201016.png]]
 
+##### If...else...if condition:
+
+```
+str1 = False
+str2 = True
+
+if str1 is True:
+    print($str1)
+elif str2 is True:
+    print("str2 value")
+else:
+	pass
+```
