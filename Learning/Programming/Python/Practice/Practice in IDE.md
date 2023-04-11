@@ -8,4 +8,5 @@
 6. [[String format]]
 7. [[Basic String operation]]
 8. [[Conditions]]
-9. 
+9. [[Loops]]
+10. 
