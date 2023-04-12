@@ -23,3 +23,16 @@ print(Gokul.name)
 
 ![[Pasted image 20230412211230.png]]
 
+##### Example2:
+```
+class ex1:
+    str1="Gk"
+
+    def function(self):
+        print("This is class")
+
+myobj =  ex1()
+
+print (myobj.str1)
+print (myobj.function)
+```

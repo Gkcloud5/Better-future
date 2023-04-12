@@ -51,6 +51,18 @@
             }
           },
           {
+            "id": "3e9f22f59f69f77d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Practice/Basic things/Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b9090313490da651",
             "type": "leaf",
             "state": {
@@ -63,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,14 +221,14 @@
   },
   "active": "b9090313490da651",
   "lastOpenFiles": [
-    "Pasted image 20230412211230.png",
+    "Learning/Programming/Python/Practice/Basic things/Functions.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
+    "Learning/Programming/Python/Practice/Basic things/Class and objects.md",
+    "Pasted image 20230412211230.png",
     "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Topics/Flow control/For Loop.md",
     "Learning/Programming/Python/Topics/Flow control/While Loop.md",
-    "Learning/Programming/Python/Practice/Basic things/Class and objects.md",
-    "Learning/Programming/Python/Practice/Basic things/Functions.md",
     "Learning/Programming/Python/Images/Pasted image 20230411203640.png",
     "Learning/Programming/Python/Images/Pasted image 20230411232132.png",
     "Learning/Programming/Python/Images/Pasted image 20230411231003.png",
@@ -229,7 +241,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230411203509.png",
     "Learning/Programming/Python/Images/Pasted image 20230411202030.png",
     "Learning/Programming/Python/Images/Pasted image 20230411201016.png",
-    "Learning/Programming/Python/Images/Pasted image 20230411200651.png",
     "Learning/Programming/Python/Practice/Basic things/String format.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
