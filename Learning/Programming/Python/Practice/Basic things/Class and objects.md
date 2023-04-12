@@ -4,3 +4,5 @@
 
 **Objects are an encapsulation of variable and function into single entity. Objects get their variables and functions from classes.**
 
+**Class have related function and data**
+
