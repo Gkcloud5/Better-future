@@ -59,24 +59,12 @@
             }
           },
           {
-            "id": "3e6d4fab1d20e65d",
+            "id": "4e3d1b434b17d64d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Flow control/While Loop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7dc8354c4cea2da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Python/Topics/Flow control/For Loop.md",
+                "file": "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -225,8 +212,9 @@
   },
   "active": "8e7a54ad5ca497a9",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Topics/Flow control/While Loop.md",
+    "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Programming/Python/Topics/Flow control/For Loop.md",
+    "Learning/Programming/Python/Topics/Flow control/While Loop.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Class and objects.md",
     "Learning/Programming/Python/Practice/Basic things/Functions.md",
@@ -252,7 +240,6 @@
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Topics/Introduction/Python intro.md",
     "Learning/Programming/Python/Topics/Introduction/Namespace and Scope.md",
-    "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Programming/Python/Topics/Introduction/Type Conversion.md",
     "Learning/Programming/Python/Topics/Introduction/Comments.md",
     "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",

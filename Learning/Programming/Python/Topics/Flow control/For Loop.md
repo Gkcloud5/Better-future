@@ -66,5 +66,3 @@ else:
 
 ![[Pasted image 20230319202856.png]]
 
-
-### IDE: [[Loops]]
