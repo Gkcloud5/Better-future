@@ -32,5 +32,15 @@ for name, age in Gk1.items():
 #### Dictionaries add and remove:
 
 ```
+###add a object
 
+stud = {
+   "Gk" : 12
+   "Hope": 16
+}
+
+stud["hardwork"] = 1
+
+del stud["Hope"]
+print(stud)
 ```
