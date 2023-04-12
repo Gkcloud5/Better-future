@@ -6,3 +6,12 @@
 
 **Class have related function and data**
 
+```
+class GK:
+    def __init__(self, name, age, work):
+        self.name = name
+        self.age = age
+        self.work = work
+        
+        
+```
