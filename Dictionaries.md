@@ -18,7 +18,7 @@ print(Gk)
 #### Iterating over dictionaries:
 
 ```
-Gk1 = {"name": "Gokul", "age": 26}
+Gk1 = {"Gk": 26, "Hope": 28}
 for name, age in Gk1.items():
     print("My name %s and my age is %s" %(name, age))
 
@@ -26,3 +26,11 @@ for name, age in Gk1.items():
 
 **Number(age) also string here
 
+![[Pasted image 20230412220611.png]]
+
+
+#### Dictionaries add and remove:
+
+```
+
+```
