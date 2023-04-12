@@ -11,4 +11,5 @@
 9. [[Loops]]
 10. [[Functions]]
 11. [[Class and objects]]
-12. 
+12. [[Dictionaries]]
+13. 
