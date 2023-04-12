@@ -54,12 +54,8 @@
             "id": "c54b8e923a0907c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modules and packages.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -113,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -130,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modules and packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modules and packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Modules and packages.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,17 +200,18 @@
   },
   "active": "c54b8e923a0907c9",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Basic things/Modules and packages.md",
+    "Learning/Programming/Python/Practice/Advanced",
+    "Learning/Programming/Python/Images/Pasted image 20230412221520.png",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
-    "Modules and packages.md",
-    "Dictionaries.md",
-    "Pasted image 20230412221520.png",
-    "Pasted image 20230412220611.png",
-    "Pasted image 20230412215712.png",
+    "Learning/Programming/Python/Practice/Basic things/Dictionaries.md",
+    "Learning/Programming/Python/Images/Pasted image 20230412220611.png",
+    "Learning/Programming/Python/Images/Pasted image 20230412215712.png",
     "Learning/Programming/Python/Practice/Basic things/Class and objects.md",
-    "Pasted image 20230412213713.png",
-    "Pasted image 20230412213048.png",
+    "Learning/Programming/Python/Images/Pasted image 20230412213713.png",
+    "Learning/Programming/Python/Images/Pasted image 20230412213048.png",
     "Learning/Programming/Python/Practice/Basic things/Functions.md",
-    "Pasted image 20230412211230.png",
+    "Learning/Programming/Python/Images/Pasted image 20230412211230.png",
     "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Topics/Flow control/For Loop.md",
@@ -245,7 +237,6 @@
     "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
     "Learning/Programming/Python/Topics/Introduction/Operators.md",
     "Learning/Programming/Python/Topics/Introduction/Input Statement.md",
-    "Learning/Programming/Python/Topics/Introduction/Variable.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/Practice",
