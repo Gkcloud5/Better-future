@@ -34,5 +34,8 @@ class ex1:
 myobj =  ex1()
 
 print (myobj.str1)
-print (myobj.function)
+myobj.function
 ```
+
+![[Pasted image 20230412213048.png]]
+
