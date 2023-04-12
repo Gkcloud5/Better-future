@@ -12,6 +12,9 @@ class GK:
         self.name = name
         self.age = age
         self.work = work
-        
-        
+
+Gokul =  GK
+
 ```
+
+**Object is a data that we gave and get from class
