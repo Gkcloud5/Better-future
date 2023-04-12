@@ -13,8 +13,13 @@ class GK:
         self.age = age
         self.work = work
 
-Gokul =  GK
+Gokul =  GK("Gokul", 26, "Sysadmin")
+
+print(Gokul.name)
 
 ```
 
 **Object is a data that we gave and get from class
+
+![[Pasted image 20230412211230.png]]
+
