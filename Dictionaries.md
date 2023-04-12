@@ -44,3 +44,6 @@ stud["hardwork"] = 1
 del stud["Hope"]
 print(stud)
 ```
+
+![[Pasted image 20230412221520.png]]
+
