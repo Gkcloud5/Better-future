@@ -18,8 +18,11 @@ print(Gk)
 #### Iterating over dictionaries:
 
 ```
-Gk = {"name": "Gokul", "age": 26}
-for name, age in Gk.items():
-    print("My name %s and my age is %d" %(name, age))
+Gk1 = {"name": "Gokul", "age": 26}
+for name, age in Gk1.items():
+    print("My name %s and my age is %s" %(name, age))
 
 ```
+
+**Number(age) also string here
+
