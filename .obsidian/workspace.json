@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Variable and types.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Generators.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Variable and types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Variable and types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Variable and types.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,12 +210,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f347cb960cde319",
+  "active": "58ba6e5d0cb0b6cf",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Advanced/Generators.md",
+    "Learning/Programming/Python/Practice/Basic things/Variable and types.md",
+    "Learning/Programming/Python/Practice/Advanced",
     "Learning/Programming/Python/Practice/Basic things/String format.md",
     "Learning/Programming/Python/Practice/Basic things/Print output.md",
     "Learning/Programming/Python/Practice/Basic things/Lists.md",
-    "Generators.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Images/Pasted image 20230412213713.png",
     "Learning/Programming/Python/Images/Pasted image 20230412213048.png",
@@ -234,7 +232,6 @@
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
-    "Learning/Programming/Python/Practice/Basic things/Variable and types.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Topics/Introduction/Python intro.md",
     "Learning/Programming/Python/Topics/Introduction/Namespace and Scope.md",
