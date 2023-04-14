@@ -6,3 +6,5 @@
 
 **Generators are simple functions which return an iterable set of items, one at a time, in a special way.
 
+##### iterable:
+ 

@@ -61,17 +61,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "58ba6e5d0cb0b6cf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Programming/Python/Practice/Advanced/Generators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Programming/Python/Practice/Advanced/Generators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Programming/Python/Practice/Advanced/Generators.md"
+              }
             }
           },
           {
@@ -210,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58ba6e5d0cb0b6cf",
+  "active": "2f347cb960cde319",
   "lastOpenFiles": [
     "Learning/Programming/Python/Practice/Advanced/Generators.md",
     "Learning/Programming/Python/Practice/Basic things/Variable and types.md",
