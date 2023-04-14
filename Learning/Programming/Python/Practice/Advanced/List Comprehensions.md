@@ -1,6 +1,9 @@
 #Advanced #list 
 
-#### Source: [list](https://www.learnpython.org/en/List_Comprehensions)
+#### Source:
+[list](https://www.learnpython.org/en/List_Comprehensions)
+[Youtube](https://www.youtube.com/watch?v=j2D7jGIf-bM)
+
 
 **List comprehensions is a very powerful tool, which created a new list on another list, in a single, readable line.**
 
@@ -18,6 +21,12 @@ print(list_square)
 
 ```
 ##With list comprehensions
-list_square_new = [sqaure_new ** 2 for square_new in list_new]
+list_square_new = [square_new ** 2 for square_new in list_new]
+print(list_square_new )
+
+list_square_new = [square_new ** 2 for square_new in list_new if square_new == 2]
 print(list_square_new )
 ```
+
+![[Pasted image 20230414224629.png]]
+

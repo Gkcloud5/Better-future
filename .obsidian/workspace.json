@@ -51,23 +51,15 @@
             }
           },
           {
-            "id": "b609d6adcdf6c2bd",
+            "id": "ac88cb7f6ce21569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List Comprehensions.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Lambda functions.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b9811abadbc057a9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -137,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List Comprehensions.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Lambda functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List Comprehensions.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Lambda functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List Comprehensions.md"
+                "file": "Learning/Programming/Python/Practice/Advanced/Lambda functions.md"
               }
             }
           },
@@ -214,11 +206,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b609d6adcdf6c2bd",
+  "active": "ac88cb7f6ce21569",
   "lastOpenFiles": [
-    "List Comprehensions.md",
-    "Learning/Programming/Python/Practice/Advanced/Generators.md",
+    "Learning/Programming/Python/Practice/Advanced/Lambda functions.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
+    "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
+    "Learning/Programming/Python/Images/Pasted image 20230414224629.png",
+    "Learning/Programming/Python/Practice/Advanced/Generators.md",
     "Learning/Programming/Python/Practice/Basic things/Variable and types.md",
     "Learning/Programming/Python/Practice/Advanced",
     "Learning/Programming/Python/Practice/Basic things/String format.md",
@@ -234,7 +228,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230411225545.png",
     "Learning/Programming/Python/Images/Pasted image 20230411203640.png",
     "Learning/Programming/Python/Images/Pasted image 20230411203509.png",
-    "Learning/Programming/Python/Images/Pasted image 20230411202030.png",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
     "Learning/Programming/Python/Index of Python.md",
@@ -255,7 +248,6 @@
     "Learning/Programming/Python/Topics/Files/Python Files.md",
     "Learning/Programming/Python/Topics/Flow control/Pass Statement.md",
     "Learning/Programming/Python/Topics/Flow control/Flow control.md",
-    "Learning/Programming/Python/Topics/Flow control/For Loop.md",
     "Learning/Programming/Python/Practice",
     "File I",
     "Learning/Programming/Python/Topics/Files",
