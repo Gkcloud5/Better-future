@@ -7,4 +7,13 @@
 **Generators are simple functions which return an iterable set of items, one at a time, in a special way.
 
 ##### iterable:
+ To access a object and print it
+```
+a  = "apple" 
+for i in a:
+  print(i)
+```
+
+##### iterator:
+ It help to move next next object in list or string while applying condition.
  
