@@ -15,5 +15,9 @@ lambda arguments : expression
 x = lambda x : x * 10
 print(x(5))
 
-x = lambda x,y
+x = lambda x,y: x * 10 + y
+print(x(7,2))
 ```
+
+![[Pasted image 20230414225537.png]]
+
