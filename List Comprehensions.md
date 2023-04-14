@@ -8,5 +8,16 @@
 
 ```
 ##Without using list comprehensions
+list_new = [1,2,3,4,5]
+list_square=[]
+for i in list_new:
+    square = i ** 2
+    list_square.append(square)
+print(list_square)
+```
 
+```
+##With list comprehensions
+list_square_new = [sqaure_new ** 2 for square_new in list_new]
+print(list_square_new )
 ```
