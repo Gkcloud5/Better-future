@@ -21,3 +21,15 @@ print(x(7,2))
 
 ![[Pasted image 20230414225537.png]]
 
+##### Example 1:
+
+```
+l = [2,4,7,3,14,19]
+for i in l:
+    # your code here
+    my_lambda = lambda x : (x % 2) == 1
+    print(my_lambda(i))
+```
+
+![[Pasted image 20230414230138.png]]
+
