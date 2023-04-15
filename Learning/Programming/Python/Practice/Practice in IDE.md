@@ -20,4 +20,5 @@
 3. [[Lambda functions]]
 4. [[Multiple function argument]]
 5. [[Regular expression]]
-6. 
+6. [[Exception handle - A]]
+7. 

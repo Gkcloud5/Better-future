@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regular expression.md",
+                "file": "Exception handle - A.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regular expression.md",
+                "file": "Exception handle - A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regular expression.md",
+                "file": "Exception handle - A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regular expression.md"
+                "file": "Exception handle - A.md"
               }
             }
           },
@@ -208,10 +208,11 @@
   },
   "active": "5480edd322ed9ec1",
   "lastOpenFiles": [
-    "Pasted image 20230415124538.png",
-    "Learning/Programming/Python/Practice/Advanced/Multiple function argument.md",
-    "Regular expression.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
+    "Exception handle - A.md",
+    "Learning/Programming/Python/Practice/Advanced/Regular expression.md",
+    "Learning/Programming/Python/Images/Pasted image 20230415124538.png",
+    "Learning/Programming/Python/Practice/Advanced/Multiple function argument.md",
     "Learning/Programming/Python/Images/Pasted image 20230415122750.png",
     "Learning/Programming/Python/Practice/Advanced/Lambda functions.md",
     "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
@@ -230,7 +231,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230412211230.png",
     "Learning/Programming/Python/Images/Pasted image 20230411232132.png",
     "Learning/Programming/Python/Images/Pasted image 20230411231003.png",
-    "Learning/Programming/Python/Images/Pasted image 20230411230023.png",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
     "Learning/Programming/Python/Index of Python.md",
