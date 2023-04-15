@@ -14,5 +14,10 @@ import re
 ##### Example1:
 ```
 import re
-str = "Gk is h"
+str = "Gk is hope guy"
+result = re.compile("is")
+ans = result.search(str)
+print(ans)
 ```
+![[Pasted image 20230415124538.png]]
+
