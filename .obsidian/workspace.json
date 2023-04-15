@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exception handle - A.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 205.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exception handle - A.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exception handle - A.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exception handle - A.md"
+                "file": "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md"
               }
             }
           },
@@ -208,10 +208,10 @@
   },
   "active": "5480edd322ed9ec1",
   "lastOpenFiles": [
-    "Pasted image 20230415172228.png",
-    "Pasted image 20230415171934.png",
+    "Learning/Programming/Python/Images/Pasted image 20230415172228.png",
+    "Learning/Programming/Python/Images/Pasted image 20230415171934.png",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
-    "Exception handle - A.md",
+    "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md",
     "Learning/Programming/Python/Practice/Advanced/Regular expression.md",
     "Learning/Programming/Python/Images/Pasted image 20230415124538.png",
     "Learning/Programming/Python/Practice/Advanced/Multiple function argument.md",
