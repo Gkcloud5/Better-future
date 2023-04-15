@@ -19,4 +19,5 @@
 2. [[List Comprehensions]]
 3. [[Lambda functions]]
 4. [[Multiple function argument]]
-5. 
+5. [[Regular expression]]
+6. 
