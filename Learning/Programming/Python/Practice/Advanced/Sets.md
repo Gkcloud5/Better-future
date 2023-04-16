@@ -2,9 +2,13 @@
 
 #### Source:
 [Sets](https://www.learnpython.org/en/Sets)
-[Youtube]()
+[Youtube](https://www.youtube.com/watch?v=TYPiYLlKIPk)
 
 **Sets are lists with no duplicate entries. let's say you want to collect a list of words used in a paragraph**
+
+Set is immutable object
+
+Set does not have index
 
 ```
 print(set("My name is GK and i am a hope guy, my friend name is ragu".split()))
@@ -50,3 +54,7 @@ print(a.union(b))
 ```
 ![[Pasted image 20230416130556.png]]
 
+##### add a value in set:
+```
+a.add()
+```
