@@ -56,5 +56,17 @@ print(a.union(b))
 
 ##### add a value in set:
 ```
-a.add()
+a.add(5)
 ```
+
+
+##### remove a element in set:
+```
+a.remove(5)
+
+a.pop() //remove first element in set
+
+a.clear() //all value will be removed
+```
+
+##### 
