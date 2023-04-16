@@ -21,3 +21,32 @@ b = set(["patience", "dedication", "GK"])
 print(a.intersection(b))
 print(b.intersection(a))
 ```
+![[Pasted image 20230416130207.png]]
+
+**Same name in two lists
+
+##### symmetric difference:
+```
+print(a.symmetric_difference(b))
+print(b.symmetric_difference(a))
+```
+
+![[Pasted image 20230416130347.png]]
+
+
+##### difference:
+
+```
+print(a.difference(b))
+print(b.difference(a))
+```
+
+![[Pasted image 20230416130451.png]]
+
+
+##### union:
+```
+print(a.union(b))
+```
+![[Pasted image 20230416130556.png]]
+
