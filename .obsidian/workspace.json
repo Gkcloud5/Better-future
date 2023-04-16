@@ -51,12 +51,12 @@
             }
           },
           {
-            "id": "16b88f9f107470ce",
+            "id": "4649bbfd0814a544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Advanced/Serialization.md",
+                "file": "Partial function.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Advanced/Serialization.md",
+                "file": "Partial function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Advanced/Serialization.md",
+                "file": "Partial function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Advanced/Serialization.md"
+                "file": "Partial function.md"
               }
             }
           },
@@ -206,10 +206,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16b88f9f107470ce",
+  "active": "4649bbfd0814a544",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Practice/Advanced/Serialization.md",
+    "Partial function.md",
+    "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Practice/Advanced/Sets.md",
     "Learning/Programming/Python/Images/Pasted image 20230416130556.png",
     "Learning/Programming/Python/Images/Pasted image 20230416130451.png",
@@ -245,7 +246,6 @@
     "Learning/Programming/Python/Topics/Introduction/Operators.md",
     "Learning/Programming/Python/Topics/Introduction/Input Statement.md",
     "Learning/Programming/Python/Topics/Introduction/Variable.md",
-    "Learning/Programming/Python/Topics/Introduction/Data Types.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/Practice",

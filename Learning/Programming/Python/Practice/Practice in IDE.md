@@ -23,4 +23,5 @@
 6. [[Exception handle - A]]
 7. [[Sets]]
 8. [[Serialization]]
-9. 
+9. [[Partial function]]
+10. 
