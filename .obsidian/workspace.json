@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets.md"
+                "file": "Learning/Programming/Python/Practice/Advanced/Sets.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   },
   "active": "a96d5b966af19782",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Images/Pasted image 20230416125841.png",
     "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md",
-    "Sets.md",
+    "Learning/Programming/Python/Practice/Advanced/Sets.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Images/Pasted image 20230415172228.png",
     "Learning/Programming/Python/Images/Pasted image 20230415171934.png",
@@ -245,7 +246,6 @@
     "Learning/Programming/Python/Topics/Introduction/Input Statement.md",
     "Learning/Programming/Python/Topics/Introduction/Variable.md",
     "Learning/Programming/Python/Topics/Introduction/Data Types.md",
-    "Learning/Programming/Python/Topics/Introduction/Print Statement.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/Practice",
