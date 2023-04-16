@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partial function.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Partial function.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partial function.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Partial function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partial function.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Partial function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Partial function.md"
+                "file": "Learning/Programming/Python/Practice/Advanced/Partial function.md"
               }
             }
           },
@@ -206,10 +206,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4649bbfd0814a544",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
     "Learning/Programming/Python/Practice/Advanced/Serialization.md",
-    "Partial function.md",
+    "Learning/Programming/Python/Practice/Advanced/Partial function.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Practice/Advanced/Sets.md",
     "Learning/Programming/Python/Images/Pasted image 20230416130556.png",
