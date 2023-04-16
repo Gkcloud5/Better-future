@@ -6,3 +6,16 @@
 
 **Partial function is a copy of normal function but we restrict arguments here**
 
+```
+##normal function
+from operator import mul
+print(mul(3,4))
+print(mul(4,4))
+```
+
+![[Pasted image 20230416172644.png]]
+
+```
+##partial function
+from function
+```
