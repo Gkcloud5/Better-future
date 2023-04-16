@@ -17,5 +17,11 @@ print(mul(4,4))
 
 ```
 ##partial function
-from function
+from functools import partial
+mul1 = partial(mul,4)
+print(mul1)
+print(mul1(2))
 ```
+
+![[Pasted image 20230416172922.png]]
+
