@@ -24,4 +24,5 @@
 7. [[Sets]]
 8. [[Serialization]]
 9. [[Partial function]]
-10. 
+10. [[Closures]]
+11. 
