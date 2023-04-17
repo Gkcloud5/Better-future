@@ -21,3 +21,8 @@ print(list(result))
 ![[Pasted image 20230417221644.png]]
 
 
+##### Example1:
+```
+#Convert string to int
+
+```
