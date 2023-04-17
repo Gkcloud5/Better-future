@@ -7,6 +7,9 @@
 ##### Nested function:
  Nested function is a function defined inside another function. it's very important to note that the nested functions can access the variables of the enclosing scope.
 
+##### Non-local variable:
+  Outer function variable only read only when we execute it in local function.
+
 ```
 def transmit_to_space(message):
     "This is the enclosing function"
@@ -33,3 +36,13 @@ fun2()
 ```
 
 ![[Pasted image 20230417175656.png]]
+
+
+##### Example 3:
+```
+def outer_function(msg)
+    data = msg
+    def inner_function():
+        print(data)
+    
+```
