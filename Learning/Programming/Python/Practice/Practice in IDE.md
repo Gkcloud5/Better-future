@@ -27,4 +27,5 @@
 10. [[Closures]]
 11. [[Decorators]]
 12. [[Map]]  
-13. 
+13. [[Filter]]
+14. 
