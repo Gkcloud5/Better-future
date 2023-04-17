@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filter.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Filter.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filter.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filter.md",
+                "file": "Learning/Programming/Python/Practice/Advanced/Filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filter.md"
+                "file": "Learning/Programming/Python/Practice/Advanced/Filter.md"
               }
             }
           },
@@ -209,9 +209,9 @@
   "active": "89a3a5d01d42b9b0",
   "lastOpenFiles": [
     "Learning/Programming/Python/Practice/Advanced/Map.md",
-    "Filter.md",
+    "Learning/Programming/Python/Practice/Advanced/Filter.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
-    "Pasted image 20230417222809.png",
+    "Learning/Programming/Python/Images/Pasted image 20230417222809.png",
     "Learning/Programming/Python/Images/Pasted image 20230417221644.png",
     "Map, filter and reduce.md",
     "Learning/Programming/Python/Practice/Advanced/Decorators.md",
