@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md",
+                "file": "Closures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md",
+                "file": "Closures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md"
+                "file": "Closures.md"
               }
             }
           },
@@ -219,8 +219,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d00a2c6d73a0837",
+  "active": "83bfd3d801b3ec12",
   "lastOpenFiles": [
+    "Pasted image 20230417181344.png",
+    "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Closures.md",
     "Pasted image 20230417180618.png",
@@ -237,7 +239,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230416130347.png",
     "Learning/Programming/Python/Images/Pasted image 20230416130207.png",
     "Learning/Programming/Python/Images/Pasted image 20230416125841.png",
-    "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md",
     "Learning/Programming/Python/Practice/Advanced/Multiple function argument.md",
     "Learning/Programming/Python/Practice/Advanced/Lambda functions.md",
     "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",

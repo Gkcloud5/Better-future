@@ -61,7 +61,12 @@ def outer_function(msg):
 
 func = outer_function("Gk")
 del outer_function
-func()
-outer_function()
+func() //func stored a value after outer function deleted
+try:
+   outer_function()
+except:
+   print("Outer function is deleted")
 
 ```
+![[Pasted image 20230417181344.png]]
+
