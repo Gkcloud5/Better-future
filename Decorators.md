@@ -6,3 +6,15 @@
 
 #### What is decorator:
   Change behavior's of function without modifying function. 
+
+```
+def this_is_dec(func):
+    def youtube():
+        print("Entering into dec")
+        func()
+        print("One function called")
+    return youtube
+
+def test():
+    print("Test function")
+```
