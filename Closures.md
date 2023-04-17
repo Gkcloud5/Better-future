@@ -51,3 +51,17 @@ outer_function("Gk")
 
 ![[Pasted image 20230417180618.png]]
 
+##### Example 4:
+```
+def outer_function(msg):
+    data = msg
+    def inner_function():
+        print(data)
+    return inner_function
+
+func = outer_function("Gk")
+del outer_function
+func()
+outer_function()
+
+```
