@@ -51,12 +51,12 @@
             }
           },
           {
-            "id": "87457903c578b06f",
+            "id": "56bb24e8f9306da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decorators.md",
+                "file": "Map, filter and reduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decorators.md",
+                "file": "Map, filter and reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decorators.md",
+                "file": "Map, filter and reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decorators.md"
+                "file": "Map, filter and reduce.md"
               }
             }
           },
@@ -207,10 +207,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87457903c578b06f",
+  "active": "56bb24e8f9306da0",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Decorators.md",
+    "Map, filter and reduce.md",
+    "Learning/Programming/Python/Practice/Practice in IDE.md",
+    "Pasted image 20230417202613.png",
     "Closures.md",
     "Learning/Programming/Python/Practice/Advanced/Exception handle - A.md",
     "Pasted image 20230417181344.png",
@@ -226,7 +228,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230416130556.png",
     "Learning/Programming/Python/Images/Pasted image 20230416130451.png",
     "Learning/Programming/Python/Images/Pasted image 20230416130347.png",
-    "Learning/Programming/Python/Images/Pasted image 20230416130207.png",
     "Learning/Programming/Python/Practice/Advanced/Multiple function argument.md",
     "Learning/Programming/Python/Practice/Advanced/Lambda functions.md",
     "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
@@ -246,7 +247,6 @@
     "Learning/Programming/Python/Topics/Introduction/Type Conversion.md",
     "Learning/Programming/Python/Topics/Introduction/Comments.md",
     "Learning/Programming/Python/Topics/Introduction/Keywords and identifier.md",
-    "Learning/Programming/Python/Topics/Introduction/Operators.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/Practice",
