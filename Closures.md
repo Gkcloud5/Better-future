@@ -40,9 +40,14 @@ fun2()
 
 ##### Example 3:
 ```
-def outer_function(msg)
+def outer_function(msg):
     data = msg
     def inner_function():
         print(data)
-    
+    inner_function()
+
+outer_function("Gk")
 ```
+
+![[Pasted image 20230417180618.png]]
+
