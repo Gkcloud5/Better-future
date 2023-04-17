@@ -25,4 +25,5 @@
 8. [[Serialization]]
 9. [[Partial function]]
 10. [[Closures]]
-11. 
+11. [[Decorators]]
+12. 
