@@ -7,6 +7,9 @@
 
 ### Map():
  It take input from list, tiple. pass a each value to function and return map output.
+```
+map(func, *iterables*)
+```
 
 ```
 def add(n):
