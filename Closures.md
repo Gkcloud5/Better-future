@@ -21,3 +21,15 @@ print(transmit_to_space("Test message"))
 
 ![[Pasted image 20230417175235.png]]
 
+##### Example 2:
+```
+def transmit(message):
+    def data_transfer():
+        print(message)
+    return data_transfer
+
+fun2 = transmit("Gk is a hope guy")
+fun2()
+```
+
+![[Pasted image 20230417175656.png]]
