@@ -26,4 +26,4 @@
 9. [[Partial function]]
 10. [[Closures]]
 11. [[Decorators]]
-12. [[Map, filter and reduce]] 
+12. [[Map]]  
