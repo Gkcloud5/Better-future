@@ -24,5 +24,12 @@ print(list(result))
 ##### Example1:
 ```
 #Convert string to int
+numbers=["5", "12", "34", "21"]
+print(type(numbers[0]))
+numbers=list(map(int,numbers))
+print(type(numbers[0]))
 
 ```
+
+![[Pasted image 20230417222809.png]]
+
