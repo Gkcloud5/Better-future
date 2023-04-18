@@ -28,8 +28,8 @@ print(num)
 #With reduce
 list1 = [1, 2, 3, 4]
 num=reduce(lambda x,y:x+y,list1)
-print(num)
+print("reduce", num)
 
 ```
 
-![[Pasted image 20230418163446.png]]
+![[Pasted image 20230418163537.png]]
