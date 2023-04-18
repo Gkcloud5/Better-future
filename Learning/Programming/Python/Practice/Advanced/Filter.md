@@ -14,5 +14,13 @@ filter(func, *iterables*)
 
 ##### Example1:
 ```
+num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+def filter_numbers(data):
+    if data % 2 == 0:
+       return True
+    else
+       return False
 
+answer = filter(filter_numbers, num)
+print(list(answer))
 ```
