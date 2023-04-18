@@ -26,5 +26,5 @@ print(num)
 
 ```
 #With reduce
-
+list1 = [1, 2, 3, 4]
 ```
