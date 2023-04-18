@@ -31,9 +31,11 @@ print(list(answer))
 ##### Example 2:
 ```
 Mark = [12, 34, 56, 75, 87, 36, 63, 55]
-def is_pass(score)
-    return score > 36
+def is_pass(score):
+    return score > 35
 
 over_35 = list(filter(is_pass, Mark))
 print()
 ```
+
+![[Pasted image 20230418161130.png]]
