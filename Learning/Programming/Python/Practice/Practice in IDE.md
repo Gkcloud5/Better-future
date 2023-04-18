@@ -28,4 +28,5 @@
 11. [[Decorators]]
 12. [[Map]]  
 13. [[Filter]]
-14. 
+14. [[Reduce]]
+15. 
