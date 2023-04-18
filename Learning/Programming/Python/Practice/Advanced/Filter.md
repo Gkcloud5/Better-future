@@ -13,3 +13,6 @@ filter(func, *iterables*)
 
 
 ##### Example1:
+```
+
+```
