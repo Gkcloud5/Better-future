@@ -3,6 +3,10 @@
 **Calculate the multiplication and sum of two numbers**
 Given two integer numbers return their product only if the product is equal to or lower than 1000, else return their sum.
 
+#### Sample output:
+![[Pasted image 20230419223223.png]]
+
+
 #### Program:
 ```
 def func(num1, num2)

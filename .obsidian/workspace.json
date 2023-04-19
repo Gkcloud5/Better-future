@@ -75,9 +75,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d2037d0e2c6abe66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic-Exercise-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+                "file": "Basic-Exercise-2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+                "file": "Basic-Exercise-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md"
+                "file": "Basic-Exercise-2.md"
               }
             }
           },
@@ -220,12 +233,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6b3c25a2dd099fd",
+  "active": "d2037d0e2c6abe66",
   "lastOpenFiles": [
+    "Pasted image 20230419223320.png",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
+    "Pasted image 20230419223223.png",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Basic-Exercise-2.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Practice/Basic things/Conditions.md",
     "Learning/Programming/Python/Images/Pasted image 20230419222453.png",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
@@ -262,7 +277,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230418160718.png",
     "Learning/Programming/Python/Images/Pasted image 20230417222809.png",
     "Learning/Programming/Python/Images/Pasted image 20230417221644.png",
-    "Learning/Programming/Python/Images/Pasted image 20230417202613.png",
     "Learning/Programming/Python/Practice/Advanced",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/Practice",
