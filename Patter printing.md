@@ -15,4 +15,8 @@
 ##### Logics think:
 * First step, need to consider row and column
 	* In above example there is a 5 row and totally 5 columns
-* 
+
+#### Solution:
+```
+
+```
