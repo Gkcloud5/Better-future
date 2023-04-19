@@ -20,3 +20,6 @@ func(20,60)
 * Input two integer
 * Multiply a input if value less or equal to 1000
 * if multiplication value is more than 1000 then need to add those value
+
+#### Output:
+![[Pasted image 20230419222453.png]]

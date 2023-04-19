@@ -18,7 +18,7 @@
       "query": "path:Learning/Programming/Python",
       "color": {
         "a": 1,
-        "rgb": 11636296
+        "rgb": 14665104
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 12.8125,
   "linkStrength": 1,
   "linkDistance": 216,
-  "scale": 0.4177507306871141,
+  "scale": 0.5856793799568045,
   "close": false
 }
