@@ -14,8 +14,11 @@
 #### Program:
 ```
 n = int(input("Enter a number"))
-
+sum = 0
 for i in range(n):
-    print(n)
+    prev = i - 1
+    sum = sum + i
+    print(i, prev, sum)
+    
 ```
 
