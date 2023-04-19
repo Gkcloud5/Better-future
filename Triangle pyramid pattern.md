@@ -49,4 +49,9 @@ for j in range(0, space):
     space = space - 1
 ```
 * These lines are helps to give space before astrix in output
-* 
+
+```
+for k in range(0, i+1):
+        print("* ", end = " ")
+```
+* It is used to print a Astrix in a cutt
