@@ -1,4 +1,4 @@
-#Basics #Loops 
+#Basics #Loops  #Python 
 
 Two types of loop:
 	* For Loop

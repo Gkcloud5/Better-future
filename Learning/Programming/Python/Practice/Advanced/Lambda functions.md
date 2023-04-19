@@ -1,4 +1,4 @@
-#Advanced #lambda
+#Advanced #lambda #Python 
 
 #### Source: 
 [lambda](https://www.learnpython.org/en/Lambda_functions)

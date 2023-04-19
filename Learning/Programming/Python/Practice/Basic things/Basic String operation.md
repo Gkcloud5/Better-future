@@ -1,4 +1,4 @@
-#string #Basics 
+#string #Basics  #Python 
 
 #### Source: [string operations](https://www.learnpython.org/en/Basic_String_Operations)
 

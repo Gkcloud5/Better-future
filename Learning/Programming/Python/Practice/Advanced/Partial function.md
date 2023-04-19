@@ -1,4 +1,4 @@
-#Advanced #Functions 
+#Advanced #Functions  #Python 
 
 #### Source:
 [Partial](https://www.learnpython.org/en/Partial_functions)

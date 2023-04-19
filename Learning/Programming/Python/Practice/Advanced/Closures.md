@@ -1,4 +1,4 @@
-#Advanced #Closures
+#Advanced #Closures #Python 
 
 #### Source:
 [Closure](https://www.learnpython.org/en/Closures)

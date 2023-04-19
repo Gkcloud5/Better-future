@@ -5,34 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#index",
-      "color": {
-        "a": 1,
-        "rgb": 15242902
-      }
-    },
-    {
-      "query": "tag:#Basics",
+      "query": "tag:#Python",
       "color": {
         "a": 1,
         "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#Advanced",
-      "color": {
-        "a": 1,
-        "rgb": 11737856
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
       }
     }
   ],
@@ -46,6 +25,6 @@
   "repelStrength": 12.8125,
   "linkStrength": 1,
   "linkDistance": 216,
-  "scale": 0.4177507306871128,
+  "scale": 0.41775073068711355,
   "close": false
 }

@@ -1,4 +1,4 @@
-#Pattern #logical
+#Pattern #logical #Python 
 
 #### Source:
 [Youtube](https://www.youtube.com/watch?v=x8IXcg7m57s)
