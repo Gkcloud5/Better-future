@@ -21,7 +21,7 @@
 rows = int(input("enter the row value"))
 
 for i in range(1, rows+1):
-    for j in range(1, i+1)
+    for j in range(1, i+1):
         print("*", end=" ")
     print()
 ```
@@ -39,4 +39,12 @@ rows = int(input("enter the row value"))
 ```
 for i in range(1, rows+1):
 ```
-* Value need to start from 1 and final value should tot
+* Value need to start from 1 and final value should row+1
+* This line will decide how many rows we need to print
+* let consider value range(1, 6) then totally 5 rows will be created
+
+```
+for j in range(1, i+1):
+```
+* This line about column information
+* Here we depends on `i` value. 
