@@ -23,8 +23,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "33165e79fca7e23d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Exercise/Exercise Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e6b3c25a2dd099fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md"
               }
             }
           },
@@ -167,11 +194,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6137579181d46fc",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Exercise/Basic",
+    "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Exercise",
     "Learning/Programming/Python/Topics/Introduction/Python intro.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
@@ -194,8 +224,6 @@
     "Learning/Programming/Python/Practice/Advanced/Reduce.md",
     "Learning/Programming/Python/Practice/Advanced/Partial function.md",
     "Learning/Programming/Python/Practice/Advanced/Multiple function argument.md",
-    "Learning/Programming/Python/Practice/Advanced/Map.md",
-    "Learning/Programming/Python/Topics/Introduction/Input Statement.md",
     "Learning/Programming/Python/Images/Pasted image 20230419173538.png",
     "Learning/Programming/Python/Example programs/Logical",
     "Learning/Programming/Python/Example programs",
@@ -215,7 +243,6 @@
     "File I",
     "Learning/Programming/Python/Topics/Files",
     "Learning/Programming/Python/Topics/Function",
-    "Learning/Programming/Python/Topics/Flow control",
-    "Learning/Programming/Python/Topics/Introduction"
+    "Learning/Programming/Python/Topics/Flow control"
   ]
 }
