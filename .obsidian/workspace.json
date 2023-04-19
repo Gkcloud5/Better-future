@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "a4256f794f81c876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Practice/Basic things/Conditions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b1d30f9294889694",
             "type": "leaf",
             "state": {
@@ -65,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,9 +222,10 @@
   },
   "active": "b1d30f9294889694",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Basic things/Conditions.md",
+    "Basic-Exercise-1.md",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
-    "Basic-Exercise-1.md",
     "Learning/Programming/Python/Exercise/Basic",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Exercise",
@@ -229,7 +242,6 @@
     "Learning/Programming/Python/Practice/Basic things/Lists.md",
     "Learning/Programming/Python/Practice/Basic things/Functions.md",
     "Learning/Programming/Python/Practice/Basic things/Dictionaries.md",
-    "Learning/Programming/Python/Practice/Basic things/Conditions.md",
     "Learning/Programming/Python/Practice/Basic things/Class and objects.md",
     "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
