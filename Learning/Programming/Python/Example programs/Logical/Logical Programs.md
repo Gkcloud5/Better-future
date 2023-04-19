@@ -1,2 +1,3 @@
 1. [[Patter printing]]
-2. 
+2. [[Triangle pyramid pattern]]
+3. 

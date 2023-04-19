@@ -49,4 +49,8 @@ for j in range(1, i+1):
 * This line about column information
 * Here we depends on `i` value. 
 * `i+1` reason is here we need to print two * on 2nd row and three * in 3rd row so it depends on i value so that only we consider i here
-* 
+```
+print("*", end=" ")
+```
+* `end=" "` is used to separate a output from space instead of new line
+
