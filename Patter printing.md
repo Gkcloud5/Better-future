@@ -13,4 +13,6 @@
 ```
 
 ##### Logics think:
-* Here we need to consider row and colu
+* First step, need to consider row and column
+	* In above example there is a 5 row and totally 5 columns
+* 
