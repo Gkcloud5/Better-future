@@ -54,4 +54,6 @@ for j in range(0, space):
 for k in range(0, i+1):
         print("* ", end = " ")
 ```
-* It is used to print a Astrix in a cutt
+* It is used to print a Astrix in a current row. 
+* No.of Asterix printed is determined by the current value of  `i`.
+
