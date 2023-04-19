@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Python",
+      "query": "tag:#index",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 12469441
+      }
+    },
+    {
+      "query": "path:Learning/Programming/Python",
+      "color": {
+        "a": 1,
+        "rgb": 11636296
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 12.8125,
   "linkStrength": 1,
   "linkDistance": 216,
-  "scale": 0.41775073068711355,
+  "scale": 0.4177507306871141,
   "close": false
 }

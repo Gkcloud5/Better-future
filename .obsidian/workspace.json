@@ -23,35 +23,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "72f6c7bf0feb5c31",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b3567ef92b04333b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Example programs/Logical/Logical Programs.md"
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
               }
             }
           },
@@ -194,8 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3567ef92b04333b",
+  "active": "e6137579181d46fc",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Exercise",
+    "Learning/Programming/Python/Topics/Introduction/Python intro.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
+    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Practice/Basic things/Variable and types.md",
     "Learning/Programming/Python/Practice/Basic things/String format.md",
@@ -217,13 +195,8 @@
     "Learning/Programming/Python/Practice/Advanced/Partial function.md",
     "Learning/Programming/Python/Practice/Advanced/Multiple function argument.md",
     "Learning/Programming/Python/Practice/Advanced/Map.md",
-    "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
     "Learning/Programming/Python/Topics/Introduction/Input Statement.md",
-    "Learning/Programming/Python/Practice/Advanced/Closures.md",
-    "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
-    "Learning/Programming/Python/Practice/Advanced/Lambda functions.md",
     "Learning/Programming/Python/Images/Pasted image 20230419173538.png",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Example programs/Logical",
     "Learning/Programming/Python/Example programs",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",

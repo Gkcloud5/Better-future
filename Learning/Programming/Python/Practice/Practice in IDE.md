@@ -1,4 +1,4 @@
-#index #Python 
+ #Python #index 
 
 1. [[Some Basics]]
 2. [[Print output]]
