@@ -38,5 +38,15 @@ space = rows-1
 
 ```
 for i in range(0,rows):
+print() 
 ```
-* This will decide how m
+* This will decide how many rows we need to print.
+
+```
+space = rows-1
+for j in range(0, space):
+        print(end = " ")
+    space = space - 1
+```
+* These lines are helps to give space in output
+* 
