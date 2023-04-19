@@ -48,5 +48,5 @@ for j in range(0, space):
         print(end = " ")
     space = space - 1
 ```
-* These lines are helps to give space in output
+* These lines are helps to give space before astrix in output
 * 
