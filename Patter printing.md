@@ -12,3 +12,5 @@
 *****
 ```
 
+##### Logics think:
+* Here we need to consider row and colu
