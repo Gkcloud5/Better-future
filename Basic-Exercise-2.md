@@ -7,18 +7,25 @@
 ![[Pasted image 20230419223320.png]]
 
 #### Logic Think:
+
 * Need to get input 10
 * need to add current number + previous number
 * need to print previous number also
 
 #### Program:
+
 ```
 n = int(input("Enter a number"))
-sum = 0
+prev = 0
 for i in range(n):
-    prev = i - 1
-    sum = sum + i
-    print(i, prev, sum)
+    sum = prev + i
+    print("Current number", i, "Previous number", prev,"Sum:", sum)
+    prev = i
     
 ```
+
+
+#### Output:
+
+![[Pasted image 20230419224816.png]]
 
