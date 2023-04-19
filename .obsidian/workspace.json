@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Programming/Python/Example programs/Logical/Logical Programs.md"
+              }
             }
           },
           {
@@ -199,10 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d8e06a7bc30ceba",
+  "active": "72f6c7bf0feb5c31",
   "lastOpenFiles": [
-    "Pattern-2.md",
     "Triangle pyramid pattern.md",
+    "Pattern-2.md",
     "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
     "Patter printing.md",
     "Pasted image 20230419173538.png",
