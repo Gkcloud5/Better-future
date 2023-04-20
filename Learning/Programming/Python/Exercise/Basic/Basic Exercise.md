@@ -6,4 +6,5 @@
 	1.  Print the sum of the current number and the previous number
 3. [[Basic-Exercise-3]]
 	1. Print characters from a string that are present at an even index number
-4. 
+4. [[Basic-Exercise-4]]
+	1. Remove first `n` characters from a string

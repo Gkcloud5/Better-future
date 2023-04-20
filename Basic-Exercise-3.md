@@ -15,5 +15,15 @@
 
 ```
 str = input("Enter a string")
+str_len = len(str)
 
+for i in range(0, str_len):
+    if(i%2  == 0):
+        print(str[i])
 ```
+
+
+#### Output:
+
+![[Pasted image 20230420175246.png]]
+
