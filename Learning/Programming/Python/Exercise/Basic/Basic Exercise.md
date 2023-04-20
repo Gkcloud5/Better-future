@@ -4,4 +4,6 @@
 	1.  Calculate the multiplication and sum of two numbers
 2. [[Basic-Exercise-2]]
 	1.  Print the sum of the current number and the previous number
-3. [[]]
+3. [[Basic-Exercise-3]]
+	1. Print characters from a string that are present at an even index number
+4. 

@@ -49,13 +49,13 @@
             }
           },
           {
-            "id": "b1d30f9294889694",
+            "id": "02a9684cfdd96f12",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
+                "file": "Basic-Exercise-2.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,12 +77,12 @@
             }
           },
           {
-            "id": "645ea38535872739",
+            "id": "3b03baf7d6b2b1ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic-Exercise-2.md",
+                "file": "Basic-Exercise-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic-Exercise-2.md",
+                "file": "Basic-Exercise-3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic-Exercise-2.md",
+                "file": "Basic-Exercise-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic-Exercise-2.md"
+                "file": "Basic-Exercise-3.md"
               }
             }
           },
@@ -233,12 +233,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "645ea38535872739",
+  "active": "3b03baf7d6b2b1ea",
   "lastOpenFiles": [
-    "Pasted image 20230419224816.png",
-    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
     "Basic-Exercise-2.md",
+    "Basic-Exercise-3.md",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
+    "Pasted image 20230420160944.png",
+    "Pasted image 20230419224816.png",
     "Learning/Programming/Python/Practice/Basic things/Loops.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Pasted image 20230419223320.png",
@@ -266,7 +268,6 @@
     "Learning/Programming/Python/Practice/Advanced/Sets.md",
     "Learning/Programming/Python/Practice/Advanced/Serialization.md",
     "Learning/Programming/Python/Practice/Advanced/Regular expression.md",
-    "Learning/Programming/Python/Practice/Advanced/Reduce.md",
     "Learning/Programming/Python/Images/Pasted image 20230419173538.png",
     "Learning/Programming/Python/Example programs/Logical",
     "Learning/Programming/Python/Example programs",
@@ -275,8 +276,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230418163446.png",
     "Learning/Programming/Python/Images/Pasted image 20230418162454.png",
     "Learning/Programming/Python/Images/Pasted image 20230418161130.png",
-    "Learning/Programming/Python/Images/Pasted image 20230418160718.png",
-    "Learning/Programming/Python/Images/Pasted image 20230417222809.png",
     "Learning/Programming/Python/Practice/Advanced",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/Practice",
