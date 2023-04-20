@@ -9,4 +9,4 @@
 4. [[Basic-Exercise-4]]
 	1. Remove first `n` characters from a string
 5. [[Basic-Exercise-5]]
-	1. 
+	1. Calculate income tax for the given income by adhering to the below rules
