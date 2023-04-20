@@ -14,10 +14,15 @@
 #### Program:
 
 ```
-str = input("Enter a string")
-num = int(input("Enter a index number"))
-
-str = str[0: 0:] + str[num+1::]
-print(str)
+def remove_chars(str,num):
+    str = str[0: 0:] + str[num::]
+    print(str)
+    
+remove_chars("pynative", 4)
+remove_chars("pynative", 2)
 
 ```
+
+#### Output:
+
+![[Pasted image 20230420181139.png]]

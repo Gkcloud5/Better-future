@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic-Exercise-4.md",
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic-Exercise-4.md",
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic-Exercise-4.md"
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md"
               }
             }
           },
@@ -245,13 +245,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51ab409c92d5f727",
+  "active": "e6b3c25a2dd099fd",
   "lastOpenFiles": [
-    "Basic-Exercise-2.md",
     "Basic-Exercise-4.md",
     "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
-    "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Basic-Exercise-2.md",
+    "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+    "Pasted image 20230420181139.png",
     "Pasted image 20230420175533.png",
     "Basic-Exercise-3.md",
     "Pasted image 20230420175246.png",
@@ -287,7 +288,6 @@
     "Learning/Programming/Python/Example programs",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Images/Pasted image 20230418163537.png",
-    "Learning/Programming/Python/Images/Pasted image 20230418163446.png",
     "Learning/Programming/Python/Practice/Advanced",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/Practice",
