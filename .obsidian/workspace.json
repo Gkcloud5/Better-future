@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic-Exercise-2.md",
+                "file": "Basic-Exercise-4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic-Exercise-2.md",
+                "file": "Basic-Exercise-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic-Exercise-2.md"
+                "file": "Basic-Exercise-4.md"
               }
             }
           },
@@ -245,20 +245,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02a9684cfdd96f12",
+  "active": "51ab409c92d5f727",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
     "Basic-Exercise-4.md",
     "Basic-Exercise-2.md",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+    "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Pasted image 20230420175533.png",
     "Basic-Exercise-3.md",
     "Pasted image 20230420175246.png",
-    "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
     "Learning/Programming/Python/Practice/Advanced/Map.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
     "Pasted image 20230420160944.png",
     "Pasted image 20230419224816.png",
     "Learning/Programming/Python/Practice/Basic things/Loops.md",
-    "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Pasted image 20230419223320.png",
     "Pasted image 20230419223223.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
@@ -281,14 +282,12 @@
     "Learning/Programming/Python/Practice/Basic things/Class and objects.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
     "Learning/Programming/Python/Practice/Advanced/Sets.md",
-    "Learning/Programming/Python/Practice/Advanced/Serialization.md",
     "Learning/Programming/Python/Images/Pasted image 20230419173538.png",
     "Learning/Programming/Python/Example programs/Logical",
     "Learning/Programming/Python/Example programs",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Images/Pasted image 20230418163537.png",
     "Learning/Programming/Python/Images/Pasted image 20230418163446.png",
-    "Learning/Programming/Python/Images/Pasted image 20230418162454.png",
     "Learning/Programming/Python/Practice/Advanced",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/Practice",
