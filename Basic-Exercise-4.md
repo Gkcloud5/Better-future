@@ -14,5 +14,10 @@
 #### Program:
 
 ```
+str = input("Enter a string")
+num = int(input("Enter a index number"))
+
+str = str[0: 0:] + str[num+1::]
+print(str)
 
 ```
