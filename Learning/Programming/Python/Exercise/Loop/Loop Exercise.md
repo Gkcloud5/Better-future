@@ -20,4 +20,6 @@
 	1. Print the following pattern
 3. [[LoopExercise-3]]
 	1. Calculate the sum of all numbers from 1 to given number
-4. 
+4. [[LoopExercise-4]]
+	1. Display numbers from a list using loop
+5. 
