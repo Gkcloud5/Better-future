@@ -5,4 +5,4 @@
 
 #### Logic Think:
 * Need to know how many rows we need
-* Here printable value is number so we need to print
+* Here printable value is number so we need to print row 
