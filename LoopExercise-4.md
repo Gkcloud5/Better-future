@@ -11,4 +11,11 @@
 
 #### Logic Think:
 * Number divided by 5
-* 
+* if number is above 150 then skip and move next number
+* if number is above 500 then stop the loop
+
+#### Program:
+
+```
+
+```
