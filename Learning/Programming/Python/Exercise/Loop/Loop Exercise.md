@@ -11,3 +11,5 @@
 
 ![[Pasted image 20230421144653.png]]
 
+
+## Exercise:
