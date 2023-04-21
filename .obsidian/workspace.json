@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loop Exercise.md",
+                "file": "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
                 "mode": "source",
                 "source": false
               },
@@ -127,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loop Exercise.md",
+                "file": "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loop Exercise.md",
+                "file": "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loop Exercise.md"
+                "file": "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md"
               }
             }
           },
@@ -221,15 +220,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea7821db139a8887",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Exercise/Loop",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
-    "Loop Exercise.md",
+    "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-2.md",
-    "Pasted image 20230421143406.png",
+    "Learning/Programming/Python/Images/Pasted image 20230421143406.png",
     "Learning/Programming/Python/Images/Pasted image 20230420181846.png",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-4.md",
     "Learning/Programming/Python/Images/Pasted image 20230420181139.png",
@@ -261,7 +261,6 @@
     "Learning/Programming/Python/Practice/Basic things/Functions.md",
     "Learning/Programming/Python/Practice/Basic things/Dictionaries.md",
     "Learning/Programming/Python/Practice/Basic things/Class and objects.md",
-    "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
     "Learning/Programming/Python/Example programs/Logical",
     "Learning/Programming/Python/Example programs",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
