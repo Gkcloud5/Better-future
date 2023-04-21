@@ -220,8 +220,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "ea7821db139a8887",
   "lastOpenFiles": [
+    "Pasted image 20230421144653.png",
     "Learning/Programming/Python/Exercise/Loop",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
     "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
@@ -268,7 +269,6 @@
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/Practice",
     "File I",
-    "Learning/Programming/Python/Topics/Files",
-    "Learning/Programming/Python/Topics/Function"
+    "Learning/Programming/Python/Topics/Files"
   ]
 }

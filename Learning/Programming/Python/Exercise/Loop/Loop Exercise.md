@@ -5,4 +5,9 @@
 
 ##### Control Flow Statement:
   Divided into three categories:
-   
+    * Conditional statements
+    * Iterative statements
+    * Transfer statement
+
+![[Pasted image 20230421144653.png]]
+
