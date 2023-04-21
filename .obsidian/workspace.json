@@ -77,12 +77,12 @@
             }
           },
           {
-            "id": "fca04ea2d7efa148",
+            "id": "21808c3dbdcb718c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LoopExercise-2.md",
+                "file": "LoopExercise-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoopExercise-2.md",
+                "file": "LoopExercise-3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoopExercise-2.md",
+                "file": "LoopExercise-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LoopExercise-2.md"
+                "file": "LoopExercise-3.md"
               }
             }
           },
@@ -233,13 +233,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fca04ea2d7efa148",
+  "active": "21808c3dbdcb718c",
   "lastOpenFiles": [
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
+    "LoopExercise-3.md",
+    "Pasted image 20230421152954.png",
     "LoopExercise-2.md",
+    "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
+    "Pasted image 20230421152824.png",
     "Pasted image 20230421145501.png",
     "LoopExercise-1.md",
-    "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
     "Pasted image 20230421145348.png",
     "Learning/Programming/Python/Topics/Flow control/While Loop.md",
     "Pasted image 20230421145035.png",
@@ -255,10 +258,8 @@
     "Learning/Programming/Python/Images/Pasted image 20230420181139.png",
     "Learning/Programming/Python/Images/Pasted image 20230420175533.png",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-3.md",
-    "Learning/Programming/Python/Images/Pasted image 20230420175246.png",
     "Learning/Programming/Python/Practice/Advanced/Map.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
-    "Learning/Programming/Python/Images/Pasted image 20230420160944.png",
     "Learning/Programming/Python/Practice/Basic things/Loops.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Practice/Basic things/Conditions.md",
@@ -273,7 +274,6 @@
     "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
     "Learning/Programming/Python/Practice/Basic things/Print output.md",
     "Learning/Programming/Python/Practice/Basic things/Modules and packages.md",
-    "Learning/Programming/Python/Practice/Basic things/Lists.md",
     "Learning/Programming/Python/Example programs/Logical",
     "Learning/Programming/Python/Example programs",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",

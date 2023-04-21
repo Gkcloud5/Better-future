@@ -18,4 +18,6 @@
 	1. Print first 10 natural numbers using while loop
 2. [[LoopExercise-2]]
 	1. Print the following pattern
-3. 
+3. [[LoopExercise-3]]
+	1. Calculate the sum of all numbers from 1 to given number
+4. 
