@@ -14,4 +14,6 @@
 
 ## Exercise:
 
-1. [[Loop-Exercise-]]
+1. [[LoopExercise-1]]
+	1. Print first 10 natural numbers using while loop
+2. 
