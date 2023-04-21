@@ -82,14 +82,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LoopExercise-1.md",
+                "file": "Learning/Programming/Python/Topics/Flow control/While Loop.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md"
+              }
             }
           },
           {
@@ -229,8 +233,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a428a87da45219cd",
+  "active": "ea7821db139a8887",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Topics/Flow control/While Loop.md",
     "LoopExercise-1.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
     "Pasted image 20230421145035.png",
