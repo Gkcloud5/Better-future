@@ -9,3 +9,6 @@
 ![[Pasted image 20230421172028.png]]
 
 
+#### Logic Think:
+* Number divided by 5
+* 
