@@ -3,5 +3,6 @@
 
 #### Things to remember:
 
-1. **Control Flow Statement**
-	1. 
+##### Control Flow Statement:
+  Divided into three categories:
+   
