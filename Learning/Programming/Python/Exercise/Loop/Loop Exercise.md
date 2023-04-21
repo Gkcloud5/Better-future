@@ -17,4 +17,5 @@
 1. [[LoopExercise-1]]
 	1. Print first 10 natural numbers using while loop
 2. [[LoopExercise-2]]
-	1. 
+	1. Print the following pattern
+3. 
