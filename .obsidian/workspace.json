@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic-Exercise-2.md",
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-2.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic-Exercise-5.md",
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic-Exercise-5.md",
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic-Exercise-5.md",
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic-Exercise-5.md"
+                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md"
               }
             }
           },
@@ -247,24 +247,24 @@
   },
   "active": "7e777a2c4147df2b",
   "lastOpenFiles": [
-    "Basic-Exercise-2.md",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
-    "Basic-Exercise-5.md",
-    "Pasted image 20230420181846.png",
+    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-2.md",
+    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
+    "Learning/Programming/Python/Images/Pasted image 20230420181846.png",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
-    "Basic-Exercise-4.md",
+    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-4.md",
     "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
-    "Pasted image 20230420181139.png",
-    "Pasted image 20230420175533.png",
-    "Basic-Exercise-3.md",
-    "Pasted image 20230420175246.png",
+    "Learning/Programming/Python/Images/Pasted image 20230420181139.png",
+    "Learning/Programming/Python/Images/Pasted image 20230420175533.png",
+    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-3.md",
+    "Learning/Programming/Python/Images/Pasted image 20230420175246.png",
     "Learning/Programming/Python/Practice/Advanced/Map.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
-    "Pasted image 20230420160944.png",
-    "Pasted image 20230419224816.png",
+    "Learning/Programming/Python/Images/Pasted image 20230420160944.png",
+    "Learning/Programming/Python/Images/Pasted image 20230419224816.png",
     "Learning/Programming/Python/Practice/Basic things/Loops.md",
-    "Pasted image 20230419223320.png",
-    "Pasted image 20230419223223.png",
+    "Learning/Programming/Python/Images/Pasted image 20230419223320.png",
+    "Learning/Programming/Python/Images/Pasted image 20230419223223.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Practice/Basic things/Conditions.md",
     "Learning/Programming/Python/Images/Pasted image 20230419222453.png",

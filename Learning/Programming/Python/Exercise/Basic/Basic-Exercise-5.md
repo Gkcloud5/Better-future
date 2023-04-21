@@ -16,5 +16,10 @@
 
 #### Program:
 ```
+income = int(input("Enter a income"))
 
+if 10000 >= income:
+   print("No tax")
+
+if 10000 < income > 
 ```
