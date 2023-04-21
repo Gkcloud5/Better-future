@@ -7,3 +7,7 @@
 
 #### Logic Think:
 * While loop only execute if condition is true
+* Here till value 10 condition need to true
+
+#### Program:
+
