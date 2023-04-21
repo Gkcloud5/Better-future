@@ -15,11 +15,33 @@
 * If income is 45000 then for first 10000 there is no tax and for next 10000 income tax will be 10% then remaining amount 25000 income tax will be 20%
 
 #### Program:
+
 ```
+###Own solution
 income = int(input("Enter a income"))
 
-if 10000 >= income:
-   print("No tax")
+if income <= 10000:
+    print("No tax")
 
-if 10000 < income > 
+if 10000 < income:
+    if (income < 20000):
+      taxable_income = income-10000
+      tax = taxable_income * 10 /100
+      print(tax)
+    
+    if (20000 < income):
+      taxable_income = income-10000
+      tax1 = 10000 * 10/100
+      tax2_income = taxable_income - 10000
+      tax2 = tax2_income * 20/100
+      total_tax = tax1+tax2
+      print(total_tax)
 ```
+
+```
+
+```
+
+#### Output:
+
+![[Pasted image 20230421143406.png]]
