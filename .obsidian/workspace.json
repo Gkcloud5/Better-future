@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
+                "file": "LoopExercise-4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
+                "file": "LoopExercise-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md"
+                "file": "LoopExercise-4.md"
               }
             }
           },
@@ -233,13 +233,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e777a2c4147df2b",
+  "active": "f2fa4c7ee0d53cbf",
   "lastOpenFiles": [
+    "Pasted image 20230421172028.png",
+    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
+    "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
     "LoopExercise-4.md",
     "LoopExercise-3.md",
-    "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
     "Pasted image 20230421153313.png",
-    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
     "Pasted image 20230421152954.png",
     "LoopExercise-2.md",
     "Pasted image 20230421152824.png",
@@ -274,7 +275,6 @@
     "Learning/Programming/Python/Practice/Basic things/String format.md",
     "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
     "Learning/Programming/Python/Practice/Basic things/Print output.md",
-    "Learning/Programming/Python/Practice/Basic things/Modules and packages.md",
     "Learning/Programming/Python/Example programs/Logical",
     "Learning/Programming/Python/Example programs",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
