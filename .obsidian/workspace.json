@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Flow control/While Loop.md",
+                "file": "LoopExercise-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -235,11 +235,12 @@
   },
   "active": "ea7821db139a8887",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Topics/Flow control/While Loop.md",
     "LoopExercise-1.md",
+    "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
+    "Pasted image 20230421145348.png",
+    "Learning/Programming/Python/Topics/Flow control/While Loop.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
     "Pasted image 20230421145035.png",
-    "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Images/Pasted image 20230421144653.png",
@@ -258,7 +259,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230420160944.png",
     "Learning/Programming/Python/Images/Pasted image 20230419224816.png",
     "Learning/Programming/Python/Practice/Basic things/Loops.md",
-    "Learning/Programming/Python/Images/Pasted image 20230419223320.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Practice/Basic things/Conditions.md",
     "Learning/Programming/Python/Exercise/Basic",
@@ -274,7 +274,6 @@
     "Learning/Programming/Python/Practice/Basic things/Modules and packages.md",
     "Learning/Programming/Python/Practice/Basic things/Lists.md",
     "Learning/Programming/Python/Practice/Basic things/Functions.md",
-    "Learning/Programming/Python/Practice/Basic things/Dictionaries.md",
     "Learning/Programming/Python/Example programs/Logical",
     "Learning/Programming/Python/Example programs",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
