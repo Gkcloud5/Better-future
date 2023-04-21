@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
+                "file": "Learning/Programming/Python/Exercise/Exercise Topics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
+                "file": "Learning/Programming/Python/Exercise/Exercise Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md"
+                "file": "Learning/Programming/Python/Exercise/Exercise Topics.md"
               }
             }
           },
@@ -245,12 +245,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e777a2c4147df2b",
+  "active": "33165e79fca7e23d",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-2.md",
-    "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
+    "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Pasted image 20230421143406.png",
     "Learning/Programming/Python/Images/Pasted image 20230420181846.png",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-4.md",
