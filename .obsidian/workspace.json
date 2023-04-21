@@ -63,13 +63,15 @@
           {
             "id": "ea7821db139a8887",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Loop Exercise.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -99,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md"
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic String operation.md"
               }
             }
           },
@@ -243,12 +245,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6b3c25a2dd099fd",
+  "active": "62a434c78539f5f8",
   "lastOpenFiles": [
-    "Loop Exercise.md",
-    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-2.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Loop Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-2.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
     "Pasted image 20230421143406.png",
     "Learning/Programming/Python/Images/Pasted image 20230420181846.png",
