@@ -17,5 +17,17 @@
 #### Program:
 
 ```
+numbers = [12, 75, 150, 180, 145, 525, 50]
 
+for i in numbers:
+   if i % 5 == 0:
+      while i > 150:
+          continue
+      while i > 500:
+          break
+   print(i)
 ```
+
+
+#### Output:
+![[Pasted image 20230421173814.png]]

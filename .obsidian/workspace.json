@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoopExercise-4.md",
+                "file": "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoopExercise-4.md",
+                "file": "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LoopExercise-4.md"
+                "file": "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md"
               }
             }
           },
@@ -233,12 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2fa4c7ee0d53cbf",
+  "active": "ea7821db139a8887",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
     "LoopExercise-4.md",
-    "Pasted image 20230421172028.png",
     "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
+    "Pasted image 20230421173814.png",
+    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
+    "Pasted image 20230421172028.png",
     "LoopExercise-3.md",
     "Pasted image 20230421153313.png",
     "Pasted image 20230421152954.png",
@@ -256,7 +257,6 @@
     "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-2.md",
     "Learning/Programming/Python/Images/Pasted image 20230421143406.png",
-    "Learning/Programming/Python/Images/Pasted image 20230420181846.png",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-4.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-3.md",
     "Learning/Programming/Python/Practice/Advanced/Map.md",
