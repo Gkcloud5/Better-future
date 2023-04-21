@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +205,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -245,14 +241,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e777a2c4147df2b",
+  "active": "a428a87da45219cd",
   "lastOpenFiles": [
-    "Pasted image 20230421143406.png",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-2.md",
-    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
-    "Learning/Programming/Python/Images/Pasted image 20230420181846.png",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
+    "Pasted image 20230421143406.png",
+    "Learning/Programming/Python/Images/Pasted image 20230420181846.png",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-4.md",
     "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
     "Learning/Programming/Python/Images/Pasted image 20230420181139.png",
@@ -285,7 +281,6 @@
     "Learning/Programming/Python/Practice/Basic things/Dictionaries.md",
     "Learning/Programming/Python/Practice/Basic things/Class and objects.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
-    "Learning/Programming/Python/Images/Pasted image 20230419173538.png",
     "Learning/Programming/Python/Example programs/Logical",
     "Learning/Programming/Python/Example programs",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
