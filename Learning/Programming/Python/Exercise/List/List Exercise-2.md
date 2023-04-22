@@ -7,3 +7,10 @@
 ![[Pasted image 20230422232819.png]]
 
 #### Logic think:
+* Need to get a values from index and add it later store in one index
+
+#### Program:
+
+```
+
+```
