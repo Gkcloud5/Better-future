@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List Exercise.md",
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise.md",
                 "mode": "source",
                 "source": false
               },
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List Exercise-1.md",
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List Exercise-1.md",
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List Exercise-1.md",
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List Exercise-1.md"
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-1.md"
               }
             }
           },
@@ -220,9 +220,10 @@
   },
   "active": "432af1ab64499f96",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Exercise/List/List Exercise.md",
+    "Learning/Programming/Python/Exercise/List/List Exercise-1.md",
+    "Learning/Programming/Python/Exercise/List",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
-    "List Exercise-1.md",
-    "List Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
@@ -259,14 +260,12 @@
     "Learning/Programming/Python/Example programs/Logical/Logical Programs.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Practice/Basic things/Variable and types.md",
-    "Learning/Programming/Python/Practice/Basic things/String format.md",
     "Learning/Programming/Python/Example programs/Logical",
     "Learning/Programming/Python/Example programs",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Python/Practice/Advanced",
     "Learning/Programming/Python/Practice/Basic things",
     "Learning/Programming/Python/Practice",
-    "File I",
-    "Learning/Programming/Python/Topics/Files"
+    "File I"
   ]
 }
