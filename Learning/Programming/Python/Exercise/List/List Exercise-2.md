@@ -12,5 +12,35 @@
 #### Program:
 
 ```
+#### Soultion 1:
+list1 = ["M", "na", "i", "Ke"]
+list2 = ["y", "me", "s", "lly"]
 
+list1_len =len(list1)
+list2_len =len(list2)
+
+len = list1_len
+#print(len)
+if list1_len < list2_len:
+    len = list2_len
+    #print("inside if", len)
+word1 = ""
+word2 = ""
+list = []
+for i in range(0,len):
+    word1 = list1[i]
+    word2 = list2[i]
+    word = word1+word2
+    list.append(word)
+    #print(list)
+
+print(list)
+```
+
+```
+#### Soultion 2:
+list1 = ["M", "na", "i", "Ke"] 
+list2 = ["y", "me", "s", "lly"]
+list3 = [i + j for i, j in zip(list1, list2)]
+print(list3)
 ```
