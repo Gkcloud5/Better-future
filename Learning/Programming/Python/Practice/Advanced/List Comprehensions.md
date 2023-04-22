@@ -3,6 +3,8 @@
 #### Source:
 [list](https://www.learnpython.org/en/List_Comprehensions)
 [Youtube](https://www.youtube.com/watch?v=j2D7jGIf-bM)
+[list-1](https://pynative.com/python-lists/)
+
 
 
 **List comprehensions is a very powerful tool, which created a new list on another list, in a single, readable line.**
