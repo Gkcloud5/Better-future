@@ -3,4 +3,6 @@
 
 1. [[List Exercise-1]]
 	1. Reverse a list in python
-2. 
+2. [[List Exercise-2]]
+	1. Concatenate two lists index-wise
+3. 
