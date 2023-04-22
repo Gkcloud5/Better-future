@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List Exercise-2.md",
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List Exercise-2.md",
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List Exercise-2.md",
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List Exercise-2.md"
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-2.md"
               }
             }
           },
@@ -231,15 +231,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4777471c5a5c8813",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
     "Learning/Programming/Python/Exercise/List/List Exercise-1.md",
-    "List Exercise-2.md",
-    "Pasted image 20230422232819.png",
+    "Learning/Programming/Python/Exercise/List/List Exercise-2.md",
+    "Learning/Programming/Python/Images/Pasted image 20230422232819.png",
     "Learning/Programming/Python/Exercise/List/List Exercise.md",
-    "Pasted image 20230422232039.png",
-    "Pasted image 20230422231920.png",
-    "Pasted image 20230422180230.png",
+    "Learning/Programming/Python/Images/Pasted image 20230422232039.png",
+    "Learning/Programming/Python/Images/Pasted image 20230422231920.png",
+    "Learning/Programming/Python/Images/Pasted image 20230422180230.png",
     "Learning/Programming/Python/Exercise/List",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
