@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List Exercise-3.md",
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List Exercise-3.md",
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List Exercise-3.md",
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List Exercise-3.md"
+                "file": "Learning/Programming/Python/Exercise/List/List Exercise-3.md"
               }
             }
           },
@@ -231,13 +230,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "491a458d5052960d",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
     "Learning/Programming/Python/Exercise/List/List Exercise-1.md",
     "Learning/Programming/Python/Exercise/List/List Exercise.md",
-    "List Exercise-3.md",
+    "Learning/Programming/Python/Exercise/List/List Exercise-3.md",
     "Learning/Programming/Python/Exercise/List/List Exercise-2.md",
-    "Pasted image 20230423001916.png",
+    "Learning/Programming/Python/Images/Pasted image 20230423001916.png",
     "Learning/Programming/Python/Images/Pasted image 20230422232819.png",
     "Learning/Programming/Python/Images/Pasted image 20230422232039.png",
     "Learning/Programming/Python/Images/Pasted image 20230422231920.png",
