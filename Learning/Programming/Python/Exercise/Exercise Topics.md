@@ -6,4 +6,3 @@
 4. [[Dictionary Exercise ]]
 5. [[Set Exercise]]
 6. [[Tuple Exercise]]
-7. 

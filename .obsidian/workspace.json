@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -153,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Programming/Python/Exercise/Set/Set Exercise-1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Programming/Python/Exercise/Set/Set Exercise-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Programming/Python/Exercise/Set/Set Exercise-1.md"
+              }
             }
           },
           {
@@ -226,12 +231,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a428a87da45219cd",
+  "active": "ff5922b02d5db3b9",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Exercise/Set/Set Exercise-1.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
     "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Learning/Programming/Python/Exercise/Set/Set Exercise-1.md",
     "Learning/Programming/Python/Exercise/Set",
     "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-4.md",
     "Learning/Programming/Python/Images/Pasted image 20230423141606.png",
