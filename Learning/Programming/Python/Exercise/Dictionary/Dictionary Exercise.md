@@ -8,10 +8,11 @@
 * We can't access it by using index value
 * Need to use curly brackets for dictionary 
 * key and values are separated by `:`
-* 
+
 
 #### Exercise:
 1. [[Dict Exercise-1]]
 	1. Convert two lists into a dictionary
-2. 
+2.  [[Dict Exercise-2]]
+	1. 
 
