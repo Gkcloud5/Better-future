@@ -19,5 +19,3 @@
 	1. Print the value of below program
 4. [[Dict Exercise-4]]
 	1.  Initialize dictionary with default values
-
-
