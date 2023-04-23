@@ -10,4 +10,5 @@
 ### Exercise:
 1. [[Set Exercise-1]]
 	1. Add a list of elements to a set
-2. 
+2. [[Set Exercise-2]]
+	1. Return a new set of identical items 
