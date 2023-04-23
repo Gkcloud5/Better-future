@@ -40,14 +40,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/OS Topics.md",
+                "file": "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/OS Topics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/OS Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Operating System/OS Topics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,15 +186,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf41074d72463c8a",
+  "active": "a428a87da45219cd",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Operating System",
     "Learning/Programming/Python/Exercise/Set/Set Exercise-1.md",
     "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
-    "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise-2.md",
