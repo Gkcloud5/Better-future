@@ -15,5 +15,7 @@
 	1. Convert two lists into a dictionary
 2.  [[Dict Exercise-2]]
 	1. Merge two python dictionaries into one
-3. 
+3. [[Dict Exercise-3]]
+	1. Print the value of below program\
+4. 
 
