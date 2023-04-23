@@ -63,19 +63,19 @@
             }
           },
           {
-            "id": "9cdc6faf59ec8e86",
+            "id": "827a96bb1817541e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-1.md",
+                "file": "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
+                "file": "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
+                "file": "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md"
+                "file": "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-2.md"
               }
             }
           },
@@ -219,11 +219,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d820b3673c7985e3",
+  "active": "827a96bb1817541e",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-1.md",
+    "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-2.md",
+    "Learning/Programming/Python/Images/Pasted image 20230423135812.png",
     "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
-    "Pasted image 20230423130129.png",
+    "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-1.md",
+    "Learning/Programming/Python/Images/Pasted image 20230423130129.png",
     "Learning/Programming/Python/Images/Pasted image 20230423125519.png",
     "Learning/Programming/Python/Exercise/List/List Exercise.md",
     "Learning/Programming/Python/Exercise/Dictionary",
@@ -240,7 +242,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230423001916.png",
     "Learning/Programming/Python/Images/Pasted image 20230422232819.png",
     "Learning/Programming/Python/Images/Pasted image 20230422232039.png",
-    "Learning/Programming/Python/Images/Pasted image 20230422231920.png",
     "Learning/Programming/Python/Exercise/List",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
@@ -259,7 +260,6 @@
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-3.md",
     "Learning/Programming/Python/Practice/Advanced/Map.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
-    "Learning/Programming/Python/Practice/Basic things/Loops.md",
     "Learning/Programming/Python/Exercise/Basic",
     "Learning/Programming/Python/Exercise",
     "Learning/Programming/Python/Example programs/Logical",

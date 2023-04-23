@@ -14,5 +14,6 @@
 1. [[Dict Exercise-1]]
 	1. Convert two lists into a dictionary
 2.  [[Dict Exercise-2]]
-	1. Merge tw
+	1. Merge two python dictionaries into one
+3. 
 
