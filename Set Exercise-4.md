@@ -15,5 +15,11 @@
 set1 = {10, 20, 30}
 set2 = {20, 40, 50}
 
-print(set1 )
+print(set1 - set2)
+print(set1.difference(set2))
 ```
+
+#### Output:
+
+![[Pasted image 20230423181739.png]]
+

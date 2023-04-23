@@ -16,4 +16,5 @@
 	1. Get only unique items from two sets
 4. [[Set Exercise-4]]
 	1. Update the first set with items that do not  exist in the second set
-5. 
+5. [[Set Exercise-5]]
+	1. Remove items from the set at once
