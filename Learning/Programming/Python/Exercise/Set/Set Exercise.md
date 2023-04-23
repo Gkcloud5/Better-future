@@ -11,4 +11,7 @@
 1. [[Set Exercise-1]]
 	1. Add a list of elements to a set
 2. [[Set Exercise-2]]
-	1. Return a new set of identical items 
+	1. Return a new set of identical items from two sets
+3. [[Set Exercise-3]]
+	1. Get only unique items from two sets
+4. 

@@ -61,9 +61,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ac936299318a00ae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -130,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Programming/Python/Exercise/Set/Set Exercise.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,14 +210,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83527438f4d02fa6",
+  "active": "ac936299318a00ae",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Learning/Programming/Python/Exercise/Set/Set Exercise-3.md",
+    "Learning/Programming/Python/Exercise/Set/Set Exercise-2.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
+    "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Learning/Programming/Python/Images/Pasted image 20230423180555.png",
+    "Learning/Programming/Python/Images/Pasted image 20230423180256.png",
     "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise-1.md",
-    "Pasted image 20230423180110.png",
-    "Pasted image 20230423175824.png",
+    "Learning/Programming/Python/Images/Pasted image 20230423180110.png",
+    "Learning/Programming/Python/Images/Pasted image 20230423175824.png",
     "Learning/Programming/Python/Exercise/Set",
     "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-4.md",
     "Learning/Programming/Python/Images/Pasted image 20230423141606.png",
@@ -226,8 +233,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230423140505.png",
     "Learning/Programming/Python/Images/Pasted image 20230423135812.png",
     "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-1.md",
-    "Learning/Programming/Python/Images/Pasted image 20230423130129.png",
-    "Learning/Programming/Python/Images/Pasted image 20230423125519.png",
     "Learning/Programming/Python/Exercise/List/List Exercise.md",
     "Learning/Programming/Python/Exercise/Dictionary",
     "Learning/Programming/Python/Exercise/List/List Exercise-4.md",
@@ -248,7 +253,6 @@
     "Learning/Programming/Python/Topics/Flow control/While Loop.md",
     "Learning/Programming/Python/Exercise/Loop",
     "Learning/Programming/Python/Practice/Basic things/Basic String operation.md",
-    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-2.md",
     "Learning/Programming/Python/Exercise/Basic",
     "Learning/Programming/Python/Exercise",
     "Learning/Programming/Python/Example programs/Logical",
