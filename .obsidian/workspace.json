@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dict Exercise-3.md",
+                "file": "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dict Exercise-3.md",
+                "file": "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dict Exercise-3.md"
+                "file": "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md"
               }
             }
           },
@@ -219,10 +219,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a2b9dc39e313237",
+  "active": "d820b3673c7985e3",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-2.md",
     "Dict Exercise-3.md",
+    "Pasted image 20230423141141.png",
+    "Pasted image 20230423140702.png",
+    "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-2.md",
     "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
     "Pasted image 20230423140505.png",
     "Learning/Programming/Python/Images/Pasted image 20230423135812.png",
@@ -241,8 +243,6 @@
     "Learning/Programming/Python/Exercise/List/List Exercise-2.md",
     "Learning/Programming/Python/Images/Pasted image 20230423123004.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Learning/Programming/Python/Images/Pasted image 20230423001916.png",
-    "Learning/Programming/Python/Images/Pasted image 20230422232819.png",
     "Learning/Programming/Python/Exercise/List",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
@@ -260,7 +260,6 @@
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-4.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-3.md",
     "Learning/Programming/Python/Practice/Advanced/Map.md",
-    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
     "Learning/Programming/Python/Exercise/Basic",
     "Learning/Programming/Python/Exercise",
     "Learning/Programming/Python/Example programs/Logical",
