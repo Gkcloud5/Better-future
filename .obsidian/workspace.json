@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise-1.md",
+                "file": "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise-1.md",
+                "file": "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise-1.md"
+                "file": "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md"
               }
             }
           },
@@ -218,12 +219,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "f5272cd93c39fad3",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise-1.md",
     "Learning/Programming/Python/Images/Pasted image 20230423194153.png",
     "Learning/Programming/Python/Images/Pasted image 20230423193126.png",
     "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
-    "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise-1.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
     "Learning/Programming/Python/Exercise/Tuple",
@@ -241,7 +242,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230423180256.png",
     "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise-1.md",
-    "Learning/Programming/Python/Images/Pasted image 20230423180110.png",
     "Learning/Programming/Python/Exercise/Set",
     "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-4.md",
     "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-3.md",
