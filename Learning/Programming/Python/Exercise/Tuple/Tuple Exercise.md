@@ -10,4 +10,6 @@
 
 ### Exercise:
 
-1. 
+1. [[Tuple Exercise-1]]
+	1. Reverse the tuple
+2. 
