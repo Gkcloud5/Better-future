@@ -21,5 +21,9 @@ set = set1 | set2
 print(set)
 
 set_new = set1.union(set2)
-print()
+print(set_new)
 ```
+
+#### Output:
+
+![[Pasted image 20230423181234.png]]

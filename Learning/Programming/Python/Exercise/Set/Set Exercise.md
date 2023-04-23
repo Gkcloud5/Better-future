@@ -14,4 +14,6 @@
 	1. Return a new set of identical items from two sets
 3. [[Set Exercise-3]]
 	1. Get only unique items from two sets
-4. 
+4. [[Set Exercise-4]]
+	1. Update the first set with items that do not  exist in the second set
+5. 
