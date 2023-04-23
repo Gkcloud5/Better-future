@@ -7,4 +7,29 @@
 ![[Pasted image 20230423125519.png]]
 
 #### Logic think:
-* get input
+* Get key and value list and add it
+* We can use dictionary comprehension to achieve this thing
+
+#### Program:
+
+```
+## Soultion1
+keys = ['Ten', 'Twenty', 'Thirty']
+values = [10, 20, 30]
+
+Dict_new = {key:value for key,value in zip(keys,values)}
+print(Dict_new)
+
+
+####Soultion2
+keys = ['Ten', 'Twenty', 'Thirty']
+values = [10, 20, 30]
+
+res_dict = dict(zip(keys, values))
+print(res_dict)
+
+```
+
+#### Output:
+
+![[Pasted image 20230423130129.png]]

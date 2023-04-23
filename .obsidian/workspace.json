@@ -49,29 +49,17 @@
             }
           },
           {
-            "id": "b3e5a418388a742e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Python/Exercise/List/List Exercise.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "d820b3673c7985e3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -87,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -233,9 +221,10 @@
   },
   "active": "9cdc6faf59ec8e86",
   "lastOpenFiles": [
-    "Pasted image 20230423125519.png",
+    "Pasted image 20230423130129.png",
     "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
     "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-1.md",
+    "Learning/Programming/Python/Images/Pasted image 20230423125519.png",
     "Learning/Programming/Python/Exercise/List/List Exercise.md",
     "Learning/Programming/Python/Exercise/Dictionary",
     "Learning/Programming/Python/Exercise/List/List Exercise-4.md",
@@ -258,7 +247,6 @@
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
     "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
-    "Learning/Programming/Python/Images/Pasted image 20230421153313.png",
     "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
     "Learning/Programming/Python/Exercise/Loop/LoopExercise-4.md",
     "Learning/Programming/Python/Exercise/Loop/LoopExercise-3.md",
