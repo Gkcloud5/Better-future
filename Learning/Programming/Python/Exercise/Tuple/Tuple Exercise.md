@@ -12,4 +12,6 @@
 
 1. [[Tuple Exercise-1]]
 	1. Reverse the tuple
-2. 
+2. [[Tuple Exercise-2]]
+	1. Access value in tuple
+3. 
