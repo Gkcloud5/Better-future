@@ -68,14 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise-2.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -142,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Programming/Python/Practice/Basic things/Basic Operators.md"
+              }
             }
           },
           {
@@ -215,8 +218,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a428a87da45219cd",
+  "active": "c692402b7c692015",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise-2.md",
     "Learning/Programming/Python/Images/Pasted image 20230424001912.png",
     "Learning/Programming/Python/Images/Pasted image 20230424001614.png",
@@ -254,7 +258,6 @@
     "Learning/Programming/Python/Exercise/List",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
-    "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
     "Learning/Programming/Python/Exercise/Loop/Loop Exercise.md",
     "Learning/Programming/Python/Exercise/Loop",
