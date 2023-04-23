@@ -14,5 +14,5 @@
 1. [[Dict Exercise-1]]
 	1. Convert two lists into a dictionary
 2.  [[Dict Exercise-2]]
-	1. 
+	1. Merge tw
 
