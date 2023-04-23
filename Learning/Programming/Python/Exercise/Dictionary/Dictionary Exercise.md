@@ -16,6 +16,8 @@
 2.  [[Dict Exercise-2]]
 	1. Merge two python dictionaries into one
 3. [[Dict Exercise-3]]
-	1. Print the value of below program\
-4. [[D]]
+	1. Print the value of below program
+4. [[Dict Exercise-4]]
+	1.  Initialize dictionary with default values
+
 
