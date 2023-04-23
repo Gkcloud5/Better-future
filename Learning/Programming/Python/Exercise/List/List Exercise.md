@@ -9,4 +9,3 @@
 	1. Turn every item of a list into its square
 4. [[List Exercise-4]]
 	1. Concatenate two lists in the following order
-5. 
