@@ -17,7 +17,7 @@
                 "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
                   "x": -201,
-                  "y": 250.00000000000003,
+                  "y": 449.4528301886793,
                   "zoom": -1.1007449737398172
                 }
               },
@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md"
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
               }
             }
           },
@@ -236,14 +235,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c83c43a880f12dac",
+  "active": "e6137579181d46fc",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
     "Learning/Operating System/Theory Parts",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
     "Learning/Operating System/OS RoadMap.canvas",
-    "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
     "Learning/Operating System/Theory Parts/Basics",
     "Learning/Operating System/Image",
     "Learning/Operating System/Image/Pasted image 20230424185253.png",
@@ -285,7 +284,6 @@
     "Learning/Programming/Python/Exercise/List",
     "Learning/Programming/Python/Exercise/Loop",
     "Learning/Programming/Python/Exercise/Basic",
-    "Learning/Programming/Python/Exercise",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
