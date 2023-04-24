@@ -12,7 +12,13 @@
 		{"id":"2a73bf8485855247","x":306,"y":128,"width":294,"height":52,"type":"text","text":"#### I/O System"},
 		{"id":"e96ea97d2ae97e72","x":306,"y":208,"width":294,"height":52,"type":"text","text":"#### Disk Management"},
 		{"id":"6bc1b69a0f2a727e","x":306,"y":300,"width":294,"height":50,"type":"text","text":"#### Protection"},
-		{"id":"10c9659a52ea550d","x":306,"y":380,"width":294,"height":50,"type":"text","text":"#### Security"}
+		{"id":"10c9659a52ea550d","x":306,"y":380,"width":294,"height":50,"type":"text","text":"#### Security"},
+		{"id":"a4c2a8686256b34d","x":-560,"y":98,"width":317,"height":60,"type":"text","text":"#### Error Detection & Handling"},
+		{"id":"dc1f1ea16380ece7","x":-560,"y":1,"width":313,"height":50,"type":"text","text":"#### Program Execution"},
+		{"id":"2e7bd71042b51aa5","x":-560,"y":-103,"width":313,"height":60,"type":"text","text":"#### Memory Management"},
+		{"id":"e233e5bf29f7dc73","x":-560,"y":-200,"width":313,"height":60,"type":"text","text":"#### File Management"},
+		{"id":"2fde01abd1397fd6","x":-560,"y":-405,"width":313,"height":50,"type":"text","text":"#### Resource Allocation"},
+		{"id":"c99f3cdd4ed0ae73","x":-560,"y":-305,"width":307,"height":50,"type":"text","text":"#### Multitasking"}
 	],
 	"edges":[
 		{"id":"0c0023dbe2c65728","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"ea6b7b8e115de9a6","toSide":"left"},
@@ -26,6 +32,12 @@
 		{"id":"17e0c027da64a54b","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"2a73bf8485855247","toSide":"left"},
 		{"id":"c9a6ce0992419c99","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"e96ea97d2ae97e72","toSide":"left"},
 		{"id":"81a50ea067b2706b","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"6bc1b69a0f2a727e","toSide":"left"},
-		{"id":"d2f8d72d76289eb5","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"10c9659a52ea550d","toSide":"left"}
+		{"id":"d2f8d72d76289eb5","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"10c9659a52ea550d","toSide":"left"},
+		{"id":"bee173927c25e445","fromNode":"30fb35a33774e112","fromSide":"left","toNode":"2fde01abd1397fd6","toSide":"right"},
+		{"id":"809e154b1d402614","fromNode":"30fb35a33774e112","fromSide":"left","toNode":"c99f3cdd4ed0ae73","toSide":"right"},
+		{"id":"3a10e9509c719a51","fromNode":"30fb35a33774e112","fromSide":"left","toNode":"e233e5bf29f7dc73","toSide":"right"},
+		{"id":"c0ed8649b46ccebd","fromNode":"30fb35a33774e112","fromSide":"left","toNode":"2e7bd71042b51aa5","toSide":"right"},
+		{"id":"5032021c427cc079","fromNode":"30fb35a33774e112","fromSide":"left","toNode":"dc1f1ea16380ece7","toSide":"right"},
+		{"id":"e256f2d5aece9fba","fromNode":"30fb35a33774e112","fromSide":"left","toNode":"a4c2a8686256b34d","toSide":"right"}
 	]
 }
