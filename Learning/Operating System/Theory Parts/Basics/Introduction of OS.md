@@ -30,4 +30,4 @@
 * **Resources Management:
 	* OS need to allocate a resources as per the process and need to decide how long it want to there in CPU 
 * **Process Management:**
-	* 
+	* OS do scheduling a process and terminate a process
