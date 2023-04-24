@@ -68,4 +68,6 @@ User --> System and application program --> OS --> Hardware
 
 #### Types of OS:
 
-* **
+* **Batch OS:**
+	* A collection of jobs. user uses punch cards for executing program.
+	* CPU idle time is high here
