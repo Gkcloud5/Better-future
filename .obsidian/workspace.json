@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/OS RoadMap.canvas",
+                "file": "Learning/Operating System/OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/OS RoadMap.canvas",
+                "file": "Learning/Operating System/OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/OS RoadMap.canvas"
+                "file": "Learning/Operating System/OS.md"
               }
             }
           },
@@ -221,13 +221,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebd2da31b9886d48",
+  "active": "d36167b349958f97",
   "lastOpenFiles": [
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
+    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Image",
     "Learning/Operating System/Image/Pasted image 20230424185253.png",
-    "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/Resources.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Index of Python.md",
