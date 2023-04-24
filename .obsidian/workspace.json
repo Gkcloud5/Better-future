@@ -17,7 +17,7 @@
                 "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
                   "x": -201,
-                  "y": 50.54716981132077,
+                  "y": 250.00000000000003,
                   "zoom": -1.1007449737398172
                 }
               },
@@ -38,12 +38,15 @@
             "id": "3c2ff6743e8484b7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Index of Python.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+              }
             }
           },
           {
@@ -182,8 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c2ff6743e8484b7",
+  "active": "e6137579181d46fc",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Index of Python.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/OS Topics.md",
     "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
@@ -221,11 +230,9 @@
     "Learning/Programming/Python/Exercise/List/List Exercise-1.md",
     "Learning/Programming/Python/Exercise/List/List Exercise-3.md",
     "Learning/Programming/Python/Exercise/List/List Exercise-2.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Exercise/List",
     "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
-    "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
     "Learning/Programming/Python/Exercise/Loop",
     "Learning/Programming/Python/Exercise/Basic",
     "Learning/Programming/Python/Exercise",
