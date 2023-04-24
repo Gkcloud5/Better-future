@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"30fb35a33774e112","x":-98,"y":-153,"width":250,"height":60,"type":"text","text":"## OS"},
+		{"id":"ea6b7b8e115de9a6","x":306,"y":-580,"width":294,"height":50,"type":"text","text":"#### Process"},
+		{"id":"71cfcc35dae0e2b0","x":306,"y":-480,"width":294,"height":50,"type":"text","text":"#### Threads"},
+		{"id":"4a40cd8cac6dce8d","x":306,"y":-380,"width":294,"height":50,"type":"text","text":"#### CPU Scheduling"},
+		{"id":"e398434bd31a29ff","x":306,"y":-280,"width":294,"height":50,"type":"text","text":"#### Process Synchronization"},
+		{"id":"9c6e18c95792e431","x":306,"y":-200,"width":294,"height":50,"type":"text","text":"#### Deadlocks"},
+		{"id":"bf00286cb6a05ff5","x":306,"y":-123,"width":294,"height":50,"type":"text","text":"#### Memory Management"},
+		{"id":"5d776e35c986f9e7","x":306,"y":-40,"width":294,"height":50,"type":"text","text":"#### Virtual Memory"},
+		{"id":"0f97077d70117460","x":306,"y":51,"width":294,"height":50,"type":"text","text":"#### File System"},
+		{"id":"2a73bf8485855247","x":306,"y":128,"width":294,"height":52,"type":"text","text":"#### I/O System"},
+		{"id":"e96ea97d2ae97e72","x":306,"y":208,"width":294,"height":52,"type":"text","text":"#### Disk Management"},
+		{"id":"6bc1b69a0f2a727e","x":306,"y":300,"width":294,"height":50,"type":"text","text":"#### Protection"},
+		{"id":"10c9659a52ea550d","x":306,"y":380,"width":294,"height":50,"type":"text","text":"#### Security"}
+	],
+	"edges":[
+		{"id":"0c0023dbe2c65728","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"ea6b7b8e115de9a6","toSide":"left"},
+		{"id":"538fb54184eed967","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"71cfcc35dae0e2b0","toSide":"left"},
+		{"id":"3b5b5e00a86752ca","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"4a40cd8cac6dce8d","toSide":"left"},
+		{"id":"f48210e16bcfae0c","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"e398434bd31a29ff","toSide":"left"},
+		{"id":"9b66eca2ea31fe6d","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"9c6e18c95792e431","toSide":"left"},
+		{"id":"b88c223180866070","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"bf00286cb6a05ff5","toSide":"left"},
+		{"id":"bed81a769a13e50d","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"5d776e35c986f9e7","toSide":"left"},
+		{"id":"ca1c8ec3e0511e43","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"0f97077d70117460","toSide":"left"},
+		{"id":"17e0c027da64a54b","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"2a73bf8485855247","toSide":"left"},
+		{"id":"c9a6ce0992419c99","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"e96ea97d2ae97e72","toSide":"left"},
+		{"id":"81a50ea067b2706b","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"6bc1b69a0f2a727e","toSide":"left"},
+		{"id":"d2f8d72d76289eb5","fromNode":"30fb35a33774e112","fromSide":"right","toNode":"10c9659a52ea550d","toSide":"left"}
+	]
+}
