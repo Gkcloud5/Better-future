@@ -71,3 +71,7 @@ User --> System and application program --> OS --> Hardware
 * **Batch OS:**
 	* A collection of jobs. user uses punch cards for executing program.
 	* CPU idle time is high here
+* **Time Sharing OS:**
+	* It allows many users to share computer resources.
+* **Distributed OS:**
+	* 
