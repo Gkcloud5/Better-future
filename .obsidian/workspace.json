@@ -64,14 +64,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7141470e8b43e6d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -219,8 +211,8 @@
   },
   "active": "d36167b349958f97",
   "lastOpenFiles": [
-    "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
+    "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Image",
     "Learning/Operating System/Image/Pasted image 20230424185253.png",
