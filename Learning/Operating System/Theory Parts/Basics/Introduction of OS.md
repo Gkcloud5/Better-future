@@ -30,4 +30,14 @@
 * **Resources Management:
 	* OS need to allocate a resources as per the process and need to decide how long it want to there in CPU 
 * **Process Management:**
-	* OS do scheduling a process and terminate a process
+	* OS do scheduling a process and terminate a process.
+* **Storage Management**
+	* File system mechanism used for the management of the storage.
+* **Memory Management**
+	* OS need to decide how much memory has been used and by whom. it has to decide which process needs memory space and how much.
+	* OS has to allocate and deallocate the memory space.
+* **Security/Privacy Management**
+	* Privacy also provided by the OS
+
+
+#### Working m
