@@ -40,4 +40,17 @@
 	* Privacy also provided by the OS
 
 
-#### Working m
+#### Working skeleton of OS:
+
+User --> System and application program --> OS --> Hardware
+
+* Hardware consists of memory, CPU, ALU, I/O devices, peripheral devices and storage devices.
+
+![[Pasted image 20230425003820.png]]
+
+
+
+#### OS Designed for:
+
+* It controls the allocation and use of the computing system's resources among the various user and tasks
+* It provides an interface between 
