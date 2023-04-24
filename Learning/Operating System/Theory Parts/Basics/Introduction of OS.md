@@ -74,4 +74,5 @@ User --> System and application program --> OS --> Hardware
 * **Time Sharing OS:**
 	* It allows many users to share computer resources.
 * **Distributed OS:**
-	* 
+	* It manages a group of different computers and makes appear to be a single computer.
+* 
