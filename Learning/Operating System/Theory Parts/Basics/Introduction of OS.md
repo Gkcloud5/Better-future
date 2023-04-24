@@ -27,4 +27,5 @@
 
 #### Functions of OS:
 
-* 
+* **Resources Management:
+	* OS need to allocate a resources as per the process and need to decide how long it want to in CPU 
