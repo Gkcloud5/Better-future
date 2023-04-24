@@ -33,9 +33,9 @@
               "state": {
                 "file": "Learning/Operating System/OS RoadMap.canvas",
                 "viewState": {
-                  "x": 251,
-                  "y": -78.65900162181327,
-                  "zoom": -0.21979764538358043
+                  "x": 20,
+                  "y": -75.00000000000006,
+                  "zoom": -0.4782088256679255
                 }
               },
               "pinned": true
@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Basics/Basics of OS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
                 "mode": "source",
                 "source": false
               },
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Basics/Introduction of OS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Basics/Introduction of OS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Basics/Introduction of OS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Basics/Introduction of OS.md"
+                "file": "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md"
               }
             }
           },
@@ -238,12 +238,13 @@
   },
   "active": "c83c43a880f12dac",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts",
+    "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "Learning/Operating System/OS Topics.md",
-    "Learning/Operating System/Basics/Basics of OS.md",
-    "Learning/Operating System/Basics/Introduction of OS.md",
     "Learning/Operating System/OS.md",
-    "Learning/Operating System/Basics",
     "Learning/Operating System/OS RoadMap.canvas",
+    "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
+    "Learning/Operating System/Theory Parts/Basics",
     "Learning/Operating System/Image",
     "Learning/Operating System/Image/Pasted image 20230424185253.png",
     "DevOps & Cloud Plans/RoadMap/Resources.md",
@@ -281,7 +282,6 @@
     "Learning/Programming/Python/Exercise/List/List Exercise.md",
     "Learning/Programming/Python/Exercise/Dictionary",
     "Learning/Programming/Python/Exercise/List/List Exercise-4.md",
-    "Learning/Programming/Python/Exercise/List/List Exercise-1.md",
     "Learning/Programming/Python/Exercise/List",
     "Learning/Programming/Python/Exercise/Loop",
     "Learning/Programming/Python/Exercise/Basic",

@@ -4,4 +4,5 @@
 #### About OS:
 
 * An OS acts as an intermediary between the user of a computer and computer hardware.
-* 
+* Purpose of OS is an to provide an environment in which a user can execute programs conveniently and efficiently.
+* An OS is software that manages computer hardware.
