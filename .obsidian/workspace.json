@@ -33,9 +33,17 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "3c2ff6743e8484b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a428a87da45219cd",
+  "active": "3c2ff6743e8484b7",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
     "Learning/Operating System/OS Topics.md",
+    "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Operating System",
