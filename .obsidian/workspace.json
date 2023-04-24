@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/OS RoadMap.canvas",
+                "file": "Learning/Operating System/OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/OS RoadMap.canvas",
+                "file": "Learning/Operating System/OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/OS RoadMap.canvas"
+                "file": "Learning/Operating System/OS.md"
               }
             }
           },
@@ -221,10 +221,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebd2da31b9886d48",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "Learning/Operating System/OS.md",
+    "Learning/Operating System/Image",
+    "Learning/Operating System/Image/Pasted image 20230424185253.png",
     "Learning/Operating System/OS Topics.md",
+    "Learning/Operating System/OS.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/Resources.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
@@ -252,7 +254,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230423181454.png",
     "Learning/Programming/Python/Exercise/Set/Set Exercise-3.md",
     "Learning/Programming/Python/Images/Pasted image 20230423181234.png",
-    "Learning/Programming/Python/Images/Pasted image 20230423180914.png",
     "Learning/Programming/Python/Exercise/Set/Set Exercise-2.md",
     "Learning/Programming/Python/Exercise/Set",
     "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-4.md",
