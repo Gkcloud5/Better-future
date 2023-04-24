@@ -65,3 +65,7 @@ User --> System and application program --> OS --> Hardware
 
 ![[Pasted image 20230425005054.png]]
 
+
+#### Types of OS:
+
+* **
