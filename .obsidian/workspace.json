@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -235,11 +236,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "c83c43a880f12dac",
   "lastOpenFiles": [
+    "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Basics/Basics of OS.md",
     "Learning/Operating System/Basics/Introduction of OS.md",
-    "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
     "Learning/Operating System/Basics",
     "Learning/Operating System/OS RoadMap.canvas",
