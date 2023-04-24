@@ -12,3 +12,19 @@
 * An OS is a program that controls the execution of application programs and acts as an interface between the user of a computer and the computer hardware.
 * A more common definition is that the OS is the one program running at all times on the computer(Usually called the kernel). 
 * An OS is concerned with the allocation of resources  and services, such as
+	* Memory
+	* Processors
+	* Devices
+	* Information
+
+
+#### Features of OS:
+
+* An OS makes a computer more **convenient** to use.
+* An OS allows the computer system resources to be used **efficiently**
+* OS give maximum **Throughput** (No.of tasks per unit time)
+
+
+#### Functions of OS:
+
+* 
