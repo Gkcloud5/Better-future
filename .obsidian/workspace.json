@@ -35,18 +35,31 @@
             }
           },
           {
-            "id": "3c2ff6743e8484b7",
+            "id": "d36167b349958f97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Index of Python.md",
+                "file": "Learning/Operating System/OS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c76272313943b453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps & Cloud Plans/RoadMap/Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "DevOps & Cloud Plans/RoadMap/Resources.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "DevOps & Cloud Plans/RoadMap/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "DevOps & Cloud Plans/RoadMap/Resources.md"
               }
             }
           },
@@ -189,11 +202,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6137579181d46fc",
+  "active": "c76272313943b453",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Index of Python.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "Learning/Operating System/OS.md",
+    "DevOps & Cloud Plans/RoadMap/Resources.md",
     "Learning/Operating System/OS Topics.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
@@ -231,8 +246,6 @@
     "Learning/Programming/Python/Exercise/List/List Exercise-3.md",
     "Learning/Programming/Python/Exercise/List/List Exercise-2.md",
     "Learning/Programming/Python/Exercise/List",
-    "Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
-    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-5.md",
     "Learning/Programming/Python/Exercise/Loop",
     "Learning/Programming/Python/Exercise/Basic",
     "Learning/Programming/Python/Exercise",

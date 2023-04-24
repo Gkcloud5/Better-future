@@ -26,7 +26,7 @@
 		{"type":"text","text":"","id":"3f929d0d721fa9d0","x":134,"y":970,"width":250,"height":60},
 		{"type":"text","text":"#### Virtualization","id":"e690bf16ec5ccc40","x":-1180,"y":97,"width":250,"height":60},
 		{"type":"text","text":"# DevOps and Cloud Roadmap","id":"60df61f98fc29be7","x":-693,"y":-680,"width":480,"height":80},
-		{"type":"text","text":"#### OS","id":"396c8063b1823198","x":-252,"y":-556,"width":250,"height":60},
+		{"type":"text","text":"#### [[OS]]","id":"396c8063b1823198","x":-252,"y":-556,"width":250,"height":60},
 		{"type":"text","text":"##### Linux","id":"ea2aeea29db013e8","x":134,"y":-556,"width":250,"height":60},
 		{"type":"text","text":"#### Networking","id":"5538dc4701101ec8","x":-252,"y":-435,"width":250,"height":60},
 		{"type":"text","text":"##### [[ Index of Python | Python]]","id":"27460b1e343aa414","x":134,"y":-435,"width":250,"height":60},
