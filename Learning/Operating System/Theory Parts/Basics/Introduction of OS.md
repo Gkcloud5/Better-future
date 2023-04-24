@@ -38,9 +38,6 @@
 	* OS has to allocate and deallocate the memory space.
 * **Security/Privacy Management**
 	* Privacy also provided by the OS
-* **I/O system Management:**
-	* the module that keeps track of the status of devices is called the I/O traffic controller.
-	* Each I/O device has a device handler that resides in a separate process associated with that device.
 
 
 #### Working skeleton of OS:
@@ -57,4 +54,14 @@ User --> System and application program --> OS --> Hardware
 
 * It controls the allocation and use of the computing system's resources among the various user and tasks
 * It provides an interface between the computer hardware and the programmer that simplifies and makes it feasible for coding
+
+#### I/O system Management:
+
+ * The module that keeps track of the status of devices is called the I/O traffic controller.
+	* Each I/O device has a device handler that resides in a separate process associated with that device.
+	* [Youtube](https://www.youtube.com/watch?v=tVjoQ7sdrY8)
+	* OS manages communication with the devices through their respective drivers
+
+
+![[Pasted image 20230425005054.png]]
 
