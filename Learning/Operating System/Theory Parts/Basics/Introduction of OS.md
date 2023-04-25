@@ -94,4 +94,17 @@ User --> System and application program --> OS --> Hardware
 * **Security:**
 	* OS provides security feature to protect the computer from unauthorized access, viruses
 * **User interface:**
-	* OS provides GUI or command line interface to interact with the computer. 
+	* OS provides GUI or command line interface to interact with the computer. it making easier for users to access and use the computer resources
+* **Networking:**
+	* OS provides networking feature that enable computers to communicate with each other over a network.
+
+
+#### Examples of OS:
+
+* Windows
+* Linux
+* Android
+* macOS
+* iOS
+
+
