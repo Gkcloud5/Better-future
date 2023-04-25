@@ -13,3 +13,6 @@
 	* It supports multiple execution modes
 	* It monitors the execution of user programs to prevent errors
 
+
+#### Functions of an OS:
+
