@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md"
               }
             }
           },
@@ -236,11 +236,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "c83c43a880f12dac",
   "lastOpenFiles": [
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/Image/Pasted image 20230425005054.png",
     "Learning/Operating System/Image/Pasted image 20230425003820.png",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
     "Learning/Operating System/Theory Parts",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
@@ -272,7 +272,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230423181856.png",
     "Learning/Programming/Python/Exercise/Set/Set Exercise-4.md",
     "Learning/Programming/Python/Images/Pasted image 20230423181739.png",
-    "Learning/Programming/Python/Images/Pasted image 20230423181454.png",
     "Learning/Programming/Python/Exercise/Set/Set Exercise-3.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise-2.md",
     "Learning/Programming/Python/Exercise/Set",
