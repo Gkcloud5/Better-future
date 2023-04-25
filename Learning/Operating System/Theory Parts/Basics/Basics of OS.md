@@ -6,4 +6,5 @@
 
 1. [[Introduction of OS]]
 2. [[Types of OS]]
-3. 
+3. [[Functions of OS]]
+4. 
