@@ -75,4 +75,11 @@ User --> System and application program --> OS --> Hardware
 	* It allows many users to share computer resources.
 * **Distributed OS:**
 	* It manages a group of different computers and makes appear to be a single computer.
-* 
+* **Network OS:**
+	* Computer running in different OS can participate in a common network.
+* **Real-time OS:**
+	* It is used to execute real time application.
+
+
+#### Feature of OS:
+
