@@ -87,3 +87,11 @@ User --> System and application program --> OS --> Hardware
 	* OS manages the computer's memory, ensuring that program have the necessary memory to run and allocating memory efficiently to maximize performance.
 * **Process Management:**
 	* OS is a responsible for managing the processes running on the computer. it schedules process to run on the CPU, allocates system resources to processes and terminates processes when they are no longer needed.
+* **File System Management:**
+	* OS is responsible for storing and retrieving a data from hard disk or any other storage devices.
+* **Device Management:**
+	* OS manages the computer input and output devices such as keyboard and mouse. ensuring that they are properly configured and functioning correctly.
+* **Security:**
+	* OS provides security feature to protect the computer from unauthorized access, viruses
+* **User interface:**
+	* OS provides GUI or command line interface to interact with the computer. 
