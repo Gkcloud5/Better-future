@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Functions of OS.md"
+                "file": "Learning/Operating System/Theory Parts/Basics/Basics of OS.md"
               }
             }
           },
@@ -236,12 +236,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0ac54f65676b8e7",
+  "active": "1f8ccfa9d8f73a56",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
-    "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Types of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
