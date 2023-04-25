@@ -83,3 +83,7 @@ User --> System and application program --> OS --> Hardware
 
 #### Feature of OS:
 
+* **Memory Management:**
+	* OS manages the computer's memory, ensuring that program have the necessary memory to run and allocating memory efficiently to maximize performance.
+* **Process Management:**
+	* OS is a responsible for managing the processes running on the computer. it schedules process to run on the CPU, allocates system resources to processes and terminates processes when they are no longer needed.
