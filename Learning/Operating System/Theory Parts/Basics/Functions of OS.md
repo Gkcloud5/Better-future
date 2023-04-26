@@ -16,3 +16,7 @@
 
 #### Functions of an OS:
 
+##### Memory Management:
+sdfd 
+
+  
