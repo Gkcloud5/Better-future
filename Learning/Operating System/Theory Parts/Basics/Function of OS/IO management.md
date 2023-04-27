@@ -9,4 +9,3 @@
 	* output devices are useful to display information on the computer
 * Here every input and output devices contain device driver files
 
-Operating system ---> Device driver  --> I/O devices
