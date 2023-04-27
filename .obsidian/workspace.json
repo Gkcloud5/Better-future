@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process/Process Management.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process/Process Management.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process/Process Management.md"
+                "file": "Learning/Operating System/Theory Parts/Basics/Functions of OS.md"
               }
             }
           },
@@ -249,12 +249,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15683ed818779c2c",
+  "active": "871f2a569c2a1439",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process/Process Management.md",
     "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "Learning/Operating System/OS Topics.md",
-    "Learning/Operating System/Theory Parts/Process/Process Management.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Multiprogram system.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Real Time OS.md",
     "Learning/Operating System/Theory Parts/Basics/Types of OS.md",
