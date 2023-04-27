@@ -16,7 +16,9 @@
 
 #### Functions of an OS:
 
-##### Memory Management:
+##### Process Management:
 
-
-  
+* Process means program in execution. a program is collection of instruction that used to solve specific problem.
+* Usually program stored in harddisk.
+* While executing program OS transfer a program from hard disk to main memory.
+* Reason for moving main memory is CPU only run a program if it's in main memory.
