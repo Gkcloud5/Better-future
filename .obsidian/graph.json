@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#index",
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14665104
       }
+    },
+    {
+      "query": "path:\"Learning/Operating System\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 11.875,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 1.151185646090566,
+  "scale": 1.1511856460905667,
   "close": false
 }
