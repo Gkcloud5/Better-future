@@ -10,4 +10,12 @@
 * Once the execution is over then OS transfer a data from main memory to secondary memory.
 
 
-#### OS approach for 
+#### OS approach for memory allocation:
+
+2 Approach
+ * [[Contiguous memory allocation]] 
+	 * MFT -- Multiprogramming with fixed tasks
+	 * MVT -- Multiprogramming with variable tasks
+* [[Non-continuous memory]]
+	* Paging
+	* Segmentation
