@@ -18,7 +18,7 @@
 
 * ##### [[Process Management]]
 
-* [[Main Memory Management]]
+* ##### [[Main Memory Management]]
 
 * 
 

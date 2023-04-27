@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -172,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,6 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +212,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md"
+              }
             }
           },
           {
@@ -245,11 +250,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a428a87da45219cd",
+  "active": "d7025c3cf6bfac08",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Basics/Function of OS/Functions of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
-    "Learning/Operating System/Theory Parts/Basics/Function of OS/Functions of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Process Management.md",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "Learning/Operating System/OS Topics.md",
