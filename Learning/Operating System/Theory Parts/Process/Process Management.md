@@ -27,4 +27,4 @@
 	* SRTF - shortest remaining time first
 	* Priority
 	* Round robin
-	* 
+

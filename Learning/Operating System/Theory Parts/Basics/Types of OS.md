@@ -12,13 +12,6 @@
 
 * ##### [[Multiprocessor system]]
 
-##### [[Distributed System]]:
-* Same information is distributed to all the corresponding systems in network, due to some problem if any system failed then all of other system will continue a work
+* ##### [[Distributed System]]
 
-##### Real Time OS:
-* It used to build real time application.
-* Two type:
-	* Hard real time:
-		* Application should be executed within time
-	* Soft real time:
-		* If any problem then it will does not affect a process, it will execute successfully.
+* ##### [[Real Time OS]]
