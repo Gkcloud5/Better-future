@@ -94,12 +94,12 @@
             }
           },
           {
-            "id": "58fdacca97860033",
+            "id": "dac2aaad9c92c1e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Management.md",
+                "file": "IO management.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Management.md",
+                "file": "IO management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Management.md",
+                "file": "IO management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Management.md"
+                "file": "IO management.md"
               }
             }
           },
@@ -250,11 +250,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58fdacca97860033",
+  "active": "dac2aaad9c92c1e3",
   "lastOpenFiles": [
-    "Secondary Memory management.md",
     "File Management.md",
+    "IO management.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Functions of OS.md",
+    "Secondary Memory management.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Process Management.md",
@@ -289,7 +290,6 @@
     "Learning/Programming/Python/Exercise/Set/Set Exercise-1.md",
     "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
     "Learning/Programming/Python/Practice/Basic things/Basic Operators.md",
-    "Learning/Programming/Python/Practice/Practice in IDE.md",
     "Learning/Programming/Python/Images/Pasted image 20230424001912.png",
     "Learning/Programming/Python/Images/Pasted image 20230424001614.png",
     "Learning/Programming/Python/Images/Pasted image 20230423194153.png",
