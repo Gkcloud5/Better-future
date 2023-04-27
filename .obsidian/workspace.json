@@ -83,9 +83,17 @@
             "id": "a0ac54f65676b8e7",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "15683ed818779c2c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
+                "file": "Learning/Operating System/Theory Parts/Process/Process Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -159,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Functions of OS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -238,8 +241,10 @@
   },
   "active": "a0ac54f65676b8e7",
   "lastOpenFiles": [
-    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Basics/Functions of OS.md",
+    "Learning/Operating System/Theory Parts/Process",
+    "Learning/Operating System/Theory Parts/Process/Process Management.md",
+    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Untitled.md",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "Learning/Operating System/OS Topics.md",
@@ -280,11 +285,9 @@
     "Learning/Programming/Python/Exercise/Set",
     "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-4.md",
     "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-3.md",
-    "Learning/Programming/Python/Exercise/Dictionary/Dict Exercise-2.md",
     "Learning/Programming/Python/Exercise/Dictionary",
     "Learning/Programming/Python/Exercise/List",
     "Learning/Programming/Python/Exercise/Loop",
-    "Learning/Programming/Python/Exercise/Basic",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
