@@ -6,4 +6,5 @@
 
 * **Main memory is a volatile memory.**
 	* Volatile means content in main memory will be deleted when we turned off a system
+* Hard disk is perfect example for secondary memory.
 * 
