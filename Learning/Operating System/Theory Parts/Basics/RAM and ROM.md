@@ -58,5 +58,6 @@
 * MROM
 
 **PROM:**
+* [Prom](https://www.geeksforgeeks.org/prom-full-form/)
 * Programmable read-only memory
-* It can be programmed by the user
+* It can be programmed by the user. once programmed, the data and instructions in it cannot be changed
