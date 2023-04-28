@@ -39,3 +39,6 @@
 
 * OS provide backup and recovery mechanism to protect data in the event of system failure or data loss.
 
+##### Debugging:
+
+* OS provide debugging tool that allow developers to identify and fix software bugs and other issue in the system.
