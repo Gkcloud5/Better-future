@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Booting process of OS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Booting process of OS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Booting process of OS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Booting process of OS.md"
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md"
               }
             }
           },
@@ -238,9 +238,12 @@
   },
   "active": "d1cb5a846f59897c",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Basics/32Bit vs 64Bit.md",
-    "Booting process of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
+    "Learning/Operating System/OS.md",
+    "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
+    "Learning/Operating System/Theory Parts/Basics/Booting process",
+    "Learning/Operating System/Image/Pasted image 20230428152011.png",
+    "Learning/Operating System/Theory Parts/Basics/32Bit vs 64Bit.md",
     "Learning/Operating System/Image/Pasted image 20230428141830.png",
     "Learning/Operating System/Theory Parts/Basics/RAM and ROM.md",
     "Learning/Operating System/Image/Pasted image 20230428140528.png",
@@ -273,19 +276,15 @@
     "Learning/Operating System/Image/Pasted image 20230425005054.png",
     "Learning/Operating System/Image/Pasted image 20230425003820.png",
     "Learning/Operating System/Theory Parts",
-    "Learning/Operating System/OS.md",
     "Learning/Operating System/Theory Parts/Basics",
     "Learning/Operating System/Image",
     "Learning/Operating System/Image/Pasted image 20230424185253.png",
     "DevOps & Cloud Plans/RoadMap/Resources.md",
-    "Learning/Programming/Python/Index of Python.md",
     "Learning/Operating System",
     "Learning/Programming/Python/Images/Pasted image 20230424001912.png",
     "Learning/Programming/Python/Images/Pasted image 20230424001614.png",
-    "Learning/Programming/Python/Images/Pasted image 20230423194153.png",
     "Learning/Programming/Python/Exercise/Tuple",
     "Learning/Programming/Python/Exercise/Set",
-    "Learning/Programming/Python/Exercise/Dictionary",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }

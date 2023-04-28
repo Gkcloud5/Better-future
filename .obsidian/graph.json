@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:\"Learning/Operating System\"",
   "showTags": false,
   "showAttachments": false,
@@ -39,6 +39,6 @@
   "repelStrength": 11.875,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.5856793799568142,
+  "scale": 0.5856793799568148,
   "close": false
 }
