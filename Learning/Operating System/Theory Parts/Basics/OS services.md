@@ -23,4 +23,18 @@
 
 ##### Error Detection:
 
-* OS responsbility to detect any error in hardware or software dev
+* OS responsibility to detect any error in hardware or software device.
+* If it find any error then need to take appropriate reaction.
+
+##### Resource allocation:
+
+* We have several resources like main memory, secondary memory, IO devices and CPU.
+* OS responsibility is need to assign resource as per program requirement
+
+##### Accounting:
+
+* let consider we have a computer network, Accounting will help to calculate which person use which resources and how much time he need a resource.
+
+##### Protection & Security:
+
+* 
