@@ -11,4 +11,16 @@
 
 ##### IO operation:
 
-* 
+* When program in execution if it's need IO devices for execution then OS will allocating IO device to corresponding program
+
+##### File System Manipulation:
+
+* In order to manage a files and directory in OS they use file system manipulation.
+
+##### Communication:
+
+* Communication between process, one process can communicate with another process that resides in same computer or another computer by using **interprocess communication**
+
+##### Error Detection:
+
+* OS responsbility to detect any error in hardware or software dev
