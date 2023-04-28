@@ -10,4 +10,8 @@
 
 ##### Multiprocessing:
 
+* A computer using more than one CPU at a time
+
+##### Multitasking:
+
 * 
