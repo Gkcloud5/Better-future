@@ -10,4 +10,14 @@
 
 ##### Networking:
 
-* 
+* OS provide networking capabilities, allowing the computer system connect to other system and devices over a network.
+* Some feature are
+	* Network protocols
+	* Network security
+	* Network interface
+
+##### Scheduling:
+
+* OS provide scheduling algorithms that determine the order in which tasks are executed on the system.
+* These algorithms prioritize tasks based on their resource requirements and other factors to optimize system performance.
+
