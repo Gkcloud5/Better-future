@@ -14,4 +14,9 @@
 
 ##### Multitasking:
 
-* 
+* Multitasking is a multiprogramming with a round robin algorithm.
+
+##### Multithreading:
+
+* It is an extension of multitasking
+
