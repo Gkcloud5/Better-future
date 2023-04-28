@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAM and ROM.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/RAM and ROM.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RAM and ROM.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/RAM and ROM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RAM and ROM.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/RAM and ROM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAM and ROM.md"
+                "file": "Learning/Operating System/Theory Parts/Basics/RAM and ROM.md"
               }
             }
           },
@@ -238,8 +238,9 @@
   },
   "active": "161e01854c182135",
   "lastOpenFiles": [
+    "Learning/Operating System/Image/Pasted image 20230428133055.png",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
-    "RAM and ROM.md",
+    "Learning/Operating System/Theory Parts/Basics/RAM and ROM.md",
     "Learning/Operating System/Theory Parts/Basics/Difference between Multiprogramming, multitasking.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Real Time OS.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Types of OS.md",
@@ -274,7 +275,6 @@
     "DevOps & Cloud Plans/RoadMap/Resources.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
-    "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
     "Learning/Operating System",
     "Learning/Programming/Python/Images/Pasted image 20230424001912.png",
     "Learning/Programming/Python/Images/Pasted image 20230424001614.png",
