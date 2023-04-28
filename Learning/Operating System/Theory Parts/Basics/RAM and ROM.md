@@ -39,4 +39,24 @@
 
 **Static RAM:** Static read only memory, it is a type of semiconductor which is widely used in computing devices and microprocessors.
 
-**Dynamic RAM:** Dynam
+**Dynamic RAM:** Dynamic read only memory. it is made of capacitors and has smaller data life span than static RAM.
+
+![[Pasted image 20230428133826.png]]
+
+
+
+#### ROM:
+
+* It stores crucial information essential to operate the system, like the program essential to boot the computer
+* It is non-volatile
+
+##### Types of ROM:
+
+* PROM
+* EPROM
+* EEPROM
+* MROM
+
+**PROM:**
+* Programmable read-only memory
+* It can be programmed by the user
