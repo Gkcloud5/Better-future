@@ -9,4 +9,5 @@
 3. [[Functions of OS]]
 4. [[OS services]]
 5. [[Characteristics of OS]]
-6. 
+6. [[Difference between Multiprogramming, multitasking]]
+7. 
