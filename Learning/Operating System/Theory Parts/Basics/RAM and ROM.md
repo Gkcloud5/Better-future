@@ -61,3 +61,12 @@
 * [Prom](https://www.geeksforgeeks.org/prom-full-form/)
 * Programmable read-only memory
 * It can be programmed by the user. once programmed, the data and instructions in it cannot be changed
+
+**EPROM**
+* [EPROM](https://www.techtarget.com/whatis/definition/EPROM)
+* It can be reprogrammed.
+* To erase a data from it, expose it to UV light. to reprogram it
+
+**EEPROM:**
+* [EEPROM](https://www.techtarget.com/whatis/definition/EEPROM-electrically-erasable-programmable-read-only-memory)
+* 
