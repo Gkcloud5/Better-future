@@ -21,3 +21,21 @@
 * OS provide scheduling algorithms that determine the order in which tasks are executed on the system.
 * These algorithms prioritize tasks based on their resource requirements and other factors to optimize system performance.
 
+##### Interprocess communication:
+
+* OS provide mechanism for application to communicate with each other process, allowing them to share data and coordinate their activities.
+
+##### Performance Monitoring:
+
+* OS provides tools for monitoring system performance
+	* CPU usage
+	* memory usage
+	* disk usage
+	* network activity
+* This can help identify performance bottlenecks and optimize system performance.
+
+
+##### Backup and recovery:
+
+* OS provide backup and recovery mechanism to protect data in the event of system failure or data loss.
+
