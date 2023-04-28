@@ -11,4 +11,5 @@
 5. [[Characteristics of OS]]
 6. [[Difference between Multiprogramming, multitasking]]
 7. [[RAM and ROM]]
-8. 
+8. [[32Bit vs 64Bit]]
+9. 

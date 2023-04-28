@@ -72,4 +72,10 @@
 * Data can be erased by applying an electric field.
 
 **MROM:
-* 
+* Mask ROM.
+* It is a kind of read-only memory. that is asked off at the time of production.
+* mask ROM cannot enable the user to change the data stored in it.
+
+
+![[Pasted image 20230428140528.png]]
+
