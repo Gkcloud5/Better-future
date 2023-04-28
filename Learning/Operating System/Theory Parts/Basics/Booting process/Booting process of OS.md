@@ -15,3 +15,6 @@
 
 
 #### Function of BIOS
+
+1.  [[POST]]
+2. 
