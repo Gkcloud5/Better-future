@@ -8,4 +8,5 @@
 2. [[Types of OS]]
 3. [[Functions of OS]]
 4. [[OS services]]
-5. 
+5. [[Characteristics of OS]]
+6. 

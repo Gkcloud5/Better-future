@@ -80,17 +80,15 @@
             }
           },
           {
-            "id": "7b30ae9ce54275a1",
+            "id": "863c3d3fe94867c7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/OS services.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Characteristics of OS.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -160,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/OS services.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Characteristics of OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/OS services.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Characteristics of OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/OS services.md"
+                "file": "Learning/Operating System/Theory Parts/Basics/Characteristics of OS.md"
               }
             }
           },
@@ -237,12 +235,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b30ae9ce54275a1",
+  "active": "863c3d3fe94867c7",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "Learning/Operating System/Theory Parts/Basics/OS services.md",
+    "Learning/Operating System/Theory Parts/Basics/Characteristics of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/IO management.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Functions of OS.md",
-    "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/File Management.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Secondary Memory management.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
@@ -276,7 +275,6 @@
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Operating System",
     "Learning/Programming/Python/Exercise/Set/Set Exercise-1.md",
-    "Learning/Programming/Python/Exercise/Dictionary/Dictionary Exercise.md",
     "Learning/Programming/Python/Images/Pasted image 20230424001912.png",
     "Learning/Programming/Python/Images/Pasted image 20230424001614.png",
     "Learning/Programming/Python/Images/Pasted image 20230423194153.png",

@@ -37,4 +37,4 @@
 
 ##### Protection & Security:
 
-* 
+* OS responsibility is provide protection and security to our data.
