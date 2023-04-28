@@ -68,5 +68,8 @@
 * To erase a data from it, expose it to UV light. to reprogram it
 
 **EEPROM:**
-* [EEPROM](https://www.techtarget.com/whatis/definition/EEPROM-electrically-erasable-programmable-read-only-memory)
+* [EEPROM](https://www.geeksforgeeks.org/eeprom-full-form/)
+* Data can be erased by applying an electric field.
+
+**MROM:
 * 
