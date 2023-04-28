@@ -26,3 +26,17 @@
 ![[Pasted image 20230428133055.png]]
 
 
+#### Some info about RAM:
+
+* It also called `read-write memory` or *main memory*  or the *primary memory*
+* Programs and the data that the CPU requires during the execution of a program are stored in this memory.
+* It is a volatile memory.
+
+##### Types of RAM
+
+* Static RAM
+* Dynamic RAM
+
+**Static RAM:** Static read only memory, it is a type of semiconductor which is widely used in computing devices and microprocessors.
+
+**Dynamic RAM:** Dynam
