@@ -10,4 +10,5 @@
 4. [[OS services]]
 5. [[Characteristics of OS]]
 6. [[Difference between Multiprogramming, multitasking]]
-7. 
+7. [[RAM and ROM]]
+8. 

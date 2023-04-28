@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "54a536e4b62223c1",
+            "id": "161e01854c182135",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Difference between Multiprogramming, multitasking.md",
+                "file": "RAM and ROM.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Difference between Multiprogramming, multitasking.md",
+                "file": "RAM and ROM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Difference between Multiprogramming, multitasking.md",
+                "file": "RAM and ROM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Difference between Multiprogramming, multitasking.md"
+                "file": "RAM and ROM.md"
               }
             }
           },
@@ -236,11 +236,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54a536e4b62223c1",
+  "active": "161e01854c182135",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
+    "RAM and ROM.md",
     "Learning/Operating System/Theory Parts/Basics/Difference between Multiprogramming, multitasking.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Real Time OS.md",
-    "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Types of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Characteristics of OS.md",
     "Learning/Operating System/Theory Parts/Basics/OS services.md",
@@ -274,7 +275,6 @@
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Exercise/Tuple/Tuple Exercise.md",
     "Learning/Programming/Python/Exercise/Set/Set Exercise.md",
-    "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Operating System",
     "Learning/Programming/Python/Images/Pasted image 20230424001912.png",
     "Learning/Programming/Python/Images/Pasted image 20230424001614.png",
