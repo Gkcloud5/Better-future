@@ -4,6 +4,10 @@
 
 #### Difference between multiprogramming, multitasking, multithreading and multiprocessing:
 
-##### multiprogramming:
+##### Multiprogramming:
+
+* It is known as keeping multiple programs in the main memory at the same time ready for execution.
+
+##### Multiprocessing:
 
 * 
