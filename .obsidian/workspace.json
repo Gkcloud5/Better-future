@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -263,6 +264,7 @@
   },
   "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Image/Pasted image 20230429133804.png",
     "Learning/Operating System/Theory Parts/Basics/Booting process/MBR.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
     "Learning/Operating System/Image/Pasted image 20230429133215.png",
@@ -299,7 +301,6 @@
     "Learning/Operating System/Theory Parts/Basics/OS Types",
     "Learning/Operating System/Theory Parts/Process",
     "Learning/Operating System/OS RoadMap.canvas",
-    "Learning/Untitled.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/Image/Pasted image 20230425005054.png",
     "Learning/Operating System/Image/Pasted image 20230425003820.png",
