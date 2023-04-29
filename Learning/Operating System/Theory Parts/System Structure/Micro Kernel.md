@@ -36,4 +36,5 @@
 		* Micro kernel create virtual memory if it's need
 	* CPU scheduling
 		* It is refers to which process the CPU will execute next.
-		* It is helped to o
+		* It is helped to optimize a CPU utilization.
+		* minimize a waiting time for process
