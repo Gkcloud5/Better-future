@@ -94,12 +94,12 @@
             }
           },
           {
-            "id": "f582a54ccb77415b",
+            "id": "cd3a7609d1d4ea6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
+                "file": "System Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
+                "file": "System Configuration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
+                "file": "System Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/init.md"
+                "file": "System Configuration.md"
               }
             }
           },
@@ -250,10 +250,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f582a54ccb77415b",
+  "active": "cd3a7609d1d4ea6b",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
+    "System Configuration.md",
+    "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
+    "Learning/Operating System/Image/Pasted image 20230429135341.png",
     "Learning/Operating System/Theory Parts/Basics/Booting process/MBR.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
     "Learning/Operating System/Image/Pasted image 20230429134135.png",
@@ -287,13 +289,11 @@
     "Learning/Operating System/Theory Parts/Basics/OS Types/Distributed System.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Multiprocessor system.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Time Sharing System.md",
-    "Learning/Operating System/Theory Parts/Basics/OS Types/Batch system.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types",
     "Learning/Operating System/Theory Parts/Process",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/Image/Pasted image 20230425005054.png",
-    "Learning/Operating System/Image/Pasted image 20230425003820.png",
     "Learning/Operating System/Theory Parts",
     "Learning/Operating System/Theory Parts/Basics",
     "Learning/Operating System/Image",
