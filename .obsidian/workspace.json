@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -237,6 +238,7 @@
   },
   "active": "bdc3c26415c83d8a",
   "lastOpenFiles": [
+    "Pasted image 20230429165340.png",
     "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/Theory Parts/System Structure",
@@ -275,7 +277,6 @@
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Functions of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/File Management.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Secondary Memory management.md",
-    "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/OS Types",
     "Learning/Operating System/Theory Parts/Process",

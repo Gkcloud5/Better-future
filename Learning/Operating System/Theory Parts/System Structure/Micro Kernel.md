@@ -22,3 +22,9 @@
 * It provides a minimal amount of process and memory management services.
 
 #### Architecture of Micro Kernel:
+
+![[Pasted image 20230429165340.png]]
+
+* Micro kernel includes basic needs like process scheduling mechanism, memory and Interprocess communication.
+* Micro kernel is a responsible for the OS most significant services, which are as follow
+	* Inter-process c
