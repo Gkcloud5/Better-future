@@ -13,4 +13,12 @@
 #### What is Micro kernel?
 
 * It handle all the system resources. 
-* In a microkernel user and kernel services are implemented in distinct addre
+* In a microkernel user and kernel services are implemented in distinct address spaces.
+	* User services are kept in user address space
+	* Kernel services are kept in kernel address space
+* Adding a new service is very simple.
+* If any module fails then orders are unaffected
+	* because each module are represented specify address
+* It provides a minimal amount of process and memory management services.
+
+#### Architecture of Micro Kernel:
