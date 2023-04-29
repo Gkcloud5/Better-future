@@ -15,4 +15,3 @@
 9. [[Booting process of OS]]
 10. [[Boot Block]]
 11. [[UEFI vs BIOS]]
-12. 

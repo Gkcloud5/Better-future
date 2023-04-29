@@ -23,4 +23,6 @@
 * UEFI does not look for a MBR in first sector
 * UEFI behaves like a miniaturized OS that sits between firmware and the OS.
 * The OS boots directly in UEFI.
-* 
+* UEFI stores initialization data in an EFI file partition in non-volatile memory, rather than in the firmware.
+* During the POST procedure, UEFI firmware scans all of the bootable storage devices that are connected to the system for a valid GPT(Guided Partition Table).
+* The firmware itself scans the GPT to find an EFI System partition to boot from.
