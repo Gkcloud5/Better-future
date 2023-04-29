@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/OS Topics.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Kernel IO subsystem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/OS Topics.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Kernel IO subsystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/OS Topics.md"
+                "file": "Learning/Operating System/Theory Parts/System Structure/Kernel IO subsystem.md"
               }
             }
           },
@@ -236,13 +236,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "844576f668d97618",
+  "active": "c1bd1c9b27fa359a",
   "lastOpenFiles": [
-    "Learning/Operating System/OS RoadMap.canvas",
-    "Learning/Operating System/Theory Parts/System Structure/Kernel IO subsystem.md",
-    "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/OS Topics.md",
+    "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
+    "Learning/Operating System/Theory Parts/System Structure/Kernel IO subsystem.md",
     "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
+    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Image/Pasted image 20230429165340.png",
     "Learning/Operating System/Theory Parts/System Structure",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
