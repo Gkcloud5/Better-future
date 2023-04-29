@@ -94,12 +94,12 @@
             }
           },
           {
-            "id": "cd3a7609d1d4ea6b",
+            "id": "192cd5dc8eacfb3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Configuration.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Configuration.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Security.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Configuration.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Configuration.md"
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Security.md"
               }
             }
           },
@@ -250,11 +249,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd3a7609d1d4ea6b",
+  "active": "192cd5dc8eacfb3a",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
-    "System Configuration.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
+    "Learning/Operating System/Theory Parts/Basics/Booting process/Security.md",
+    "Learning/Operating System/Theory Parts/Basics/Booting process/System Configuration.md",
+    "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
     "Learning/Operating System/Image/Pasted image 20230429135341.png",
     "Learning/Operating System/Theory Parts/Basics/Booting process/MBR.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
@@ -288,7 +288,6 @@
     "Learning/Operating System/Theory Parts/Basics/OS Types/Multiprogram system.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Distributed System.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Multiprocessor system.md",
-    "Learning/Operating System/Theory Parts/Basics/OS Types/Time Sharing System.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types",
     "Learning/Operating System/Theory Parts/Process",
     "Learning/Operating System/OS RoadMap.canvas",
