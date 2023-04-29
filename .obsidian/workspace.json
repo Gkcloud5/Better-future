@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UEFI vs BIOS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/UEFI vs BIOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UEFI vs BIOS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/UEFI vs BIOS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UEFI vs BIOS.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/UEFI vs BIOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UEFI vs BIOS.md"
+                "file": "Learning/Operating System/Theory Parts/Basics/UEFI vs BIOS.md"
               }
             }
           },
@@ -239,9 +239,9 @@
   "active": "689ea64bacfa6f49",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Basics/Booting process/Boot Block.md",
-    "UEFI vs BIOS.md",
+    "Learning/Operating System/Theory Parts/Basics/UEFI vs BIOS.md",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
-    "Pasted image 20230429143251.png",
+    "Learning/Operating System/Image/Pasted image 20230429143251.png",
     "Learning/Operating System/OS.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS RoadMap.canvas",

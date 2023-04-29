@@ -7,4 +7,9 @@
 #### Limitation of BIOS:
 
 * BIOS can boot drives of less then 2TB.
-* BIOS runs in 16-bit processor mode has only 1
+* BIOS runs in 16-bit processor mode has only 1MB of space to execute
+* It can't initialize multiple hardware devices at once, thus leading a slow booting process
+
+#### About UEFI:
+
+* 
