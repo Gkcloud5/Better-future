@@ -94,31 +94,19 @@
             }
           },
           {
-            "id": "9e033f9181f4eaa8",
+            "id": "f582a54ccb77415b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/MBR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80f4c3ffa118c1c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md"
+                "file": "Learning/Operating System/Theory Parts/Basics/Booting process/init.md"
               }
             }
           },
@@ -262,14 +250,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "f582a54ccb77415b",
   "lastOpenFiles": [
-    "Learning/Operating System/Image/Pasted image 20230429133804.png",
+    "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
+    "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/MBR.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
+    "Learning/Operating System/Image/Pasted image 20230429134135.png",
+    "Learning/Operating System/Image/Pasted image 20230429133804.png",
     "Learning/Operating System/Image/Pasted image 20230429133215.png",
     "Learning/Operating System/Theory Parts/Basics/Booting process/POST.md",
-    "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "Learning/Operating System/OS.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process",
@@ -307,9 +297,7 @@
     "Learning/Operating System/Theory Parts",
     "Learning/Operating System/Theory Parts/Basics",
     "Learning/Operating System/Image",
-    "Learning/Operating System/Image/Pasted image 20230424185253.png",
     "Learning/Operating System",
-    "Learning/Programming/Python/Images/Pasted image 20230424001912.png",
     "Learning/Programming/Python/Exercise/Tuple",
     "Learning/Programming/Python/Exercise/Set",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"

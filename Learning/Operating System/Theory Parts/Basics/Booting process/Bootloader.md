@@ -16,4 +16,8 @@
 * It is responsible for "actually loading" OS into memory.
 * Loading and parsing the Boot configuration file
 * loading and initializing the OS's kernel into main memory
-* 
+* Loading and initializing the other system components and system drivers
+* Finally, finish up the system environment setup and transfer the control to the kernel.
+
+![[Pasted image 20230429134135.png]]
+
