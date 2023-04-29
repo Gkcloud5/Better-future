@@ -27,4 +27,13 @@
 
 * Micro kernel includes basic needs like process scheduling mechanism, memory and Interprocess communication.
 * Micro kernel is a responsible for the OS most significant services, which are as follow
-	* Inter-process c
+	* Inter-process communication
+		* It refers to how processes interact with one another.
+		* A process has several threads. in the kernel space, threads of any projects interact with one another.
+		* Messages are sent and received across threads using ports.
+	* Memory Management
+		* It is process of allocating a space in memory for process.
+		* Micro kernel create virtual memory if it's need
+	* CPU scheduling
+		* It is refers to which process the CPU will execute next.
+		* It is helped to o
