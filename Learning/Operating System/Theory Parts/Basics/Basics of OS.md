@@ -14,4 +14,5 @@
 8. [[32Bit vs 64Bit]]
 9. [[Booting process of OS]]
 10. [[Boot Block]]
-11. 
+11. [[UEFI vs BIOS]]
+12. 

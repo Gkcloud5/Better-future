@@ -11,3 +11,4 @@
 	* Bootstrap program finds the OS kernel on disk to do its job and then loads that kernel into memory.
 	* Last jumps to the initial address to begin the OS execution.
 
+![[Pasted image 20230429143251.png]]
