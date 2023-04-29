@@ -1,11 +1,16 @@
 #### Source:
 
 [Micro kernel](https://www.geeksforgeeks.org/microkernel-in-operating-systems/)
+[MK-1](https://www.javatpoint.com/microkernel-in-operating-system)
 
-#### What is kernel:
+
+#### What is kernel?
 
 * Kernel is intermediate between application and hardware
 * software --> kernel -> hardware
 * Kernel helps to use hardware more effectively
 
-#### About Micro kw
+#### What is Micro kernel?
+
+* It handle all the system resources. 
+* In a microkernel user and kernel services are implemented in distinct addre
