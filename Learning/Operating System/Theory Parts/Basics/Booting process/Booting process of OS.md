@@ -17,4 +17,5 @@
 #### Function of BIOS
 
 1.  [[POST]]
-2. 
+2.  [[MBR]]
+3. 
