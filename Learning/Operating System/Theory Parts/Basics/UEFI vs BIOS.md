@@ -21,4 +21,6 @@
 #### Booting process of a UEFI:
 
 * UEFI does not look for a MBR in first sector
-* It maintains list of
+* UEFI behaves like a miniaturized OS that sits between firmware and the OS.
+* The OS boots directly in UEFI.
+* 
