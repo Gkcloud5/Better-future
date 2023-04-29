@@ -13,4 +13,5 @@
 7. [[RAM and ROM]]
 8. [[32Bit vs 64Bit]]
 9. [[Booting process of OS]]
-10. 
+10. [[Boot Block]]
+11. 

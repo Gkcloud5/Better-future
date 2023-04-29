@@ -12,6 +12,8 @@
 [GeekforGeek](https://www.geeksforgeeks.org/operating-systems/)
 [OSdev](https://wiki.osdev.org/Expanded_Main_Page)
 [ninja](https://www.codingninjas.com/codestudio/library/operating-system)
+[javatpoint](https://www.javatpoint.com/operating-system)
+
 
 #### OS MindMap:
 * [[OS Topics]]
