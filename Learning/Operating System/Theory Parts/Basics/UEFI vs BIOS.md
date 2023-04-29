@@ -12,4 +12,6 @@
 
 #### About UEFI:
 
-* 
+* It is a type of firmware interface used in modern computers to replace the traditional BIOS.
+* UEFI provides a more advanced and flexible interface than BIOS.
+* One of the main diff between BIOS and UEFI is the way they hab
