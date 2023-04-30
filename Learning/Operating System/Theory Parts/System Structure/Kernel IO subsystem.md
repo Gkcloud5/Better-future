@@ -22,3 +22,8 @@
 #### Buffering:
 
 * A buffer is a memory area that stores data being transferred between two devices or between a device and an application.
+* Buffering is done for three reasons:
+	* First is to cope with a speed mismatch between producer and consumer of a data stream.
+	* 2nd use of buffering is to provide adaptation for data that have different data transfer sizes.
+	* 3rd use is to support copy semantics for the application IO.
+		* **Copy semantics** means suppose that an application wants to write a data on a disk that is stored in its buffer. it calls the `write()` system's call.
