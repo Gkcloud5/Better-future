@@ -13,4 +13,12 @@
 
 #### IO scheduling:
 
-* To schedule a set of IO requests, to determine a good order in which to 
+* To schedule a set of IO requests, to determine a good order in which to execute them
+* The order in which the application issues the system call.
+* Scheduling can improve the overall performance of the system.
+* It reduce the average waiting time, response time and turnaround time for IO.
+
+
+#### Buffering:
+
+* A buffer is a memory area that stores data being transferred between two devices or between a device and an application.
