@@ -39,4 +39,4 @@
 
 #### Spooling and device reservation:
 
-*  
+*  A spool is a buffer that holds the output of a device, such as printer that cannot accept interleaved data streams.  although printer can serve only one job at a
