@@ -39,4 +39,4 @@
 
 #### Spooling and device reservation:
 
-* 
+*  
