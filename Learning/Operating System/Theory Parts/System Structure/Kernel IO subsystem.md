@@ -57,4 +57,8 @@
 * We can use various mechanisms to ensure that such disruption cannot take place in the system.
 
 
-### kernal IO
+### kernel IO subsystem:
+
+* It is a one of the critical component of a OS
+* It is a interface between OS and input and output devices.
+* It major work is get a input and output instruction from OS (made by application) and assign to hardware.
