@@ -50,4 +50,9 @@
 * **Kernel Mode**
 	* When a system call is made, the program is temporarily switched from user mode to kernel mode.
 	* In kernel mode, the program has access to all system resources, including hardware, memory and other processes.
-* **
+* **Context switching**
+	* System call requires a context switch, which involves saving the state of the current process and switching to the kernel mode to execute the requested service.
+	* This can introduce overhead, which can impact system performance.
+* **Error Handling**
+	* System call can return error codes to indicate problems with the requested service. 
+	* Program must check for these errors and handle them appropriatly
