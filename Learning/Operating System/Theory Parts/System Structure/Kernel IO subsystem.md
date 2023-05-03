@@ -44,3 +44,7 @@
 * The OS solves this problem by preventing all output from continuing to the printer.
 * output of all applications is spooled in a separate disk file. when an application finishes printing then the spooling system queues the corresponding spool file for output to the printer.
 
+#### Error handling:
+
+* OS uses protected memory can guard for against many kinds of hardware and application errors.
+* So that complete system failure is not the 
