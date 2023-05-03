@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Call.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,9 +218,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "System Call.md"
-              }
+              "state": {}
             }
           },
           {
@@ -258,11 +254,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dea61202b25e1c3",
+  "active": "a428a87da45219cd",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
-    "System Call.md",
+    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
+    "System Call.md",
+    "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
     "Pasted image 20230504031324.png",
     "Pasted image 20230504031244.png",
     "Pasted image 20230504031157.png",
@@ -270,7 +267,6 @@
     "Pasted image 20230504030041.png",
     "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
     "Learning/Operating System/OS Topics.md",
-    "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Words and meaning",
     "Communication",
@@ -301,7 +297,6 @@
     "Learning/Operating System/Theory Parts/Basics/OS Types/Types of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Characteristics of OS.md",
     "Learning/Operating System/Theory Parts/Basics/OS services.md",
-    "Learning/Operating System/Theory Parts/Basics/Function of OS/IO management.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/OS Types",
     "Learning/Operating System/Theory Parts/Process",

@@ -55,4 +55,7 @@
 	* This can introduce overhead, which can impact system performance.
 * **Error Handling**
 	* System call can return error codes to indicate problems with the requested service. 
-	* Program must check for these errors and handle them appropriatly
+	* Program must check for these errors and handle them appropriately.
+* **Synchronization**
+	* System calls can be used to synchronize access to shared resources.
+		* Such as file or network connections.
