@@ -31,4 +31,15 @@
 	* It is mainly used to get the information about computer, information about process and information about file
 	* Get time or date
 	* set time or date
-	* get process
+	* get process info
+* **Communication**
+	* One process can communicate with another process with a help of IPC
+	* Creating a communication link
+	* send and receive data
+	* Delete communication link
+
+
+#### Feature of System Calls:
+
+* **Interface**
+	* System calls provide interface between user program and 
