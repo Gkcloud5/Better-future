@@ -47,4 +47,14 @@
 #### Error handling:
 
 * OS uses protected memory can guard for against many kinds of hardware and application errors.
-* So that complete system failure is not the 
+* So that complete system failure is not the usual result of each minor mechanical glitch, devices and IO transfer
+
+
+#### IO protection:
+
+* Errors and the issue of protection are closely related.
+* A user process may attempt to issue illegal IO instruction to disrupt the normal function of a system.
+* We can use various mechanisms to ensure that such disruption cannot take place in the system.
+
+
+### kernal IO
