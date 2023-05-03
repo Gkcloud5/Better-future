@@ -20,4 +20,10 @@
 	* In microkernel, only the most basic services(memory and process schedule) run in kernel space, with other services running in user space
 * **Performance:**
 	* Monolithic kernel are generally faster and more efficient than microkernels
-		* Bec
+		* Because there is no need to move a data between kernel space to user space
+* **Modularity:**
+	* Microkernel are more modular than monolithic kernels
+		* Because, add or remove a services are very easy in microkernel
+* **Security:**
+	* Microkernels are generally considered more secure than monolithic kernel.
+		* Because a bug or vulnerability in a service running in
