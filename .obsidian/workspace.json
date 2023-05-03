@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2fd32a89dd552d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -135,6 +145,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1024f3177331cd29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -236,7 +254,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1bd1c9b27fa359a",
+  "active": "f2fd32a89dd552d4",
   "lastOpenFiles": [
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
