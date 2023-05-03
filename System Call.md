@@ -42,4 +42,12 @@
 #### Feature of System Calls:
 
 * **Interface**
-	* System calls provide interface between user program and 
+	* System calls provide interface between user program and the OS.
+	* Program make requests by running specific functions, and the OS responds by executing the requested service and returning a result.
+* **Protection**
+	* System calls are used to access privileged operations that are not available to normal user programs. 
+	* OS uses this privilege to protect the system from malicious or unauthorized access.
+* **Kernel Mode**
+	* When a system call is made, the program is temporarily switched from user mode to kernel mode.
+	* In kernel mode, the program has access to all system resources, including hardware, memory and other processes.
+* **
