@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monolithic vs microkernel.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monolithic vs microkernel.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monolithic vs microkernel.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monolithic vs microkernel.md"
+                "file": "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md"
               }
             }
           },
@@ -246,9 +246,9 @@
   },
   "active": "117c4bf33dd79fa1",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/System Structure/Kernel IO subsystem.md",
-    "Monolithic vs microkernel.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
+    "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
+    "Learning/Operating System/Theory Parts/System Structure/Kernel IO subsystem.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
     "Learning/Operating System/OS RoadMap.canvas",
