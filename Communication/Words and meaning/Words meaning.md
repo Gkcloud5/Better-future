@@ -1,3 +1,4 @@
 
-thus - இதனால்
-this  -  இந்த
+thus        - இதனால்
+this         -  இந்த
+whereas  - அதேசமயம்
