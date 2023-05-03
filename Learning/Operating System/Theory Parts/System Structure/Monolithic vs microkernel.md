@@ -26,4 +26,13 @@
 		* Because, add or remove a services are very easy in microkernel
 * **Security:**
 	* Microkernels are generally considered more secure than monolithic kernel.
-		* Because a bug or vulnerability in a service running in
+		* Because a bug or vulnerability in a service running in user space is less likely to affect the entire system.
+
+![[Pasted image 20230504031157.png]]
+
+
+![[Pasted image 20230504031244.png]]
+
+
+![[Pasted image 20230504031324.png]]
+
