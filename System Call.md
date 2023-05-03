@@ -15,5 +15,20 @@
 	* Load a process
 	* Execute a process
 	* Wait
-	* signal -- acknowde
+	* signal -- acknowledgement
 	* Allocate and free a memory
+* **File Management**
+	* Create a file
+	* Open a file
+	* Read and copy
+	* close a file
+	* delete a file
+* **Device Management**
+	* Input or output devices
+	* request a device
+	* release a device
+* **Information Maintenance**
+	* It is mainly used to get the information about computer, information about process and information about file
+	* Get time or date
+	* set time or date
+	* get process
