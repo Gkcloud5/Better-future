@@ -105,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -180,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "System Call.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "System Call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md"
+                "file": "System Call.md"
               }
             }
           },
@@ -257,16 +258,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d12f9dc7a3687a60",
+  "active": "5dea61202b25e1c3",
   "lastOpenFiles": [
-    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "System Call.md",
+    "Communication/Words and meaning/Words meaning.md",
+    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
     "Pasted image 20230504031324.png",
     "Pasted image 20230504031244.png",
     "Pasted image 20230504031157.png",
-    "Communication/Words and meaning/Words meaning.md",
     "Pasted image 20230504030041.png",
     "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
     "Learning/Operating System/OS Topics.md",
