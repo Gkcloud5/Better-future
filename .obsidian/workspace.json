@@ -94,12 +94,12 @@
             }
           },
           {
-            "id": "962c2dc0cd97fe92",
+            "id": "6b5187f4445039f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md"
+                "file": "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md"
               }
             }
           },
@@ -258,13 +258,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "6b5187f4445039f1",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
+    "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",
+    "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/Image/Pasted image 20230505155647.png",
     "Communication/Words and meaning/Words meaning.md",
-    "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
     "Learning/Operating System/Theory Parts/System Structure/System Call.md",
-    "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
@@ -293,7 +294,6 @@
     "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
     "Learning/Operating System/Image/Pasted image 20230429134135.png",
     "Learning/Operating System/Image/Pasted image 20230429133804.png",
-    "Learning/Operating System/Image/Pasted image 20230429133215.png",
     "Learning/Operating System/Theory Parts/Basics/Booting process/POST.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/32Bit vs 64Bit.md",
