@@ -99,13 +99,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dual mode operation.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -180,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md"
+                "file": "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md"
               }
             }
           },
@@ -257,19 +258,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d12f9dc7a3687a60",
+  "active": "962c2dc0cd97fe92",
   "lastOpenFiles": [
-    "Dual mode operation.md",
-    "System Call.md",
+    "Communication/Words and meaning/Words meaning.md",
+    "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
+    "Learning/Operating System/Theory Parts/System Structure/System Call.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/OS Topics.md",
-    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
-    "Pasted image 20230504031324.png",
-    "Pasted image 20230504031244.png",
-    "Pasted image 20230504031157.png",
-    "Pasted image 20230504030041.png",
+    "Learning/Operating System/Image/Pasted image 20230504031324.png",
+    "Learning/Operating System/Image/Pasted image 20230504031244.png",
+    "Learning/Operating System/Image/Pasted image 20230504031157.png",
+    "Learning/Operating System/Image/Pasted image 20230504030041.png",
     "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Words and meaning",
