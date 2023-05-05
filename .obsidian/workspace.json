@@ -258,8 +258,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "962c2dc0cd97fe92",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Image/Pasted image 20230505155647.png",
     "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
     "Learning/Operating System/Theory Parts/System Structure/System Call.md",
@@ -301,7 +302,6 @@
     "Learning/Operating System/Theory Parts/Basics/OS Types/Real Time OS.md",
     "Learning/Operating System/Theory Parts/Basics/OS Types/Types of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Characteristics of OS.md",
-    "Learning/Operating System/Theory Parts/Basics/OS services.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/OS Types",
     "Learning/Operating System/Theory Parts/Process",
