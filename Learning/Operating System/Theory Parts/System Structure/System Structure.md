@@ -8,5 +8,5 @@
 2.  [[Kernel IO subsystem]]
 3.  [[Monolithic vs microkernel]]
 4.  [[System Call]]
-5. [[Dual mode operation]]
+5.  [[Dual mode operation]]
 6. 

@@ -94,19 +94,18 @@
             }
           },
           {
-            "id": "5dea61202b25e1c3",
+            "id": "962c2dc0cd97fe92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Call.md",
+                "file": "Dual mode operation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Call.md",
+                "file": "Communication/Words and meaning/Words meaning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Call.md",
+                "file": "Communication/Words and meaning/Words meaning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Call.md"
+                "file": "Communication/Words and meaning/Words meaning.md"
               }
             }
           },
@@ -258,11 +257,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dea61202b25e1c3",
+  "active": "d12f9dc7a3687a60",
   "lastOpenFiles": [
+    "Dual mode operation.md",
+    "System Call.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/OS Topics.md",
-    "System Call.md",
     "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
