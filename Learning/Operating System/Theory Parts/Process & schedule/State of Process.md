@@ -34,7 +34,15 @@
 * It will freeup a resources.
 * All the context of the process(PCB) will be deleted and process will be terminated by the OS.
 
-#### 6. Suspend ready
+#### 6. Suspend ready:
+
+* Here mostly process state change from ready state.
+	* Process moved from secondary memory from main memory due to lack of the resources.
+* If the main memory is full and higher priority process comes for the execution then OS need to make a room for the process in the main memory by throwing lower priority process out into the secondary memory.
+
+#### 7. Suspend wait:
+
+* 
 
 ### Operations on the process:
 
