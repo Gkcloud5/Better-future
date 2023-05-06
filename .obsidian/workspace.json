@@ -82,17 +82,43 @@
           {
             "id": "0db87d31dea1335b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/CPU Schedule/CPU Scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "332017029c436166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63ad95f4c14cb17a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -167,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process.md"
+              }
             }
           },
           {
@@ -240,14 +270,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a428a87da45219cd",
+  "active": "63ad95f4c14cb17a",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
+    "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS RoadMap.canvas",
-    "Learning/Operating System/Theory Parts/CPU Schedule/CPU Scheduling.md",
-    "Learning/Operating System/Theory Parts/CPU Schedule",
+    "Learning/Operating System/Theory Parts/Process & schedule",
     "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
-    "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
     "Learning/Operating System/Image/Pasted image 20230505155647.png",
     "Communication/Words and meaning/Words meaning.md",
