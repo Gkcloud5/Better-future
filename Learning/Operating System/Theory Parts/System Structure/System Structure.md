@@ -9,5 +9,5 @@
 3.  [[Monolithic vs microkernel]]
 4.  [[System Call]]
 5.  [[Dual mode operation]]
-6. [[Privileged and non-privileged instructions]]
-7. 
+6.  [[Privileged and non-privileged instructions]]
+7.  
