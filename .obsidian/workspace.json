@@ -96,13 +96,15 @@
           {
             "id": "332017029c436166",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -118,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/OS RoadMap.canvas",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/OS RoadMap.canvas",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/OS RoadMap.canvas"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md"
               }
             }
           },
@@ -270,14 +272,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebd2da31b9886d48",
+  "active": "332017029c436166",
   "lastOpenFiles": [
     "State of Process.md",
+    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
     "Pasted image 20230506111801.png",
     "Learning/Operating System/OS Topics.md",
-    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule",
     "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
@@ -314,7 +316,6 @@
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/32Bit vs 64Bit.md",
     "Learning/Operating System/Theory Parts/Basics/RAM and ROM.md",
-    "Learning/Operating System/Theory Parts/Basics/Difference between Multiprogramming, multitasking.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/OS Types",
     "Learning/Operating System/Theory Parts/Process",
