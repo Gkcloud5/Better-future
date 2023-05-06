@@ -44,4 +44,6 @@
 2. **Process State:** Can be ready, running, etc
 3. **CPU registers:** Like the program counter
 	1. CPU registers must be saved and restored when a process is swapped in and out of CPU.
-4. **Accounts information:** Amount of CPU used for process execution, time limits
+4. **Accounts information:** Amount of CPU used for process execution, time limits, execution ID etc
+5. **I/O status information:** For example, device allocated to the process, open files, etc
+6. **CPU Scheduling information:** like priority(SJFS)
