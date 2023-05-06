@@ -42,7 +42,8 @@
 
 #### 7. Suspend wait:
 
-* 
+* Similar to suspend ready but used the process which was performing IO operation and lack of main memory caused them to move to secondary memory.
+* When work is finished it may go to suspend ready.
 
 ### Operations on the process:
 
@@ -56,3 +57,8 @@
 
 
 ![[Pasted image 20230506201624.png]]
+
+
+#### CPU and IO Bound processes:
+
+* 

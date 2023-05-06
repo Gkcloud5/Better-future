@@ -272,10 +272,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "2ed16db11b34f08f",
   "lastOpenFiles": [
-    "Learning/Operating System/Image/Pasted image 20230506201624.png",
+    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
+    "Learning/Operating System/Image/Pasted image 20230506201624.png",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
@@ -286,7 +287,6 @@
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
     "Learning/Operating System/Image/Pasted image 20230505155647.png",
-    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/System Structure/System Call.md",
     "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
     "Learning/Operating System/Image/Pasted image 20230504031324.png",
@@ -312,7 +312,6 @@
     "Learning/Operating System/Image/Pasted image 20230429135341.png",
     "Learning/Operating System/Theory Parts/Basics/Booting process/MBR.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
-    "Learning/Operating System/Image/Pasted image 20230429134135.png",
     "Learning/Operating System/Theory Parts/Basics/Booting process/POST.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/32Bit vs 64Bit.md",
