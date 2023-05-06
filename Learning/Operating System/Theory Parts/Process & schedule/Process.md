@@ -14,5 +14,11 @@
 
 ![[Pasted image 20230506111801.png]]
 
-**Text** - Code segment, it stores instruction of a program.
-**data** - It mainly stores
+**Text**   - Code segment, it stores instruction of a program.
+**Data**  - It mainly stores global variable or static variable
+**Heap** - To store dynamic memory allocation variable(pointer)
+*Dynamic memory allocation means allocating memory during program run time*
+**Stack** - It called as function stack.  if function have any arguments then those arguments store here
+
+* Heap always grow upside, Stack always grow downside
+	* Reason for this is we don't know how much they 
