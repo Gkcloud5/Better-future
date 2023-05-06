@@ -34,4 +34,14 @@
 6. Ready the process
 7. Dispatch a process
 8. Suspend a process
-9. Resume a proces
+9. Resume a process
+10. Delay a process
+11. Fork a process
+
+#### Attributes or characteristics of a process:
+
+1. **Process Id:** A unique identifier assigned by the OS
+2. **Process State:** Can be ready, running, etc
+3. **CPU registers:** Like the program counter
+	1. CPU registers must be saved and restored when a process is swapped in and out of CPU.
+4. **Accounts information:** Amount of CPU used for process execution, time limits
