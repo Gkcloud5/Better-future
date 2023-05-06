@@ -15,4 +15,10 @@
 
 * Here process is ready for execution, it is waiting for CPU to execute a program.
 
-####
+#### 3. Scheduler:
+
+* It allocate process from ready to CPU that means change process state to running.
+
+#### 4. Running:
+
+* It means CPU executing a process, if one process is executing in CPU then that process status will be running state.
