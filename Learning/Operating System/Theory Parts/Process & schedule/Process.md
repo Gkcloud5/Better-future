@@ -21,4 +21,17 @@
 **Stack** - It called as function stack.  if function have any arguments then those arguments store here
 
 * Heap always grow upside, Stack always grow downside
-	* Reason for this is we don't know how much they 
+	* why because we don't know which segment use more memory.
+
+
+#### Some system call related to process:
+
+1. Create a child process identical to the parent
+2. Terminate a process
+3. Wait for child process to terminate
+4. Change the priority of process
+5. Block the process
+6. Ready the process
+7. Dispatch a process
+8. Suspend a process
+9. Resume a proces
