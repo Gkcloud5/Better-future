@@ -26,4 +26,4 @@
 
 #### 5. Interrupt:
 
-* If any high
+* whenever process gets interrupt signal then process will be stopped in running state and changed into ready state
