@@ -61,4 +61,9 @@
 
 #### CPU and IO Bound processes:
 
-* 
+* If the process is intensive in terms of CPU operations then it is called as CPU bound process.
+* If the process is intensive in terms of IO operations then it is called IO bound process.
+
+#### Types of schedulers:
+
+**Long term - performance:** Decides how many processes should be made to stay in the ready state. this decides the degree of m
