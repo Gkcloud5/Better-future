@@ -64,6 +64,6 @@
 * If the process is intensive in terms of CPU operations then it is called as CPU bound process.
 * If the process is intensive in terms of IO operations then it is called IO bound process.
 
-#### Types of schedulers:
+**Preemption:** Process is forcefully removed from CPU. pre-emotion is also called time sharing or multitasking.
 
-**Long term - performance:** Decides how many processes should be made to stay in the ready state. this decides the degree of m
+**Non-preemption:** Processes are not removed until they complete the execution.
