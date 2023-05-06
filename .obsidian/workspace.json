@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State of Process.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State of Process.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State of Process.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State of Process.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md"
               }
             }
           },
@@ -272,13 +272,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ed16db11b34f08f",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "State of Process.md",
+    "Learning/Operating System/Image/Pasted image 20230506201624.png",
+    "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
-    "Pasted image 20230506111801.png",
+    "Learning/Operating System/Image/Pasted image 20230506111801.png",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Process & schedule",
     "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",

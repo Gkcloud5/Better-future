@@ -15,10 +15,13 @@
 #### 2.Ready:
 
 * Here process is ready for execution, it is waiting for CPU to execute a program.
+* Whenever a process is created, it directly enters in the ready state.
+	* It waits for CPU to be assigned.
 
 #### 3. Running:
 
 * It means CPU executing a process, if one process is executing in CPU then that process status will be running state.
+* Mostly process pick from ready state by scheduling algorithm.
 
 #### 4. Waiting:
 
@@ -27,7 +30,11 @@
 
 #### 5. Terminated:
 
-* If process completed all the operation then it will moved to
+* If process completed all the operation then it will moved to terminated state from running.
+* It will freeup a resources.
+* All the context of the process(PCB) will be deleted and process will be terminated by the OS.
+
+#### 6. Suspend ready
 
 ### Operations on the process:
 
@@ -38,3 +45,6 @@
 #### 2. Interrupt:
 
 * whenever process gets interrupt signal then process will be stopped in running state and changed to ready state.
+
+
+![[Pasted image 20230506201624.png]]
