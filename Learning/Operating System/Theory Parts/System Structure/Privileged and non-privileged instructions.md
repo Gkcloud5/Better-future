@@ -20,3 +20,8 @@
 
 * **Access to resources:**
 	* Privileged instructions have direct access to system resources, while non-privileged instructions have limited access.
+* **Execution mode:**
+	* Privileged instructions are executed in kernel mode
+	* Non-privileged instructions are executed in user mode.
+* **Execution permission:
+	* Privileged instructions require special permission to execute, while non-privileged instructions do not
