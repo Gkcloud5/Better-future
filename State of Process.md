@@ -1,9 +1,10 @@
 #### Source:
 [GFG](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/)
 [Yt-1](https://www.youtube.com/watch?v=SGxFMEZ-ypc&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&index=7)
+[JT](https://www.javatpoint.com/os-process-states)
 
 
-#### Process state:
+### Process state:
 
 * Process means program during execution.
 
@@ -22,3 +23,7 @@
 #### 4. Running:
 
 * It means CPU executing a process, if one process is executing in CPU then that process status will be running state.
+
+#### 5. Interrupt:
+
+* If any high
