@@ -29,4 +29,8 @@
 
 * It picks a process from ready queue and allocate CPU to that process.
 * Other name is CPU scheduler
+* A scheduling algorithm is used to select which job is going to be dispatched for the execution.
+
+##### 3. Medium-term scheduler:
+
 * 
