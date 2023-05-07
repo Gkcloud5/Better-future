@@ -28,4 +28,5 @@
 ##### 2. Short-term scheduler:
 
 * It picks a process from ready queue and allocate CPU to that process.
-* Other name is 
+* Other name is CPU scheduler
+* 
