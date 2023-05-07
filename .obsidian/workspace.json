@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
                 "mode": "source",
                 "source": false
               },
@@ -260,9 +260,10 @@
   },
   "active": "5034f4fadbb690df",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
-    "Process Scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Process Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md",
+    "Learning/Operating System/Image/Pasted image 20230507185421.png",
     "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Process table.md",
@@ -293,7 +294,6 @@
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "Learning/Operating System/Theory Parts/Basics/UEFI vs BIOS.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Boot Block.md",
-    "Learning/Operating System/Image/Pasted image 20230429143251.png",
     "Learning/Operating System/OS.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Security.md",
@@ -301,7 +301,6 @@
     "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/MBR.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
-    "Learning/Operating System/Theory Parts/Basics/Booting process/POST.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/OS Types",

@@ -11,8 +11,17 @@
 	* Priority management
 	* Event management
 
+![[Pasted image 20230507185421.png]]
+
+
 #### Types of queue:
 
 ##### 1. Job queue:
 
 * It contains list of all the process which are in system.
+* Generally content of job queue will be stored in hard disk.
+* Long term scheduler picks some of the jobs and put them in the primary memory.
+
+##### 2. Ready queue:
+
+* 
