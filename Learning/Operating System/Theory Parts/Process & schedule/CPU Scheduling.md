@@ -6,5 +6,6 @@
 1.  [[Process]]
 2.  [[State of Process]]
 3.  [[Process table]]
-4.  [[Process Queues]]
-5.  
+4.  [[Process Scheduling]]
+5.  [[Process Queues]]
+6.  
