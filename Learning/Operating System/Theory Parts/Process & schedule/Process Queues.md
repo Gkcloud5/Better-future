@@ -25,4 +25,4 @@
 ##### 2. Ready queue:
 
 *  It contains list of all the process which are waiting for execution by CPU.
-* 
+*  
