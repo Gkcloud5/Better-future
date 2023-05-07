@@ -9,4 +9,16 @@
 * the main aim of the job scheduler is to maintain a good degree of multiprogramming.
 
 
+#### About scheduling queue:
 
+* Scheduling decides which process are going to execute next.
+* In multiprogramming system multiple process are resides in main memory.
+* Main goal is utilize CPU usage effective manner
+
+#### Types:
+
+##### 1. Long-term scheduler:
+
+* Job scheduler
+* It loads a process from secondary memory to main memory.
+* In secondary memory we have a job queue it contains list of all the process which are in system.
