@@ -8,4 +8,11 @@
 * Some reasons:
 	* Resource allocation
 	* Synchronization
-	* 
+	* Priority management
+	* Event management
+
+#### Types of queue:
+
+##### 1. Job queue:
+
+* It contains list of all the process which are in system.
