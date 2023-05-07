@@ -30,4 +30,3 @@
 ##### 3. Wait queue:
 
 * It contains list of process that is waiting for IO operations.
-* 
