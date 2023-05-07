@@ -15,7 +15,8 @@
 
 ##### Pointer:
 
-* It is a stack pointer which is required to be saved when the process is switched from one state to another to retain the current posi
+* It is a stack pointer which is required to be saved when the process is switched from one state to another to retain the current position of the process.
+	* Stack pointer is a small register that stores the memory address of the last data element added to the stack.
 ##### Process state:
 
 * It represents process state
@@ -33,6 +34,7 @@
 ##### CPU registers:
 
 * It used to store data.
+* Every process has its own set of registers which are used to hold the data which is generated during the execution of the process.
 
 ##### CPU scheduling information:
 
