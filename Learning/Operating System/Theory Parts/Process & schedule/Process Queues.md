@@ -2,3 +2,10 @@
 [JTP](https://www.javatpoint.com/os-process-queues)
 [YT](https://www.youtube.com/watch?v=iLC--q7O_KM&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&index=9)
 
+#### Why we need process queue?
+
+* In OS processes are often managed using a process queue, which is a data structure that holds a list of processes waiting to be executed or waiting for particular event to occur.
+* Some reasons:
+	* Resource allocation
+	* Synchronization
+	* 
