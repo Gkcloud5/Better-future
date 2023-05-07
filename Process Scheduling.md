@@ -22,3 +22,5 @@
 * Job scheduler
 * It loads a process from secondary memory to main memory.
 * In secondary memory we have a job queue it contains list of all the process which are in system.
+* Ready queue resides in main memory.
+* Long term scheduler mainly controls the degree of multiprogramming. the purpose of long term scheduler is to choose a perfect mix of IO boun
