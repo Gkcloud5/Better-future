@@ -11,6 +11,11 @@
 * It specify information about process.
 * PCB gives identity to each process so that OS can easily distinguish between process.
 
+![[Pasted image 20230507141132.png]]
+
+##### Pointer:
+
+* It is a stack pointer which is required to be saved when the process is switched from one state to another to retain the current posi
 ##### Process state:
 
 * It represents process state
@@ -41,4 +46,10 @@
 
 * It means store information about CPU, how much time CPU executing a process
 
-##### 
+##### List of open files:
+
+* It maintain files which are opened for this process.
+
+##### List of IO devices:
+
+* What are the IO devices are allocated for process.

@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process table.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process table.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -195,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Process table.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Process table.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process table.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process table.md"
               }
             }
           },
@@ -272,10 +271,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87e9b326592601f3",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Image/Pasted image 20230507141132.png",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling.md",
-    "Process table.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Process table.md",
     "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
     "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Image/Pasted image 20230506201624.png",
@@ -316,7 +316,6 @@
     "Learning/Operating System/Theory Parts/Basics/Booting process/POST.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/32Bit vs 64Bit.md",
-    "Learning/Operating System/Theory Parts/Basics/RAM and ROM.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/OS Types",
     "Learning/Operating System/Theory Parts/Process",
