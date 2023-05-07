@@ -13,4 +13,18 @@
 
 ##### Process state:
 
-* 
+* It represents process state
+	* ready, wait, running, ...
+
+##### Process number:
+
+* Each process will have unique ID that id called as process number.
+* Process ID.
+
+##### Program counter:
+
+* It always contain a address of next instruction to be executed.
+
+##### CPU registers:
+
+* It used to store data.
