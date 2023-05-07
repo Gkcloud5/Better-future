@@ -48,7 +48,7 @@
                 "file": "Learning/Operating System/OS RoadMap.canvas",
                 "viewState": {
                   "x": 20,
-                  "y": -75,
+                  "y": -75.00000000000001,
                   "zoom": -0.16149900481891347
                 }
               },
@@ -94,12 +94,12 @@
             }
           },
           {
-            "id": "5034f4fadbb690df",
+            "id": "32e5ae6ec86c4c02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md"
               }
             }
           },
@@ -258,19 +258,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5034f4fadbb690df",
+  "active": "32e5ae6ec86c4c02",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
+    "Learning/Operating System/OS Topics.md",
+    "Learning/Operating System/OS RoadMap.canvas",
+    "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Process Scheduling.md",
     "Learning/Operating System/Image/Pasted image 20230507185421.png",
     "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
-    "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Process table.md",
     "Learning/Operating System/Image/Pasted image 20230507141132.png",
     "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Image/Pasted image 20230506201624.png",
-    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
     "Learning/Operating System/Image/Pasted image 20230506111801.png",
     "Learning/Operating System/Theory Parts/Process & schedule",
@@ -300,7 +301,6 @@
     "Learning/Operating System/Theory Parts/Basics/Booting process/System Configuration.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/MBR.md",
-    "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/OS Types",

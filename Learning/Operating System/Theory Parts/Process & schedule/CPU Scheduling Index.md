@@ -8,4 +8,5 @@
 3.  [[Process table]]
 4.  [[Process Scheduling]]
 5.  [[Process Queues]]
-6.  
+6.  [[Times related to process]]
+7.  
