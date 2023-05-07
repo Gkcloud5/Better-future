@@ -33,4 +33,6 @@
 
 ##### 3. Medium-term scheduler:
 
-* 
+* It is used to while implementing swapping concept.
+	* When CPU is executing one process if it receive interrupt then OS will transfer executing process to secondary memory.
+* It is responsible for suspending and resuming the process.
