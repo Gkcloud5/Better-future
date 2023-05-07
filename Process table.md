@@ -28,3 +28,17 @@
 ##### CPU registers:
 
 * It used to store data.
+
+##### CPU scheduling information:
+
+* It have information regarding scheduling like round robin, priority.
+
+##### Memory Management information:
+
+* This contains information about memory management system used by OS. this may include the page tables, segment tables.
+
+##### Accounting information:
+
+* It means store information about CPU, how much time CPU executing a process
+
+##### 
