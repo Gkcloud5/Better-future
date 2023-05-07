@@ -25,4 +25,9 @@
 ##### 2. Ready queue:
 
 *  It contains list of all the process which are waiting for execution by CPU.
-*  
+*  It resides in main memory
+
+##### 3. Wait queue:
+
+* It contains list of process that is waiting for IO operations.
+* 
