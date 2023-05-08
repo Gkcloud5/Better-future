@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Difference between dispatcher and scheduler.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Difference between dispatcher and scheduler.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Difference between dispatcher and scheduler.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Difference between dispatcher and scheduler.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md"
               }
             }
           },
@@ -261,7 +261,7 @@
   "active": "c646cb6e191b4b20",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
-    "Difference between dispatcher and scheduler.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
     "Learning/Operating System/Image/Context switching.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
