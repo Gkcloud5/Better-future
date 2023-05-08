@@ -7,4 +7,10 @@
 #### Arrival Time:
 
 * The time at which the process enters into the ready queue is called arrival time.
-* It allows system to tra
+* It allows system to track the order in which different tasks or processes arrived.
+* By using arrival time, the OS can schedule and manage processes in a fair and efficient way.
+
+#### Burst Time:
+
+* The total amount of time required by the CPU to execute the whole process is called the burst time.
+* 
