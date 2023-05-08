@@ -23,3 +23,8 @@
 #### Turnaround time:
 
 * Total amount of time spent by the process from its arrival to its completion, is called turnaround time.
+* It refers to the amount of time it takes for a process or task to complete its execution from the time it is submitted to the system.
+
+#### Waiting time:
+
+* The total amount of time for which the process waits for the CPU to be assi
