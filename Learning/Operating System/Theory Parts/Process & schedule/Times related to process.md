@@ -13,4 +13,9 @@
 #### Burst Time:
 
 * The total amount of time required by the CPU to execute the whole process is called the burst time.
-* 
+* By knowing he burst time of the process, the OS can schedule it in a way that minimizes the overall time required to complete all processes.
+
+#### Completion time:
+
+* The time at which the process enters into the completion state or the time at which the process completes its execution, is called completion time.
+* Completion time refers to the time when a process or task finishes its execution and releases all the resource
