@@ -11,4 +11,5 @@
 6.  [[Times related to process]]
 7.  [[Preemptive and non-preemptive scheduling]]
 8.  [[Context switching]]
-9. 
+9.  [[Difference between dispatcher and scheduler]]
+10. 
