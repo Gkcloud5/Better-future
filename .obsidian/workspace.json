@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preemptive and non-preemptive scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preemptive and non-preemptive scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preemptive and non-preemptive scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preemptive and non-preemptive scheduling.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md"
               }
             }
           },
@@ -258,12 +258,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8f3d407f6d49e66",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
-    "Preemptive and non-preemptive scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
-    "Pasted image 20230508152236.png",
+    "Learning/Operating System/Image/Pasted image 20230508152236.png",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md",
