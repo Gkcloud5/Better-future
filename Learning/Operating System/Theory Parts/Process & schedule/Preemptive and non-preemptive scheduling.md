@@ -4,4 +4,5 @@
 
 #### Preemptive scheduling:
 
-##### What is preemptive scheduli
+##### What is preemptive scheduling:
+	In preemptive scheduling algorithm
