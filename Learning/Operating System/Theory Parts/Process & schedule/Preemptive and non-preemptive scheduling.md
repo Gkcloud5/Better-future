@@ -16,4 +16,6 @@
 
 ##### What is non-preemptive scheduling:
 
-* 
+*  It is a scheduling algorithm used in OS where a running process cannot be interrupted or preempted by the OS until it has completed.
+* The non-preemptive scheduling algorithm is designed to ensure that a process is not interrupted while its executing critical tasks or has acquired important system resources.
+* In this scheduling, once the resources are allocated to a process, the process holds the CPU till it gets terminated or reaches a waiting state.
