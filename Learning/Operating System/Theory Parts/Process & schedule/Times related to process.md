@@ -27,4 +27,8 @@
 
 #### Waiting time:
 
-* The total amount of time for which the process waits for the CPU to be assi
+* The total amount of time for which the process waits for the CPU to be assigned is called waiting time.
+
+#### Response Time:
+
+* Difference between the arrival time and the time at which the process first gets the CPU is called response time.
