@@ -18,4 +18,8 @@
 #### Completion time:
 
 * The time at which the process enters into the completion state or the time at which the process completes its execution, is called completion time.
-* Completion time refers to the time when a process or task finishes its execution and releases all the resource
+* Completion time refers to the time when a process or task finishes its execution and releases all the resources that it was using.
+
+#### Turnaround time:
+
+* Total amount of time spent by the process from its arrival to its completion, is called turnaround time.
