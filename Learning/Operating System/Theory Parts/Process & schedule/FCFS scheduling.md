@@ -18,4 +18,5 @@
 
 #### Convoy effect:
 
-* The convoy effect refers to a phenomenon where a long-running process holds up other
+* The convoy effect refers to a phenomenon where a long-running process holds up other shorter processes that arrived after it. this happens because the shorter processes have to wait for the long-running process to finish executing before they can start running on the CPU.
+* 
