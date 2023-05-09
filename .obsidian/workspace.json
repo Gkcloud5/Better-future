@@ -111,14 +111,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FCFS scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md"
               }
             }
           },
@@ -270,10 +270,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ea584b0bc028e42",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "FCFS scheduling.md",
+    "Learning/Operating System/Image/Pasted image 20230509170318.png",
     "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
     "Learning/Operating System/Image/Context switching.md",
@@ -313,7 +314,6 @@
     "Learning/Operating System/Theory Parts/Basics/Booting process/Boot Block.md",
     "Learning/Operating System/OS.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Booting process of OS.md",
-    "Learning/Operating System/Theory Parts/Basics/Booting process/Security.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/OS Types",
