@@ -8,4 +8,4 @@
 
 * First come first serve
 * It is a scheduling algorithm used by OS to allocate CPU time to processes.
-* 
+* In FCFS scheduling, the OS simply execute the processes in the order they arrive, without considering any other factros s
