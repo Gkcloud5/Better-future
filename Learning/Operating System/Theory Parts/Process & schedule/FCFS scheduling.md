@@ -14,4 +14,6 @@
 
 ![[Pasted image 20230509170318.png]]
 
-* 
+* It is a non-preemptive scheduling
+
+#### Convoy effect:
