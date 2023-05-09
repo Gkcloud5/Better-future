@@ -5,3 +5,7 @@
 
 #### What is SJF in OS and why we need it?
 
+* Shortest job first
+* In this scheduling algorithm, it selects process as per the CPU burst time, which process has minimum burst time this scheduler will select for execution.
+* It is reduce average waiting time of processes in the ready queue, also it minimizes the average turnaround time and maximizes the CPU utilization.
+* Major drawback of SJF is starvation for long process, let consider if one process have a high burst time then chances for executing that process is very ver

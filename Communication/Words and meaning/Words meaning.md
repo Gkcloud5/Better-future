@@ -12,5 +12,7 @@ intensive    -  தீவிர
 phenomenon - நிகழ்வு
 * Over taking is phenomenon for most of the accident
 
+starvation  - பட்டினி
+* hostages are having starvation
 
 
