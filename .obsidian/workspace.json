@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FCFS scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FCFS scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FCFS scheduling.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md"
               }
             }
           },
@@ -270,10 +270,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93a1164b47f7fdda",
+  "active": "6ea584b0bc028e42",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
     "FCFS scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
     "Learning/Operating System/Image/Context switching.md",
