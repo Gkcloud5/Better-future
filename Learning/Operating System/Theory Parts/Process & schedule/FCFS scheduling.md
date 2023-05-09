@@ -17,3 +17,5 @@
 * It is a non-preemptive scheduling
 
 #### Convoy effect:
+
+* The convoy effect refers to a phenomenon where a long-running process holds up other
