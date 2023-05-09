@@ -246,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,7 +259,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7fa48e3a4a2089d",
+  "active": "904c795512713830",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
