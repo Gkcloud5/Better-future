@@ -109,11 +109,10 @@
             "id": "93a1164b47f7fdda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -193,14 +192,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -210,7 +208,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,9 +229,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md"
-              }
+              "state": {}
             }
           },
           {
@@ -253,12 +248,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,18 +265,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "93a1164b47f7fdda",
   "lastOpenFiles": [
-    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
+    "Learning/Operating System/OS Topics.md",
+    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Image/Pasted image 20230509170318.png",
     "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
     "Learning/Operating System/Image/Context switching.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md",
     "Learning/Operating System/Image/Pasted image 20230508152236.png",
-    "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Process Scheduling.md",
