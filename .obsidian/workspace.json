@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SJF scheduling.md",
+                "file": "Learning/Operating System/Image/SJF scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SJF scheduling.md",
+                "file": "Learning/Operating System/Image/SJF scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SJF scheduling.md",
+                "file": "Learning/Operating System/Image/SJF scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SJF scheduling.md"
+                "file": "Learning/Operating System/Image/SJF scheduling.md"
               }
             }
           },
@@ -262,7 +262,7 @@
   "active": "07924c1c0dc00dbd",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
-    "SJF scheduling.md",
+    "Learning/Operating System/Image/SJF scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Convoy effect.md",
     "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md",
     "Learning/Operating System/OS Topics.md",
