@@ -94,6 +94,18 @@
             }
           },
           {
+            "id": "4521535c395bbd32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e7fa48e3a4a2089d",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -259,10 +271,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904c795512713830",
+  "active": "e7fa48e3a4a2089d",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Theory Parts/Process & schedule/FCFS scheduling.md",
     "Learning/Operating System/OS Topics.md",
     "Communication/Words and meaning/Words meaning.md",
