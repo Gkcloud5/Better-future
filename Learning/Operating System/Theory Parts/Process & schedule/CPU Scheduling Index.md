@@ -14,4 +14,5 @@
 9.  [[Difference between dispatcher and scheduler]]
 10. [[FCFS scheduling]]
 11. [[SJF scheduling]]
-12. [[S]]
+12. [[SRTF scheduling]]
+13. 
