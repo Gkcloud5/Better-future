@@ -9,3 +9,4 @@
 * In SRTF, the scheduler selects the process with the shortest burs time to execute next
 	* If a new process arrives with a shorter remaining burst time than the currently executing process, the scheduler preempts the running process and schedules the new process.
 * It also have same drawback like SJF, starvation for long burst time process.
+* At the arrival of every processes , the short term scheduler schedules the process with the least remaining burst time among the list of available processes and the running process.
