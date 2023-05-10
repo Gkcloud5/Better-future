@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -270,8 +271,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eafd9bd63dd531db",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Development/HTML/Practise/index.html",
+    "Development/HTML/Practise",
+    "Development/HTML",
+    "Development/README.md",
+    "Development",
     "Development/HTML/HTML learn.md",
     "Web Development/HTML/HTML learn.md",
     "Web Development/HTML",
@@ -284,8 +290,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Non preemptive priority scheduling.md",
     "Learning/Operating System/Image/Pasted image 20230510175305.png",
     "Learning/Operating System/Image/Pasted image 20230510175201.png",
-    "Development/HTML",
-    "Development",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Preemptive priority scheduling.md",
     "Learning/Operating System/Image/Pasted image 20230510165518.png",
     "Learning/Operating System/Image/Pasted image 20230510163806.png",
@@ -313,13 +317,10 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Process Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Process table.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
     "Learning/Operating System/Theory Parts/Process & schedule",
-    "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Words and meaning",
     "Communication",
-    "Learning/Operating System/Theory Parts/System Structure",
-    "Learning/Operating System/Theory Parts/Basics/Booting process"
+    "Learning/Operating System/Theory Parts/System Structure"
   ]
 }
