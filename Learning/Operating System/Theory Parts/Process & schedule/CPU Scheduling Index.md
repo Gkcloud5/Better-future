@@ -15,4 +15,4 @@
 10. [[FCFS scheduling]]
 11. [[SJF scheduling]]
 12. [[SRTF scheduling]]
-13. 
+13. [[LRTF Scheduling]]
