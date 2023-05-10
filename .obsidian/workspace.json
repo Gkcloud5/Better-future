@@ -111,14 +111,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
+                "file": "Web Development/HTML/HTML learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a33e51488935f39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview of HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -193,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
+                "file": "Overview of HTML.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
+                "file": "Overview of HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md"
+                "file": "Overview of HTML.md"
               }
             }
           },
@@ -271,18 +283,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "4a33e51488935f39",
   "lastOpenFiles": [
+    "Web Development/HTML/HTML learn.md",
+    "Overview of HTML.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
     "Development/HTML/Practise/index.html",
     "Development/HTML/Practise",
     "Development/HTML",
     "Development/README.md",
     "Development",
     "Development/HTML/HTML learn.md",
-    "Web Development/HTML/HTML learn.md",
     "Web Development/HTML",
     "Web Development",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Starvation.md",
     "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
@@ -320,7 +333,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Words and meaning",
-    "Communication",
-    "Learning/Operating System/Theory Parts/System Structure"
+    "Communication"
   ]
 }
