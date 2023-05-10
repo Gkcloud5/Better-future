@@ -273,8 +273,11 @@
   },
   "active": "f0caf0f400884b1a",
   "lastOpenFiles": [
-    "Communication/Words and meaning/Words meaning.md",
+    "Development/HTML",
+    "Development",
+    "Untitled.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Non preemptive priority scheduling.md",
+    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Preemptive priority scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Priority CPU scheduling.md",
     "Learning/Operating System/Image/Pasted image 20230510165518.png",
@@ -311,8 +314,6 @@
     "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
-    "Learning/Operating System/Theory Parts/System Structure/System Call.md",
-    "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Words and meaning",
     "Communication",
@@ -320,7 +321,6 @@
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/OS Types",
-    "Learning/Operating System/Theory Parts/Process",
-    "Learning/Operating System/Theory Parts"
+    "Learning/Operating System/Theory Parts/Process"
   ]
 }
