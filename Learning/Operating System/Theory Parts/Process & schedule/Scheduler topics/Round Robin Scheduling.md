@@ -5,4 +5,5 @@
 
 #### What is round robin algorithm and why we need it?
 
-* 
+* It is popular scheduling algorithm used in OS to allocate CPU time to multiple processes.
+* It provide
