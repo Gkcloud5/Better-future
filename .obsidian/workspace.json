@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -258,7 +259,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "1c384524eb88ede7",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/LRTF Scheduling.md",
