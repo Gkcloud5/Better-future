@@ -15,4 +15,7 @@ phenomenon - நிகழ்வு
 starvation  - பட்டினி
 * hostages are having starvation
 
+responsiveness - பதிலளிக்கும் தன்மை
+* His responsiveness is awsome
+
 
