@@ -271,8 +271,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0caf0f400884b1a",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Image/Pasted image 20230510175305.png",
+    "Learning/Operating System/Image/Pasted image 20230510175201.png",
     "Development/HTML",
     "Development",
     "Untitled.md",
@@ -308,7 +310,6 @@
     "Learning/Operating System/Image/Pasted image 20230507185421.png",
     "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Process table.md",
-    "Learning/Operating System/Image/Pasted image 20230507141132.png",
     "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
     "Learning/Operating System/Theory Parts/Process & schedule",
     "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",
@@ -320,7 +321,6 @@
     "Learning/Operating System/Theory Parts/System Structure",
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
-    "Learning/Operating System/Theory Parts/Basics/OS Types",
-    "Learning/Operating System/Theory Parts/Process"
+    "Learning/Operating System/Theory Parts/Basics/OS Types"
   ]
 }
