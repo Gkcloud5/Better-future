@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Round Robin Scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Round Robin Scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Round Robin Scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Round Robin Scheduling.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md"
               }
             }
           },
@@ -262,7 +262,7 @@
   "active": "c46cae38e3b121fb",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
-    "Round Robin Scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/LRTF Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md",
     "Learning/Operating System/Image/Pasted image 20230509224559.png",
