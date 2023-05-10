@@ -12,4 +12,4 @@
 
 ![[Pasted image 20230510163806.png]]
 
-* If two process have same pri
+* If two process have same priority then first come first served basis process will be executed.
