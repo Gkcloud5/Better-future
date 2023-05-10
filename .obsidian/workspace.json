@@ -104,9 +104,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00857b0c4c8bc8b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md"
               }
             }
           },
@@ -259,12 +269,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "0db87d31dea1335b",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md",
     "Learning/Operating System/Image/Pasted image 20230509224559.png",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/FCFS scheduling.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SJF scheduling.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics",
@@ -296,7 +306,6 @@
     "Learning/Operating System/Theory Parts/System Structure/System Call.md",
     "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
     "Learning/Operating System/Image/Pasted image 20230504031324.png",
-    "Learning/Operating System/Image/Pasted image 20230504031244.png",
     "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Words and meaning",
