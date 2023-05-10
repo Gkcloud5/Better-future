@@ -5,4 +5,5 @@
 
 #### About Aging:
 
-* 
+* Aging is a scheduling technique used to avoid starvation.
+* Aging means increas
