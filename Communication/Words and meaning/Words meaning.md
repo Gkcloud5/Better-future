@@ -16,6 +16,9 @@ starvation  - பட்டினி
 * hostages are having starvation
 
 responsiveness - பதிலளிக்கும் தன்மை
-* His responsiveness is awsome
+* His responsiveness is awesome
+
+relinquishes  - விட்டுக்கொடுக்கிறது
+* Relinquishes is one of a good quality from man
 
 

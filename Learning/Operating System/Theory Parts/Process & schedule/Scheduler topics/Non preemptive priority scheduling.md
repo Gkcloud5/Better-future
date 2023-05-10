@@ -5,4 +5,4 @@
 
 #### What is non-preemptive priority scheduling?
 
-* 
+* It is same as priority scheduling without preemption, is a scheduling algorithm in which a running process continues to execute until it completes, blocks for IO. once a process is allocated the CPU, it retains control unit it fin
