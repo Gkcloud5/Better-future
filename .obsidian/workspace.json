@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Priority CPU scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Priority CPU scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Priority CPU scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Priority CPU scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Priority CPU scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Priority CPU scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Priority CPU scheduling.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Priority CPU scheduling.md"
               }
             }
           },
@@ -261,8 +261,9 @@
   },
   "active": "a127818ad8e4b217",
   "lastOpenFiles": [
+    "Pasted image 20230510163806.png",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
-    "Priority CPU scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Priority CPU scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Image/Pasted image 20230510162857.png",
     "Learning/Operating System/Image/Pasted image 20230510162714.png",
@@ -303,7 +304,6 @@
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Words and meaning",
     "Communication",
-    "Learning/Operating System/Theory Parts/System Structure/Kernel IO subsystem.md",
     "Learning/Operating System/Theory Parts/System Structure",
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
