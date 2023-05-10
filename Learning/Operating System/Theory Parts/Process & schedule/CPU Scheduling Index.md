@@ -17,4 +17,5 @@
 12. [[SRTF scheduling]]
 13. [[LRTF Scheduling]]
 14. [[Round Robin Scheduling]]
-15. 
+15. [[Priority CPU scheduling]]
+16. 

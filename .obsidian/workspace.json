@@ -94,12 +94,12 @@
             }
           },
           {
-            "id": "c46cae38e3b121fb",
+            "id": "a127818ad8e4b217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
+                "file": "Priority CPU scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
+                "file": "Priority CPU scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
+                "file": "Priority CPU scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md"
+                "file": "Priority CPU scheduling.md"
               }
             }
           },
@@ -259,13 +259,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "a127818ad8e4b217",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
+    "Priority CPU scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Image/Pasted image 20230510162857.png",
     "Learning/Operating System/Image/Pasted image 20230510162714.png",
     "Communication/Words and meaning/Words meaning.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/LRTF Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md",
     "Learning/Operating System/Image/Pasted image 20230509224559.png",
@@ -296,7 +297,6 @@
     "Learning/Operating System/Theory Parts/System Structure/Privileged and non-privileged instructions.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/Theory Parts/System Structure/Dual mode operation.md",
-    "Learning/Operating System/Image/Pasted image 20230505155647.png",
     "Learning/Operating System/Theory Parts/System Structure/System Call.md",
     "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
     "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
