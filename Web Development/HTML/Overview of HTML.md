@@ -12,3 +12,5 @@
 
 ![[Pasted image 20230510192128.png]]
 
+* CSS provide the look and feel or presentation layer of the page.
+* JavaScript is behavior's layer, often
