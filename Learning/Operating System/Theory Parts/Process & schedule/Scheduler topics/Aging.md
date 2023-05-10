@@ -6,4 +6,4 @@
 #### About Aging:
 
 * Aging is a scheduling technique used to avoid starvation.
-* Aging means increas
+* Aging means increasing a priority of process in ready queue, by doing so, as time passes, the lower priority process becomes a higher priority process.
