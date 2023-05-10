@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview of HTML.md",
+                "file": "Web Development/HTML/Overview of HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview of HTML.md",
+                "file": "Web Development/HTML/Overview of HTML.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview of HTML.md",
+                "file": "Web Development/HTML/Overview of HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview of HTML.md"
+                "file": "Web Development/HTML/Overview of HTML.md"
               }
             }
           },
@@ -283,10 +283,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a33e51488935f39",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Web Development/HTML/Image",
+    "Web Development/HTML/Image/Pasted image 20230510192128.png",
     "Web Development/HTML/HTML learn.md",
-    "Overview of HTML.md",
+    "Web Development/HTML/Overview of HTML.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
     "Development/HTML/Practise/index.html",
     "Development/HTML/Practise",
@@ -324,12 +326,10 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Context switching.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md",
-    "Learning/Operating System/Image/Pasted image 20230508152236.png",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Process Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/State of Process.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Process table.md",
     "Learning/Operating System/Theory Parts/Process & schedule",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Words and meaning",
