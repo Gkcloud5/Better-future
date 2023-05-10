@@ -94,12 +94,12 @@
             }
           },
           {
-            "id": "1c384524eb88ede7",
+            "id": "c46cae38e3b121fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/LRTF Scheduling.md",
+                "file": "Round Robin Scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/LRTF Scheduling.md",
+                "file": "Round Robin Scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/LRTF Scheduling.md",
+                "file": "Round Robin Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/LRTF Scheduling.md"
+                "file": "Round Robin Scheduling.md"
               }
             }
           },
@@ -259,11 +259,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c384524eb88ede7",
+  "active": "c46cae38e3b121fb",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/LRTF Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
+    "Round Robin Scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/LRTF Scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md",
     "Learning/Operating System/Image/Pasted image 20230509224559.png",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/FCFS scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SJF scheduling.md",
@@ -304,7 +305,6 @@
     "Learning/Operating System/Theory Parts/System Structure/Kernel IO subsystem.md",
     "Learning/Operating System/Theory Parts/System Structure",
     "Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
-    "Learning/Operating System/Theory Parts/Basics/UEFI vs BIOS.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process",
     "Learning/Operating System/Theory Parts/Basics/Function of OS",
     "Learning/Operating System/Theory Parts/Basics/OS Types",
