@@ -18,4 +18,6 @@
 13. [[LRTF Scheduling]]
 14. [[Round Robin Scheduling]]
 15. [[Priority CPU scheduling]]
-16. 
+16. [[Starvation]]
+17. [[Aging]]
+18. 
