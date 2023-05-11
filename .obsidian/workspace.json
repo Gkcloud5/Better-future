@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
+                "file": "Learning/Operating System/OS Topics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
+                "file": "Learning/Operating System/OS Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md"
+                "file": "Learning/Operating System/OS Topics.md"
               }
             }
           },
@@ -259,11 +259,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcaf74cb096951b0",
+  "active": "844576f668d97618",
   "lastOpenFiles": [
-    "Learning/Operating System/OS Topics.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
+    "Pasted image 20230511230717.png",
+    "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/HRRN Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
@@ -301,12 +302,10 @@
     "Learning/Operating System/Image/Pasted image 20230509220248.png",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Convoy effect.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
-    "Learning/Operating System/Image/Pasted image 20230509170318.png",
     "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Context switching.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md",
     "Learning/Operating System/OS RoadMap.canvas",
-    "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md",
     "Learning/Operating System/Theory Parts/Process & schedule",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Words and meaning"
