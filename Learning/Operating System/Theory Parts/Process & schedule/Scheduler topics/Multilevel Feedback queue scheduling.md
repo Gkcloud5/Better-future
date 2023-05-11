@@ -5,4 +5,4 @@
 #### What is multilevel feedback queue?
 
 * It almost same like MLQ, it is designed to handle processes with varying characteristics and dynamic priority adjustments based on their behavior.
-* 
+* In this alg
