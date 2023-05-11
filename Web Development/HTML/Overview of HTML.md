@@ -1,5 +1,5 @@
 #### Source:
-[Overview](https://web.dev/learn/html/)
+[Overview](https://web.dev/learn/html/overview/)
 
 
 #### About HTML:
@@ -14,3 +14,25 @@
 
 * CSS provide the look and feel or presentation layer of the page.
 * JavaScript is behavior's layer, often
+
+
+#### Elements:
+
+* HTML consists of a series of elements, which use to enclose.
+
+![[Pasted image 20230511233452.png]]
+
+
+#### Types of elements:
+
+1. Replaced
+2. Non-replaced
+
+##### Non-replaced elements:
+
+* Non-replaced elements have opining and closing tag that surround them.
+* paragraph, header tag are example for it
+
+##### Replaced and void elements:
+
+* Replaced elements are replaced by objects, be it 

@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTML/HTML learn.md",
+                "file": "Web Development/HTML/Overview of HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -180,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML/HTML learn.md",
+                "file": "Web Development/HTML/Overview of HTML.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML/HTML learn.md",
+                "file": "Web Development/HTML/Overview of HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML/HTML learn.md"
+                "file": "Web Development/HTML/Overview of HTML.md"
               }
             }
           },
@@ -260,6 +261,8 @@
   },
   "active": "c2eb0ade110e301a",
   "lastOpenFiles": [
+    "Web Development/HTML/Image/Pasted image 20230511233452.png",
+    "Web Development/HTML/HTML learn.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
@@ -270,7 +273,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/HRRN Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Starvation.md",
-    "Web Development/HTML/HTML learn.md",
     "Communication/Words and meaning/Words meaning.md",
     "Web Development/HTML/Image",
     "Web Development/HTML/Image/Pasted image 20230510192128.png",
@@ -304,7 +306,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Convoy effect.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Context switching.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
