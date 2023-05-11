@@ -16,7 +16,7 @@
 * JavaScript is behavior's layer, often
 
 
-#### Elements:
+### Elements:
 
 * HTML consists of a series of elements, which use to enclose.
 
@@ -35,4 +35,25 @@
 
 ##### Replaced and void elements:
 
-* Replaced elements are replaced by objects, be it 
+* Replaced elements are replaced by objects.
+* `<img>, <input>` are example for replaced elements
+
+```
+<input type="range">
+<img src="name.img" alt="img tag">
+```
+
+
+### Attributes:
+
+* Attributes provide information about the element
+
+![[Pasted image 20230511234118.png]]
+
+**Example:**
+
+```
+<img src="name.img" alt="img tag" ismpa />
+```
+
+In above example we have 3 attributes, `src, alt, ismap`.
