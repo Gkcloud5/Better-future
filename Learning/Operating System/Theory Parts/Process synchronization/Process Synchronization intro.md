@@ -17,3 +17,8 @@
 * [[Mutex]]
 * [[Semaphores]]
 * [[condition variable]]
+* [[Barriers]]
+* [[Atomic Operations]]
+* [[Critical sections]]
+* [[Monitors]]
+* 
