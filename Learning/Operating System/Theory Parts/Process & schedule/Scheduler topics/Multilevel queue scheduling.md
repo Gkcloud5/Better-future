@@ -15,3 +15,4 @@
 * How we can schedule to different queue
 	* Fixed preemptive priority scheduler
 	* time slicing between queue
+* It allows processes to move between queues based on their behavior or priority.

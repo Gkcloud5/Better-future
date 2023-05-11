@@ -94,12 +94,12 @@
             }
           },
           {
-            "id": "8b5ab2b3157c57fc",
+            "id": "fcaf74cb096951b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md"
               }
             }
           },
@@ -259,11 +259,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b5ab2b3157c57fc",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/HRRN Scheduling.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/HRRN Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Starvation.md",
     "Web Development/HTML/HTML learn.md",
@@ -306,7 +307,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Process Queues.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Process Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Words and meaning"
