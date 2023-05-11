@@ -13,12 +13,13 @@ phenomenon - நிகழ்வு
 * Over taking is phenomenon for most of the accident
 
 starvation  - பட்டினி
-* hostages are having starvation
+* hostages are having **starvation**
 
 responsiveness - பதிலளிக்கும் தன்மை
-* His responsiveness is awesome
+* His **responsiveness** is awesome
 
 relinquishes  - விட்டுக்கொடுக்கிறது
-* Relinquishes is one of a good quality from man
+* **Relinquishes** is one of a good quality from man
 
-
+semantic  - பொருள்
+* This **semantic** is made up of plastic

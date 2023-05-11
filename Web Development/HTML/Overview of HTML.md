@@ -57,3 +57,13 @@
 ```
 
 In above example we have 3 attributes, `src, alt, ismap`.
+
+
+### Appearance of elements:
+
+* Default appearance of semantic elements is set by user-agent stylesheets.
+
+```
+<h1>This header has both <strong>strong</strong> and <em>emphasized</em> content</h1>
+```
+
