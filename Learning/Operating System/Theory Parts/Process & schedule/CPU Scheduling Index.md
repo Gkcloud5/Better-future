@@ -20,4 +20,5 @@
 15. [[Priority CPU scheduling]]
 16. [[Starvation]]
 17. [[Aging]]
-18. 
+18. [[HRRN Scheduling]]
+19. 
