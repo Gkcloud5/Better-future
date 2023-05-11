@@ -1,6 +1,8 @@
 #### Source:
 [GFG](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 [JTP](https://www.javatpoint.com/os-process-synchronization-introduction)
+[YT](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)
+
 
 #### What is Process Synchronization in OS?
 
@@ -21,4 +23,9 @@
 * [[Atomic Operations]]
 * [[Critical sections]]
 * [[Monitors]]
-* 
+
+**Independent process:**
+   The execution of one process does not affect the execution of other processes.
+
+**Cooperative process:**
+   A process that can affect or be affected by other processes executing in the system
