@@ -15,4 +15,5 @@
 1. [[Basics of OS]]
 2. [[System Structure]]
 3. [[CPU Scheduling Index]]
-4. [[Process Synchroniz]]
+4. [[Process Synchronization]]
+5. 

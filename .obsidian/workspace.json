@@ -80,13 +80,13 @@
             }
           },
           {
-            "id": "0db87d31dea1335b",
+            "id": "d3b001c72949cbee",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,19 +94,19 @@
             }
           },
           {
-            "id": "fcaf74cb096951b0",
+            "id": "c2eb0ade110e301a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/OS Topics.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/OS Topics.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/OS Topics.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md"
               }
             }
           },
@@ -259,12 +259,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "844576f668d97618",
+  "active": "c2eb0ade110e301a",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
-    "Pasted image 20230511230717.png",
     "Learning/Operating System/OS Topics.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
+    "Learning/Operating System/Image/Pasted image 20230511230717.png",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/HRRN Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
@@ -304,7 +306,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Difference between dispatcher and scheduler.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Context switching.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Preemptive and non-preemptive scheduling.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
