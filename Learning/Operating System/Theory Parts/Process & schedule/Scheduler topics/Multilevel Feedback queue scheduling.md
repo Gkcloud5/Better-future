@@ -5,4 +5,6 @@
 #### What is multilevel feedback queue?
 
 * It almost same like MLQ, it is designed to handle processes with varying characteristics and dynamic priority adjustments based on their behavior.
-* In this alg
+* In this algorithm, ready queue divided into multiple queues, each with a different priority level. the queues are ordered in terms of priority.
+* Key feature of multi level feedback queue is that it allows processes to move between queue based on their behavior. 
+* 
