@@ -67,3 +67,9 @@ In above example we have 3 attributes, `src, alt, ismap`.
 <h1>This header has both <strong>strong</strong> and <em>emphasized</em> content</h1>
 ```
 
+### Elements, attributes and JavaScript:
+
+* DOM is the data representation of the structure and content of the HTML document.
+* As the browser parses HTML, it creates a javascript object every element and section of text encountered. these objects are called nodes
+	* Element nodes
+	* Text nodes
