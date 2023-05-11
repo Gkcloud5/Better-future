@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multilevel queue scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multilevel queue scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multilevel queue scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multilevel queue scheduling.md"
+                "file": "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md"
               }
             }
           },
@@ -259,10 +259,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b5ab2b3157c57fc",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/HRRN Scheduling.md",
-    "Multilevel queue scheduling.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Starvation.md",
