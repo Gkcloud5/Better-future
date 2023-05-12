@@ -6,4 +6,9 @@
 	* Producer
 	* Consumer
 * Producer process produced a item and consumer process will consume it.
-* Shared bu
+* Shared buffer is shared between producer and consumer
+
+![[Pasted image 20230512215011.png]]
+
+Count --> Shared variable.
+
