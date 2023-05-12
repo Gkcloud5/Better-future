@@ -46,4 +46,12 @@
 	* Semaphores
 	* Mutexes
 	* Mutual exclusion
-		* Allowing only one process or thread to access the shared resources at a time
+		* Allowing only one process or thread to access the shared resources at a time, it preventing race conditions and maintaining data consistency.
+
+##### Resource Allocation:
+* In many scenarios, multiple processes or threads may compete for limited resources, such as files, network connections, or hardware devices.
+* Process synchronization techniques help manage resource allocation by allowing processes or threads to request and release resources in an organized way.
+
+##### Interprocess communication:
+* Process often need to communicate and exchange data with each other. 
+* 

@@ -23,3 +23,6 @@ relinquishes  - விட்டுக்கொடுக்கிறது
 
 semantic  - பொருள்
 * This **semantic** is made up of plastic
+
+compete - போட்டியிடுகின்றன
+* Process are **compute** to get a CPU time
