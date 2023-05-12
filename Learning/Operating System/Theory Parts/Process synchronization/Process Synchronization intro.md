@@ -36,4 +36,14 @@
    * A process that can affect or be affected by other processes executing in the system
    * Process synchronization problem arises in the case of cooperative process also because resources shared in cooperative process.
 
-   
+
+#### Process synchronization becomes crucial for the following reasons:
+
+##### Data Consistency:
+* When multiple processes or threads access and modify shared data simultaneously, there is a risk of data corruption or inconsistent results.
+* Following mechanism will help to solve this issue
+	* Locks
+	* Semaphores
+	* Mutexes
+	* Mutual exclusion
+		* Allowing only one process or thread to access the shared resources at a time
