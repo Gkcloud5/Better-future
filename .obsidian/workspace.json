@@ -31,7 +31,7 @@
                 "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
                   "x": -201,
-                  "y": 250.00000000000003,
+                  "y": 449.4528301886793,
                   "zoom": -1.1007449737398172
                 }
               },
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md"
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
               }
             }
           },
@@ -283,12 +283,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b073bb78097388a",
+  "active": "e6137579181d46fc",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Race conditions.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
     "Pasted image 20230512215011.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Operations on process.md",
     "Learning/Operating System/Image/Pasted image 20230512212634.png",
