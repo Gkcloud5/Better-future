@@ -65,4 +65,5 @@
 * Resource allocation strategies will to solve this issue.
 
 ##### Timing and order control:
-* Sync
+* Synchronization mechanism also enable timing and order control in concurrent processes or threads.
+* Example, Barriers can be used to ensure that group of processes or threa
