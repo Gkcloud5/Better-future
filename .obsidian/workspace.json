@@ -259,8 +259,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "d57bf0160d9ec928",
   "lastOpenFiles": [
+    "Pasted image 20230512190707.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Operations on process.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
@@ -307,7 +308,6 @@
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Convoy effect.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
   ]

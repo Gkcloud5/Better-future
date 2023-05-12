@@ -8,4 +8,10 @@
 
 #### Process creation:
 
-* A parent process can create several cho
+* A parent process can create several child process.
+* A child process can create their own child process
+
+![[Pasted image 20230512190707.png]]
+
+##### Resource sharing:
+* Wherever parent process create a child process then the parent process can shares all of its resources with the children process. or parent process share some of his resources with children or it never share any resources with children.
