@@ -94,31 +94,19 @@
             }
           },
           {
-            "id": "c2eb0ade110e301a",
+            "id": "272090642195ec35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb5b295ccd172f54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/HTML/Fundamentals/Document structure.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Document structure.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Document structure.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Document structure.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md"
               }
             }
           },
@@ -271,13 +259,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb5b295ccd172f54",
+  "active": "272090642195ec35",
   "lastOpenFiles": [
-    "Web Development/HTML/Fundamentals",
+    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Web Development/HTML/Fundamentals/HTML learn.md",
     "Web Development/HTML/Fundamentals/Document structure.md",
+    "Web Development/HTML/Fundamentals",
     "Web Development/HTML/Fundamentals/Overview of HTML.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Communication/Words and meaning/Words meaning.md",
     "Web Development/HTML/Image/Pasted image 20230511234118.png",
     "Web Development/HTML/Image/Pasted image 20230511233452.png",
@@ -320,7 +308,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Times related to process.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Communication/Words and meaning"
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
   ]
 }
