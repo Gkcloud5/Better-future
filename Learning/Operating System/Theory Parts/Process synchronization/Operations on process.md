@@ -41,4 +41,4 @@ It replace duplicated process with new process.
 Once the operation of process all completed then the process will be terminated by calling exit system call.
 
 **KILL System call:**
-
+Sometime parent process need resource that allocated to child process, in this situation OS use kill system call and kill all the child process and then allocate freed resources to parent process
