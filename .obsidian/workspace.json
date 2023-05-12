@@ -31,7 +31,7 @@
                 "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
                   "x": -201,
-                  "y": 449.4528301886793,
+                  "y": 250.00000000000003,
                   "zoom": -1.1007449737398172
                 }
               },
@@ -123,14 +123,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
+                "file": "Learning/Operating System/OS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md"
               }
             }
           },
@@ -283,12 +283,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6137579181d46fc",
+  "active": "0339806ac3941c90",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Race conditions.md",
+    "Learning/Operating System/OS.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
     "Pasted image 20230512215011.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Operations on process.md",
     "Learning/Operating System/Image/Pasted image 20230512212634.png",
@@ -331,7 +333,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/FCFS scheduling.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics",
-    "Learning/Operating System/OS RoadMap.canvas",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+    "Learning/Operating System/OS RoadMap.canvas"
   ]
 }
