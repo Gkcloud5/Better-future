@@ -31,3 +31,14 @@ It will create a child process from parent process, it create exact duplicate of
 **EXEC system call:**
 It replace duplicated process with new process.
 
+ 
+![[Pasted image 20230512212634.png]]
+
+
+
+#### Process Termination:
+**EXIT system call:**
+Once the operation of process all completed then the process will be terminated by calling exit system call.
+
+**KILL System call:**
+
