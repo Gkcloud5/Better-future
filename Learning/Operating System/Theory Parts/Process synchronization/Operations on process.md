@@ -21,4 +21,13 @@
 * Parent process has to wait until the child process completed.
 
 ##### Address space for child process:
-* 
+* Child process is duplicate of parent process. child process have same PCB data of parent process only difference is process id.
+* Child process can replaced with new process
+
+##### UNIX example:
+**Fork System call:**
+It will create a child process from parent process, it create exact duplicate of parent process.
+
+**EXEC system call:**
+It replace duplicated process with new process.
+
