@@ -111,14 +111,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Race conditions.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Race conditions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b073bb78097388a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -193,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Race conditions.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Race conditions.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Race conditions.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md"
               }
             }
           },
@@ -271,11 +283,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa4599ebf52af44b",
+  "active": "9b073bb78097388a",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process synchronization/Operations on process.md",
-    "Race conditions.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Race conditions.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Operations on process.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Image/Pasted image 20230512212634.png",
     "Learning/Operating System/Image/Pasted image 20230512190707.png",
@@ -319,7 +332,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SJF scheduling.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Convoy effect.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
   ]
