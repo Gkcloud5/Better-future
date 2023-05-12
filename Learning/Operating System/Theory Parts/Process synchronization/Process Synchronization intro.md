@@ -10,7 +10,7 @@
 * Coordinating the execution of processes so that no two processes access the same shared resources and data is known as process synchronization.
 * Procedure involved in preserving the appropriate order of execution of cooperative process is known as process synchronization.
 * The need for process synchronization arises because multiple processes or threads running concurrently may share common resources, such as memory, files, devices or other system entities. without proper synchronization, simultaneous access to shared resources can lead to various problems
-	* Race conditions
+	* [[Race conditions]]
 	* Data corruption
 	* Deadlock
 	* Livelock
