@@ -15,3 +15,6 @@
 
 ##### Resource sharing:
 * Wherever parent process create a child process then the parent process can shares all of its resources with the children process. or parent process share some of his resources with children or it never share any resources with children.
+
+##### Execution:
+* *
