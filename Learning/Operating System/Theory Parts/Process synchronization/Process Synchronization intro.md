@@ -33,4 +33,7 @@
    The execution of one process does not affect the execution of other processes.
 
 **Cooperative process:**
-   A process that can affect or be affected by other processes executing in the system
+   * A process that can affect or be affected by other processes executing in the system
+   * Process synchronization problem arises in the case of cooperative process also because resources shared in cooperative process.
+
+   
