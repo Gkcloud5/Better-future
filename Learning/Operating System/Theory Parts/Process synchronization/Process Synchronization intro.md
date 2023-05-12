@@ -54,4 +54,15 @@
 
 ##### Interprocess communication:
 * Process often need to communicate and exchange data with each other. 
-* 
+* Synchronization mechanisms, such as
+	* Message queues
+	* shared memory
+	* condition variables
+		* Above are helps to avoid busy-waiting or race conditions.
+
+##### Avoid deadlocks:
+* Deadlock occurs when multiple processes or threads are waiting for each other to release resources, resulting in a situation where none of them can proceed.
+* Resource allocation strategies will to solve this issue.
+
+##### Timing and order control:
+* Sync
