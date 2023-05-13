@@ -3,3 +3,7 @@
 [GFG](https://www.geeksforgeeks.org/g-fact-70/)
 [JTP](https://www.javatpoint.com/os-critical-section-problem)
 
+#### What is critical section:
+
+* It is part of program where shared memory accessed
+	* Shared f
