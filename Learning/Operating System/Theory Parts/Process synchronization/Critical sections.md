@@ -20,3 +20,4 @@
 	1. Peterson's solution
 2. Hardware solution
 	1. Synchronization hardware
+
