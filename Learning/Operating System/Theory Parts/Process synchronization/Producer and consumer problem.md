@@ -15,4 +15,8 @@ Count --> Shared variable.
 * Size of a buffer is 5.
 * Producer produce a item and put it in buffer.
 	* Before storing a buffer we need to check buffer is full or not.
-* 
+
+#### Problem:
+
+![[Pasted image 20230513163545.png]]
+
