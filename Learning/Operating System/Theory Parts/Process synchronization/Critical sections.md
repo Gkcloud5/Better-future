@@ -21,3 +21,11 @@
 2. Hardware solution
 	1. Synchronization hardware
 
+#### Solution for critical section problem need to satisfy 3 requirements:
+
+##### 1. Mutual Exclusion:
+* It means at a time only one process in critical section.
+* When one process in critical section then another process should not be allowed in critical section.
+
+##### 2. Progress:
+* Let critical section does not have a process, some process in ready queue interested to enter in critical section then decision about which process enter into critical section, the decision should be taken in finite amount of time.
