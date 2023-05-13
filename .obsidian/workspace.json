@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Critical sections.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical sections.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critical sections.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical sections.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Critical sections.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Critical sections.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical sections.md"
               }
             }
           },
@@ -271,10 +271,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b75099cde307b5d",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Image/Pasted image 20230513191541.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Race conditions.md",
-    "Critical sections.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Critical sections.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
     "Learning/Operating System/Image/Pasted image 20230513163545.png",
@@ -318,7 +319,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Preemptive priority scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Round Robin Scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/LRTF Scheduling.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/SRTF scheduling.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics",
     "Learning/Operating System/OS RoadMap.canvas"
