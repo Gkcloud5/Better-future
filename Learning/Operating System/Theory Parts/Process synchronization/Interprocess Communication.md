@@ -15,4 +15,14 @@
 	* Printer
 	* Scanner
 
-##### Mod
+##### Modularity:
+* If there is big module(task) then it divided into small tasks, so the small task perform their own tasks.
+
+##### Computational Speedup:
+* Big task divided into small task and all small task perform concurrently so time will be saved.
+
+##### Convenience:
+* It is very convenient for users because it will help us to do multiple task efficient manner
+
+#### Mechanism:
+**In order to implement IPC they have two mechanism, that;s 
