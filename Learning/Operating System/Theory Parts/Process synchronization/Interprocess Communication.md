@@ -25,4 +25,12 @@
 * It is very convenient for users because it will help us to do multiple task efficient manner
 
 #### Mechanism:
-**In order to implement IPC they have two mechanism, that;s 
+
+**In order to implement IPC they have two mechanism, that's are**
+* Shared Memory
+* Message Passing
+
+##### Shared Memory:
+
+ ![[Pasted image 20230513225623.png]]
+
