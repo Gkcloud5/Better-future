@@ -43,3 +43,7 @@
 
 ##### Critical section:
 * Let assume critical section is free so process will come to critical section and it locks the critical section so that no other process should be allowed to enter into the critical section.
+
+##### Exit section:
+* In exit section we have to unlock a critical section.
+	* It specify that critical section okay to accept a process
