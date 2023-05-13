@@ -20,3 +20,4 @@ Count --> Shared variable.
 
 ![[Pasted image 20230513163545.png]]
 
+* When multiple process are accessing the same shared variable simultaneously and execute a instruction in not a proper order then **race condition** will occur.
