@@ -37,4 +37,9 @@
 #### General structure of process:
 
 ##### Entry section:
-* 
+* When ever process wants to enter in critical section it need to check if critical section is free or have any other process
+	* Suppose critical section free then process will be allocated.
+	* If critical section have any other process then checking process needs to be wait some time until critical section free
+
+##### Critical section:
+* Let assume critical section is free so process will come to critical section and it locks the critical section so that no other process should be allowed to enter into the critical section.
