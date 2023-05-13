@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interprocess Communication.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Interprocess Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interprocess Communication.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Interprocess Communication.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interprocess Communication.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Interprocess Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interprocess Communication.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Interprocess Communication.md"
               }
             }
           },
@@ -262,7 +262,7 @@
   "active": "c8493cf08ed4ad3d",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
-    "Interprocess Communication.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Interprocess Communication.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical sections.md",
     "Learning/Operating System/Image/Pasted image 20230513191541.png",
