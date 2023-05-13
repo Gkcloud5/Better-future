@@ -29,3 +29,12 @@
 
 ##### 2. Progress:
 * Let critical section does not have a process, some process in ready queue interested to enter in critical section then decision about which process enter into critical section, the decision should be taken in finite amount of time.
+
+##### 3. Bounded waiting:
+* Bounded means limited, we need to give a limit for no.of time process can enter into critical section. it will help some other process also have critical section if it needs
+
+
+#### General structure of process:
+
+##### Entry section:
+* 
