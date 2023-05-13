@@ -6,4 +6,8 @@
 #### What is critical section:
 
 * It is part of program where shared memory accessed
-	* Shared f
+	* Shared file
+	* Share memory
+* In producer consumer problem example we will use a count variable to know buffer size value, If process try to accessing a count variable is known as critical section
+	* Because producer when accessing a count variable it does not allow to access consumer, this thing will help to solve unwanted data corruption.
+* Critical section is only one process at a time.
