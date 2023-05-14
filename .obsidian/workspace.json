@@ -99,14 +99,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Interprocess Communication.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0b180e0e60ddc7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f0530de1c8823d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Naming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -181,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Interprocess Communication.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Naming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Interprocess Communication.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Naming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Interprocess Communication.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Naming.md"
               }
             }
           },
@@ -259,16 +283,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8493cf08ed4ad3d",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "Pasted image 20230514143054.png",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Naming.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
+    "Learning/Operating System/Image/Pasted image 20230514143054.png",
     "Learning/Operating System/Image/Pasted image 20230514142847.png",
     "Learning/Operating System/Image/Pasted image 20230514142810.png",
     "Learning/Operating System/Image/Pasted image 20230514142219.png",
     "Learning/Operating System/Image/Pasted image 20230514141954.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/OS Topics.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Interprocess Communication.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
     "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",
@@ -284,7 +312,6 @@
     "Learning/Operating System/Image/Pasted image 20230512215011.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Operations on process.md",
     "Learning/Operating System/Image/Pasted image 20230512212634.png",
-    "Learning/Operating System/Image/Pasted image 20230512190707.png",
     "Communication/Words and meaning/Words meaning.md",
     "Development/HTML/Practise/react.html",
     "Web Development/HTML/Fundamentals/HTML learn.md",
@@ -303,12 +330,9 @@
     "Development/HTML",
     "Development/README.md",
     "Development",
-    "Development/HTML/HTML learn.md",
     "Web Development/HTML",
     "Web Development",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Priority CPU scheduling.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics",
     "Learning/Operating System/OS RoadMap.canvas"
   ]
 }
