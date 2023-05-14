@@ -11,3 +11,8 @@
 * Some protocol have defined port number that's are
 	* FTP --> 21
 	* HTTP --> 80
+
+![[Pasted image 20230514162902.png]]
+
+* Client machine will sent connection request to server with a help of socket. whenever server receive the connection request then it provide the corresponding repones to the client machine.
+* If client request one more process then process will be have new port number.
