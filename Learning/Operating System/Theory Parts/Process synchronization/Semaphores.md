@@ -5,4 +5,4 @@
 
 #### About semaphores:
 
-* Semaphore is a integer
+* Semaphore is a integer variable that is shared by multiple processes.
