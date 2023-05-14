@@ -9,4 +9,9 @@
 * Client calls client stub(program) or client proxy.
 * Client stub packs parameters into a message, this process called marshaling.
 * Client OS sends message to server using a system call
-* Server calls s
+* Server calls server stub(server proxy)
+* Server stub will do demarshalling a message, unpacking a parameters from message
+* Server OS sends parameter to server so server will execute a program.
+* Server will returns the results of the RPC call to the client application
+* Client application unmarshals the results of the RPC call
+
