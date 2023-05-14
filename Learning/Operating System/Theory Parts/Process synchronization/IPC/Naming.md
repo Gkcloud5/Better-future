@@ -13,4 +13,16 @@
 
 ##### Send:
 * It is a system call
-* Here explicitly need to mention receiver process name
+* Here explicitly need to mention receiver process name and message that we want to send to receiver process
+
+##### Receiver:
+* Wants to receive a message from another process
+* Here it need to mention from name of which process they want to receive a message and message
+
+![[Pasted image 20230514144808.png]]
+
+#### Indirect Communication:
+
+* Here process cannot communicate directly.
+* Processes are use mediator to communicate with each other
+* Mediator called as mail box
