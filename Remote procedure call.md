@@ -3,4 +3,10 @@
 #### About Remote Procedure call:
 
 * Calling procedure which located in remote machine.
-* 
+
+#### How it implemented?
+
+* Client calls client stub(program) or client proxy.
+* Client stub packs parameters into a message, this process called marshaling.
+* Client OS sends message to server using a system call
+* Server calls s
