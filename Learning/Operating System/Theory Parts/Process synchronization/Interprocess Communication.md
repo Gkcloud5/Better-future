@@ -30,7 +30,7 @@
 * Shared Memory
 * Message Passing
 
-##### Shared Memory:
+#### Shared Memory:
 
  ![[Pasted image 20230513225623.png]]
 
@@ -50,3 +50,13 @@ out --> first full position
 ![[Pasted image 20230514142219.png]]
 
 * Communication between  processes using shared memory requires processes to share some variable, and it completely depends on how the programmer will implement it.
+
+
+#### Message Passing:
+
+![[Pasted image 20230514142810.png]]
+
+![[Pasted image 20230514142847.png]]
+
+* In order to sent message to another process, first need to sent message to kernel and then kernel will sent that message to destination process.
+* 
