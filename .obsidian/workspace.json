@@ -128,9 +128,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1fc214473309f9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sockets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
+                "file": "Sockets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
+                "file": "Sockets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md"
+                "file": "Sockets.md"
               }
             }
           },
@@ -283,10 +295,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74958f12b1b4f288",
+  "active": "b1fc214473309f9e",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
+    "Sockets.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
     "Pasted image 20230514152544.png",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
