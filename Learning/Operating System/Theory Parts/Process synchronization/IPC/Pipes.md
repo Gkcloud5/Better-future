@@ -5,4 +5,5 @@
 #### About Pipe:
 
 * A pipe is a unidirectional communication channel between two processes.
-* 
+* example: ls | more
+	* It sends output of one process to input of another process

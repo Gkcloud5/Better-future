@@ -135,7 +135,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pipes.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Pipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pipes.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Pipes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pipes.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Pipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pipes.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Pipes.md"
               }
             }
           },
@@ -295,10 +295,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfe2c0f4834c8baa",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "Remote procedure call.md",
-    "Pipes.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Remote procedure call.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Pipes.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
     "Learning/Operating System/Image/Pasted image 20230514162902.png",
