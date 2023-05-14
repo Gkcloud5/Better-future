@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buffering.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buffering.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buffering.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buffering.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md"
               }
             }
           },
@@ -285,8 +285,9 @@
   },
   "active": "7c5e7ba6a0e64aae",
   "lastOpenFiles": [
+    "Pasted image 20230514150813.png",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
-    "Buffering.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
@@ -324,7 +325,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel Feedback queue scheduling.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/HRRN Scheduling.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Aging.md",
     "Web Development/HTML/Image",
     "Development/HTML/Practise/index.html",
     "Development/HTML/Practise",
