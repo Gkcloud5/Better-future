@@ -22,3 +22,9 @@
 ##### Service:
 * A service is a specific task that the server provides for the client to use, like downloading image
 
+
+#### Client server communication done in 3 ways:
+
+1. [[Sockets]]
+2. [[Remote procedure call]]
+3. [[Pipes]]
