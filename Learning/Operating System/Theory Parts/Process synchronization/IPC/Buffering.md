@@ -14,3 +14,9 @@
 
 ![[Pasted image 20230514150813.png]]
 
+* If the buffer is full then sender has to wait till consumer consume a item from buffer
+
+##### Infinite Capacity:
+* Buffer size is infinite
+* Here sender no need to wait till consumer consume data from buffer.
+* Sender can put any number of buffer in this state
