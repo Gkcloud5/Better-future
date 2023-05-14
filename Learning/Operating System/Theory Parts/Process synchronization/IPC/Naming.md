@@ -6,3 +6,11 @@
 * Naming will specify how one process can send message to another process and how one process can receive message from another process.
 
 #### Direct Communication:
+
+* Here they use two operation
+	* Send
+	* Receive
+
+##### Send:
+* It is a system call
+* Here explicitly need to mention receiver process name

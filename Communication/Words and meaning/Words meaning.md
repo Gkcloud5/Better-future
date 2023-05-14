@@ -6,11 +6,11 @@ Modularity - பண்புக்கூறு (Parts separated and recombined)
 piling          - குவித்தல்
 adversely   -  மோசமான
 
-intensive    -  தீவிர
-* We are intensively working to solve your issue
+**intensive**    -  தீவிர
+* We are **intensively** working to solve your issue
 
-phenomenon - நிகழ்வு
-* Over taking is phenomenon for most of the accident
+**phenomenon** - நிகழ்வு
+* Over taking is **phenomenon** for most of the accident
 
 starvation  - பட்டினி
 * hostages are having **starvation**
@@ -26,3 +26,6 @@ semantic  - பொருள்
 
 compete - போட்டியிடுகின்றன
 * Process are **compute** to get a CPU time
+
+explicitly - வெளிப்படையாக
+* Crypto give **explicitly** information about sender and receiver
