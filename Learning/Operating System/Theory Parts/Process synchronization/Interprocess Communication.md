@@ -43,3 +43,10 @@
 
 ![[Pasted image 20230514141954.png]]
 
+in --> next free position
+out --> first full position
+
+
+![[Pasted image 20230514142219.png]]
+
+* Communication between  processes using shared memory requires processes to share some variable, and it completely depends on how the programmer will implement it.
