@@ -11,3 +11,12 @@
 
 ![[Pasted image 20230514152544.png]]
 
+##### Requests:
+* Requests are sent from the client in order to ask the server for some data like files, or tell the server about things that happen, like that a user want to login with his credentials.
+
+##### Response:
+* A response is sent from the server to the client and is the reaction of the server to a request of the client. this could for example be an authentication result.
+
+##### Service:
+* A service is a specific task that the server provides for the client to use, like downloading image
+
