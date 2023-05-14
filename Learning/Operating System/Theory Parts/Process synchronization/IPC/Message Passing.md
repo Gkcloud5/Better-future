@@ -21,7 +21,7 @@
 	 * Blocked sender and Blocked receiver
 	 * Non-Blocked sender and non blocked receiver
 
-3. **Buffering**
+3. **[[Buffering]]**
  * What is a size of a buffer
 	 * 0 capacity
 	 * Finite capacity
