@@ -118,12 +118,12 @@
             }
           },
           {
-            "id": "7c5e7ba6a0e64aae",
+            "id": "74958f12b1b4f288",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md"
               }
             }
           },
@@ -283,11 +283,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c5e7ba6a0e64aae",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
-    "Pasted image 20230514150813.png",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
+    "Learning/Operating System/Image/Pasted image 20230514150813.png",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",

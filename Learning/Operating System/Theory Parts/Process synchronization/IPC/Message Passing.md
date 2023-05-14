@@ -27,3 +27,4 @@
 	 * Finite capacity
 	 * Infinite capacity
 
+##### [[Communication in client and server architecture]]
