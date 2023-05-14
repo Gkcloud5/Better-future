@@ -11,7 +11,8 @@
 
 ![[Pasted image 20230514152544.png]]
 
-* Communication in client/server architecture typically follows a request-response model. the client, which is usually a user interface or an application running on a user's device, initiates communication by sending a request to the server. the server 
+* Communication in client/server architecture typically follows a request-response model. the client, which is usually a user interface or an application running on a user's device, initiates communication by sending a request to the server. the server which is a powerful machine, receives the request, processes it and generate response. the response is then sent back to the client.
+
 ##### Requests:
 * Requests are sent from the client in order to ask the server for some data like files, or tell the server about things that happen, like that a user want to login with his credentials.
 
