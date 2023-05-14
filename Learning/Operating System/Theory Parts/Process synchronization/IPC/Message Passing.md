@@ -16,7 +16,7 @@
 	 * Direct communication
 	 * Indirect Communication
 
-2. **Synchronization**
+2. **[[Synchronization]]**
  * How we will implement synchronization
 	 * Blocked sender and Blocked receiver
 	 * Non-Blocked sender and non blocked receiver

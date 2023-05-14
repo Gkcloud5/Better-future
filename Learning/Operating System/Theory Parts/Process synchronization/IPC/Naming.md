@@ -26,3 +26,8 @@
 * Here process cannot communicate directly.
 * Processes are use mediator to communicate with each other
 * Mediator called as mail box
+
+![[Pasted image 20230514145058.png]]
+
+p --> send (mailbox, message)
+q --> receive(mailbox, message)
