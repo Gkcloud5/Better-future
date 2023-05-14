@@ -3,3 +3,6 @@
 [JTP](https://www.javatpoint.com/os-semaphore-introduction)
 [GFG](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
 
+#### About semaphores:
+
+* Semaphore is a integer
