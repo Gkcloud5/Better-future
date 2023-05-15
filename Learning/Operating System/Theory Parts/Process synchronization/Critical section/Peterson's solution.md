@@ -6,5 +6,5 @@
 
 * It is a software solution of critical section.
 * Software means program, it's a collection of instruction.
-* We can use petrson's solution only 2 process are involved in critical section
+* We can use peterson's solution only 2 process are involved in critical section
 *  
