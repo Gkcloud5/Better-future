@@ -7,4 +7,6 @@
 
 * Semaphore is a integer variable that is shared by multiple processes.
 * It is a synchronization mechanism used to coordinate the activities of multiple processes in a computer system.
-* 
+* We can initially semaphore variable and we can accessed by 2 standard operations
+	* Wait
+	* Signal
