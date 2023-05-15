@@ -17,7 +17,7 @@
 #### Ways to solve critical section:
 
 1. Software solution
-	1. Peterson's solution
+	1. [[Peterson's solution]]
 2. Hardware solution
 	1. Synchronization hardware
 
