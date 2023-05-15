@@ -9,3 +9,8 @@
 
 ![[Pasted image 20230515191120.png]]
 
+* a monitor is a synchronization construct that combines 
+	* Shared data
+	* Procedures
+	* Condition variable
+* Monitors provide high level abstraction for concurrent programming. making it easier to manage shared resources and ensure mutual ex

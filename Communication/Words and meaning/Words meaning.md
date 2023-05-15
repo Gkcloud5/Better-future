@@ -29,3 +29,6 @@ compete - போட்டியிடுகின்றன
 
 explicitly - வெளிப்படையாக
 * Crypto give **explicitly** information about sender and receiver
+
+abstraction - சுருக்கம்
+* 
