@@ -10,3 +10,11 @@
 * We can initially semaphore variable and we can accessed by 2 standard operations
 	* Wait
 	* Signal
+* Semaphore is a simply an integer variable that is shared between threads. this variable is used to solve the critical section problem to achieve process synchronization in the multiprocessing environment.
+
+![[Pasted image 20230515150227.png]]
+
+
+#### Mutual exclusion implementation:
+
+* 
