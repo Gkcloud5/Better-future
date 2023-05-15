@@ -6,4 +6,6 @@
 
 * Monitors is alternative to semaphore.
 * it vey helpful inorder to provide process synchronization.
-* 
+
+![[Pasted image 20230515191120.png]]
+

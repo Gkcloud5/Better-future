@@ -271,8 +271,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0df1bb190ca1b549",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Image/Pasted image 20230515191120.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Monitors.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md",
@@ -309,7 +310,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/Critical sections.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Race conditions.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
-    "Learning/Operating System/OS.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Development/HTML/Practise/react.html",
     "Web Development/HTML/Fundamentals",
