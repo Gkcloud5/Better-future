@@ -17,4 +17,6 @@
 
 #### Mutual exclusion implementation:
 
+![[Pasted image 20230515150407.png]]
+
 * 
