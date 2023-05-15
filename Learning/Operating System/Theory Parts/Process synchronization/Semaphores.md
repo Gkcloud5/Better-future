@@ -25,4 +25,12 @@
 * **Mutex** is a semaphore variable. it will make changes in wait and signal system call inorder to allow process in critical section
 * Initially mutex value is 1
 * wait(1) --> wait function have while and s-- instructions.
-* m
+* mutex value is 1 so process p1 sent to critical section
+* Only p1 process completed then it call signal(mutex)
+* signal can increase a mutex value 1 so it denotes critical section is free
+
+
+#### Types of semaphore:
+
+1. Binary semaphore --> Value may be 0 or 1
+2. Counting semaphore --> 
