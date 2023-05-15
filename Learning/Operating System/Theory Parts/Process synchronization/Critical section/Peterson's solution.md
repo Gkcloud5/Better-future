@@ -52,4 +52,7 @@ process Process1 {
 ##### Mutual Exclusion:
 
 * Critical section should have only one process at a time
-* 
+
+##### Progress:
+
+* If critical section is free then which process need to execute
