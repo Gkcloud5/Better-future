@@ -4,4 +4,6 @@
 
 #### About monitors:
 
-* Monito
+* Monitors is alternative to semaphore.
+* it vey helpful inorder to provide process synchronization.
+* 
