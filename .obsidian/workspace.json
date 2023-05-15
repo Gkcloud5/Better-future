@@ -106,12 +106,12 @@
             }
           },
           {
-            "id": "dbf52e5cad9bf879",
+            "id": "f44288bb70b112ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Semaphores.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Semaphores.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Semaphores.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Semaphores.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md"
               }
             }
           },
@@ -271,12 +271,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbf52e5cad9bf879",
+  "active": "f44288bb70b112ce",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Semaphores.md",
     "Learning/Operating System/Image/Pasted image 20230515150407.png",
     "Learning/Operating System/Image/Pasted image 20230515150227.png",
-    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Semaphores.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Operations on process.md",
@@ -301,7 +302,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
     "Learning/Operating System/Image/Pasted image 20230514143054.png",
     "Learning/Operating System/Image/Pasted image 20230514142847.png",
-    "Learning/Operating System/Image/Pasted image 20230514142810.png",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
     "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
     "Learning/Operating System/Theory Parts/System Structure/Monolithic vs microkernel.md",

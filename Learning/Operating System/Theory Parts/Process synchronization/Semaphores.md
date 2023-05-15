@@ -33,4 +33,4 @@
 #### Types of semaphore:
 
 1. Binary semaphore --> Value may be 0 or 1
-2. Counting semaphore --> 
+2. Counting semaphore --> Value of semaphore may be any like 20 or 30 or 40, ....
