@@ -47,6 +47,8 @@ process Process1 {
 ```
 
 
+![[Pasted image 20230515232034.png]]
+
 #### 3 requirements to solve critical section issue:
 
 ##### Mutual Exclusion:
@@ -56,3 +58,7 @@ process Process1 {
 ##### Progress:
 
 * If critical section is free then which process need to execute
+
+##### Bounded waiting:
+
+* 
