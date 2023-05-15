@@ -19,7 +19,7 @@
 1. Software solution
 	1. [[Peterson's solution]]
 2. Hardware solution
-	1. Synchronization hardware
+	1. [[Synchronization hardware]]
 
 #### Solution for critical section problem need to satisfy 3 requirements:
 
