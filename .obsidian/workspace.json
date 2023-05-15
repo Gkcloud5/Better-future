@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Peterson's solution.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Peterson's solution.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Peterson's solution.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md"
               }
             }
           },
@@ -283,11 +283,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11fcbaf020fb60e7",
+  "active": "8a67f9cb5cdb8a61",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Peterson's solution.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Peterson's solution.md",
     "Learning/Operating System/Image/Pasted image 20230515232034.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Image/Pasted image 20230515213544.png",

@@ -61,4 +61,4 @@ process Process1 {
 
 ##### Bounded waiting:
 
-* 
+* Give limited number of access to critical section for particular process.
