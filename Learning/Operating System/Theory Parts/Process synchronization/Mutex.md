@@ -9,4 +9,6 @@
 * A mutex provides two fundamental operations
 	* Locking
 	* Unlocking
-* If the lock is available process takes ownership of he lock and proceeds with its c
+* If the lock is available process takes ownership of he lock and proceeds with its critical section of code where it accesses the shared resource.
+* Once the thread completes its critical section, it releases the mutex by unlocking it. this allow other waiting thread to acquire the shared resources.
+* The concept of mutual exclusion ensures that only one thread can execute the critical section.

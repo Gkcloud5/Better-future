@@ -106,12 +106,12 @@
             }
           },
           {
-            "id": "f44288bb70b112ce",
+            "id": "0df1bb190ca1b549",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Monitors.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Monitors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Monitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Monitors.md"
               }
             }
           },
@@ -271,9 +271,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f44288bb70b112ce",
+  "active": "0df1bb190ca1b549",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Monitors.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Mutex.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Semaphores.md",
     "Learning/Operating System/Image/Pasted image 20230515150407.png",
@@ -311,7 +312,6 @@
     "Learning/Operating System/OS.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Development/HTML/Practise/react.html",
-    "Web Development/HTML/Fundamentals/HTML learn.md",
     "Web Development/HTML/Fundamentals",
     "Web Development/HTML/Image",
     "Development/HTML/Practise/index.html",
