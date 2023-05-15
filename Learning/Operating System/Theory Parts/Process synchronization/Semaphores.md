@@ -19,4 +19,9 @@
 
 ![[Pasted image 20230515150407.png]]
 
-* 
+* Let consider two process p1 and p2.
+* Critical section only shared memory accessed.
+	* If one process is in critical section then no other process allowed in critical section until previous process completed.
+* **Mutex** is a semaphore variable. it will make changes in wait and signal system call inorder to allow process in critical section
+* Initially mutex value is 1
+* wait(1) -->
