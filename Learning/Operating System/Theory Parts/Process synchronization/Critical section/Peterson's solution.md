@@ -4,4 +4,5 @@
 
 #### About Peterson's solution:
 
-* It is a software soultion of critical section
+* It is a software solution of critical section.
+* Software means program, it's a collection of instruction.
