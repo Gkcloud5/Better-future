@@ -285,8 +285,9 @@
   },
   "active": "11fcbaf020fb60e7",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
+    "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Peterson's solution.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Monitors.md",
@@ -331,7 +332,6 @@
     "Development/HTML",
     "Development",
     "Web Development/HTML",
-    "Learning/Programming/Program learning Steps/Programe learn.canvas",
-    "Learning/Operating System/OS RoadMap.canvas"
+    "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
