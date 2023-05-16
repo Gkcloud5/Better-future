@@ -7,4 +7,5 @@
 1. [[Overview of HTML]]
 2. [[Document structure]]
 3. [[Meta tags]]
-4. 
+4. [[Semantic HTML]]
+5. 
