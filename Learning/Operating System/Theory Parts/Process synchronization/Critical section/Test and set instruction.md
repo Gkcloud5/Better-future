@@ -38,3 +38,35 @@ lock = false;
 
 
 
+#### Example to resolve mutual exclusion, progress and bounded waiting:
+
+```
+bool lock = false;  // Shared lock variable
+
+int maxAttempts = 100;  // Maximum number of attempts to acquire the lock
+
+// Component A
+for (int attempt = 0; attempt < maxAttempts; attempt++) {
+    while (test_and_set(&lock) == true) {
+        // The lock is already acquired, so Component A spins and waits
+    }
+    
+    // Critical section: Only Component A can access the shared resource at a time
+
+    // Release the lock
+    lock = false;
+}
+
+// Component B
+for (int attempt = 0; attempt < maxAttempts; attempt++) {
+    while (test_and_set(&lock) == true) {
+        // The lock is already acquired, so Component B spins and waits
+    }
+    
+    // Critical section: Only Component B can access the shared resource at a time
+
+    // Release the lock
+    lock = false;
+}
+
+```
