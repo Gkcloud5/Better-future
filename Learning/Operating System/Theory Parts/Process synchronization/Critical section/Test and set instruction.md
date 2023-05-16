@@ -17,3 +17,24 @@
 
 ![[Pasted image 20230516174555.png]]
 
+* **test and set:** test the instruction and making a value true to run a process in critical section
+
+
+#### Spin lock instruction:
+
+```
+bool lock = false;  // Shared lock variable
+
+// Acquiring the lock
+while (test_and_set(&lock) == true) {
+    // The lock is already acquired, so the current thread spins and waits
+}
+
+// Critical section: Only one thread can access the shared resource at a time
+
+// Releasing the lock
+lock = false;
+```
+
+
+
