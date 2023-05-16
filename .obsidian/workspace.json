@@ -142,12 +142,12 @@
             }
           },
           {
-            "id": "82a69501f2f3e5e6",
+            "id": "f043e11dafc3b014",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Test and set instruction.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Test and set instruction.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Test and set instruction.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Test and set instruction.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md"
               }
             }
           },
@@ -307,12 +307,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "f043e11dafc3b014",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Test and set instruction.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Synchronization hardware.md",
     "Learning/Operating System/Image/Pasted image 20230516174555.png",
     "Learning/Operating System/Image/Pasted image 20230516173621.png",
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Synchronization hardware.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Test and set instruction.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Peterson's solution.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
@@ -340,7 +341,6 @@
     "Learning/Operating System/Image/Pasted image 20230514162902.png",
     "Learning/Operating System/Image/Pasted image 20230514152544.png",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
-    "Learning/Operating System/Image/Pasted image 20230514150813.png",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Synchronization.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Naming.md",

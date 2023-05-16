@@ -22,7 +22,7 @@
 
 #### Spin lock instruction:
 
-```
+``` c++
 bool lock = false;  // Shared lock variable
 
 // Acquiring the lock
@@ -40,7 +40,7 @@ lock = false;
 
 #### Example to resolve mutual exclusion, progress and bounded waiting:
 
-```
+``` c++
 bool lock = false;  // Shared lock variable
 
 int maxAttempts = 100;  // Maximum number of attempts to acquire the lock
