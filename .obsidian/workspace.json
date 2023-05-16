@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -270,7 +269,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "9e17930f225e1b06",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process synchronization/Bounded Buffer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Readers writers problem.md",
