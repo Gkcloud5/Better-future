@@ -8,7 +8,8 @@
 * Writers process can perform read and write operations
 * Some of the process only want to read the resources and some of the processes are writers, which want to write
 
-#### Things to know:
+#### Constraints:
 
 * Allow multiple readers to read the file simultaneously.
-* When a reader process accessing the file then write process is not allowed to access
+* When a reader process accessing the file then write process is not allowed to access file.
+* When write process accessing the file then no other process is allowed to access a file.
