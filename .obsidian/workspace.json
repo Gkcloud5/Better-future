@@ -94,24 +94,24 @@
             }
           },
           {
-            "id": "a08f396fd8b77947",
+            "id": "ed38a51c482df417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
+                "file": "Web Development/HTML/Fundamentals/HTML learn.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "929789bfd40e6aea",
+            "id": "d631d2600f56d7e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Dining philosophers problem.md",
+                "file": "Web Development/HTML/Fundamentals/Document structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Dining philosophers problem.md",
+                "file": "Web Development/HTML/Fundamentals/Document structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Dining philosophers problem.md",
+                "file": "Web Development/HTML/Fundamentals/Document structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Dining philosophers problem.md"
+                "file": "Web Development/HTML/Fundamentals/Document structure.md"
               }
             }
           },
@@ -270,10 +270,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "929789bfd40e6aea",
+  "active": "d631d2600f56d7e9",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
+    "Web Development/HTML/Fundamentals/HTML learn.md",
+    "Web Development/HTML/Fundamentals/Overview of HTML.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock",
+    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Dining philosophers problem.md",
     "Learning/Operating System/Image/Pasted image 20230516213132.png",
     "Learning/Operating System/Image/Pasted image 20230516212348.png",
@@ -307,8 +311,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Pipes.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Remote procedure call.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Development/HTML/Practise/react.html",
@@ -318,7 +320,6 @@
     "Development/HTML/Practise",
     "Development/HTML",
     "Development",
-    "Web Development/HTML",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
