@@ -29,7 +29,7 @@
 
 #### Example:
 
-```
+``` c++
 // declare two semaphores
 semaphore empty = 1;
 semaphore full = 0;

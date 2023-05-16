@@ -106,31 +106,19 @@
             }
           },
           {
-            "id": "4e7990f04a96384b",
+            "id": "9e17930f225e1b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Semaphores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68debc678f3ee25b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bounded Buffer problem.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Readers writers problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -205,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bounded Buffer problem.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Readers writers problem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bounded Buffer problem.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Readers writers problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bounded Buffer problem.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Readers writers problem.md"
               }
             }
           },
@@ -282,20 +270,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68debc678f3ee25b",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process synchronization/Bounded Buffer problem.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Readers writers problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Semaphores.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
-    "Bounded Buffer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Race conditions.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Monitors.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Synchronization hardware.md",
-    "Pasted image 20230516181028.png",
+    "Learning/Operating System/Image/Pasted image 20230516181028.png",
     "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Test and set instruction.md",
     "Learning/Operating System/Image/Pasted image 20230516174555.png",
@@ -321,7 +310,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Synchronization.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Naming.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Development/HTML/Practise/react.html",

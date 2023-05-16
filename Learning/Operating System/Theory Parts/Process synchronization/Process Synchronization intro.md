@@ -71,4 +71,6 @@
 
 #### Problems:
 
-[[Bounded Buffer problem]]
+1. [[Bounded Buffer problem]]
+2. [[Readers writers problem]]
+
