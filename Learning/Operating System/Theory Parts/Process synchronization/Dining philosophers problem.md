@@ -19,3 +19,36 @@
 	* p2 or p3 have a chance to eat
 * If each philosopher is hunger and each one have 1 fork then [[Deadlock]] will occur.
 
+#### Solution for this issue:
+
+##### We are using semaphore to solve this issue:
+
+* we will use wait and signal operation
+
+![[Pasted image 20230516213132.png]]
+
+##### Code:
+
+```
+// declare five semaphores
+semaphore fork[5];
+
+// define a function for the philosopher
+void philosopher(int i) {
+  // acquire the left fork
+  wait(&fork[i]);
+
+  // acquire the right fork
+  wait(&fork[(i + 1) % 5]);
+
+  // eat
+  // ...
+
+  // release the left fork
+  signal(&fork[i]);
+
+  // release the right fork
+  signal(&fork[(i + 1) % 5]);
+}
+
+```
