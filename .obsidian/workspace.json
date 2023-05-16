@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Monitors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Monitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Monitors.md"
               }
             }
           },
@@ -307,16 +307,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f043e11dafc3b014",
+  "active": "9d9e4913600dec20",
   "lastOpenFiles": [
-    "Communication/Words and meaning/Words meaning.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md",
+    "Pasted image 20230516181028.png",
+    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Test and set instruction.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Synchronization hardware.md",
     "Learning/Operating System/Image/Pasted image 20230516174555.png",
     "Learning/Operating System/Image/Pasted image 20230516173621.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Peterson's solution.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Monitors.md",
     "Learning/Operating System/Image/Pasted image 20230515232034.png",
@@ -339,7 +340,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Remote procedure call.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
     "Learning/Operating System/Image/Pasted image 20230514162902.png",
-    "Learning/Operating System/Image/Pasted image 20230514152544.png",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Synchronization.md",
     "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
@@ -347,7 +347,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/IPC",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
     "Learning/Operating System/Theory Parts/System Structure/System Structure.md",
-    "Learning/Operating System/Theory Parts/System Structure/Micro Kernel.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Development/HTML/Practise/react.html",
     "Web Development/HTML/Fundamentals",
