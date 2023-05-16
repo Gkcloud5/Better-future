@@ -12,4 +12,8 @@
 
 ![[Pasted image 20230516173621.png]]
 
-* 
+* Test and set is a machine instruction.
+	* Machine instruction means form 0 and 1,
+
+![[Pasted image 20230516174555.png]]
+
