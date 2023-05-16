@@ -6,4 +6,5 @@
 
 1. [[Overview of HTML]]
 2. [[Document structure]]
-3. 
+3. [[Meta tags]]
+4. 

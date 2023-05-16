@@ -75,3 +75,48 @@
 #### Adding a CSS in head:
 
 * we have a 3 ways to add css in html
+
+```
+<style>  
+@import "styles.css" layer(firstLayer);  
+</style>
+```
+
+```
+<style>  
+:root {  
+--theme-color: #226DAA;  
+}  
+</style>
+```
+
+
+```
+<style contenteditable style="display: block; font-family: monospace; white-space: pre;">  
+head { display: block; }  
+head * { display: none; }  
+:root {  
+--theme-color: #226DAA;  
+}  
+</style>
+
+```
+
+##### Favicon:
+
+```
+<link rel="icon" sizes="16x16 32x32 48x48" type="image/png" href="/images/mlwicon.png" />
+```
+
+
+##### Script:
+
+```
+<script>  
+document.getElementById('switch').addEventListener('click', function() {  
+document.body.classList.toggle('black');  
+});  
+</script>
+```
+
+* It used to include a javascript.

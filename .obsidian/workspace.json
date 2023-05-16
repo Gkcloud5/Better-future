@@ -106,12 +106,12 @@
             }
           },
           {
-            "id": "d631d2600f56d7e9",
+            "id": "4c302b0afff0cdd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Document structure.md",
+                "file": "Web Development/HTML/Fundamentals/Meta tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Document structure.md",
+                "file": "Web Development/HTML/Fundamentals/Meta tags.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Document structure.md",
+                "file": "Web Development/HTML/Fundamentals/Meta tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Document structure.md"
+                "file": "Web Development/HTML/Fundamentals/Meta tags.md"
               }
             }
           },
@@ -270,9 +270,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d631d2600f56d7e9",
+  "active": "4c302b0afff0cdd8",
   "lastOpenFiles": [
     "Web Development/HTML/Fundamentals/HTML learn.md",
+    "Web Development/HTML/Fundamentals/Meta tags.md",
     "Web Development/HTML/Fundamentals/Document structure.md",
     "Web Development/HTML/Fundamentals/Overview of HTML.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
@@ -310,7 +311,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/Operations on process.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Pipes.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Development/HTML/Practise/react.html",
