@@ -106,6 +106,18 @@
             }
           },
           {
+            "id": "4e7990f04a96384b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Semaphores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "68debc678f3ee25b",
             "type": "leaf",
             "state": {
@@ -118,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -272,9 +284,12 @@
   },
   "active": "68debc678f3ee25b",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Semaphores.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
-    "Bounded Buffer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
+    "Bounded Buffer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Race conditions.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Monitors.md",
@@ -287,19 +302,16 @@
     "Learning/Operating System/Image/Pasted image 20230516173621.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Peterson's solution.md",
     "Learning/Operating System/Image/Pasted image 20230515232034.png",
-    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Image/Pasted image 20230515213544.png",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section",
     "Learning/Operating System/Image/Pasted image 20230515194919.png",
     "Learning/Operating System/Image/Pasted image 20230515191120.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Mutex.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Semaphores.md",
     "Learning/Operating System/Image/Pasted image 20230515150407.png",
     "Learning/Operating System/Image/Pasted image 20230515150227.png",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Operations on process.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Pipes.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
