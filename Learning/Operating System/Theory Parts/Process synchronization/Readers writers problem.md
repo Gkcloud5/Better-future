@@ -3,4 +3,11 @@
 
 #### About problem:
 
+* A file shared between reader and writer process.
+* reader can read a content of file
+* Writers process can perform read and write operations
+* Some of the process only want to read the resources and some of the processes are writers, which want to write
+
+#### Problem arises:
+
 * 
