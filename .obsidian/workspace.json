@@ -270,8 +270,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e17930f225e1b06",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Image/Pasted image 20230516200332.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Bounded Buffer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Readers writers problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Semaphores.md",
@@ -309,7 +310,6 @@
     "Learning/Operating System/Image/Pasted image 20230514162902.png",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Synchronization.md",
-    "Learning/Operating System/Theory Parts/Process & schedule/Scheduler topics/Multilevel queue scheduling.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Development/HTML/Practise/react.html",
