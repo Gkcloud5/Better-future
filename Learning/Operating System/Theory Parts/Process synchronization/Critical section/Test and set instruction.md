@@ -9,4 +9,3 @@
 #### About it:
 
 * **Atomic instruction:** All the instruction in procedure will execute one life cycle.
-* 
