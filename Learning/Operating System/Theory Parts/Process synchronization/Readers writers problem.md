@@ -8,6 +8,7 @@
 * Writers process can perform read and write operations
 * Some of the process only want to read the resources and some of the processes are writers, which want to write
 
-#### Problem arises:
+#### Things to know:
 
-* 
+* Allow multiple readers to read the file simultaneously.
+* When a reader process accessing the file then write process is not allowed to access
