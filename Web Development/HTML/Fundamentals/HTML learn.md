@@ -15,4 +15,6 @@
 9. [[HTML Style]]
 10. [[Text formatting]]
 11. [[Quotation and citation elements]]
-12. 
+12. [[HTML Comments]]
+13. [[HTML Colors]]
+14. 
