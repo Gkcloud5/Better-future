@@ -74,3 +74,5 @@
 1. [[Bounded Buffer problem]]
 2. [[Readers writers problem]]
 3. [[Dining philosophers problem]]
+4. [[Sleeping Barber problem]]
+
