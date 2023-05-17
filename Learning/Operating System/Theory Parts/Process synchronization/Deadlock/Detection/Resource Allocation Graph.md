@@ -22,4 +22,3 @@ During **
 * We can simply use **wait for graph** to identify there is a dead lock or not in running process
 	* In wait for graph we need to remove resources and looking process only
 		* There we have a cycle look like shown in image then there is a deadlock
-	* 

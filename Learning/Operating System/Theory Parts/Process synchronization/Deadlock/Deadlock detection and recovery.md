@@ -25,5 +25,6 @@ Deadlock detection and recovery is an important aspect of OS design and manageme
 
 #### Deadlock Detection:
 
-1. [[Resource Allocation Graph]]
-2. 
+1.  [[Resource Allocation Graph]]
+2.  [[Multiple instances of resources]]
+3. 
