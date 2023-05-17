@@ -10,4 +10,11 @@
 			   1. Resource allocation
 			   2. Resource preemption
 			   3. Priority inversion prevention	
-	* **Detection and recovery:** This approach allows de
+	* **Detection and recovery:** This approach allows deadlocks to happen but it detects them and recovers from them ASAP.
+		* Resource allocation graph
+		* Wait for graph
+		* Banker's algorithm
+
+#### Difference between prevention and detection/recovery:
+
+* 
