@@ -23,10 +23,14 @@
 
 #### Things we know in above example:
 
-* Mutual exclusion
-* Hold and wait
-* no preemption
-* circular wait
+* Mutual exclusion --> only one process at a time
+* Hold and wait --> Holding a resource and waiting for another resource
+* no preemption --> process cannot release resources until it complete
+* circular wait 
+
+![[Pasted image 20230517191412.png]]
+
+
 
 These conditions together lead to a situation where processes cannot make progress, resulting a deadlock.
 

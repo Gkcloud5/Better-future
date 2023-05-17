@@ -270,9 +270,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "dfee33da378de76e",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
+    "Learning/Operating System/Image/Pasted image 20230517191412.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
@@ -302,7 +303,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Synchronization hardware.md",
     "Learning/Operating System/Image/Pasted image 20230516181028.png",
     "Communication/Words and meaning/Words meaning.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Test and set instruction.md",
     "Learning/Operating System/Image/Pasted image 20230516174555.png",
     "Learning/Operating System/Image/Pasted image 20230516173621.png",
     "Learning/Operating System/Image/Pasted image 20230515232034.png",
@@ -310,7 +310,6 @@
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section",
     "Learning/Operating System/Image/Pasted image 20230515194919.png",
-    "Learning/Operating System/Image/Pasted image 20230515191120.png",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Development/HTML/Practise/react.html",
