@@ -11,9 +11,9 @@
 
 ```
 <div style="background-color:red">
-<p style="color:pink">this is inside division</p>
+<p style="color:blue">this is inside division</p>
 <br>
 <br>
-<p>div line</p>
+<p style="font-size:300%; text-align:center;">div line</p>
 </div>
 ```
