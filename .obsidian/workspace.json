@@ -106,19 +106,19 @@
             }
           },
           {
-            "id": "c3a616c16bbbd5e6",
+            "id": "14a81af08caabfa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML Style.md",
+                "file": "Text formatting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML Style.md",
+                "file": "Web Development/HTML/Fundamentals/HTML learn.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML Style.md",
+                "file": "Web Development/HTML/Fundamentals/HTML learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML Style.md"
+                "file": "Web Development/HTML/Fundamentals/HTML learn.md"
               }
             }
           },
@@ -270,11 +270,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3a616c16bbbd5e6",
+  "active": "ff155323375516d2",
   "lastOpenFiles": [
-    "Headings.md",
-    "HTML Style.md",
+    "Text formatting.md",
+    "Web Development/HTML/Fundamentals/HTML Style.md",
     "Web Development/HTML/Fundamentals/HTML learn.md",
+    "Web Development/HTML/Fundamentals/Headings.md",
     "Web Development/HTML/Fundamentals/Attributes.md",
     "Web Development/HTML/Fundamentals/Document structure.md",
     "Web Development/HTML/Fundamentals/HTML Elements.md",
@@ -303,7 +304,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
     "Web Development/HTML/Fundamentals/Meta tags.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock",
-    "Learning/Operating System/Theory Parts/Process synchronization/Dining philosophers problem.md",
     "Learning/Operating System/Image/Pasted image 20230516213132.png",
     "Learning/Operating System/Image/Pasted image 20230516212348.png",
     "Learning/Operating System/Image/Pasted image 20230516200332.png",

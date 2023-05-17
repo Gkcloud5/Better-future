@@ -13,4 +13,5 @@
 7. [[HTML Elements]]
 8. [[Headings]]
 9. [[HTML Style]]
-10. 
+10. [[Text formatting]]
+11. [[Quota]]
