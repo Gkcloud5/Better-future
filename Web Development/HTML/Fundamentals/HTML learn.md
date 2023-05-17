@@ -8,4 +8,5 @@
 2. [[Document structure]]
 3. [[Meta tags]]
 4. [[Semantic HTML]]
-5. 
+5. [[Attributes]]
+6. 

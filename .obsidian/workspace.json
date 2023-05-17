@@ -106,12 +106,12 @@
             }
           },
           {
-            "id": "54e92805bfd145ac",
+            "id": "efedd244d404ee5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Semantic HTML.md",
+                "file": "Web Development/HTML/Fundamentals/Attributes.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Semantic HTML.md",
+                "file": "Web Development/HTML/Fundamentals/Attributes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Semantic HTML.md",
+                "file": "Web Development/HTML/Fundamentals/Attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Semantic HTML.md"
+                "file": "Web Development/HTML/Fundamentals/Attributes.md"
               }
             }
           },
@@ -270,8 +270,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54e92805bfd145ac",
+  "active": "efedd244d404ee5e",
   "lastOpenFiles": [
+    "Web Development/HTML/Image/Pasted image 20230517225932.png",
+    "Web Development/HTML/Fundamentals/Semantic HTML.md",
+    "Web Development/HTML/Fundamentals/Attributes.md",
     "Web Development/HTML/Fundamentals/HTML learn.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
@@ -292,7 +295,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
-    "Web Development/HTML/Fundamentals/Semantic HTML.md",
     "Web Development/HTML/Fundamentals/Meta tags.md",
     "Web Development/HTML/Fundamentals/Document structure.md",
     "Web Development/HTML/Fundamentals/Overview of HTML.md",
@@ -304,8 +306,6 @@
     "Learning/Operating System/Image/Pasted image 20230516200332.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Bounded Buffer problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Semaphores.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Race conditions.md",
     "Learning/Operating System/Image/Pasted image 20230516181028.png",
     "Learning/Operating System/Image/Pasted image 20230516174555.png",
     "Learning/Operating System/Image/Pasted image 20230516173621.png",
