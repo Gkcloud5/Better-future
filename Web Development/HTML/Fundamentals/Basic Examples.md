@@ -28,3 +28,7 @@
 <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 ```
 
+**Src** --> location for image
+alt --> Alternative text, if image does not show, this text will display
+width and height -->  attributes for size of image
+

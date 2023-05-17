@@ -10,4 +10,4 @@
 4. [[Semantic HTML]]
 5. [[Attributes]]
 6. [[Basic Examples]]
-7. 
+7. [[HTML Elements]]
