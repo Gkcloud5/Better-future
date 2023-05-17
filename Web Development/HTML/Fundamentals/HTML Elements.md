@@ -10,3 +10,19 @@
 
 #### Nested Elements:
 
+**HTML documents consist of nested HTML elements**
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />  
+<title>Machine Learning Workshop</title> 
+</head>
+<body>
+<p>This is paragraph</p>
+</body>
+</html>
+```
+
+**HTML is not case sensitive**
