@@ -9,4 +9,5 @@
 3. [[Meta tags]]
 4. [[Semantic HTML]]
 5. [[Attributes]]
-6. 
+6. [[Basic Examples]]
+7. 
