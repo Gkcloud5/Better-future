@@ -29,3 +29,8 @@
 * circular wait
 
 These conditions together lead to a situation where processes cannot make progress, resulting a deadlock.
+
+#### Topics:
+
+1. [[Deadlock detection and recovery]]
+2. 
