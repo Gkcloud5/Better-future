@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
+                "file": "Resource Allocation Graph.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
+                "file": "Resource Allocation Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md"
+                "file": "Resource Allocation Graph.md"
               }
             }
           },
@@ -282,11 +282,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfee33da378de76e",
+  "active": "9c6a1cb5ce626a41",
   "lastOpenFiles": [
+    "Pasted image 20230517195836.png",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
     "Resource Allocation Graph.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
     "Learning/Operating System/Image/Pasted image 20230517191412.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
@@ -315,7 +316,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Swap instruction.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Synchronization hardware.md",
     "Learning/Operating System/Image/Pasted image 20230516181028.png",
-    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Image/Pasted image 20230516174555.png",
     "Learning/Operating System/Image/Pasted image 20230516173621.png",
     "Learning/Operating System/Image/Pasted image 20230515232034.png",
