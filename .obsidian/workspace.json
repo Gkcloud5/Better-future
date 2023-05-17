@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource Allocation Graph.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource Allocation Graph.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource Allocation Graph.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md"
               }
             }
           },
@@ -282,11 +282,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c6a1cb5ce626a41",
+  "active": "dfee33da378de76e",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
-    "Resource Allocation Graph.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
+    "Resource Allocation Graph.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
     "Learning/Operating System/Image/Pasted image 20230517191412.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
