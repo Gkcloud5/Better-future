@@ -15,4 +15,17 @@
 * Let consider dinning philosophers problem
 * Philosophers are sitting around the table with bowls of rice and chopsticks
 	* Each philosopher needs two chopsticks to eat their meals
-* Following scenario lead 
+* Following scenario lead to **deadlock**
+	1. All philosophers pick up the chopstick on their right simultaneously.
+	2. Each philosopher now wait for the chopstick on their left to be available.
+	3. since every philosopher waiting for another philosopher to put chopstick down on table, none of them can proceed and eat their meal.
+	4. The system reaches a deadlock state, and the philosophers remain indefinitely blocked.
+
+#### Things we know in above example:
+
+* Mutual exclusion
+* Hold and wait
+* no preemption
+* circular wait
+
+These conditions together lead to a situation where processes cannot make progress, resulting a deadlock.
