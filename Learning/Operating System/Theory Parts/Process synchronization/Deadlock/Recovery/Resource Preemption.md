@@ -31,4 +31,24 @@
 
 * Once a deadlock is detected, a decision must be made regarding which processes to target for resource preemption.
 * Various strategies can be used to select the process
-	* Minimum disruptio
+	* Minimum disruption
+	* process with lower priority
+	* Process that has made the least progress
+
+##### 3. Resource reclamation:
+
+* After selecting the process, the resources held by these processes are forcefully reclaimed.
+* This will release the resource and making them available for allocation to other process.
+
+##### 4. Process suspension:
+
+* When resources are preempted from a process, the process may enter a suspended state.
+* State of process is saved, it wait to get resources that it need
+
+##### 5. Resource allocation:
+
+* Resources that were involved in the deadlock are now allocated to other waiting processes in order to break the deadlock.
+
+##### 6. Deadlock resolution:
+
+* After resource al
