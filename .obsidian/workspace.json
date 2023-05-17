@@ -130,6 +130,18 @@
             }
           },
           {
+            "id": "ddaf694b563efef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Resource Preemption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3735fff55698d562",
             "type": "leaf",
             "state": {
@@ -217,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Process Termination.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Resource Preemption.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Process Termination.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Resource Preemption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Process Termination.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Resource Preemption.md"
               }
             }
           },
@@ -294,9 +306,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3735fff55698d562",
+  "active": "ddaf694b563efef1",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Process Termination.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Resource Preemption.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Deadlock recovery.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Detection/Deadlock Detection.md",
@@ -329,7 +342,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Semaphores.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Critical sections.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Race conditions.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Producer and consumer problem.md",
     "Learning/Operating System/Image/Pasted image 20230516181028.png",
     "Learning/Operating System/Image/Pasted image 20230516174555.png",
     "Learning/Operating System/Image/Pasted image 20230516173621.png",

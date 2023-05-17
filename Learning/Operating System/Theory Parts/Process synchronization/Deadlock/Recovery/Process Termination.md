@@ -14,4 +14,9 @@
 
 ##### 2. Abort 1 process at a time until deadlock is eliminated:
 
-* out of 10 process only 3 process
+* out of 10 process only 3 process suffering from deadlock, inorder to use this method.
+* First it will remove one of the deadlock suffering process and use deadlock detection algorithm to know still deadlock is present or not
+* Still it present then will kill another deadlock suffered process and then use deadlock detection process to find still deadlock is there are not
+* It continues until deadlock gone.
+* Disadvantage of the process is:
+	* If 100 process is suffered from deadlock by using this method will take so much time to recover a deadlock, incase last process is a main cause for deadlock
