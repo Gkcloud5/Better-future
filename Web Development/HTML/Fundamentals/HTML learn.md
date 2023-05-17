@@ -11,3 +11,6 @@
 5. [[Attributes]]
 6. [[Basic Examples]]
 7. [[HTML Elements]]
+8. [[Headings]]
+9. [[HTML Style]]
+10. 

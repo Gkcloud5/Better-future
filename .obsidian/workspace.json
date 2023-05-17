@@ -106,43 +106,19 @@
             }
           },
           {
-            "id": "76336c1dd9042c16",
+            "id": "c3a616c16bbbd5e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Attributes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a0cf44d4ac433ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/HTML/Fundamentals/Attributes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "359e89455a818396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML Elements.md",
+                "file": "HTML Style.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Attributes.md",
+                "file": "HTML Style.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Attributes.md",
+                "file": "HTML Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Attributes.md"
+                "file": "HTML Style.md"
               }
             }
           },
@@ -294,14 +270,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a0cf44d4ac433ca",
+  "active": "c3a616c16bbbd5e6",
   "lastOpenFiles": [
+    "Headings.md",
+    "HTML Style.md",
     "Web Development/HTML/Fundamentals/HTML learn.md",
+    "Web Development/HTML/Fundamentals/Attributes.md",
     "Web Development/HTML/Fundamentals/Document structure.md",
     "Web Development/HTML/Fundamentals/HTML Elements.md",
     "Web Development/HTML/Fundamentals/Overview of HTML.md",
     "Web Development/HTML/Fundamentals/Basic Examples.md",
-    "Web Development/HTML/Fundamentals/Attributes.md",
     "Web Development/HTML/Image/Pasted image 20230517225932.png",
     "Web Development/HTML/Fundamentals/Semantic HTML.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
@@ -328,9 +306,7 @@
     "Learning/Operating System/Theory Parts/Process synchronization/Dining philosophers problem.md",
     "Learning/Operating System/Image/Pasted image 20230516213132.png",
     "Learning/Operating System/Image/Pasted image 20230516212348.png",
-    "Learning/Operating System/Theory Parts/Process synchronization/Readers writers problem.md",
     "Learning/Operating System/Image/Pasted image 20230516200332.png",
-    "Learning/Operating System/Theory Parts/Process synchronization/Bounded Buffer problem.md",
     "Learning/Operating System/Image/Pasted image 20230516181028.png",
     "Learning/Operating System/Image/Pasted image 20230516174555.png",
     "Learning/Operating System/Image/Pasted image 20230516173621.png",
