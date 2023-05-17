@@ -51,4 +51,6 @@
 
 ##### 6. Deadlock resolution:
 
-* After resource al
+* After resource allocation, the system recheck for the presence of a deadlock.
+* if the deadlock is resolved, then the process can resume their execution.
+* If the deadlock persist, then OS will again do resource preemption and allocate to another process until the deadlock is resolved.
