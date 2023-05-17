@@ -17,4 +17,13 @@
 
 #### Difference between prevention and detection/recovery:
 
-* 
+* Prevention aims to avoid deadlocks
+* Detection and recovery aim to identify and resolve deadlocks that already occurred.
+
+Deadlock detection and recovery is an important aspect of OS design and management, as it affects stability and performance of the system.
+
+
+#### Deadlock Detection:
+
+1. [[Resource Allocation Graph]]
+2. 
