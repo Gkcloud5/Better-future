@@ -12,4 +12,13 @@ E --> Edge
 ![[Pasted image 20230518201038.png]]
 
 * Circle represents process and rectangle represents resource.
-* A resource can have more than one instance. each instance will d
+* A resource can have more than one instance. each instance will be represented by a dot inside the rectangle.
+
+![[Pasted image 20230518201909.png]]
+
+* Edges are two types
+	* Assignment edge
+	* Request Edge --> process wait for resource.
+
+![[Pasted image 20230518202018.png]]
+
