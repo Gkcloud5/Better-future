@@ -6,4 +6,8 @@
 ### [[Deadlock Characteristics]]
 
 
-#### [[Deadlock Prevention]]:
+#### [[Deadlock Prevention]]
+
+
+#### [[Deadlock Avoidance]]
+
