@@ -3,6 +3,7 @@
 
 
 #### Background color:
+
 ```
 <div style="background-color:Blue">
 <h1>Hello GK</h1>
@@ -10,4 +11,11 @@
 <h2>Backgorund color is blue</h2>
 </div>
 
+```
+
+
+#### Text Color:
+
+```
+<h2 style="color:Tomato;">Tomato color</h2>
 ```
