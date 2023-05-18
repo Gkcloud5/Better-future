@@ -118,31 +118,19 @@
             }
           },
           {
-            "id": "e1327a192cb16267",
+            "id": "6e31a96177413c3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Characteristics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2cfd9795eba85b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Describing a deadlock with a help of resource allocation graph.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Prevention.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -217,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Describing a deadlock with a help of resource allocation graph.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Prevention.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Describing a deadlock with a help of resource allocation graph.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Prevention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Describing a deadlock with a help of resource allocation graph.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Prevention.md"
               }
             }
           },
@@ -294,19 +282,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2cfd9795eba85b9",
+  "active": "6e31a96177413c3f",
   "lastOpenFiles": [
-    "Pasted image 20230518202018.png",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Describing a deadlock with a help of resource allocation graph.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Prevention.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Characteristics.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock prevention and avoidance.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
+    "Learning/Operating System/Image/Pasted image 20230518202908.png",
+    "Learning/Operating System/Image/Pasted image 20230518202018.png",
     "Learning/Operating System/Image/Pasted image 20230518201909.png",
     "Learning/Operating System/Image/Pasted image 20230518201038.png",
     "Learning/Operating System/Image/Pasted image 20230518200926.png",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Characteristics.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Describing a deadlock with a help of resource allocation graph.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock prevention and avoidance.md",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Image/Pasted image 20230518195740.png",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Web Development/HTML/Fundamentals/HTML learn.md",
     "Communication/Words and meaning/Words meaning.md",
@@ -333,8 +323,6 @@
     "Learning/Operating System/Image/Pasted image 20230517191412.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock",
     "Learning/Operating System/Image/Pasted image 20230516213132.png",
-    "Learning/Operating System/Image/Pasted image 20230516212348.png",
-    "Learning/Operating System/Image/Pasted image 20230516200332.png",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC",

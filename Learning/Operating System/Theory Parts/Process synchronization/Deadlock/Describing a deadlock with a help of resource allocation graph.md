@@ -22,3 +22,6 @@ E --> Edge
 
 ![[Pasted image 20230518202018.png]]
 
+
+
+
