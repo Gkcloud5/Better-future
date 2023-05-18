@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview about CSS.md",
+                "file": "Web Development/HTML/Fundamentals/Overview about CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview about CSS.md",
+                "file": "Web Development/HTML/Fundamentals/Overview about CSS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview about CSS.md",
+                "file": "Web Development/HTML/Fundamentals/Overview about CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview about CSS.md"
+                "file": "Web Development/HTML/Fundamentals/Overview about CSS.md"
               }
             }
           },
@@ -272,8 +272,9 @@
   },
   "active": "1aeb805a9badae6e",
   "lastOpenFiles": [
+    "Web Development/HTML/Image/Pasted image 20230518233406.png",
     "Web Development/HTML/Fundamentals/HTML Colors.md",
-    "Overview about CSS.md",
+    "Web Development/HTML/Fundamentals/Overview about CSS.md",
     "Web Development/HTML/Fundamentals/HTML Index.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Web Development/HTML/Fundamentals/Overview of HTML.md",
@@ -309,7 +310,6 @@
     "Web Development/HTML/Fundamentals/Quotation and citation elements.md",
     "Web Development/HTML/Fundamentals/Text formatting.md",
     "Web Development/HTML/Fundamentals/HTML Style.md",
-    "Web Development/HTML/Fundamentals/Headings.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Detection",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock",
