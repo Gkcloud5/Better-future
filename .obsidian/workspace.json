@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Adding Links.md",
+                "file": "Image Map.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Adding Links.md",
+                "file": "Image Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Adding Links.md"
+                "file": "Image Map.md"
               }
             }
           },
@@ -282,9 +282,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57a8364d3bd7893e",
+  "active": "d9f14b65dc0a01e9",
   "lastOpenFiles": [
+    "Development/HTML/Practise/Images/watch.jpg",
+    "Development/HTML/Practise/Images/watch.jpg.crdownload",
+    "Web Development/HTML/Fundamentals/Adding Links.md",
     "Web Development/HTML/Fundamentals/HTML Index.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Image Map.md",
     "Development/HTML/Practise/Images/computer.jpg",
     "Development/HTML/Practise/Images/computer.jpg.crdownload",
@@ -295,13 +299,11 @@
     "Development/HTML/Practise/Images/Studyroom.avif.crdownload",
     "Development/HTML/Practise/Images",
     "Create Bookmark.md",
-    "Web Development/HTML/Fundamentals/Adding Links.md",
     "Web Development/HTML/Image/Pasted image 20230518234114.png",
     "Web Development/HTML/Fundamentals/Overview about CSS.md",
     "Development/HTML/Practise/style.css",
     "Web Development/HTML/Image/Pasted image 20230518233406.png",
     "Web Development/HTML/Fundamentals/HTML Colors.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Web Development/HTML/Fundamentals/Overview of HTML.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Resource Request algorithm.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
@@ -329,7 +331,6 @@
     "Web Development/HTML/Fundamentals/HTML Comments.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Detection",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
