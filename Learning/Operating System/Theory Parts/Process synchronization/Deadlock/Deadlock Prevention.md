@@ -30,4 +30,5 @@
 
 ##### Circular Wait:
 
-*  Prevent the formation of circular chains 
+*  Prevent the formation of circular chains of processes waiting for resources. 
+* In order to avid this, we need to assign resources to process
