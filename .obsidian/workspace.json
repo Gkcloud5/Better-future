@@ -92,33 +92,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ff155323375516d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3fe098887a7e873",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML Colors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -176,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -192,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML Colors.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML Colors.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML Colors.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md"
               }
             }
           },
@@ -269,11 +246,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "d3b001c72949cbee",
   "lastOpenFiles": [
+    "Web Development/HTML/Fundamentals/HTML learn.md",
+    "Communication/Words and meaning/Words meaning.md",
     "Web Development/HTML/Fundamentals/HTML Comments.md",
     "Web Development/HTML/Fundamentals/HTML Colors.md",
-    "Web Development/HTML/Fundamentals/HTML learn.md",
     "Web Development/HTML/Fundamentals/Quotation and citation elements.md",
     "Web Development/HTML/Fundamentals/Text formatting.md",
     "Web Development/HTML/Fundamentals/HTML Style.md",
@@ -301,7 +279,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Sleeping Barber problem.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock",
     "Learning/Operating System/Image/Pasted image 20230516213132.png",
     "Learning/Operating System/Image/Pasted image 20230516212348.png",
