@@ -118,7 +118,7 @@
             }
           },
           {
-            "id": "1be1e9f6cec7c47e",
+            "id": "e1327a192cb16267",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -282,11 +282,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1be1e9f6cec7c47e",
+  "active": "e1327a192cb16267",
   "lastOpenFiles": [
-    "Pasted image 20230518195740.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock prevention and avoidance.md",
+    "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Characteristics.md",
+    "Pasted image 20230518195740.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
@@ -322,7 +323,6 @@
     "Learning/Operating System/Image/Pasted image 20230516181028.png",
     "Learning/Operating System/Image/Pasted image 20230516174555.png",
     "Learning/Operating System/Image/Pasted image 20230516173621.png",
-    "Learning/Operating System/Image/Pasted image 20230515232034.png",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC",

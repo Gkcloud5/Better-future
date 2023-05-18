@@ -2,7 +2,7 @@
 [YT](https://www.youtube.com/watch?v=23xp51q2LP0&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&index=39)
 
 
-#### Necessary conditions for deadlock:
+#### 1. Necessary conditions for deadlock:
 
 *  4 Condition will lead to make deadlock
 	* Mutual exclusion
@@ -28,4 +28,9 @@
 ##### No preemption:
 
 * Non preemptive means CPU cannot stop executing process
-* In deadlock scenarion CPU should stop process so we shol
+* In deadlock scenario CPU should stop process so mostly OS need to avoid non preemptive scheduling algorithm.
+* reason for it is, incase process have deadlock then we need to terminate a process or need to remove a resources from process, in this thing process should be in preemptive scheduling
+
+##### Circular Wait:
+
+* A resource
