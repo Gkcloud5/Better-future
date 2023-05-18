@@ -16,3 +16,8 @@
 
 ![[Pasted image 20230518210136.png]]
 
+
+#### Safe state or unsafe state:
+
+* **Safe state:** It means there is no deadlock will occur while OS assigning resources to process.
+* **Unsafe state:** It means deadlock will occur if assign this resource to process so OS will can't allocate that resource.
