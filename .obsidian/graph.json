@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "path:\"Learning/Operating System\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -36,9 +36,9 @@
   "lineSizeMultiplier": 1.0953125,
   "collapse-forces": false,
   "centerStrength": 0.453125,
-  "repelStrength": 10.9375,
-  "linkStrength": 0.421875,
-  "linkDistance": 170,
-  "scale": 0.29797134569172706,
+  "repelStrength": 10.4166666666667,
+  "linkStrength": 0.520833333333333,
+  "linkDistance": 201,
+  "scale": 0.41775073068713314,
   "close": false
 }

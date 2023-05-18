@@ -66,6 +66,30 @@
             }
           },
           {
+            "id": "ef1b9db3a0a24e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/OS Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3046dd141c7ef7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "289daf9b09c2c379",
             "type": "leaf",
             "state": {
@@ -236,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -327,11 +352,12 @@
   },
   "active": "a428a87da45219cd",
   "lastOpenFiles": [
-    "Learning/Programming/Python/Index of Python.md",
-    "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/OS Topics.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Resource Request algorithm.md",
+    "Learning/Programming/Python/Index of Python.md",
     "Learning/Operating System/OS RoadMap.canvas",
+    "Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Resource Request algorithm.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/By using Banker's algorithm.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Avoidance.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Safety algorithm.md",
@@ -354,7 +380,6 @@
     "Learning/Operating System/Image/Pasted image 20230518201038.png",
     "Learning/Operating System/Image/Pasted image 20230518200926.png",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Web Development/HTML/Fundamentals/HTML learn.md",
     "Communication/Words and meaning/Words meaning.md",
     "Web Development/HTML/Fundamentals/HTML Comments.md",
@@ -364,7 +389,6 @@
     "Web Development/HTML/Fundamentals/HTML Style.md",
     "Web Development/HTML/Fundamentals/Headings.md",
     "Web Development/HTML/Fundamentals/Attributes.md",
-    "Web Development/HTML/Fundamentals/Document structure.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Detection",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock",

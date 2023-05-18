@@ -10,3 +10,4 @@
 
 [[Practice in IDE]]
 [[Logical Programs]]
+[[Exercise Topics]]
