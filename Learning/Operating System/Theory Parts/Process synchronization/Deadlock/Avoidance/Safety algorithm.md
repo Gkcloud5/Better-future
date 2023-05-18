@@ -6,3 +6,4 @@
 ![[Pasted image 20230518211905.png]]
 
 * Bankers never say they have no money always being in safe state.
+* Algorithm will be used in any banking system and ensure that bank nev 
