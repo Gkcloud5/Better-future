@@ -33,4 +33,8 @@
 
 ##### Circular Wait:
 
-* A resource
+* Each process is waiting for a resource that is held by another process in the chain.
+
+![[Pasted image 20230518195740.png]]
+
+[[Describing a deadlock with a help of resource allocation graph]]
