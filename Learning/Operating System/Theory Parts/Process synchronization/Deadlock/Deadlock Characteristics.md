@@ -4,4 +4,4 @@
 
 #### Necessary conditions for deadlock:
 
-* 
+*  
