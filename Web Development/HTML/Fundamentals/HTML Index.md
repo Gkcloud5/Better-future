@@ -21,4 +21,5 @@
 14. [[Overview about CSS]]
 15. [[Adding Links]]
 16. [[Create Bookmark]]
-17. 
+17. [[Image Map]]
+18. 

@@ -106,12 +106,12 @@
             }
           },
           {
-            "id": "969d035d9eac51ef",
+            "id": "d9f14b65dc0a01e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create Bookmark.md",
+                "file": "Image Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create Bookmark.md",
+                "file": "Image Map.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Create Bookmark.md",
+                "file": "Image Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create Bookmark.md"
+                "file": "Image Map.md"
               }
             }
           },
@@ -270,11 +270,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "969d035d9eac51ef",
+  "active": "d9f14b65dc0a01e9",
   "lastOpenFiles": [
-    "Web Development/HTML/Fundamentals/Adding Links.md",
-    "Create Bookmark.md",
+    "Development/HTML/Practise/Images",
     "Web Development/HTML/Fundamentals/HTML Index.md",
+    "Image Map.md",
+    "Create Bookmark.md",
+    "Web Development/HTML/Fundamentals/Adding Links.md",
     "Web Development/HTML/Image/Pasted image 20230518234114.png",
     "Web Development/HTML/Fundamentals/Overview about CSS.md",
     "Development/HTML/Practise/style.css",
@@ -309,8 +311,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Communication/Words and meaning/Words meaning.md",
     "Web Development/HTML/Fundamentals/HTML Comments.md",
-    "Web Development/HTML/Fundamentals/Quotation and citation elements.md",
-    "Web Development/HTML/Fundamentals/Text formatting.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Detection",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock",
