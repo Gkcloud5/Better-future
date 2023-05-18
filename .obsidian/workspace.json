@@ -294,8 +294,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2cfd9795eba85b9",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Image/Pasted image 20230518201038.png",
+    "Learning/Operating System/Image/Pasted image 20230518200926.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Characteristics.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Describing a deadlock with a help of resource allocation graph.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock prevention and avoidance.md",
@@ -324,7 +326,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery/Process Termination.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Detection/Deadlock Detection.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Detection/Multiple instances of resources.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Detection",
     "Learning/Operating System/Image/Pasted image 20230517195836.png",
     "Learning/Operating System/Image/Pasted image 20230517191412.png",
@@ -334,7 +335,6 @@
     "Learning/Operating System/Image/Pasted image 20230516200332.png",
     "Learning/Operating System/Image/Pasted image 20230516181028.png",
     "Learning/Operating System/Image/Pasted image 20230516174555.png",
-    "Learning/Operating System/Image/Pasted image 20230516173621.png",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC",
