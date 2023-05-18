@@ -37,4 +37,5 @@ These conditions together lead to a situation where processes cannot make progre
 #### Topics:
 
 1. [[Deadlock detection and recovery]]
-2. 
+2. [[Deadlock prevention and avoidance]]
+3. 
