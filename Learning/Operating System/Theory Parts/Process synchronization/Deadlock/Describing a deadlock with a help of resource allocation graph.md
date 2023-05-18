@@ -11,3 +11,5 @@ E --> Edge
 
 ![[Pasted image 20230518201038.png]]
 
+* Circle represents process and rectangle represents resource.
+* A resource can have more than one instance. each instance will d
