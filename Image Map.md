@@ -8,7 +8,8 @@
 <img src="studyroom.avif" alt="study room" usemap="#workmap">
 
 <map name="workmap">
-	<area shape
+	<<area alt="Computer" title="Computer" href="images/computer.jpg" coords="426,247,584,347" shape="rect">
+	</map>
 ```
 
 
