@@ -306,11 +306,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "dd42fc30ab228afa",
   "lastOpenFiles": [
-    "Learning/Operating System/Image/Pasted image 20230518211204.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/By using Banker's algorithm.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Safety algorithm.md",
+    "Learning/Operating System/Image/Pasted image 20230518211905.png",
+    "Learning/Operating System/Image/Pasted image 20230518211204.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Avoidance.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/By using RAG.md",
     "Learning/Operating System/Image/Pasted image 20230518210136.png",
@@ -343,10 +344,8 @@
     "Web Development/HTML/Fundamentals/HTML Elements.md",
     "Web Development/HTML/Fundamentals/Overview of HTML.md",
     "Web Development/HTML/Fundamentals/Basic Examples.md",
-    "Web Development/HTML/Image/Pasted image 20230517225932.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Detection",
-    "Learning/Operating System/Image/Pasted image 20230517195836.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section",

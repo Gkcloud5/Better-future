@@ -3,3 +3,6 @@
 
 ![[Pasted image 20230518211204.png]]
 
+![[Pasted image 20230518211905.png]]
+
+* Bankers never say they have no money always being in safe state.
