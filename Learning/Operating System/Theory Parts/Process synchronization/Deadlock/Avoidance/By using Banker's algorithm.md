@@ -5,3 +5,4 @@
 
 #### [[Safety algorithm]]
 
+#### [[Resource Request algorithm]]
