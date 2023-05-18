@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Overview about CSS.md",
+                "file": "Web Development/HTML/Fundamentals/HTML Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Overview about CSS.md",
+                "file": "Web Development/HTML/Fundamentals/HTML Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/Overview about CSS.md"
+                "file": "Web Development/HTML/Fundamentals/HTML Index.md"
               }
             }
           },
@@ -270,11 +270,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aeb805a9badae6e",
+  "active": "547f0af35739ec14",
   "lastOpenFiles": [
+    "Web Development/HTML/Fundamentals/Overview about CSS.md",
+    "Development/HTML/Practise/style.css",
     "Web Development/HTML/Image/Pasted image 20230518233406.png",
     "Web Development/HTML/Fundamentals/HTML Colors.md",
-    "Web Development/HTML/Fundamentals/Overview about CSS.md",
     "Web Development/HTML/Fundamentals/HTML Index.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Web Development/HTML/Fundamentals/Overview of HTML.md",
@@ -303,7 +304,6 @@
     "Learning/Operating System/Image/Pasted image 20230518202018.png",
     "Learning/Operating System/Image/Pasted image 20230518201909.png",
     "Learning/Operating System/Image/Pasted image 20230518201038.png",
-    "Learning/Operating System/Image/Pasted image 20230518200926.png",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Communication/Words and meaning/Words meaning.md",
     "Web Development/HTML/Fundamentals/HTML Comments.md",
@@ -319,7 +319,6 @@
     "Development/HTML/Practise/react.html",
     "Web Development/HTML/Fundamentals",
     "Web Development/HTML/Image",
-    "Development/HTML/Practise/index.html",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
