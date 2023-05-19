@@ -308,8 +308,9 @@
   },
   "active": "8037017414fcbdee",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/By using Banker's algorithm.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Safety algorithm.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Resource Request algorithm.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/By using Banker's algorithm.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Avoidance.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
@@ -333,7 +334,6 @@
     "Web Development/HTML/Image/Pasted image 20230518233406.png",
     "Web Development/HTML/Fundamentals/HTML Colors.md",
     "Web Development/HTML/Fundamentals/Overview of HTML.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Resource Request algorithm.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Operating System/OS RoadMap.canvas",
