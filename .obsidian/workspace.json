@@ -106,12 +106,12 @@
             }
           },
           {
-            "id": "85ebe311d3f33557",
+            "id": "2a29f5e614a83f9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Favicon.md",
+                "file": "Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Favicon.md",
+                "file": "Tables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Favicon.md",
+                "file": "Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Favicon.md"
+                "file": "Tables.md"
               }
             }
           },
@@ -270,11 +270,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85ebe311d3f33557",
+  "active": "2a29f5e614a83f9f",
   "lastOpenFiles": [
-    "Web Development/HTML/Fundamentals/Image Map.md",
-    "Favicon.md",
     "Web Development/HTML/Fundamentals/HTML Index.md",
+    "Tables.md",
+    "Favicon.md",
+    "Web Development/HTML/Fundamentals/Image Map.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Threads/Types in thread.md",
     "Learning/Operating System/Theory Parts/Threads/Threads.md",
@@ -316,7 +317,6 @@
     "Web Development/HTML/Fundamentals/Overview of HTML.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Operating System/OS RoadMap.canvas",
-    "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
