@@ -20,3 +20,14 @@
 * Threads can also help to improve the **scalability** of applications by allowing them to handle more requests them to handle more requests at the same time.
 * **Improved performance:** threads can improve performance by allowing multiple tasks to be executed concurrently.
 * **Reduced development time:** Threads can help to reduce development time by allowing developers to focus on logic of their application rather than on the details of how to manage multiple tasks.
+
+#### Difference between process and thread:
+
+![[Pasted image 20230519185601.png]]
+
+**Main difference between process and thread is that a process is a complete program in execution, whereas a thread is lightweight sub-unit of process that can run concurrently with other threads in the same process.**
+
+![[Pasted image 20230519185853.png]]
+
+
+#### Single thread

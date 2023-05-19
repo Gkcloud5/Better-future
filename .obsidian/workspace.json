@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -272,6 +271,8 @@
   },
   "active": "0856b9fb417d15fb",
   "lastOpenFiles": [
+    "Learning/Operating System/Image/Pasted image 20230519185853.png",
+    "Learning/Operating System/Image/Pasted image 20230519185601.png",
     "Learning/Operating System/Theory Parts/Threads/TCB.md",
     "Learning/Operating System/Image/Pasted image 20230519184952.png",
     "Learning/Operating System/Theory Parts/Threads/Threads in OS.md",
@@ -309,7 +310,6 @@
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Operating System/Image/Pasted image 20230518221657.png",
     "Learning/Operating System/Image/Pasted image 20230518211905.png",
-    "Learning/Operating System/Image/Pasted image 20230518211204.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/By using RAG.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock prevention and avoidance.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Prevention.md",
