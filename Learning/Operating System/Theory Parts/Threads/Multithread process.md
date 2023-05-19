@@ -15,4 +15,6 @@
 
 #### Benefits of multithread:
 
-
+**Responsiveness:** It will gives output in smaller amount of time.
+**Resource sharing:** Sharing resources is very very easy.
+**Economy:** Ve
