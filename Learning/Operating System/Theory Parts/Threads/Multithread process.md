@@ -18,4 +18,4 @@
 **Responsiveness:** It will gives output in smaller amount of time.
 **Resource sharing:** Sharing resources is very very easy.
 **Economy:** Very very cheap when compare to multiple process.
-**Scalability:** 
+**Scalability:** can execute multiple thread at same time
