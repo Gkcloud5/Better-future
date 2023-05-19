@@ -130,24 +130,12 @@
             }
           },
           {
-            "id": "8037017414fcbdee",
+            "id": "fbc1ed67234e9703",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Resource Request algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54c20d5a7f35c2fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Safety algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -306,16 +294,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8037017414fcbdee",
+  "active": "fbc1ed67234e9703",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Safety algorithm.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Resource Request algorithm.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/By using Banker's algorithm.md",
+    "Web Development/HTML/Image/Pasted image 20230518235758.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Avoidance.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Web Development/HTML/Fundamentals/HTML Index.md",
-    "Image Map.md",
+    "Web Development/HTML/Fundamentals/Image Map.md",
     "Development/HTML/Practise/Images/watch.jpg",
     "Development/HTML/Practise/Images/watch.jpg.crdownload",
     "Web Development/HTML/Fundamentals/Adding Links.md",
@@ -323,11 +312,10 @@
     "Development/HTML/Practise/Images/computer.jpg.crdownload",
     "Development/HTML/Practise/Images/Studyroom.jpg",
     "Development/HTML/Practise/Images/Studyroom.jpg.crdownload",
-    "Pasted image 20230518235758.png",
     "Development/HTML/Practise/Images/Studyroom.avif",
     "Development/HTML/Practise/Images/Studyroom.avif.crdownload",
     "Development/HTML/Practise/Images",
-    "Create Bookmark.md",
+    "Web Development/HTML/Fundamentals/Create Bookmark.md",
     "Web Development/HTML/Image/Pasted image 20230518234114.png",
     "Web Development/HTML/Fundamentals/Overview about CSS.md",
     "Development/HTML/Practise/style.css",
