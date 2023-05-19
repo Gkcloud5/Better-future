@@ -26,3 +26,11 @@
 ```
 
 **HTML is not case sensitive**
+
+#### Block Elements:
+
+![[Pasted image 20230519233914.png]]
+
+
+#### Inline Elements:
+
