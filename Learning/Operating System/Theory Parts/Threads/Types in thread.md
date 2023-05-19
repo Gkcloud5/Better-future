@@ -1,5 +1,6 @@
 #### Source:
 [GFG](https://www.geeksforgeeks.org/thread-in-operating-system/)
+[GFG-2](https://www.geeksforgeeks.org/difference-between-user-level-thread-and-kernel-level-thread/)
 
 #### Types:
 
