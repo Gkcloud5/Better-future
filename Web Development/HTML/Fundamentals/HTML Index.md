@@ -25,4 +25,5 @@
 18. [[Favicon]]
 19. [[Tables]]
 20. [[HTML Lists]]
-21. 
+21. [[HTML Class]]
+22. 
