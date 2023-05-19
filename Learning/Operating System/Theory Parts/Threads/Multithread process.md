@@ -17,4 +17,5 @@
 
 **Responsiveness:** It will gives output in smaller amount of time.
 **Resource sharing:** Sharing resources is very very easy.
-**Economy:** Ve
+**Economy:** Very very cheap when compare to multiple process.
+**Scalability:** 
