@@ -17,4 +17,6 @@
 * Threads can share common data so they do not need to use Interprocess communication. Like the processes, threads also have states like ready, executing, blocked
 * Priority can be assigned to the threads like process.
 * [[TCB]]
-* 
+* Threads can also help to improve the **scalability** of applications by allowing them to handle more requests them to handle more requests at the same time.
+* **Improved performance:** threads can improve performance by allowing multiple tasks to be executed concurrently.
+* **Reduced development time:** Threads can help to reduce development time by allowing developers to focus on logic of their application rather than on the details of how to manage multiple tasks.
