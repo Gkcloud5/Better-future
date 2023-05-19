@@ -118,12 +118,12 @@
             }
           },
           {
-            "id": "be3ab9747f84b099",
+            "id": "5dc4cc5c6c960538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Single thread.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Multithread process.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Single thread.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Multithread process.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Single thread.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Multithread process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Single thread.md"
+                "file": "Learning/Operating System/Theory Parts/Threads/Multithread process.md"
               }
             }
           },
@@ -282,11 +282,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be3ab9747f84b099",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "Pasted image 20230519203314.png",
+    "Learning/Operating System/Theory Parts/Threads/Single thread.md",
+    "Learning/Operating System/Theory Parts/Threads/Multithread process.md",
     "Learning/Operating System/Theory Parts/Threads/Threads in OS.md",
-    "Single thread.md",
+    "Learning/Operating System/Image/Pasted image 20230519203314.png",
     "Learning/Operating System/Image/Pasted image 20230519185853.png",
     "Learning/Operating System/Image/Pasted image 20230519185601.png",
     "Learning/Operating System/Theory Parts/Threads/TCB.md",
@@ -323,7 +324,6 @@
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
-    "Learning/Operating System/Image/Pasted image 20230518221657.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/By using RAG.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock prevention and avoidance.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Prevention.md",

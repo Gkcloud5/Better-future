@@ -18,4 +18,3 @@
 #### Problem in single traded process:
 
 * Assume single thread is blocked so CPU need to wait for execution till the thread unblocked.
-* 
