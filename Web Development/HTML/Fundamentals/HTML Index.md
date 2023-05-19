@@ -22,4 +22,5 @@
 15. [[Adding Links]]
 16. [[Create Bookmark]]
 17. [[Image Map]]
-18. 
+18. [[Favicon]]
+19. 
