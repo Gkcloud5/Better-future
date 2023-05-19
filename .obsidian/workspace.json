@@ -128,9 +128,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "650179a0155c5b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Threads/Kernel level thread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "476165e8ac3a9daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Image/User level thread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -205,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Threads/Types in thread.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Kernel level thread.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Threads/Types in thread.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Kernel level thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Threads/Types in thread.md"
+                "file": "Learning/Operating System/Theory Parts/Threads/Kernel level thread.md"
               }
             }
           },
@@ -284,9 +308,11 @@
   },
   "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Threads/Types in thread.md",
+    "Learning/Operating System/Theory Parts/Threads/Kernel level thread.md",
+    "Learning/Operating System/Image/User level thread.md",
     "Learning/Operating System/Image/Pasted image 20230519211909.png",
     "Learning/Operating System/Theory Parts/Threads/Threads in OS.md",
-    "Learning/Operating System/Theory Parts/Threads/Types in thread.md",
     "Learning/Operating System/Theory Parts/Threads/Threads.md",
     "Learning/Operating System/Theory Parts/Threads/Multithread process.md",
     "Learning/Operating System/Image/Pasted image 20230519205710.png",
@@ -318,7 +344,6 @@
     "Development/HTML/Practise/Images/Studyroom.avif.crdownload",
     "Development/HTML/Practise/Images",
     "Web Development/HTML/Fundamentals/Create Bookmark.md",
-    "Web Development/HTML/Image/Pasted image 20230518234114.png",
     "Web Development/HTML/Fundamentals/Overview about CSS.md",
     "Development/HTML/Practise/style.css",
     "Web Development/HTML/Fundamentals/HTML Colors.md",
@@ -328,7 +353,6 @@
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/By using RAG.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock prevention and avoidance.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Prevention.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Recovery",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
