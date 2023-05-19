@@ -7,3 +7,12 @@
 * In multi thread process we will divide a process into several tasks. each task represent a thread.
 * All the thread executed simultaneously.
 * So with a less amount of time we can get the output.
+
+![[Pasted image 20230519205710.png]]
+
+* Here register and stack are unique per thread
+* CPU idle time is very very low.
+
+#### Benefits of multithread:
+
+
