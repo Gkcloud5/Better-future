@@ -9,3 +9,12 @@
 
 ![[Pasted image 20230519203314.png]]
 
+**Code:** It is useful to store instruction of process.
+**Data:** Useful to store global variable
+**Files:** Used to store opened file information regarding process
+**Registers:** It contains registers, program counter.
+**Stack:** it is a local variable.
+
+#### Problem in single traded process:
+
+* 
