@@ -13,4 +13,8 @@
 
 #### Why do we need thread?
 
+* Threads run in parallel improving the application performance. Each such thread has its own CPU stage and stack, but they are share the address space of the process and the environment.
+* Threads can share common data so they do not need to use Interprocess communication. Like the processes, threads also have states like ready, executing, blocked
+* Priority can be assigned to the threads like process.
+* [[TCB]]
 * 
