@@ -8,4 +8,9 @@
 * If a process request for some resource
 	* If `request <= max need` then goes to next step
 	* If `request <= avilable resource`, once satisfied then went to next step
-	* 
+	* Allocate the requested resources to process by modifying
+		* Available = Available - request
+		* Allocation = Allocation + request
+		* Need = Need - request
+	* If safe state ==> then resource allocated
+	* If unsafe state ==> Then resources not allocated
