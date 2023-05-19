@@ -4,4 +4,8 @@
 
 #### About single thread:
 
-* By default every process only one thread
+* By default every process will contains only one thread
+* This thread defines flow of execution through the process code, with its own program counter.
+
+![[Pasted image 20230519203314.png]]
+
