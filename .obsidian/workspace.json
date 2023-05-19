@@ -92,45 +92,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "547f0af35739ec14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57a8364d3bd7893e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/HTML/Fundamentals/Adding Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9f14b65dc0a01e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Image Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image Map.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Image Map.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Image Map.md"
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md"
               }
             }
           },
@@ -282,14 +246,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9f14b65dc0a01e9",
+  "active": "d3b001c72949cbee",
   "lastOpenFiles": [
+    "Web Development/HTML/Fundamentals/HTML Index.md",
+    "Image Map.md",
     "Development/HTML/Practise/Images/watch.jpg",
     "Development/HTML/Practise/Images/watch.jpg.crdownload",
     "Web Development/HTML/Fundamentals/Adding Links.md",
-    "Web Development/HTML/Fundamentals/HTML Index.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
-    "Image Map.md",
     "Development/HTML/Practise/Images/computer.jpg",
     "Development/HTML/Practise/Images/computer.jpg.crdownload",
     "Development/HTML/Practise/Images/Studyroom.jpg",
@@ -325,7 +289,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Characteristics.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock detection and recovery.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance",
-    "Learning/Operating System/Image/Pasted image 20230518204905.png",
     "Learning/Operating System/Theory Parts/Process & schedule/CPU Scheduling Index.md",
     "Communication/Words and meaning/Words meaning.md",
     "Web Development/HTML/Fundamentals/HTML Comments.md",
