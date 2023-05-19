@@ -106,12 +106,12 @@
             }
           },
           {
-            "id": "b9ccdefd8298db95",
+            "id": "35819b38edd1a8f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML id.md",
+                "file": "Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML id.md",
+                "file": "Layout.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML id.md",
+                "file": "Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML id.md"
+                "file": "Layout.md"
               }
             }
           },
@@ -270,9 +270,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9ccdefd8298db95",
+  "active": "35819b38edd1a8f9",
   "lastOpenFiles": [
     "Web Development/HTML/Fundamentals/HTML Index.md",
+    "Layout.md",
+    "iframe.md",
     "HTML id.md",
     "HTML Class.md",
     "Web Development/HTML/Fundamentals/HTML Elements.md",
@@ -308,13 +310,11 @@
     "Web Development/HTML/Image/Pasted image 20230518235758.png",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock Avoidance.md",
     "Development/HTML/Practise/Images/watch.jpg.crdownload",
-    "Web Development/HTML/Fundamentals/Adding Links.md",
     "Development/HTML/Practise/Images/computer.jpg.crdownload",
     "Development/HTML/Practise/Images/Studyroom.jpg.crdownload",
     "Development/HTML/Practise/Images/Studyroom.avif",
     "Development/HTML/Practise/Images/Studyroom.avif.crdownload",
     "Development/HTML/Practise/Images",
-    "Web Development/HTML/Fundamentals/Create Bookmark.md",
     "Development/HTML/Practise/style.css",
     "Learning/Operating System/OS RoadMap.canvas",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance",
