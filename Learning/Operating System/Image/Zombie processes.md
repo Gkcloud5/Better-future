@@ -7,9 +7,10 @@
 * A process which has finished the execution but still has entry in the process table to report to its parent process is known as a zombie process.
 *  A child process always first becomes a zombie before being removed from the process table.
 * The parent process reads the exit status of the child process which reaps off the child process entry from the process table.
-* 
 
+#### Orphan Process:
 
+* A process whose parent process no mor
 #### Zombie state:
 
 * When a process is created in UNIX using `fork()` system call. the parent process is cloned. if the parent process calls wait() system call, then the parent process is suspended until the child is terminated.
