@@ -5,4 +5,4 @@
 2.  [[Types in thread]]
 3. [[Process-Based and thread based multitasking]]
 4. [[Multithreading Model]]
-5. 
+5. [[B]]

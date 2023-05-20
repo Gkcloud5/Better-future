@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Threads/Multithreading Model.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Threads.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Threads/Multithreading Model.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Threads/Multithreading Model.md"
+                "file": "Learning/Operating System/Theory Parts/Threads/Threads.md"
               }
             }
           },
@@ -256,13 +256,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "641ebdd9cbf05320",
+  "active": "728c9833f46cb295",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Threads/Multithreading Model.md",
     "Pasted image 20230520135723.png",
     "Pasted image 20230520135311.png",
     "Learning/Operating System/Image/Pasted image 20230520134959.png",
     "Learning/Operating System/Theory Parts/Threads/Threads.md",
-    "Learning/Operating System/Theory Parts/Threads/Multithreading Model.md",
     "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md",
     "Learning/Operating System/Image/Pasted image 20230520133600.png",
     "Learning/Operating System/OS Topics.md",
@@ -291,7 +291,6 @@
     "Learning/Operating System/Theory Parts/Threads/Multithread process.md",
     "Learning/Operating System/Image/Pasted image 20230519205710.png",
     "Learning/Operating System/Theory Parts/Threads/Single thread.md",
-    "Learning/Operating System/Image/Pasted image 20230519203314.png",
     "Learning/Operating System/Theory Parts/Threads/TCB.md",
     "Learning/Operating System/Theory Parts/Threads",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",

@@ -27,4 +27,5 @@
 
  ![[Pasted image 20230520135723.png]]
 
-* 
+* Many number of user thread mapped to many number of equal or less kernel thread.
+* If one thread is blocked then no issue, remaining thread will execute a process.
