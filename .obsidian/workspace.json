@@ -95,6 +95,18 @@
             }
           },
           {
+            "id": "9b4b9addadb686b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/CSS/CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cb93726672ba8264",
             "type": "leaf",
             "state": {
@@ -107,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -181,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/RoadMap/Web App developer roadmap.canvas",
+                "file": "Web Development/CSS/CSS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/RoadMap/Web App developer roadmap.canvas",
+                "file": "Web Development/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/RoadMap/Web App developer roadmap.canvas"
+                "file": "Web Development/CSS/CSS.md"
               }
             }
           },
@@ -258,10 +270,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95b253a714d4f6d6",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "Web Development/HTML/Fundamentals/HTML.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
+    "Web Development/CSS/CSS.md",
+    "Web Development/CSS/Untitled/Untitled",
+    "Web Development/CSS/Fundamentals",
+    "Web Development/CSS",
+    "Web Development/HTML/Fundamentals/HTML.md",
     "Web Development/HTML/Fundamentals/HTML Form.md",
     "Learning/Operating System/OS Topics.md",
     "Web Development/RoadMap",
@@ -295,7 +311,6 @@
     "Learning/Operating System/Image/Pasted image 20230519212850.png",
     "Learning/Operating System/Image/User level thread.md",
     "Learning/Operating System/Image/Pasted image 20230519211909.png",
-    "Learning/Operating System/Theory Parts/Threads/Multithread process.md",
     "Learning/Operating System/Image/Pasted image 20230519205710.png",
     "Learning/Operating System/Theory Parts/Threads",
     "Development/HTML/Practise/Images/watch.jpg.crdownload",
@@ -303,10 +318,7 @@
     "Development/HTML/Practise/Images/Studyroom.jpg.crdownload",
     "Development/HTML/Practise/Images/Studyroom.avif",
     "Development/HTML/Practise/Images/Studyroom.avif.crdownload",
-    "Development/HTML/Practise/Images",
-    "Development/HTML/Practise/style.css",
     "Learning/Operating System/OS RoadMap.canvas",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
