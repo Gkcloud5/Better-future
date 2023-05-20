@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Thread issue in OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Thread issue in OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md"
+                "file": "Learning/Operating System/Theory Parts/Threads/Thread issue in OS.md"
               }
             }
           },
@@ -256,8 +256,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "cac9fc86676e21a9",
   "lastOpenFiles": [
+    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Threads/Threads.md",
     "Learning/Operating System/Theory Parts/Threads/Thread issue in OS.md",
     "Learning/Operating System/Image/Zombie processes.md",
@@ -269,7 +270,6 @@
     "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md",
     "Learning/Operating System/Image/Pasted image 20230520133600.png",
     "Learning/Operating System/OS Topics.md",
-    "Communication/Words and meaning/Words meaning.md",
     "Web Development/HTML/Fundamentals/HTML Index.md",
     "Web Development/HTML/Fundamentals/HTML Form.md",
     "Web Development/HTML/Fundamentals/Layout.md",
