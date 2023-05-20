@@ -10,4 +10,14 @@
 
 #### Resource sharing:
 
-* *
+* Process may share resource by following techniques
+	* Message passing
+	* Shared Memory
+* Such techniques must be explicitly organized by programmer.
+* Threads share the memory and the resources of the process to which they belong by default.
+
+
+#### Economy:
+
+* Allocating memory and resources for process creation is a costly job in terms of time and space.
+* Since, threads share memory with the process it belongs, it is more economical to create
