@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zombie processes.md",
+                "file": "Learning/Operating System/Image/Zombie processes.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zombie processes.md",
+                "file": "Learning/Operating System/Image/Zombie processes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zombie processes.md",
+                "file": "Learning/Operating System/Image/Zombie processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zombie processes.md"
+                "file": "Learning/Operating System/Image/Zombie processes.md"
               }
             }
           },
@@ -256,10 +256,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1820ddc859d2fb6b",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Threads/Threads.md",
-    "Zombie processes.md",
+    "Learning/Operating System/Image/Zombie processes.md",
     "Learning/Operating System/Theory Parts/Threads/Benefits of multithreading.md",
     "Learning/Operating System/Theory Parts/Threads/Multithreading Model.md",
     "Learning/Operating System/Image/Pasted image 20230520135723.png",
