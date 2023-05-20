@@ -10,7 +10,9 @@
 
 #### Orphan Process:
 
-* A process whose parent process no mor
+* A process whose parent process no more exists, i.e either finished or terminated without waiting for its child process to terminate is called an orphan process.
+
+
 #### Zombie state:
 
 * When a process is created in UNIX using `fork()` system call. the parent process is cloned. if the parent process calls wait() system call, then the parent process is suspended until the child is terminated.
