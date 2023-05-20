@@ -1,6 +1,21 @@
 {
 	"nodes":[
-		{"id":"fb11720c5205e624","x":-27,"y":-107,"width":250,"height":60,"type":"text","text":"Wep app developer"}
+		{"type":"text","text":"#### Wep app developer","id":"fb11720c5205e624","x":-100,"y":-80,"width":303,"height":60},
+		{"type":"text","text":"##### [[HTML]]","id":"f5fd5b7758456fb6","x":340,"y":-460,"width":250,"height":60},
+		{"id":"3c1e95c3a221d3f7","x":346,"y":-337,"width":250,"height":60,"type":"text","text":"#### [[CSS]]"},
+		{"id":"1f86d9768e60379b","x":344,"y":-228,"width":250,"height":60,"type":"text","text":"##### [[Bootstrap]]"},
+		{"id":"207dd4ad37579ab9","x":338,"y":-83,"width":250,"height":60,"type":"text","text":"##### [[Javascript]]"},
+		{"id":"d9ec5b28993d5326","x":335,"y":37,"width":250,"height":60,"type":"text","text":"##### [[React]]"},
+		{"id":"d4c86c435de29d4e","x":-471,"y":-401,"width":250,"height":60,"type":"text","text":"##### [[Basics of GIT]]"},
+		{"id":"30ef1c613db5160b","x":-476,"y":-265,"width":250,"height":60,"type":"text","text":"#### [[Package Manager]]"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"4f040c286b0f6792","fromNode":"fb11720c5205e624","fromSide":"right","toNode":"f5fd5b7758456fb6","toSide":"left"},
+		{"id":"7b3116409753405f","fromNode":"fb11720c5205e624","fromSide":"right","toNode":"3c1e95c3a221d3f7","toSide":"left"},
+		{"id":"641d2cc24ee10a0d","fromNode":"fb11720c5205e624","fromSide":"right","toNode":"1f86d9768e60379b","toSide":"left"},
+		{"id":"a7e27db75e4bd137","fromNode":"fb11720c5205e624","fromSide":"right","toNode":"207dd4ad37579ab9","toSide":"left"},
+		{"id":"d8d48ec67510efa0","fromNode":"fb11720c5205e624","fromSide":"right","toNode":"d9ec5b28993d5326","toSide":"left"},
+		{"id":"2c2cb7c0a19d50ad","fromNode":"fb11720c5205e624","fromSide":"left","toNode":"d4c86c435de29d4e","toSide":"right"},
+		{"id":"4df44037c3e28d92","fromNode":"fb11720c5205e624","fromSide":"left","toNode":"30ef1c613db5160b","toSide":"right"}
+	]
 }

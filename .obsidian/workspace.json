@@ -87,8 +87,8 @@
               "state": {
                 "file": "Web Development/RoadMap/Web App developer roadmap.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 227,
+                  "y": -249,
                   "zoom": 0
                 }
               }
@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -261,11 +260,11 @@
   },
   "active": "95b253a714d4f6d6",
   "lastOpenFiles": [
-    "Learning/Operating System/OS Topics.md",
+    "Web Development/HTML/Fundamentals/HTML.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
-    "Web Development/RoadMap",
-    "Web Development/HTML/Fundamentals/HTML Index.md",
     "Web Development/HTML/Fundamentals/HTML Form.md",
+    "Learning/Operating System/OS Topics.md",
+    "Web Development/RoadMap",
     "Learning/Operating System/Theory Parts/Threads/Threads.md",
     "Learning/Operating System/Theory Parts/Threads/Thread issue in OS.md",
     "Communication/Words and meaning/Words meaning.md",
