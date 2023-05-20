@@ -7,4 +7,5 @@
 
 #### Fork system call and exec system call:
 
-* 
+* Generally, fork system call will help to create new process it's exact duplicate of a parent process,
+* exec system call used to inorder replace duplicate process with new process.
