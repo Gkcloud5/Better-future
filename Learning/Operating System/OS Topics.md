@@ -18,4 +18,5 @@
 4. [[Process Synchronization]]
 5. [[Deadlock]]
 6. [[Threads]]
-7. 
+7. [[Memory Management]]
+8. [[Disk Management]]

@@ -24,4 +24,4 @@
 #### Signal Handling:
 
 * Signal is a special notification which is sent from 1 process to another process or kernel may send signal to the process.
-* Let consider p1 sends signal to p2 here p2 hae 4 thread
+* Let consider p1 sends signal to p2 here p2 have 4 thread, so process p2 thread confusion with which thread need to handle event.
