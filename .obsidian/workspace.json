@@ -80,45 +80,31 @@
             }
           },
           {
-            "id": "d3b001c72949cbee",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a8c1bb3b893b534a",
+            "id": "728c9833f46cb295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML Index.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Threads.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ecdde1160bb1dd28",
+            "id": "059ec542d1b13a1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML Form.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -176,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -192,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md"
+                "file": "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md"
               }
             }
           },
@@ -269,8 +256,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "active": "059ec542d1b13a1f",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Threads/Threads.md",
+    "Learning/Operating System/OS Topics.md",
+    "Communication/Words and meaning/Words meaning.md",
     "Web Development/HTML/Fundamentals/HTML Index.md",
     "Web Development/HTML/Fundamentals/HTML Form.md",
     "Web Development/HTML/Fundamentals/Layout.md",
@@ -287,7 +277,6 @@
     "Web Development/HTML/Fundamentals/Image Map.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Threads/Types in thread.md",
-    "Learning/Operating System/Theory Parts/Threads/Threads.md",
     "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md",
     "Learning/Operating System/Theory Parts/Threads/Threads in OS.md",
     "Learning/Operating System/Theory Parts/Threads/Kernel level thread.md",
@@ -302,12 +291,10 @@
     "Learning/Operating System/Image/Pasted image 20230519185601.png",
     "Learning/Operating System/Theory Parts/Threads/TCB.md",
     "Learning/Operating System/Image/Pasted image 20230519184952.png",
-    "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Threads",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Deadlock.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Resource Request algorithm.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/Safety algorithm.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Deadlock/Avoidance/By using Banker's algorithm.md",
     "Development/HTML/Practise/Images/watch.jpg.crdownload",
     "Development/HTML/Practise/Images/computer.jpg.crdownload",
     "Development/HTML/Practise/Images/Studyroom.jpg.crdownload",
