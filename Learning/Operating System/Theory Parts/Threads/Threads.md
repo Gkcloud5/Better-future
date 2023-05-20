@@ -5,4 +5,5 @@
 2.  [[Types in thread]]
 3. [[Process-Based and thread based multitasking]]
 4. [[Multithreading Model]]
-5. [[B]]
+5. [[Benefits of multithreading]]
+6. 
