@@ -21,3 +21,9 @@
  <input type="text" id="fname" name="fname"><br>
 </form>
 ```
+
+
+##### Action:
+
+* [attribute](https://www.w3schools.com/html/html_forms_attributes.asp)
+* action attribute performed when the form is submitted.
