@@ -12,4 +12,16 @@
 * Let consider fork system call in thread 1 so new process is created with 1 thread or same thread count as parent thread.
 * Two options:
 	* exec() system call after executing fork system call so exec process will replace a newly created process by fork
-	* No exec system call 
+	* No exec system call only fork call so may create as many threads
+
+#### Thread Cancellation:
+
+* Killing a thread and eliminating a thread.
+* Two Approach:
+	* **Asynchronous:** Killing a thread immediately even that thread having a work.
+	* **Deferred:** Once all the operation of thread completed then it will cancel it themself.
+
+#### Signal Handling:
+
+* Signal is a special notification which is sent from 1 process to another process or kernel may send signal to the process.
+* Let consider p1 sends signal to p2 here p2 hae 4 thread
