@@ -20,4 +20,8 @@
 #### Economy:
 
 * Allocating memory and resources for process creation is a costly job in terms of time and space.
-* Since, threads share memory with the process it belongs, it is more economical to create
+* Since, threads share memory with the process it belongs, it is more economical to create and context switch threads.
+
+#### Scalability:
+
+* Benefits of multi-programming greatly increase in case of multiprocessor architecture, where threads may be running parallel on multiple processors.
