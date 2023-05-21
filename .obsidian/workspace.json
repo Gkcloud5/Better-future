@@ -92,12 +92,12 @@
             }
           },
           {
-            "id": "e885451b0a81ba81",
+            "id": "72dd2e58a77bfbb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/BOX Model.md",
+                "file": "CSS intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/BOX Model.md",
+                "file": "CSS intro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/BOX Model.md",
+                "file": "CSS intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/BOX Model.md"
+                "file": "CSS intro.md"
               }
             }
           },
@@ -258,13 +258,17 @@
   },
   "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Development/CSS/Practise/index.html",
+    "Development/CSS/Practise/index.css",
+    "Development/CSS/Practise",
+    "Web Development/CSS/Fundamentals/BOX Model.md",
+    "CSS intro.md",
+    "Web Development/CSS/CSS.md",
     "Web Development/CSS/Image",
     "Web Development/CSS/Image/Pasted image 20230521214204.png",
-    "Development/HTML/Practise/CSS/index.css",
-    "Development/HTML/Practise/CSS/index.html",
-    "Development/HTML/Practise/CSS",
-    "Web Development/CSS/CSS.md",
-    "Web Development/CSS/Fundamentals/BOX Model.md",
+    "Development/CSS/index.css",
+    "Development/CSS/index.html",
+    "Development/CSS",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",
@@ -292,11 +296,8 @@
     "Learning/Operating System/Theory Parts/Memory Management",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/CSS/Untitled/Untitled",
-    "Web Development/CSS/Fundamentals",
-    "Web Development/CSS",
     "Web Development/HTML/Fundamentals/HTML.md",
     "Web Development/HTML/Fundamentals/HTML Form.md",
-    "Web Development/RoadMap",
     "Learning/Operating System/Theory Parts/Threads/Threads.md",
     "Learning/Operating System/Theory Parts/Threads/Thread issue in OS.md",
     "Learning/Operating System/Image/Zombie processes.md",
@@ -304,7 +305,6 @@
     "Learning/Operating System/Theory Parts/Threads/Multithreading Model.md",
     "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md",
     "Web Development/HTML/Fundamentals/Layout.md",
-    "Web Development/HTML/Fundamentals/iframe.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
