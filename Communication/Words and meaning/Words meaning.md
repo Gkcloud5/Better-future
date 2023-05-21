@@ -31,4 +31,6 @@ explicitly - வெளிப்படையாக
 * Crypto give **explicitly** information about sender and receiver
 
 abstraction - சுருக்கம்
-* 
+
+enhancement - விரிவாக்கம்
+* This enhancement of a*
