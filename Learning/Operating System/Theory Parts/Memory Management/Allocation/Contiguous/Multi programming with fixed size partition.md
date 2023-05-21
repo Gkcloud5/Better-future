@@ -38,4 +38,15 @@
 
 ##### External fragmentation:
 
-* 
+* Let consider OS have 20MB process size, when we look a memory totally we have around 23MB size but we can't allocate a those spaces to the process 
+* Because they are already occupied with some other process so even if we have free space not able to assign a space to process.
+
+##### Degree of multiprogramming:
+
+* It's very less in this approach.
+
+#### Memory allocation algorithm:
+
+* ##### First fit:
+	* consider we have 3 partition with a size of 10mb,20mb and 30mb.
+	* 
