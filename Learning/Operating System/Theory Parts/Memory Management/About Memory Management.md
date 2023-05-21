@@ -9,4 +9,15 @@
 
 #### How data is being stored in a computer system?
 
-* Machine understand only 
+* Machine understand only binary language that is 0 or 1. 
+	* Computer converts every data into binary language first and then stores it into the memory.
+
+![[Pasted image 20230521123100.png]]
+
+
+#### About 32bit and 64Bit size:
+
+* 32bit and 64-bit refer to the size of the data that a computer processor can handle.
+* 32bit can only access upto 4GB of memory.
+* A 64bit processor can access up to 17 billion GB of memory.
+* 
