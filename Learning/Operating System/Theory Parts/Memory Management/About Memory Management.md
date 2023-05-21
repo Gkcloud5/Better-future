@@ -29,3 +29,6 @@
 
 * Memories are made up of registers. Each registers in the memory is one storage location.
 * the storage location is also called a memory location.
+* Memory locations are identified using **Address**.
+* Total number of bits a memory can store is its **capacity**.
+* A storage element is called a *Cell*. Each registers is made up of a storage element in which one bit of data is stored.
