@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e885451b0a81ba81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOX Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "BOX Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "BOX Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/CSS.md"
+                "file": "BOX Model.md"
               }
             }
           },
@@ -244,8 +256,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "205f9068b1199f3b",
+  "active": "e885451b0a81ba81",
   "lastOpenFiles": [
+    "Development/HTML/Practise/CSS/index.css",
+    "Development/HTML/Practise/CSS/index.html",
+    "Development/HTML/Practise/CSS",
+    "Web Development/CSS/CSS.md",
+    "BOX Model.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",
@@ -272,7 +289,6 @@
     "Learning/Operating System/Image/Pasted image 20230521123100.png",
     "Learning/Operating System/Theory Parts/Memory Management",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
-    "Web Development/CSS/CSS.md",
     "Web Development/CSS/Untitled/Untitled",
     "Web Development/CSS/Fundamentals",
     "Web Development/CSS",
@@ -288,11 +304,7 @@
     "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md",
     "Web Development/HTML/Fundamentals/Layout.md",
     "Web Development/HTML/Fundamentals/iframe.md",
-    "Web Development/HTML/Fundamentals/HTML id.md",
-    "Web Development/HTML/Fundamentals/HTML Class.md",
     "Learning/Operating System/Theory Parts/Threads",
-    "Development/HTML/Practise/Images/watch.jpg.crdownload",
-    "Development/HTML/Practise/Images/computer.jpg.crdownload",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
