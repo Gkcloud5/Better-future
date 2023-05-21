@@ -1,5 +1,9 @@
 #### Source:
 [YT](https://www.youtube.com/watch?v=lxus-whQDnk&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&index=50)
+[JTP](https://www.javatpoint.com/os-fixed-partitioning)
+[GFG](https://www.geeksforgeeks.org/fixed-or-static-partitioning-in-operating-system/)
+
+
 
 #### About it:
 
