@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7070c9ce249cca53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Memory Management/About Memory Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/About Memory Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/About Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/About Memory Management.md"
               }
             }
           },
@@ -244,11 +256,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "859d29240d5e75bd",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
+    "Learning/Operating System/Theory Parts/Memory Management/About Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management",
     "Learning/Operating System/OS Topics.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/CSS/CSS.md",
     "Communication/Words and meaning/Words meaning.md",
@@ -292,7 +305,6 @@
     "Development/HTML/Practise/Images/computer.jpg.crdownload",
     "Development/HTML/Practise/Images/Studyroom.jpg.crdownload",
     "Development/HTML/Practise/Images/Studyroom.avif",
-    "Development/HTML/Practise/Images/Studyroom.avif.crdownload",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
