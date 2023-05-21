@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "10d46133d24e63bc",
+            "id": "5d52e9252a79f23c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary Memory.md",
+                "file": "Secondary Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primary Memory.md",
+                "file": "Secondary Memory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primary Memory.md",
+                "file": "Secondary Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primary Memory.md"
+                "file": "Secondary Memory.md"
               }
             }
           },
@@ -268,9 +268,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10d46133d24e63bc",
+  "active": "5d52e9252a79f23c",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Memory Management/Memory Hierarchy design.md",
+    "Secondary Memory.md",
     "Primary Memory.md",
     "Pasted image 20230521124529.png",
     "Communication/Words and meaning/Words meaning.md",
@@ -311,7 +312,6 @@
     "Web Development/HTML/Fundamentals/Favicon.md",
     "Web Development/HTML/Fundamentals/Image Map.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
-    "Learning/Operating System/Theory Parts/Threads/Types in thread.md",
     "Learning/Operating System/Theory Parts/Threads",
     "Development/HTML/Practise/Images/watch.jpg.crdownload",
     "Development/HTML/Practise/Images/computer.jpg.crdownload",
