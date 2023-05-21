@@ -4,4 +4,5 @@
 
 1. [[About Memory Management]]
 2. [[Memory Hierarchy design]]
-3. 
+3. [[Memory Allocation Technique]]
+4. 
