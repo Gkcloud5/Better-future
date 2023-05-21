@@ -20,4 +20,7 @@
 * 32bit and 64-bit refer to the size of the data that a computer processor can handle.
 * 32bit can only access upto 4GB of memory.
 * A 64bit processor can access up to 17 billion GB of memory.
-* 
+* A 64-bit  processor can perform calculations that are twice as fast as a 32-bit processor.
+
+![[Pasted image 20230521123801.png]]
+
