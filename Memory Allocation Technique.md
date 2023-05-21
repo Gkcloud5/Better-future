@@ -20,4 +20,12 @@
 	* OS ensures that each process can only access its allocated memory and prevents unauthorized access to memory areas belonging to other processes or the OS itself.
 * ##### Virtual Memory Management:
 	* Memory allocation plays a crucial role in virtual memory systems.
-	* It enables efficient swapping of data between physical memory and disk storage
+	* It enables efficient swapping of data between physical memory and disk storage, allowing the system to handle more extensive programs and data sets than the available physical memory capacity.
+* ##### Dynamic Memory allocation:
+	* Memory allocation is also responsible for managing dynamic memory requests made by programs during runtime.
+	
+
+#### types of memory allocation
+
+* Contiguous memory allocation
+* Non-contiguous memory allocation
