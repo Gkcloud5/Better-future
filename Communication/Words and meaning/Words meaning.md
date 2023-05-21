@@ -33,4 +33,4 @@ explicitly - வெளிப்படையாக
 abstraction - சுருக்கம்
 
 enhancement - விரிவாக்கம்
-* This enhancement of a*
+* This enhancement of a project

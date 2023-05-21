@@ -102,8 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10d46133d24e63bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primary Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "Primary Memory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "Primary Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md"
+                "file": "Primary Memory.md"
               }
             }
           },
@@ -255,9 +268,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d12f9dc7a3687a60",
+  "active": "10d46133d24e63bc",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Memory Management/Memory Hierarchy design.md",
+    "Primary Memory.md",
+    "Pasted image 20230521124529.png",
+    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/About Memory Management.md",
     "Learning/Operating System/Image/Pasted image 20230521123801.png",
@@ -266,7 +282,6 @@
     "Learning/Operating System/OS Topics.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/CSS/CSS.md",
-    "Communication/Words and meaning/Words meaning.md",
     "Web Development/CSS/Untitled/Untitled",
     "Web Development/CSS/Fundamentals",
     "Web Development/CSS",
@@ -297,8 +312,6 @@
     "Web Development/HTML/Fundamentals/Image Map.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/Operating System/Theory Parts/Threads/Types in thread.md",
-    "Learning/Operating System/Theory Parts/Threads/Threads in OS.md",
-    "Learning/Operating System/Image/Pasted image 20230519212850.png",
     "Learning/Operating System/Theory Parts/Threads",
     "Development/HTML/Practise/Images/watch.jpg.crdownload",
     "Development/HTML/Practise/Images/computer.jpg.crdownload",
