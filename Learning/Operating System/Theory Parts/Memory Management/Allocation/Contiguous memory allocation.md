@@ -8,4 +8,5 @@
 ![[Pasted image 20230521134423.png]]
 
 * 2 Approach
-	* [[Multi ptogramming with fixed si]]
+	* [[Multi programming with fixed size partition]]
+	* [[Multi programming with variable size partition]]

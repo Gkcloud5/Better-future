@@ -1,0 +1,13 @@
+#### Source:
+[YT](https://www.youtube.com/watch?v=lxus-whQDnk&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&index=50)
+
+#### About it:
+
+* Whenever there is a free space in memory, the OS will assign process to memory as per free space in memory block.
+* Here no need to have continues block available.
+
+![[Pasted image 20230521134824.png]]
+
+* 2 Approach
+	* [[Paging]]
+	* [[Segmentation]]
