@@ -16,6 +16,6 @@
  * [[Contiguous memory allocation]] 
 	 * MFT -- Multiprogramming with fixed tasks
 	 * MVT -- Multiprogramming with variable tasks
-* [[Non-continuous memory]]
+* [[Non-contiguous memory allocation]]
 	* Paging
 	* Segmentation

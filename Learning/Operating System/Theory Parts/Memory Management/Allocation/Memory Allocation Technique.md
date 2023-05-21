@@ -27,5 +27,5 @@
 
 #### types of memory allocation
 
-* Contiguous memory allocation
-* Non-contiguous memory allocation
+* [[Contiguous memory allocation]]
+* [[Non-contiguous memory allocation]]
