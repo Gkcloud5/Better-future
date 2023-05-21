@@ -24,3 +24,8 @@
 
 ![[Pasted image 20230521123801.png]]
 
+
+#### About memory structure:
+
+* Memories are made up of registers. Each registers in the memory is one storage location.
+* the storage location is also called a memory location.

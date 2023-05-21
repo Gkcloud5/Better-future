@@ -21,4 +21,9 @@
 * ##### Registers:
 	* Registers are small, high-speed memory units located in the CPU.
 	* They are used to store the most frequently used data and instructions.
-	* Registers have the fastest access ti
+	* Registers have the fastest access time and the smallest storage capacity.
+* ##### Cache Memory:
+	* Cache memory is small, fast memory unit located close to the CPU.
+	* It stores frequently used data and frequently used instructions.
+* [[Primary Memory]]
+* [[Secondary Memory]]
