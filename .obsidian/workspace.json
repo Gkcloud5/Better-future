@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOX Model.md",
+                "file": "Web Development/CSS/Fundamentals/BOX Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOX Model.md",
+                "file": "Web Development/CSS/Fundamentals/BOX Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BOX Model.md",
+                "file": "Web Development/CSS/Fundamentals/BOX Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BOX Model.md"
+                "file": "Web Development/CSS/Fundamentals/BOX Model.md"
               }
             }
           },
@@ -256,13 +256,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e885451b0a81ba81",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Web Development/CSS/Image",
+    "Web Development/CSS/Image/Pasted image 20230521214204.png",
     "Development/HTML/Practise/CSS/index.css",
     "Development/HTML/Practise/CSS/index.html",
     "Development/HTML/Practise/CSS",
     "Web Development/CSS/CSS.md",
-    "BOX Model.md",
+    "Web Development/CSS/Fundamentals/BOX Model.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",
@@ -300,11 +302,9 @@
     "Learning/Operating System/Image/Zombie processes.md",
     "Learning/Operating System/Theory Parts/Threads/Benefits of multithreading.md",
     "Learning/Operating System/Theory Parts/Threads/Multithreading Model.md",
-    "Learning/Operating System/Image/Pasted image 20230520135723.png",
     "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md",
     "Web Development/HTML/Fundamentals/Layout.md",
     "Web Development/HTML/Fundamentals/iframe.md",
-    "Learning/Operating System/Theory Parts/Threads",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"

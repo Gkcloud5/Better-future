@@ -19,4 +19,7 @@ p{
 
 #### Content and sizing:
 
-* Boxes
+* Boxes have different behavior's based on their display value.
+
+![[Pasted image 20230521214204.png]]
+
