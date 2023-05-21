@@ -80,55 +80,19 @@
             }
           },
           {
-            "id": "a12758544d17a0f9",
+            "id": "205f9068b1199f3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b303b6f1775c5aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d6c4ab5da21518c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous memory allocation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17d7ec74a8e5b891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",
+                "file": "Web Development/CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",
+                "file": "Web Development/CSS/CSS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",
+                "file": "Web Development/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md"
+                "file": "Web Development/CSS/CSS.md"
               }
             }
           },
@@ -280,10 +244,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17d7ec74a8e5b891",
+  "active": "205f9068b1199f3b",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous memory allocation.md",
+    "Learning/Operating System/OS Topics.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous memory allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with fixed size partition.md",
     "Learning/Operating System/Image/Pasted image 20230521152436.png",
     "Learning/Operating System/Image/Pasted image 20230521152050.png",
@@ -292,7 +258,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Image/Pasted image 20230521134824.png",
     "Learning/Operating System/Image/Pasted image 20230521134423.png",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
@@ -306,7 +271,6 @@
     "Learning/Operating System/Image/Pasted image 20230521123801.png",
     "Learning/Operating System/Image/Pasted image 20230521123100.png",
     "Learning/Operating System/Theory Parts/Memory Management",
-    "Learning/Operating System/OS Topics.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Untitled/Untitled",
