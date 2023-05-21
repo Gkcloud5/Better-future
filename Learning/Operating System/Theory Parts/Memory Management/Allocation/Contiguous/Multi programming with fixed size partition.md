@@ -60,6 +60,16 @@
 	* Allocate minimum partition that big enough for a process
 	* Allocate a partition that's will have minimum fragmentation.
 	* First, we have to scan all the free partition for this method
-	* Let consider same example as we discussed above, but partition 2 size is 27MB
+	* Let consider same example as we discussed above, but partition 2 size is 27MB, and 4th partition size is 17MB
 		* Process 1 will be assigned to partition 1
-		* Process 
+		* Process 2 will be assigned in partition 2
+		* process 3 will be assigned in partition 4
+
+![[Pasted image 20230521152436.png]]
+
+
+* ##### Worst Fit:
+	* it is a opposite of best fit algorithm
+	* maximum block will be assigned to corresponding process.
+	* First, OS check all the free available partition size.
+	* And, OS will assign 1st process to maximum partition size block
