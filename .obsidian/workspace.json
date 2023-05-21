@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multi programming with fixed size partition.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with fixed size partition.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multi programming with fixed size partition.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with fixed size partition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multi programming with fixed size partition.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with fixed size partition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multi programming with fixed size partition.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with fixed size partition.md"
               }
             }
           },
@@ -282,8 +282,10 @@
   },
   "active": "df9d23650326ef68",
   "lastOpenFiles": [
+    "Pasted image 20230521150051.png",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous memory allocation.md",
-    "Multi programming with fixed size partition.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with fixed size partition.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
@@ -324,11 +326,9 @@
     "Web Development/HTML/Fundamentals/iframe.md",
     "Web Development/HTML/Fundamentals/HTML id.md",
     "Web Development/HTML/Fundamentals/HTML Class.md",
-    "Web Development/HTML/Fundamentals/HTML Elements.md",
     "Learning/Operating System/Theory Parts/Threads",
     "Development/HTML/Practise/Images/watch.jpg.crdownload",
     "Development/HTML/Practise/Images/computer.jpg.crdownload",
-    "Development/HTML/Practise/Images/Studyroom.jpg.crdownload",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
