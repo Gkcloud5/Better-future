@@ -16,3 +16,9 @@
 #### [[Primary Memory]]
 
 
+#### Levels of memory hierarchy:
+
+* ##### Registers:
+	* Registers are small, high-speed memory units located in the CPU.
+	* They are used to store the most frequently used data and instructions.
+	* Registers have the fastest access ti
