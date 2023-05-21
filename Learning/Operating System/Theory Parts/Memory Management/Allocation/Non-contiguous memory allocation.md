@@ -5,6 +5,8 @@
 
 * Whenever there is a free space in memory, the OS will assign process to memory as per free space in memory block.
 * Here no need to have continues block available.
+* It is also known as dynamic allocation.
+* In this technique, each process is allocated a series of non-contiguous blocks of memory.
 
 ![[Pasted image 20230521134824.png]]
 
