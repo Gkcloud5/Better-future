@@ -12,4 +12,21 @@
 ![[Pasted image 20230521150051.png]]
 
 * Here, partition store only one process, even if it have free space it does not store any other process.
-* 
+
+![[Pasted image 20230521150423.png]]
+
+#### Advantage:
+
+* It is very very easy to apply this approach.
+
+#### Drawback:
+
+##### Internal fragmentation:
+
+* Partition also called fragmentation.
+* If we lookup a 1st partition, we could see there is 2MB wasted, this wasted is called as internal fragmentation.
+* in partition 2, 8MB is wasted.
+
+##### Limitation on processes:
+
+* At a time CPU can only execute
