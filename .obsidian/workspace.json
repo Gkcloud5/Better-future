@@ -80,46 +80,19 @@
             }
           },
           {
-            "id": "95b253a714d4f6d6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Web Development/RoadMap/Web App developer roadmap.canvas",
-                "viewState": {
-                  "x": 227,
-                  "y": -63,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "9b4b9addadb686b4",
+            "id": "859d29240d5e75bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb93726672ba8264",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/HTML/Fundamentals/HTML Form.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -193,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/CSS.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md"
               }
             }
           },
@@ -272,18 +246,20 @@
   },
   "active": "6a84e0984a18b269",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Memory Management",
+    "Learning/Operating System/OS Topics.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/CSS/CSS.md",
+    "Communication/Words and meaning/Words meaning.md",
     "Web Development/CSS/Untitled/Untitled",
     "Web Development/CSS/Fundamentals",
     "Web Development/CSS",
     "Web Development/HTML/Fundamentals/HTML.md",
     "Web Development/HTML/Fundamentals/HTML Form.md",
-    "Learning/Operating System/OS Topics.md",
     "Web Development/RoadMap",
     "Learning/Operating System/Theory Parts/Threads/Threads.md",
     "Learning/Operating System/Theory Parts/Threads/Thread issue in OS.md",
-    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Image/Zombie processes.md",
     "Learning/Operating System/Theory Parts/Threads/Benefits of multithreading.md",
     "Learning/Operating System/Theory Parts/Threads/Multithreading Model.md",
@@ -309,7 +285,6 @@
     "Learning/Operating System/Theory Parts/Threads/Threads in OS.md",
     "Learning/Operating System/Theory Parts/Threads/Kernel level thread.md",
     "Learning/Operating System/Image/Pasted image 20230519212850.png",
-    "Learning/Operating System/Image/User level thread.md",
     "Learning/Operating System/Image/Pasted image 20230519211909.png",
     "Learning/Operating System/Image/Pasted image 20230519205710.png",
     "Learning/Operating System/Theory Parts/Threads",
