@@ -29,4 +29,13 @@
 
 ##### Limitation on processes:
 
-* At a time CPU can only execute
+* At a time CPU can only execute how much partition count they have.
+* If memory divided into 7 partition then CPU can execute only 7 process at a time.
+
+##### Limitation on size of a process:
+
+* Let consider if OS want to execute 100MB process, it's not possible, because partition maximum size is 25MB.
+
+##### External fragmentation:
+
+* 
