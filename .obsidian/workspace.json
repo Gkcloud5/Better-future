@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
+                "file": "Learning/Programming/Python/Topics/Function/Python function.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -342,11 +341,12 @@
   },
   "active": "72bb7d19961736cf",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Topics/Function/Python function.md",
     "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/Pasted image 20230522155415.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Page table.md",
     "Learning/Operating System/Image/Pasted image 20230522155051.png",
@@ -388,7 +388,6 @@
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/HTML/Fundamentals/HTML.md",
     "Web Development/HTML/Fundamentals/HTML Form.md",
-    "Learning/Operating System/Theory Parts/Threads/Threads.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
