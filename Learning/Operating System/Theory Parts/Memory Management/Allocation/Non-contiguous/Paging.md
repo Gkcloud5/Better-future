@@ -37,3 +37,6 @@
 
 ![[Pasted image 20230522133621.png]]
 
+#### Example:
+
+[[Paging example for a 32-bit memory with 4-byte pages]]
