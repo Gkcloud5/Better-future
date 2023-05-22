@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -279,9 +280,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf14308fd29b723a",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "Pasted image 20230522120318.png",
+    "Learning/Operating System/Image/Pasted image 20230522120318.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous memory allocation.md",

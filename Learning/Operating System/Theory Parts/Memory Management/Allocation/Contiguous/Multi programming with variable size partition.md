@@ -10,3 +10,14 @@
 
 ![[Pasted image 20230522120318.png]]
 
+#### Advantage:
+
+* There is no internal fragmentation
+* There is no limitation on number of partitions.
+* There is no limitation on size of a process.
+
+#### Drawback:
+
+* It is difficult to apply this approach.
+* External fragmentation:
+	* If we have free box
