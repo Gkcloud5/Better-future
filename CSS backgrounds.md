@@ -12,4 +12,18 @@
 * **Background-position:**
 	* It used to control the position of an image in the background.
 * **Background-attachment:** 
-	* It used to contro
+	* It used to control the scrolling of an image in the background.
+
+```
+<p style="background-color: yellow:"> Contex of paragraph</p>
+
+.image_ex{
+ background-image: url("/images/computer.jpg");
+ width: 100%;
+ height: 50%;
+}
+
+
+
+
+```
