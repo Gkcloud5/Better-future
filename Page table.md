@@ -15,3 +15,7 @@
 	* information stored here tag
 		* Key and value format
 	* In page table out of 100 address we will access repeatedly 10 address those are added in TLB for quick access.
+
+![[Pasted image 20230522155051.png]]
+
+

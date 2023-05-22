@@ -43,3 +43,7 @@
 
 
 [[Page table]]
+
+
+[[Paging protection]]
+
