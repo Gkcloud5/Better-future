@@ -20,4 +20,6 @@
 
 * It is difficult to apply this approach.
 * External fragmentation:
-	* If we have free box
+	* If we have free box in ram not in order so one process not able to assign those free box if size is not matched.
+	* We can solve this issue by using compaction
+		* Combining free box and allocate it to process.
