@@ -80,79 +80,31 @@
             }
           },
           {
-            "id": "9635e6b5b2b1f2e0",
+            "id": "c93012f9cdfd3c04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
+                "file": "Web Development/CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7dc11962c5c94fdb",
+            "id": "a70ac0e85fd99275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caf4080be32d7b2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38f74b752eb7a4e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3687d8a6581649a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "142db33470139876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Python/Topics/Function/Python function.md",
+                "file": "Web Development/CSS/Fundamentals/CSS intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -210,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -226,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Web Development/CSS/Fundamentals/CSS intro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Web Development/CSS/Fundamentals/CSS intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Web Development/CSS/Fundamentals/CSS intro.md"
               }
             }
           },
@@ -304,46 +257,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "d0d384997d3a6c95",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2f6a3f21549be4fd",
-        "type": "window",
-        "children": [
-          {
-            "id": "ce3689a790b96ffa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "72bb7d19961736cf",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1646,
-        "y": 28,
-        "width": 916,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "72bb7d19961736cf",
+  "active": "a70ac0e85fd99275",
   "lastOpenFiles": [
+    "Web Development/CSS/CSS.md",
+    "Web Development/CSS/Fundamentals/CSS intro.md",
+    "Learning/Operating System/OS Topics.md",
     "Learning/Programming/Python/Topics/Function/Python function.md",
-    "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
@@ -365,13 +286,10 @@
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous memory allocation.md",
     "Learning/Operating System/Image/Pasted image 20230522120318.png",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
-    "Learning/Operating System/OS Topics.md",
     "Development/CSS/Practise/index.html",
     "Development/CSS/Practise/index.css",
     "Development/CSS/Practise",
     "Web Development/CSS/Fundamentals/BOX Model.md",
-    "Web Development/CSS/Fundamentals/CSS intro.md",
-    "Web Development/CSS/CSS.md",
     "Web Development/CSS/Image",
     "Web Development/CSS/Image/Pasted image 20230521214204.png",
     "Development/CSS/index.css",
