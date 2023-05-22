@@ -128,12 +128,12 @@
             }
           },
           {
-            "id": "fa72ede902a0f863",
+            "id": "3687d8a6581649a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
                 "mode": "source",
                 "source": false
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md"
               }
             }
           },
@@ -328,9 +328,10 @@
       }
     ]
   },
-  "active": "fa72ede902a0f863",
+  "active": "3687d8a6581649a2",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/Pasted image 20230522155415.png",

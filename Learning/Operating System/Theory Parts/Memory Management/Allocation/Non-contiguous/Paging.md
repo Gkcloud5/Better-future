@@ -47,3 +47,7 @@
 
 [[Paging protection]]
 
+
+#### Advantage of paging:
+
+[[Shared Pages]]
