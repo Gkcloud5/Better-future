@@ -10,3 +10,17 @@ font-size: 16pt;
 line-height: 125%
 }
 ```
+
+##### cm:
+```
+div {
+margin-bottom: 2cm;
+}
+```
+
+##### em:
+```
+p{
+ letter-spacing: 7 em
+}
+```
