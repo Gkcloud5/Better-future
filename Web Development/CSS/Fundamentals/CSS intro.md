@@ -55,3 +55,8 @@ color:black
 color: yellow;
 }
 ```
+
+
+```
+@import "css.css"
+```
