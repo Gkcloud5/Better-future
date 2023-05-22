@@ -92,18 +92,6 @@
             }
           },
           {
-            "id": "cf159ddbc7dd9164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6896747d46b560e5",
             "type": "leaf",
             "state": {
@@ -203,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS intro.md",
+                "file": "CSS backgrounds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS intro.md",
+                "file": "CSS backgrounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS intro.md"
+                "file": "CSS backgrounds.md"
               }
             }
           },
@@ -281,9 +269,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf159ddbc7dd9164",
+  "active": "6896747d46b560e5",
   "lastOpenFiles": [
     "Web Development/CSS/CSS.md",
+    "Web Development/CSS/Fundamentals/CSS intro.md",
     "CSS backgrounds.md",
     "Development/CSS/Practise/Images/Studyroom.jpg",
     "Development/CSS/Practise/Images/watch.jpg",
@@ -292,7 +281,6 @@
     "CSS colors.md",
     "Pasted image 20230522231141.png",
     "Web Development/CSS/Fundamentals/CSS Measurement.md",
-    "Web Development/CSS/Fundamentals/CSS intro.md",
     "Web Development/CSS/Image/Pasted image 20230522191041.png",
     "Learning/Operating System/OS Topics.md",
     "Learning/Programming/Python/Topics/Function/Python function.md",

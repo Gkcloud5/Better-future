@@ -24,6 +24,7 @@ width: 100%;
 
 .images_ex.section{
  background-image: url("/images/computer.jpg");
+ dis
 }
 
 
