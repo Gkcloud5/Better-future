@@ -34,3 +34,6 @@
 	* Page table accepts a page number as input
 	* and produce frame number as a output --> f
 * Combine frame number with page offset then it give a physical address of the main memory.
+
+![[Pasted image 20230522133621.png]]
+
