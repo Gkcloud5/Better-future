@@ -9,4 +9,9 @@
 ![[Pasted image 20230522122119.png]]
 
 
-* 
+* In paging, 
+	* the process is divided into no.of partitions called pages
+		* size of a each page must be same.
+	* Here main memory is also divided into no.of partitions called frame.
+		* Size of each frame must be same
+	* Page size and fe
