@@ -19,4 +19,10 @@
 		* Pages from the secondary memory is assigned to frames in main memory
 	* Page table, 
 		* Here page no as a input and produces frame number as a output.
-		* 
+		![[Pasted image 20230522124214.png]]
+
+![[Pasted image 20230522124327.png]]
+
+#### Paging Hardware:
+
+* 

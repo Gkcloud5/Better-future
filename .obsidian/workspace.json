@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Paging.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Paging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Paging.md"
               }
             }
           },
@@ -303,10 +303,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72bb7d19961736cf",
+  "active": "36a2b52d155c3207",
   "lastOpenFiles": [
-    "Paging.md",
+    "Pasted image 20230522124327.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Paging.md",
+    "Pasted image 20230522124214.png",
     "Pasted image 20230522122119.png",
     "Excalidraw",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
@@ -342,7 +344,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Memory Hierarchy design.md",
     "Learning/Operating System/Theory Parts/Memory Management/Secondary Memory.md",
     "Learning/Operating System/Theory Parts/Memory Management/Primary Memory.md",
-    "Learning/Operating System/Image/Pasted image 20230521124529.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/HTML/Fundamentals/HTML.md",
     "Web Development/HTML/Fundamentals/HTML Form.md",
