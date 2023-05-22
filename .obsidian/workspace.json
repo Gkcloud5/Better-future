@@ -92,12 +92,12 @@
             }
           },
           {
-            "id": "e324cb312e69b972",
+            "id": "14a25e8f9312f873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Measurement.md",
+                "file": "CSS colors.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Measurement.md",
+                "file": "CSS colors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Measurement.md",
+                "file": "CSS colors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Measurement.md"
+                "file": "CSS colors.md"
               }
             }
           },
@@ -257,12 +257,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e324cb312e69b972",
+  "active": "14a25e8f9312f873",
   "lastOpenFiles": [
-    "Web Development/CSS/Fundamentals/CSS intro.md",
-    "CSS Measurement.md",
+    "Web Development/CSS/Fundamentals/CSS Measurement.md",
+    "CSS colors.md",
     "Web Development/CSS/CSS.md",
-    "Pasted image 20230522191041.png",
+    "Web Development/CSS/Fundamentals/CSS intro.md",
+    "Web Development/CSS/Image/Pasted image 20230522191041.png",
     "Learning/Operating System/OS Topics.md",
     "Learning/Programming/Python/Topics/Function/Python function.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
@@ -305,7 +306,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Secondary Memory.md",
     "Learning/Operating System/Theory Parts/Memory Management/Primary Memory.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
-    "Web Development/HTML/Fundamentals/HTML.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
