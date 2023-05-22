@@ -9,4 +9,9 @@
 			* For accessing page table --> logical address
 			* For accessing the main memory --> physical address
 		* We need 2 memory access for every single instruction, it's really hard to implement.
-* In order to access a page table
+* In order to overcome above problems, we use **TLB** --> **Translation look aside buffer**
+	* Faster, special cache
+	* it stores large amount of data
+	* information stored here tag
+		* Key and value format
+	* In page table out of 100 address we will access repeatedly 10 address those are added in TLB for quick access.
