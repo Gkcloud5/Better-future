@@ -25,4 +25,12 @@
 
 #### Paging Hardware:
 
-* 
+* In order to execute any instruction CPU will create a logical address for a corresponding instruction.
+* Logical address mainly divided into two parts
+	* p --> Page number
+	* d --> page offset --> displacement.
+		* d --> Location of a page
+* then page number given input to the page table.
+	* Page table accepts a page number as input
+	* and produce frame number as a output --> f
+* Combine frame number with page offset then it give a physical address of the main memory.

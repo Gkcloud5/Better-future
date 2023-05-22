@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paging.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paging.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
                 "mode": "source",
                 "source": false
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paging.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paging.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paging.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md"
               }
             }
           },
@@ -303,13 +303,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36a2b52d155c3207",
+  "active": "6a84e0984a18b269",
   "lastOpenFiles": [
-    "Pasted image 20230522124327.png",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous",
+    "Learning/Operating System/Image/Pasted image 20230522124327.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Paging.md",
-    "Pasted image 20230522124214.png",
-    "Pasted image 20230522122119.png",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
+    "Learning/Operating System/Image/Pasted image 20230522124214.png",
+    "Learning/Operating System/Image/Pasted image 20230522122119.png",
     "Excalidraw",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
@@ -337,7 +338,6 @@
     "Learning/Operating System/Image/Pasted image 20230521150051.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous",
     "Learning/Operating System/Image/Pasted image 20230521134824.png",
-    "Learning/Operating System/Image/Pasted image 20230521134423.png",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation",
     "Learning/Operating System/Theory Parts/Memory Management/About Memory Management.md",
