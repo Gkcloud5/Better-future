@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36a2b52d155c3207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -277,14 +289,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38f74b752eb7a4e2",
+  "active": "36a2b52d155c3207",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Paging.md",
+    "Pasted image 20230522122119.png",
+    "Excalidraw",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
-    "Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous memory allocation.md",
     "Learning/Operating System/Image/Pasted image 20230522120318.png",
@@ -317,8 +333,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Secondary Memory.md",
     "Learning/Operating System/Theory Parts/Memory Management/Primary Memory.md",
     "Learning/Operating System/Image/Pasted image 20230521124529.png",
-    "Learning/Operating System/Image/Pasted image 20230521123801.png",
-    "Learning/Operating System/Theory Parts/Memory Management",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/HTML/Fundamentals/HTML.md",
     "Web Development/HTML/Fundamentals/HTML Form.md",
@@ -327,8 +341,6 @@
     "Learning/Operating System/Image/Zombie processes.md",
     "Learning/Operating System/Theory Parts/Threads/Benefits of multithreading.md",
     "Learning/Operating System/Theory Parts/Threads/Multithreading Model.md",
-    "Learning/Operating System/Theory Parts/Threads/Process-Based and thread based multitasking.md",
-    "Web Development/HTML/Fundamentals/Layout.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"

@@ -5,4 +5,8 @@
 
 * It is a example for non-contiguous memory 
 	* Here available memory blocks are no need to have in order.
+
+![[Pasted image 20230522122119.png]]
+
+
 * 
