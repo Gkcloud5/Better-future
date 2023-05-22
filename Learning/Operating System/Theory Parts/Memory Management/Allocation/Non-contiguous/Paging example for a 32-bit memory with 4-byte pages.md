@@ -6,3 +6,5 @@
 * Main memory also divided frame it have same count like page
 	 * Size of frame also 4 bytes
 
+![[Pasted image 20230522153652.png]]
+

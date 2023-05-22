@@ -40,3 +40,6 @@
 #### Example:
 
 [[Paging example for a 32-bit memory with 4-byte pages]]
+
+
+[[Page table]]
