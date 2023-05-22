@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paging protection.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6ee503c1ef88dd0",
@@ -226,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paging protection.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paging protection.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paging protection.md"
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           },
@@ -339,14 +340,15 @@
       }
     ]
   },
-  "active": "fa72ede902a0f863",
+  "active": "72bb7d19961736cf",
   "lastOpenFiles": [
-    "Page table.md",
-    "Paging protection.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
+    "Learning/Operating System/Image/Pasted image 20230522155415.png",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Page table.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
-    "Pasted image 20230522155051.png",
+    "Learning/Operating System/Image/Pasted image 20230522155051.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
-    "Pasted image 20230522153652.png",
+    "Learning/Operating System/Image/Pasted image 20230522153652.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/Pasted image 20230522133621.png",
     "Communication/Words and meaning/Words meaning.md",
@@ -375,7 +377,6 @@
     "Development/CSS",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with fixed size partition.md",
     "Learning/Operating System/Image/Pasted image 20230521152436.png",
-    "Learning/Operating System/Image/Pasted image 20230521152050.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/About Memory Management.md",
@@ -387,7 +388,6 @@
     "Web Development/HTML/Fundamentals/HTML Form.md",
     "Learning/Operating System/Theory Parts/Threads/Threads.md",
     "Learning/Operating System/Theory Parts/Threads/Thread issue in OS.md",
-    "Learning/Operating System/Image/Zombie processes.md",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
