@@ -128,18 +128,6 @@
             }
           },
           {
-            "id": "36a2b52d155c3207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa72ede902a0f863",
             "type": "leaf",
             "state": {
@@ -152,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -342,11 +330,11 @@
   },
   "active": "fa72ede902a0f863",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/Pasted image 20230522155415.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Page table.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
     "Learning/Operating System/Image/Pasted image 20230522155051.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
     "Learning/Operating System/Image/Pasted image 20230522153652.png",
