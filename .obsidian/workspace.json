@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS intro.md",
+                "file": "Web Development/CSS/CSS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS intro.md",
+                "file": "Web Development/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS intro.md"
+                "file": "Web Development/CSS/CSS.md"
               }
             }
           },
@@ -257,11 +257,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a70ac0e85fd99275",
+  "active": "c93012f9cdfd3c04",
   "lastOpenFiles": [
+    "Web Development/CSS/Fundamentals/CSS intro.md",
     "Pasted image 20230522191041.png",
     "Web Development/CSS/CSS.md",
-    "Web Development/CSS/Fundamentals/CSS intro.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Programming/Python/Topics/Function/Python function.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
@@ -297,7 +297,6 @@
     "Development/CSS/index.html",
     "Development/CSS",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with fixed size partition.md",
-    "Learning/Operating System/Image/Pasted image 20230521152436.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/About Memory Management.md",
