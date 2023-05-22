@@ -6,4 +6,7 @@
 V --> valid
 i --> invalid
 
-4,5,6 are no longer belong to th
+* OS provide protection bit with a help of v and i.
+* v == 1, v == 0.
+* While creating a page table, if page belong to the process then we need to put 1 for protection.
+* 4,5,6 are no longer belong to the process, so it's invalid.
