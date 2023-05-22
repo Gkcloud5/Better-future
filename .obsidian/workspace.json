@@ -342,9 +342,9 @@
   },
   "active": "e27cf6ad651c2ca5",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
-    "Page table.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
+    "Page table.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
     "Pasted image 20230522153652.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/Pasted image 20230522133621.png",
