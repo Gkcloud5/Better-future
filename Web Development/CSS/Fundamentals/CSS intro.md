@@ -48,5 +48,10 @@ color:black
   <p>example paragraph line</p>
 </div>
 
-.parent > h
+.parent > h2 {
+  color: blue;
+}
+.parent > p {
+color: yellow;
+}
 ```
