@@ -22,5 +22,31 @@ border : 2px solid blue;
 
 ```
 ### Universal selector
+*{
+color: gray;
+}
+```
 
+```
+#class selector
+.class {
+ color: black;
+}
+```
+
+```
+#selector+attribute
+h1.black{
+color:black
+}
+```
+
+```
+#child selector
+<div class="parent">
+  <h2>Parent inside content</h2>
+  <p>example paragraph line</p>
+</div>
+
+.parent > h
 ```
