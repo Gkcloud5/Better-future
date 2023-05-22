@@ -17,10 +17,13 @@
 ```
 <p style="background-color: yellow:"> Contex of paragraph</p>
 
-.image_ex{
- background-image: url("/images/computer.jpg");
- width: 100%;
+.images_ex{
+width: 100%;
  height: 50%;
+}
+
+.images_ex.section{
+ background-image: url("/images/computer.jpg");
 }
 
 
