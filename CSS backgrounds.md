@@ -6,4 +6,10 @@
 * **Background-color**:
 	* It is property used to set the background color of an element.
 * **Background-image:**
-	* 
+	* By using this we can set background image for an element
+* **Background-repeat:**
+	* It used to control the repetition of an image.
+* **Background-position:**
+	* It used to control the position of an image in the background.
+* **Background-attachment:** 
+	* It used to contro
