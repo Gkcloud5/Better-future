@@ -3,4 +3,6 @@
 
 * Process are divided into pages
 	* Size of a page is 4-byte
-	* 
+* Main memory also divided frame it have same count like page
+	 * Size of frame also 4 bytes
+

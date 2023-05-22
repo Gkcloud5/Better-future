@@ -145,19 +145,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paging example for a 32-bit memory with 4-byte pages.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "72bb7d19961736cf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           }
@@ -237,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paging example for a 32-bit memory with 4-byte pages.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paging example for a 32-bit memory with 4-byte pages.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paging example for a 32-bit memory with 4-byte pages.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md"
               }
             }
           },
@@ -315,11 +305,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "d0d384997d3a6c95",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2f6a3f21549be4fd",
+        "type": "window",
+        "children": [
+          {
+            "id": "ce3689a790b96ffa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "72bb7d19961736cf",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1646,
+        "y": 28,
+        "width": 916,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "dd013b786d152258",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Paging example for a 32-bit memory with 4-byte pages.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/Pasted image 20230522133621.png",
     "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous",
