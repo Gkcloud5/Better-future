@@ -23,4 +23,4 @@
 	* divided into two parts
 		* 1st part is segment number
 		* 2nd part is offset
-	* 
+* Segment
