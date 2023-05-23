@@ -7,4 +7,6 @@
 * Here page table divided into two parts
 	* Page number --> 2^20 --> 20bit
 	* Offset --> 2^12 --> 12 bit
-* totally we can store 2^20 page numbers, it'
+* totally we can store 2^20 page numbers, it's more than 10lakh
+* Here, instead of storing a entire page table in one table, OS splitting multiple page tables
+

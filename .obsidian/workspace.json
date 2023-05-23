@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hierarchical paging.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hierarchical paging.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hierarchical paging.md"
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           },
@@ -331,19 +331,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 1660,
-        "y": 32,
+        "x": -937,
+        "y": 221,
         "width": 600,
-        "height": 992,
+        "height": 768,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "00d7136b665822f4",
+  "active": "7556714fe1e8c767",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Hierarchical paging.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md",
     "Learning/Programming/Python/Problem solving/If..else/Logical Problem 1.md",
     "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
