@@ -13,4 +13,6 @@
 	* Offset can be provided index of another page table.
 		* This page table product frame number as output
 * offset and frame number combined, it gives exact physical address of main memory
+
+![[Pasted image 20230523210543.png]]
  

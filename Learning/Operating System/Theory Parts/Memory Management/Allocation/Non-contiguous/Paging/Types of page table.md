@@ -4,7 +4,7 @@
 **How we structured page table**
 
 1. [[Hierarchical paging]]
-2. Hashed page table
+2. [[Hashed page table]]
 3. Inverted page table
 
 * This type of page table very helpful when it have lack of entries.

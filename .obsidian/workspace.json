@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Page table.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Page table.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,19 +133,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Types of page table.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00d7136b665822f4",
+            "id": "6158e15a81e2c4bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hierarchical paging.md",
+                "file": "Hashed page table.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hierarchical paging.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hierarchical paging.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hierarchical paging.md"
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           },
@@ -340,11 +340,14 @@
       }
     ]
   },
-  "active": "00d7136b665822f4",
+  "active": "7556714fe1e8c767",
   "lastOpenFiles": [
+    "Hashed page table.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Hierarchical paging.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Hierarchical paging.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Types of page table.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging",
+    "Learning/Operating System/Image/Pasted image 20230523210543.png",
     "Learning/Programming/Python/Problem solving/If..else/Logical Problem 1.md",
     "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
     "Learning/Programming/Python/Problem solving/If..else",
@@ -355,10 +358,10 @@
     "Learning/Programming/Python/Practice/Basic things/Conditions.md",
     "Learning/Programming/Python/Topics/Flow control/If..Else.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Page table.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Page table.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/logical address and physical address.md",
@@ -379,15 +382,12 @@
     "Development/CSS/Practise/Images",
     "Web Development/CSS/Fundamentals/CSS colors.md",
     "Web Development/CSS/Image/Pasted image 20230522231141.png",
-    "Web Development/CSS/Fundamentals/CSS Measurement.md",
-    "Web Development/CSS/Image/Pasted image 20230522191041.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous",
     "Excalidraw",
     "Development/CSS/Practise/index.html",
     "Development/CSS/Practise/index.css",
     "Development/CSS/Practise",
     "Web Development/CSS/Image",
-    "Development/CSS/index.css",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
