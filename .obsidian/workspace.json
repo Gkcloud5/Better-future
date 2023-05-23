@@ -4,38 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "467ffeca2cff8814",
+        "id": "64a2c82be305a13b",
         "type": "tabs",
         "children": [
           {
-            "id": "9399d5255c6eaef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58c0cd268ae3b081",
+            "id": "a98670d7c9593d20",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Web Development/RoadMap/Web App developer roadmap.canvas",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
-                  "x": 60,
-                  "y": -165.5,
-                  "zoom": 0
+                  "x": -201,
+                  "y": -80.83790522109052,
+                  "zoom": -0.48785091733388386
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/RoadMap/Web App developer roadmap.canvas",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/RoadMap/Web App developer roadmap.canvas",
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/RoadMap/Web App developer roadmap.canvas"
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
               }
             }
           }
@@ -172,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58c0cd268ae3b081",
+  "active": "a98670d7c9593d20",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/CSS/Fundamentals/CSS tables.md",
     "Web Development/CSS/Image/Pasted image 20230523233237.png",
     "Web Development/CSS/CSS.md",
