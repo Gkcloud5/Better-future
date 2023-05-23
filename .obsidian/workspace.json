@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "497322dc9829d02b",
+            "id": "069944d7c902b9fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS image.md",
+                "file": "CSS links.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS image.md",
+                "file": "CSS links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS image.md",
+                "file": "CSS links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS image.md"
+                "file": "CSS links.md"
               }
             }
           }
@@ -169,12 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "497322dc9829d02b",
+  "active": "069944d7c902b9fd",
   "lastOpenFiles": [
+    "Web Development/CSS/CSS.md",
+    "CSS links.md",
+    "Pasted image 20230523232420.png",
+    "Web Development/CSS/Fundamentals/CSS image.md",
     "Web Development/CSS/Image/Pasted image 20230523231537.png",
     "Web Development/CSS/Fundamentals/CSS Text.md",
-    "Web Development/CSS/Fundamentals/CSS image.md",
-    "Web Development/CSS/CSS.md",
     "Web Development/CSS/Image/Pasted image 20230523230725.png",
     "Web Development/CSS/Fundamentals/CSS fonts.md"
   ]
