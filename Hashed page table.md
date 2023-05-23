@@ -11,4 +11,6 @@
 * In linked list, each element have field
 	* 1st field --> page number
 	* 2nd field --> frame number
-	* 3rd field --> 
+	* 3rd field --> address
+		* If we have one node then address field is null
+		* If we have 2nd node then address field value is address of 2nd node.
