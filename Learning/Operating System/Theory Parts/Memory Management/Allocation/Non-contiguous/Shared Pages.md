@@ -7,3 +7,5 @@ Timestamp: 23:27
 
 * in a multiprogramming, multiple users executing multiple process.
 * Let consider 3 process.
+
+![[Pasted image 20230523075209.png]]
