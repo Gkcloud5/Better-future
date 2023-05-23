@@ -9,4 +9,8 @@
 	* Offset --> 2^12 --> 12 bit
 * totally we can store 2^20 page numbers, it's more than 10lakh
 * Here, instead of storing a entire page table in one table, OS splitting multiple page tables
-
+* Outer page table accept input as page number and produce offset output 
+	* Offset can be provided index of another page table.
+		* This page table product frame number as output
+* offset and frame number combined, it gives exact physical address of main memory
+ 
