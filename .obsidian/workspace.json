@@ -128,24 +128,12 @@
             }
           },
           {
-            "id": "480c7bc7943482ab",
+            "id": "d676e85e6731a8e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "840685c8598690b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md"
               }
             }
           },
@@ -340,13 +328,14 @@
       }
     ]
   },
-  "active": "480c7bc7943482ab",
+  "active": "d676e85e6731a8e8",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Page table.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/logical address and physical address.md",
@@ -356,7 +345,6 @@
     "Learning/Operating System/Image/Pasted image 20230523145040.png",
     "Learning/Operating System/Image/Pasted image 20230523140039.png",
     "Communication/Words and meaning/Words meaning.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
     "Learning/Operating System/Image/Pasted image 20230523075209.png",
     "Learning/Operating System/OS Topics.md",
     "Web Development/CSS/CSS.md",
