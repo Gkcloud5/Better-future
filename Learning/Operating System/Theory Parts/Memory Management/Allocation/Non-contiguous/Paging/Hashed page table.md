@@ -14,3 +14,6 @@
 	* 3rd field --> address
 		* If we have one node then address field is null
 		* If we have 2nd node then address field value is address of 2nd node.
+
+![[Pasted image 20230523212807.png]]
+

@@ -140,12 +140,12 @@
             }
           },
           {
-            "id": "6158e15a81e2c4bc",
+            "id": "06dcf003486cf67e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashed page table.md",
+                "file": "Inverted page table.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Inverted page table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Inverted page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Inverted page table.md"
               }
             }
           },
@@ -340,13 +340,15 @@
       }
     ]
   },
-  "active": "7556714fe1e8c767",
+  "active": "06dcf003486cf67e",
   "lastOpenFiles": [
-    "Hashed page table.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Hashed page table.md",
+    "Inverted page table.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Types of page table.md",
+    "Learning/Operating System/Image/Pasted image 20230523212807.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Hierarchical paging.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Types of page table.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging",
     "Learning/Operating System/Image/Pasted image 20230523210543.png",
     "Learning/Programming/Python/Problem solving/If..else/Logical Problem 1.md",
@@ -380,8 +382,6 @@
     "Development/CSS/Practise/Images/watch.jpg",
     "Development/CSS/Practise/Images/computer.jpg",
     "Development/CSS/Practise/Images",
-    "Web Development/CSS/Fundamentals/CSS colors.md",
-    "Web Development/CSS/Image/Pasted image 20230522231141.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous",
     "Excalidraw",
     "Development/CSS/Practise/index.html",
