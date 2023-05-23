@@ -34,3 +34,6 @@ abstraction - சுருக்கம்
 
 enhancement - விரிவாக்கம்
 * This enhancement of a project
+
+maliciously - தீங்கிழைக்கும் வகையில்
+* This function is **maliciously** for a hole program.
