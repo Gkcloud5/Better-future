@@ -21,4 +21,5 @@
 7. [[CSS Text]]
 8. [[CSS image]]
 9. [[CSS links]]
-10. 
+10. [[CSS tables]]
+11. 

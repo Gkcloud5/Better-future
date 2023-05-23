@@ -9,5 +9,15 @@
    color: green;
 }
 
-.links.a:l
+.links.a:visited {
+  color: blue;
+}
+
+.links.a:hover {
+  color: brown;
+}
+
+.links.a:active {
+ color: red;
+}
 ```
