@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md"
               }
             }
           },
@@ -328,8 +328,9 @@
       }
     ]
   },
-  "active": "7556714fe1e8c767",
+  "active": "d676e85e6731a8e8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Types of page table.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Page table.md",
@@ -339,7 +340,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/logical address and physical address.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/Pasted image 20230523150131.png",
     "Pasted image 20230523145914.png",
     "Learning/Operating System/Image/Pasted image 20230523145040.png",
