@@ -23,4 +23,7 @@
 	* divided into two parts
 		* 1st part is segment number
 		* 2nd part is offset
-* Segment
+* Segment table contains base address and limit address
+
+![[Pasted image 20230523145040.png]]
+
