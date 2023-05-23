@@ -10,4 +10,7 @@
 	* Here page tables contain all the instruction even though it does not resides in main memory.
 * In this type, number of available page table instruction is depends upon main memory pages count.
 	* If main memory contains 100 pages then inverted page table also have a 100pages
-* 
+
+
+![[Pasted image 20230523214636.png]]
+

@@ -1,172 +1,35 @@
 {
   "main": {
-    "id": "82337c584110b276",
+    "id": "6cdcfec72d776d89",
     "type": "split",
     "children": [
       {
-        "id": "d2a830dcbb80b621",
+        "id": "467ffeca2cff8814",
         "type": "tabs",
         "children": [
           {
-            "id": "d12f9dc7a3687a60",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e6137579181d46fc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -201,
-                  "y": 250.00000000000003,
-                  "zoom": -1.1007449737398172
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ebd2da31b9886d48",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Learning/Operating System/OS RoadMap.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -75.00000000000001,
-                  "zoom": -0.16149900481891347
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a428a87da45219cd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "844576f668d97618",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/OS Topics.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4f8d592cf97ca530",
+            "id": "9399d5255c6eaef4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaeb19f41c672c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ff214ab15ddfda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e939095bed53e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Page table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d676e85e6731a8e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Types of page table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06dcf003486cf67e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f2ac2556ae4a72d5",
+    "id": "616bd3f71ecf6612",
     "type": "split",
     "children": [
       {
-        "id": "2c6b9e5078c7a0a1",
+        "id": "ba2afbd61fdb3184",
         "type": "tabs",
         "children": [
           {
-            "id": "6a84e0984a18b269",
+            "id": "cf5ef259f82812a2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -176,7 +39,7 @@
             }
           },
           {
-            "id": "72cf1b3b9425c5cf",
+            "id": "cbaf2bfbc4abf6fc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -191,15 +54,7 @@
             }
           },
           {
-            "id": "9e8496094c036c77",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "1024f3177331cd29",
+            "id": "0615ffe7e3169192",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -210,48 +65,53 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "f6ee503c1ef88dd0",
+    "id": "759cbbb323e74305",
     "type": "split",
     "children": [
       {
-        "id": "ba014e38b31ca586",
+        "id": "036ac9264c320670",
         "type": "tabs",
         "children": [
           {
-            "id": "cf6e950d58e7107c",
+            "id": "59951a4a2a343ef7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9550fbaac8f826d5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dd38dd5ec0aa8f0e",
+            "id": "e1a1f11f159a5674",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a167b431b2070fea",
+            "id": "1a38d7f2ce19382d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -262,28 +122,10 @@
             }
           },
           {
-            "id": "77552a89ddcb78c9",
+            "id": "00a83a29c91865cf",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md"
-              }
-            }
-          },
-          {
-            "id": "43ce29b969c5a6d5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "904c795512713830",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
@@ -291,106 +133,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "ec8eaa046be61e24",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b717b2ffc043389c",
-        "type": "window",
-        "children": [
-          {
-            "id": "6ca4feeabbd267e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7556714fe1e8c767",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -937,
-        "y": 221,
-        "width": 600,
-        "height": 768,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6a84e0984a18b269",
-  "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Hashed page table.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Types of page table.md",
-    "Learning/Operating System/Image/Pasted image 20230523212807.png",
-    "Communication/Words and meaning/Words meaning.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Hierarchical paging.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging",
-    "Learning/Operating System/Image/Pasted image 20230523210543.png",
-    "Learning/Programming/Python/Problem solving/If..else/Logical Problem 1.md",
-    "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
-    "Learning/Programming/Python/Problem solving/If..else",
-    "Learning/Programming/Python/Problem solving",
-    "Learning/Programming/Python/Practice/Basic things/Print output.md",
-    "Learning/Programming/Python/Topics/Introduction/Print Statement.md",
-    "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
-    "Learning/Programming/Python/Practice/Basic things/Conditions.md",
-    "Learning/Programming/Python/Topics/Flow control/If..Else.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Page table.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/logical address and physical address.md",
-    "Learning/Operating System/Image/Pasted image 20230523150131.png",
-    "Pasted image 20230523145914.png",
-    "Learning/Operating System/Image/Pasted image 20230523145040.png",
-    "Learning/Operating System/Image/Pasted image 20230523140039.png",
-    "Learning/Operating System/Image/Pasted image 20230523075209.png",
-    "Learning/Operating System/OS Topics.md",
-    "Web Development/CSS/CSS.md",
-    "Web Development/CSS/Fundamentals/CSS fonts.md",
-    "Web Development/CSS/Fundamentals/CSS backgrounds.md",
-    "Web Development/CSS/Fundamentals/CSS intro.md",
-    "Development/CSS/Practise/Images/Studyroom.jpg",
-    "Development/CSS/Practise/Images/watch.jpg",
-    "Development/CSS/Practise/Images/computer.jpg",
-    "Development/CSS/Practise/Images",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous",
-    "Excalidraw",
-    "Development/CSS/Practise/index.html",
-    "Development/CSS/Practise/index.css",
-    "Development/CSS/Practise",
-    "Web Development/CSS/Image",
-    "Web Development/RoadMap/Web App developer roadmap.canvas",
-    "Learning/Operating System/OS RoadMap.canvas",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Learning/Programming/Program learning Steps/Programe learn.canvas"
-  ]
+  "active": "9399d5255c6eaef4",
+  "lastOpenFiles": []
 }
