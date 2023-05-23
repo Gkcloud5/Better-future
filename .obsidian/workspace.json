@@ -127,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Words and meaning/Words meaning.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md"
               }
             }
           },
@@ -280,10 +281,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d12f9dc7a3687a60",
+  "active": "840685c8598690b9",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
+    "Pasted image 20230523140039.png",
     "Communication/Words and meaning/Words meaning.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
@@ -327,7 +329,6 @@
     "Development/CSS",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with fixed size partition.md",
     "Learning/Operating System/Theory Parts/Basics/Function of OS/Main Memory Management.md",
-    "Learning/Operating System/Theory Parts/Memory Management/About Memory Management.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",

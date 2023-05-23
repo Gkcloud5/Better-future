@@ -10,3 +10,6 @@
 	* Each segment can have its own permission.
 * This allows the OS to protect different parts of memory from each other.
 * And to prevent one process from accidentally or maliciously overwriting process's memory.
+* Major drawback of paging is a module may resides in different pages of process
+
+ ![[Pasted image 20230523140039.png]]
