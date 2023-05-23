@@ -14,4 +14,13 @@
 
  ![[Pasted image 20230523140039.png]]
 
-* In paging, process are stored in page table randomly, does not have any modularity.
+* In paging, process are stored in page table randomly, does not have any modular structure.
+* Segmentation is non-contiguous memory
+	* Segment means collection of statements.
+* Given process divided into number of partitions but here size of partition is similar to a size of segment.
+	* Main memory also divided into number of partitions, size of partition is similar to a size of segment.
+* CPU generates logical address
+	* divided into two parts
+		* 1st part is segment number
+		* 2nd part is offset
+	* 
