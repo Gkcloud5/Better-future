@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Introduction/Print Statement.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Introduction/Print Statement.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Introduction/Print Statement.md",
+                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Topics/Introduction/Print Statement.md"
+                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md"
               }
             }
           },
@@ -365,6 +365,8 @@
   },
   "active": "d667ce33c5a7f1bf",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Basic things/Print output.md",
+    "Learning/Programming/Python/Topics/Introduction/Print Statement.md",
     "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Programming/Python/Practice/Basic things/Conditions.md",
     "Learning/Programming/Python/Topics/Flow control/If..Else.md",
@@ -402,8 +404,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous",
     "Excalidraw",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous memory allocation.md",
     "Development/CSS/Practise/index.html",
     "Development/CSS/Practise/index.css",
     "Development/CSS/Practise",
