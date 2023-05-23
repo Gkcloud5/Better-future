@@ -13,4 +13,5 @@
 ##### Physical address:
 
 *  A physical address is the actual address in main memory where data is stored.
-* It is used by **MMU**(Memory manag)
+* It is used by **MMU**(Memory management unit) to translate logical addresses into physical address.
+	* It keeps track of which logical addresses are currently in use by each process, and it translates those addresses into physical address so that the CPU can access the data.

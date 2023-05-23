@@ -19,3 +19,4 @@
 ![[Pasted image 20230522155051.png]]
 
 
+#### Types
