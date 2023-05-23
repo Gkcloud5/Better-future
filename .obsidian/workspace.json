@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Hashed page table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Hashed page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Hashed page table.md"
               }
             }
           },
@@ -340,10 +340,11 @@
       }
     ]
   },
-  "active": "7556714fe1e8c767",
+  "active": "6158e15a81e2c4bc",
   "lastOpenFiles": [
-    "Hashed page table.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Hashed page table.md",
+    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Hierarchical paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Types of page table.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging",
@@ -369,7 +370,6 @@
     "Pasted image 20230523145914.png",
     "Learning/Operating System/Image/Pasted image 20230523145040.png",
     "Learning/Operating System/Image/Pasted image 20230523140039.png",
-    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Image/Pasted image 20230523075209.png",
     "Learning/Operating System/OS Topics.md",
     "Web Development/CSS/CSS.md",

@@ -37,3 +37,6 @@ enhancement - விரிவாக்கம்
 
 maliciously - தீங்கிழைக்கும் வகையில்
 * This function is **maliciously** for a hole program.
+
+collision - மோதல்
+* there is a possibility for data **collision**
