@@ -5,3 +5,5 @@ Timestamp: 23:27
 
 #### About:
 
+* in a multiprogramming, multiple users executing multiple process.
+* Let consider 3 process.
