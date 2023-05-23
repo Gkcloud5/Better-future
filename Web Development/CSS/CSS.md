@@ -19,4 +19,5 @@
 5. [[CSS backgrounds]]
 6. [[CSS fonts]]
 7. [[CSS Text]]
-8. 
+8. [[CSS image]]
+9. 

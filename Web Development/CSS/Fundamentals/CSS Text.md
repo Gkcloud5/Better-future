@@ -21,12 +21,13 @@
 .text {
  color: red;
  direction: rtl;
- letter spacing: 4px;
+ letter-spacing: 4px;
  word-spacing:5px;
  text-indent:1cm;
  text-align:right;
  text-decoration: underline;
  text-transform:uppercase;
- 
+ text-shadow: 4px 4px 8px blue;
+
 }
 ```
