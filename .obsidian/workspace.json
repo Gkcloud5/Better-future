@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
+                "file": "Learning/Programming/Python/Basic Problems/If..else/Example 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
+                "file": "Learning/Programming/Python/Basic Problems/If..else/Example 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
+                "file": "Learning/Programming/Python/Basic Problems/If..else/Example 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Basic things/Some Basics.md"
+                "file": "Learning/Programming/Python/Basic Problems/If..else/Example 1.md"
               }
             }
           },
@@ -365,6 +365,10 @@
   },
   "active": "d667ce33c5a7f1bf",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Basic things/Some Basics.md",
+    "Learning/Programming/Python/Basic Problems/If..else/Example 1.md",
+    "Learning/Programming/Python/Basic Problems/If..else",
+    "Learning/Programming/Python/Basic Problems",
     "Learning/Programming/Python/Practice/Basic things/Print output.md",
     "Learning/Programming/Python/Topics/Introduction/Print Statement.md",
     "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
@@ -400,8 +404,6 @@
     "Web Development/CSS/Fundamentals/CSS Measurement.md",
     "Web Development/CSS/Image/Pasted image 20230522191041.png",
     "Learning/Programming/Python/Topics/Function/Python function.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous",
     "Excalidraw",
     "Development/CSS/Practise/index.html",
@@ -409,8 +411,6 @@
     "Development/CSS/Practise",
     "Web Development/CSS/Image",
     "Development/CSS/index.css",
-    "Development/CSS/index.html",
-    "Development/CSS",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Operating System/OS RoadMap.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
