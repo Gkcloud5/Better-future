@@ -13,3 +13,5 @@
 * Major drawback of paging is a module may resides in different pages of process
 
  ![[Pasted image 20230523140039.png]]
+
+* In paging, process are stored in page table randomly, does not have any modularity.
