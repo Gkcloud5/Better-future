@@ -19,4 +19,5 @@
 ![[Pasted image 20230522155051.png]]
 
 
-#### Types
+#### [[Types of page table]]
+
