@@ -5,4 +5,6 @@
 * Size of a page is 4KB.
 	* 2^12
 * Here page table divided into two parts
-	* 
+	* Page number --> 2^20 --> 20bit
+	* Offset --> 2^12 --> 12 bit
+* totally we can store 2^20 page numbers, it'
