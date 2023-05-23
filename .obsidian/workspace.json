@@ -127,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
+                "file": "Communication/Words and meaning/Words meaning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
+                "file": "Communication/Words and meaning/Words meaning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md"
+                "file": "Communication/Words and meaning/Words meaning.md"
               }
             }
           },
@@ -281,55 +280,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "ec8eaa046be61e24",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a6b421f529fc0ad9",
-        "type": "window",
-        "children": [
-          {
-            "id": "5658c47e3fc2fbd1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "75155c062a5343a5",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1654,
-        "y": 24,
-        "width": 916,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6a84e0984a18b269",
+  "active": "d12f9dc7a3687a60",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
     "Learning/Operating System/Image/Pasted image 20230523075209.png",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/OS Topics.md",
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Fundamentals/CSS fonts.md",
-    "Communication/Words and meaning/Words meaning.md",
     "Web Development/CSS/Fundamentals/CSS backgrounds.md",
     "Web Development/CSS/Fundamentals/CSS intro.md",
     "Development/CSS/Practise/Images/Studyroom.jpg",
