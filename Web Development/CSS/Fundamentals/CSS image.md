@@ -5,5 +5,10 @@
 
 
 ```
-
+.image_d1{
+   background-image: url(path);
+   background-repeat: no-repeat;
+   width: 10px;
+   height:20px;
+}
 ```
