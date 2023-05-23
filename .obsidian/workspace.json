@@ -281,13 +281,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a84e0984a18b269",
+  "floating": {
+    "id": "ec8eaa046be61e24",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b717b2ffc043389c",
+        "type": "window",
+        "children": [
+          {
+            "id": "6ca4feeabbd267e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7556714fe1e8c767",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1660,
+        "y": 32,
+        "width": 600,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "840685c8598690b9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
+    "Learning/Operating System/Image/Pasted image 20230523150131.png",
+    "Pasted image 20230523145914.png",
     "Learning/Operating System/Image/Pasted image 20230523145040.png",
     "Learning/Operating System/Image/Pasted image 20230523140039.png",
     "Communication/Words and meaning/Words meaning.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Segmentation.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous memory allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Shared Pages.md",
@@ -310,11 +347,8 @@
     "Learning/Programming/Python/Topics/Function/Python function.md",
     "Learning/Programming/Python/Topics/Introduction/Input, Output  and import.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging protection.md",
-    "Learning/Operating System/Image/Pasted image 20230522155415.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Page table.md",
-    "Learning/Operating System/Image/Pasted image 20230522155051.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging example for a 32-bit memory with 4-byte pages.md",
-    "Learning/Operating System/Image/Pasted image 20230522153652.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous",
     "Excalidraw",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Contiguous/Multi programming with variable size partition.md",

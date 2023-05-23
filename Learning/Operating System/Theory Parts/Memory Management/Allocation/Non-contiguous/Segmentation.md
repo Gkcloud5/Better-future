@@ -28,3 +28,6 @@
 ![[Pasted image 20230523145040.png]]
 
  
+![[Pasted image 20230523150131.png]]
+
+* Offset means which instruction we are executing in segment out of all segment, segmentation can contain around more number of instructions.
