@@ -18,4 +18,5 @@
 4. [[CSS colors]]
 5. [[CSS backgrounds]]
 6. [[CSS fonts]]
-7. 
+7. [[CSS Text]]
+8. 

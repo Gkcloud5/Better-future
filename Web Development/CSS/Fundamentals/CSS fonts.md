@@ -17,5 +17,9 @@
 ```
 .font_d1 {
   font-family:georgia,garamond,serif;
+  font-style: italic;
+  font-variant:small-caps;
+  font-weight:bold;
+  font-size: large;
 }
 ```
