@@ -16,6 +16,13 @@ table.two{
 td.a {
   border-style: dotted;
   border-width: 3px;
-  
+  border-color: blue;
+  padding: 10px;
+}
+td.b {
+  border-style: solid;
+  border-width:3px;
+  border-color: green;
+  padding: 10px
 }
 ```
