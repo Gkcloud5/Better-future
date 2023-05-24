@@ -3,3 +3,14 @@
 
 ![[Pasted image 20230523233237.png]]
 
+
+```
+table.one { 
+ border-collapse: collapse
+}
+
+table.two{
+  border-collapse: separate;
+}
+
+```
