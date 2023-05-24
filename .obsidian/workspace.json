@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md"
               }
             }
           }
@@ -204,9 +204,12 @@
       }
     ]
   },
-  "active": "d966b447a5738407",
+  "active": "86f89f27b01fad93",
   "lastOpenFiles": [
+    "Pasted image 20230524153924.png",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
+    "Pasted image 20230524153659.png",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
@@ -214,7 +217,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Need of page replacement.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/LRU - Page replacement.md",
     "Learning/Operating System/Image/Pasted image 20230524150918.png",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/OPT Page replacement.md",
     "Learning/Operating System/Image/Pasted image 20230524150433.png",
     "Learning/Operating System/Image/Pasted image 20230524150418.png",
@@ -228,7 +230,6 @@
     "Learning/Operating System/Image/Pasted image 20230524131027.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
     "Learning/Operating System/Image/Pasted image 20230524125354.png",
-    "Learning/Operating System/Image/Pasted Image 20230524125323_401.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/CSS/Fundamentals/CSS tables.md",
     "Web Development/CSS/CSS.md",
