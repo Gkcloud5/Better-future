@@ -27,5 +27,5 @@
 
 * Whenever CPU is trying to execute a page, it check page is present in main memory or not
 	* Suppose page is not present in main memory then it's called page fault.
-	* 
-	* 
+	* We need to use page replacement algorithm to replace a page in main memory
+* It allows process to select 
