@@ -8,4 +8,10 @@
 			* Whenever page fault occurs then OS loads a page from secondary to main memory
 				* At that time main memory is filled then we need to replace any of page from main memory and need to allocate those space to a secondary memory page.
 * Which page should replace that decide based on page replacement algorithm.
-* 
+
+#### Steps:
+
+1.  We need to select a page from a main memory and need to swap it to secondary memory
+	1. So we have 1 free space now.
+2. We need to update swapped page status to invalid in page table.
+3. We have swap in a page 

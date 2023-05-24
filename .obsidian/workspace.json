@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Need of page replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Need of page replacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Need of page replacement.md"
               }
             }
           }
@@ -231,10 +231,10 @@
       }
     ]
   },
-  "active": "d966b447a5738407",
+  "active": "64e1b0eedc09b6bd",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Need of page replacement.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Need of page replacement.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
     "Learning/Operating System/Image/Pasted image 20230524125354.png",
