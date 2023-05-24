@@ -51,3 +51,5 @@
 #### Advantage of paging:
 
 [[Shared Pages]]
+
+[[Virtual Memory]]
