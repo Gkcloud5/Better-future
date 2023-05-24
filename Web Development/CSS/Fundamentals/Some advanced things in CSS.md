@@ -24,8 +24,16 @@ p {
 * z-index property gives overlap with each other.
 
 ```
-.z_index {
+h1.z_index1 {
+ background-color: red;
  position:relative;
  z-index:2;
+ margin-bottom:20px;
+}
+
+h2.z_index2 {
+background-color: green;
+ position:relative;
+ z-index:1;
 }
 ```

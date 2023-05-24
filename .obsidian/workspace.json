@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Some advanced things in CSS.md",
+                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Some advanced things in CSS.md",
+                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Some advanced things in CSS.md",
+                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Some advanced things in CSS.md"
+                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md"
               }
             }
           }
@@ -169,13 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e777d68a043ca5f",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Web Development/CSS/CSS.md",
-    "Some advanced things in CSS.md",
-    "Scroll-CSS.md",
+    "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
+    "Web Development/CSS/Fundamentals/Scroll-CSS.md",
     "Web Development/CSS/Fundamentals/Padding-CSS.md",
-    "Pasted image 20230524202154.png",
+    "Web Development/CSS/Image/Pasted image 20230524202154.png",
     "Web Development/CSS/Fundamentals/Lists-CSS.md",
     "Web Development/CSS/Image/Pasted image 20230524200637.png",
     "Web Development/CSS/Fundamentals/Border-style.md",
