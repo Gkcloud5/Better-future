@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Need of page replacement.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Need of page replacement.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FIFO page replacement.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/FIFO page replacement.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/FIFO page replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/FIFO page replacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/FIFO page replacement.md"
               }
             }
           }
@@ -243,11 +242,13 @@
       }
     ]
   },
-  "active": "d966b447a5738407",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "FIFO page replacement.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
+    "Pasted image 20230524132326.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Need of page replacement.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/FIFO page replacement.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Need of page replacement.md",
     "Learning/Operating System/Image/Pasted image 20230524131027.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
@@ -267,7 +268,6 @@
     "Web Development/CSS/Fundamentals/CSS image.md",
     "Web Development/CSS/Image/Pasted image 20230523231537.png",
     "Web Development/CSS/Fundamentals/CSS Text.md",
-    "Web Development/CSS/Image/Pasted image 20230523230725.png",
     "Web Development/CSS/Fundamentals/CSS fonts.md"
   ]
 }
