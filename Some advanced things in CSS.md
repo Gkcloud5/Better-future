@@ -10,7 +10,11 @@ p {
 #### Positioning:
 
 ```
-.position {
-  position 
+.position_relative {
+  position: relative;
+}
+
+.position_absoulte {
+ position: absolute;
 }
 ```
