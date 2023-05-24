@@ -6,4 +6,5 @@
 2. [[Memory Hierarchy design]]
 3. [[Memory Allocation Technique]]
 4. [[logical address and physical address]]
-5. 
+5. [[Allocation of frames]]
+6. 

@@ -4,74 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "64a2c82be305a13b",
+        "id": "15f6b6509e8e3fad",
         "type": "tabs",
         "children": [
           {
-            "id": "a98670d7c9593d20",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -201,
-                  "y": 571.2568578316358,
-                  "zoom": -0.48785091733388386
-                }
-              }
-            }
-          },
-          {
-            "id": "9dc77fe8b98012ec",
+            "id": "e7965cb7418c5aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5a0b6354a1e59b6",
+            "id": "86f89f27b01fad93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64e1b0eedc09b6bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Need of page replacement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56b1ec297a4f03f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LRU - Page replacement.md",
+                "file": "Allocation of frames.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -146,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LRU - Page replacement.md",
+                "file": "Allocation of frames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LRU - Page replacement.md",
+                "file": "Allocation of frames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LRU - Page replacement.md"
+                "file": "Allocation of frames.md"
               }
             }
           }
@@ -243,14 +203,20 @@
       }
     ]
   },
-  "active": "56b1ec297a4f03f9",
+  "active": "86f89f27b01fad93",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "LRU - Page replacement.md",
-    "Learning/Operating System/Image/OPT Page replacement.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
+    "Allocation of frames.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Need of page replacement.md",
-    "Pasted image 20230524150433.png",
-    "Pasted image 20230524150418.png",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/LRU - Page replacement.md",
+    "Pasted image 20230524150918.png",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Operating System/Image/OPT Page replacement.md",
+    "Learning/Operating System/Image/Pasted image 20230524150433.png",
+    "Learning/Operating System/Image/Pasted image 20230524150418.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Belady's Anomaly - FIFO.md",
     "Learning/Operating System/Image/Pasted image 20230524133512.png",
     "Learning/Operating System/Image/Pasted image 20230524133506.png",
@@ -260,12 +226,8 @@
     "Learning/Operating System/Image/Pasted image 20230524132326.png",
     "Learning/Operating System/Image/Pasted image 20230524131027.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
     "Learning/Operating System/Image/Pasted image 20230524125354.png",
     "Learning/Operating System/Image/Pasted Image 20230524125323_401.png",
-    "Learning/Operating System/Image/Pasted image 20230524124928.png",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/CSS/Fundamentals/CSS tables.md",
     "Web Development/CSS/CSS.md",
