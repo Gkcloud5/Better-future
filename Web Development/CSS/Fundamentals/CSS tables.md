@@ -13,4 +13,9 @@ table.two{
   border-collapse: separate;
 }
 
+td.a {
+  border-style: dotted;
+  border-width: 3px;
+  
+}
 ```
