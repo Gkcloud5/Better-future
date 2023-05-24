@@ -11,4 +11,4 @@
 			* By using **virtual memory** to solve this issue
 * Virtual memory is implemented by using demand paging.
 * Whenever there is a demand of a page then only OS will loads that page into main memory.
-* 
+
