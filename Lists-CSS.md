@@ -3,3 +3,10 @@
 
 ![[Pasted image 20230524200637.png]]
 
+```
+<ul>
+ <li>Gk</li>
+ <li>Hard</li>
+ <li>Work</li>
+</ul>
+```
