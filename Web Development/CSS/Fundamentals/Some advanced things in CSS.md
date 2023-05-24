@@ -47,5 +47,18 @@ selector:pseudo-class {
   property: value
 }
 
-selector
+selector.class:pseudo-class {
+  property: value;
+}
+```
+
+
+```
+a:link { 
+  color: brown;
+ }
+
+a:visited {
+  color: green;
+}
 ```
