@@ -7,4 +7,5 @@
 3. [[Memory Allocation Technique]]
 4. [[logical address and physical address]]
 5. [[Allocation of frames]]
-6. 
+6. [[Thrashing]]
+7. 

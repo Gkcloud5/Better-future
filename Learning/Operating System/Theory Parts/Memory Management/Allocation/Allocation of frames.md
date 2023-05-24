@@ -28,4 +28,12 @@
 * Whenever CPU is trying to execute a page, it check page is present in main memory or not
 	* Suppose page is not present in main memory then it's called page fault.
 	* We need to use page replacement algorithm to replace a page in main memory
-* It allows process to select 
+* It allows process to select a frames in a list of all the frames
+* P1 take frame from P2 same as P2 can take p1.
+* High priority process can take a frame from lower priority process.
+
+
+#### 5. local replacement:
+
+* Here allocated frame can't change like global replacement.
+
