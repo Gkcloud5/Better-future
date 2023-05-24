@@ -25,3 +25,5 @@
 [[FIFO page replacement]]
 
 [[Belady's Anomaly - FIFO]]
+
+[[OPT Page replacement]]
