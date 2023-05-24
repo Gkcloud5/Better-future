@@ -14,4 +14,12 @@
 1.  We need to select a page from a main memory and need to swap it to secondary memory
 	1. So we have 1 free space now.
 2. We need to update swapped page status to invalid in page table.
-3. We have swap in a page 
+3. We have swap in a page from secondary memory to main memory
+4. Need to update newly swapped page status to valid bit.
+
+![[Pasted image 20230524131027.png]]
+
+
+#### Some algorithm:
+
+[[FIFO page replacement]]
