@@ -37,3 +37,15 @@ background-color: green;
  z-index:1;
 }
 ```
+
+#### Pseudo class:
+
+* pseudo-classes are used to add special effects to some selectors.
+
+```
+selector:pseudo-class {
+  property: value
+}
+
+selector
+```
