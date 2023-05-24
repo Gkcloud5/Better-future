@@ -52,4 +52,8 @@
 
 [[Shared Pages]]
 
+#### Other things in paging:
+
 [[Virtual Memory]]
+
+[[Need of page replacement]]

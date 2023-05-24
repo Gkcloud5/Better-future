@@ -55,4 +55,17 @@
 
 ##### Step 3:
 
-* OS checks where that page is present in seconda
+* OS checks where that page is present in secondary memory.
+
+##### Step 4:
+
+* OS loads page from secondary memory to free frame in main memory.
+
+##### Step 5:
+
+* Now main memory contain corresponding frame so we need to change bit in page table
+* added frame number information in page table
+
+##### Step6:
+
+* CPU restart execution of a instruction.
