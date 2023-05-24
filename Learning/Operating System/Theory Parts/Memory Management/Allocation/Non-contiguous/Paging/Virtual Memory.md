@@ -35,4 +35,9 @@
 
 #### Page fault:
 
-* 
+* When CPU need to execute a page it checks whether page is allocated in main memory or not.
+* If the page is available in main memory then there is no problem
+* If page is not available in main memory then it's called **page fault**
+
+##### Steps in handling page fault:
+

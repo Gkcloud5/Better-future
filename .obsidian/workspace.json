@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md"
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           }
@@ -231,12 +231,12 @@
       }
     ]
   },
-  "active": "9c7997b90e4153a0",
+  "active": "d966b447a5738407",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
-    "Learning/Operating System/Image/Pasted image 20230524123737.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
+    "Learning/Operating System/Image/Pasted image 20230524123737.png",
     "Learning/Operating System/Image/Pasted image 20230524122442.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
