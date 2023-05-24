@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "94132a3c86383ff7",
+            "id": "4bd06b26b6d17e82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lists-CSS.md",
+                "file": "Padding-CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lists-CSS.md",
+                "file": "Padding-CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lists-CSS.md",
+                "file": "Padding-CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lists-CSS.md"
+                "file": "Padding-CSS.md"
               }
             }
           }
@@ -169,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94132a3c86383ff7",
+  "active": "4bd06b26b6d17e82",
   "lastOpenFiles": [
-    "Pasted image 20230524200637.png",
     "Web Development/CSS/CSS.md",
+    "Padding-CSS.md",
     "Lists-CSS.md",
+    "Pasted image 20230524200637.png",
     "Border-style.md",
     "Pasted image 20230524195622.png",
     "Web Development/CSS/Fundamentals/CSS tables.md",
@@ -199,7 +200,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/FIFO page replacement.md",
     "Learning/Operating System/Image/Pasted image 20230524132557.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
-    "Learning/Operating System/Image/Pasted image 20230524132326.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/CSS/Fundamentals/CSS image.md",
