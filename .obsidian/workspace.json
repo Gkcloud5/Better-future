@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allocation of frames.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allocation of frames.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allocation of frames.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allocation of frames.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md"
               }
             }
           }
@@ -203,16 +204,16 @@
       }
     ]
   },
-  "active": "86f89f27b01fad93",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
-    "Allocation of frames.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Need of page replacement.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/LRU - Page replacement.md",
-    "Pasted image 20230524150918.png",
+    "Learning/Operating System/Image/Pasted image 20230524150918.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/OPT Page replacement.md",
     "Learning/Operating System/Image/Pasted image 20230524150433.png",
