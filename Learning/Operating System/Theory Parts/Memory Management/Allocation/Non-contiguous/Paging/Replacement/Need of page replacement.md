@@ -23,3 +23,5 @@
 #### Some algorithm:
 
 [[FIFO page replacement]]
+
+[[Belady's Anomaly - FIFO]]

@@ -7,3 +7,7 @@
 
 ![[Pasted image 20230524132326.png]]
 
+
+![[Pasted image 20230524132557.png]]
+
+Totally it has 15 page faults
