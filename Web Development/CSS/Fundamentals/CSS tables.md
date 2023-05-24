@@ -25,4 +25,19 @@ td.b {
   border-color: green;
   padding: 10px
 }
+
+<body>
+ <table class="one">
+	 <caption>Collapse border example</caption>
+	 <tr><td class = "a"> Cell A collapse example</td></tr>
+	 <tr><td class = "b"> Cell B Collapse Example</td></tr>
+</table>
+<br />
+
+<table class = "two">
+  <caption>Collapse border example 2</caption>
+  <tr><td class = "a"> Cell A separate example</td></tr>
+  <tr><td class = "b"> Cell B separate example</td><tr>
+</table>
+</body>
 ```
