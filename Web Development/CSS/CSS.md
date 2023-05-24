@@ -25,4 +25,5 @@
 11. [[Border-style]]
 12. [[Lists-CSS]]
 13. [[Padding-CSS]]
-14. 
+14. [CSS-Cursor](https://www.tutorialspoint.com/css/css_cursors.htm)
+15. 
