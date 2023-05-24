@@ -13,7 +13,12 @@
 }
 
 .auto{
-display: block;
-
+ display: block;
+  border: 1px solid red;
+            padding:5px;
+            margin-top:5px;
+            width:300px;
+height:50px;
+overflow:auto;
 }
 ```

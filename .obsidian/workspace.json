@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scroll-CSS.md",
+                "file": "Web Development/CSS/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scroll-CSS.md",
+                "file": "Web Development/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scroll-CSS.md"
+                "file": "Web Development/CSS/CSS.md"
               }
             }
           }
@@ -169,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce0dd12acf883366",
+  "active": "72ef2c0d97f5798d",
   "lastOpenFiles": [
-    "Web Development/CSS/CSS.md",
     "Scroll-CSS.md",
+    "Web Development/CSS/CSS.md",
     "Web Development/CSS/Fundamentals/Padding-CSS.md",
     "Pasted image 20230524202154.png",
     "Web Development/CSS/Fundamentals/Lists-CSS.md",
