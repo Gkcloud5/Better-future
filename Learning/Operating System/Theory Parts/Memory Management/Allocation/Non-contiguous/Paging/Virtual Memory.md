@@ -41,3 +41,18 @@
 
 ##### Steps in handling page fault:
 
+
+![[Pasted image 20230524125354.png]]
+
+##### Step 1:
+
+* CPU checks whether pages is present in page table or not.
+	* I is invalid it specify page is not present in main memory.
+
+##### Step2:
+
+* Here page is not present in main memory then interrupt call trap to the OS
+
+##### Step 3:
+
+* OS checks where that page is present in seconda
