@@ -27,3 +27,6 @@
 [[Belady's Anomaly - FIFO]]
 
 [[OPT Page replacement]]
+
+[[LRU - Page replacement]]
+

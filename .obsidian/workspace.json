@@ -59,12 +59,12 @@
             }
           },
           {
-            "id": "fe76d036ea76bd68",
+            "id": "56b1ec297a4f03f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Image/OPT Page replacement.md",
+                "file": "LRU - Page replacement.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "LRU - Page replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "LRU - Page replacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "LRU - Page replacement.md"
               }
             }
           }
@@ -243,11 +243,14 @@
       }
     ]
   },
-  "active": "d966b447a5738407",
+  "active": "56b1ec297a4f03f9",
   "lastOpenFiles": [
-    "Learning/Operating System/Image/OPT Page replacement.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "LRU - Page replacement.md",
+    "Learning/Operating System/Image/OPT Page replacement.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Need of page replacement.md",
+    "Pasted image 20230524150433.png",
+    "Pasted image 20230524150418.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Belady's Anomaly - FIFO.md",
     "Learning/Operating System/Image/Pasted image 20230524133512.png",
     "Learning/Operating System/Image/Pasted image 20230524133506.png",
@@ -261,8 +264,6 @@
     "Learning/Operating System/Image/Pasted image 20230524125354.png",
     "Learning/Operating System/Image/Pasted Image 20230524125323_401.png",
     "Learning/Operating System/Image/Pasted image 20230524124928.png",
-    "Learning/Operating System/Image/Pasted image 20230524123737.png",
-    "Learning/Operating System/Image/Pasted image 20230524122442.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
