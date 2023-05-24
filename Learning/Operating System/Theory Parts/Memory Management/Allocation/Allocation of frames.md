@@ -22,4 +22,10 @@
 #### 3. Priority Allocation:
 
 * Based upon priority frames will be allocated to a process
-* 
+
+#### 4. Global replacement allocation:
+
+* Whenever CPU is trying to execute a page, it check page is present in main memory or not
+	* Suppose page is not present in main memory then it's called page fault.
+	* 
+	* 
