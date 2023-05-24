@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md"
               }
             }
           }
@@ -169,47 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "51957f9d38217a50",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c7f3c0fc9bfb586b",
-        "type": "window",
-        "children": [
-          {
-            "id": "138ade2e9a826b76",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d966b447a5738407",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1640,
-        "y": 25,
-        "width": 616,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d966b447a5738407",
+  "active": "10159e8acf60e2fd",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/Pasted image 20230524153924.png",
     "Learning/Operating System/Image/Pasted image 20230524153659.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
