@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Image/OPT Page replacement.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Image/OPT Page replacement.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Image/OPT Page replacement.md"
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           }
@@ -243,10 +243,10 @@
       }
     ]
   },
-  "active": "fe76d036ea76bd68",
+  "active": "d966b447a5738407",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/OPT Page replacement.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Need of page replacement.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Belady's Anomaly - FIFO.md",
     "Learning/Operating System/Image/Pasted image 20230524133512.png",
