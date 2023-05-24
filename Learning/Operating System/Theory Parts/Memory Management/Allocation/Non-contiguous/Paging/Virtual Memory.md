@@ -23,3 +23,16 @@
 
 ##### Page table when some pages not in main memory:
 
+* Totally process have 5 pages here.
+* page table
+	* Input is process page number
+	* It produce frame number as output
+* In page table, valid bit or invalid bit represent page is allocated in main memory or not.
+
+
+![[Pasted image 20230524123737.png]]
+
+
+#### Page fault:
+
+* 
