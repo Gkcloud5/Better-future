@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f83e9e73f2aaafbe",
+        "id": "c2bb13d73ce83d78",
         "type": "tabs",
         "children": [
           {
-            "id": "72ef2c0d97f5798d",
+            "id": "ba4c9b50d930c59e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3e777d68a043ca5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f19310a1428f37e7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md"
               }
             }
           }
@@ -179,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f19310a1428f37e7",
+  "active": "ba4c9b50d930c59e",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
     "Web Development/CSS/Fundamentals/Scroll-CSS.md",
