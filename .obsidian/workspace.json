@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Text and Image Effect.md",
+                "file": "Web Development/CSS/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Text and Image Effect.md",
+                "file": "Web Development/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Text and Image Effect.md"
+                "file": "Web Development/CSS/CSS.md"
               }
             }
           }
@@ -169,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "01b74ab44361dccd",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Fundamentals/CSS Text.md",
     "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
