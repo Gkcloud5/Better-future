@@ -9,4 +9,5 @@
 * Slab is a collection of contiguous memory.
 * caches is a collection of slab.
 * Generally, slab contains pages.
-* 
+
+![[Pasted image 20230525193927.png]]
