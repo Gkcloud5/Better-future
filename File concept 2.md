@@ -3,4 +3,15 @@
 
 #### File Operations:
 
-* In order to perform various operations we uses
+* In order to perform various operations we using system call.
+* Some operations are,
+	* Create
+	* Open
+	* Close
+	* Write
+	* Read
+	* Reposition within file
+	* Delete
+	* Truncate
+	* Append
+	* 
