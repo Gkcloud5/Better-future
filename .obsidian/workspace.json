@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "working-set-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "working-set-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "working-set-model.md"
               }
             }
           }
@@ -204,10 +204,11 @@
       }
     ]
   },
-  "active": "fbe21d5427477931",
+  "active": "a8e7d09fae7df7cd",
   "lastOpenFiles": [
-    "working-set-model.md",
+    "Pasted image 20230525094551.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "working-set-model.md",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Web Development/CSS/CSS.md",
