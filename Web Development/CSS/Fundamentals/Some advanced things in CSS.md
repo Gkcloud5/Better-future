@@ -80,3 +80,10 @@ Proprty: value
 }
 ```
 
+```
+#Mostly used pseudo-elements are
+:first-line
+:first-letter
+:before
+:After
+```
