@@ -8,4 +8,5 @@
 4. [[logical address and physical address]]
 5. [[Allocation of frames]]
 6. [[Thrashing]]
-7. 
+7. [[Allocating Kernel Memory]]
+8. 

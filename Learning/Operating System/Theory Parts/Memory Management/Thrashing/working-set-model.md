@@ -9,4 +9,4 @@
 	* locality of reference is over the short period of time as certain instruction executed repeatedly.
 	* The working-set model works by tracking the pages that are most frequently used by a process. these pages are kept in memory.
 		* While the pages that are not used as frequently are swapped out to disk
-* working set of a process is resident in p
+* working set of a process is resident in physical memory to minimize the frequency of page faults and the need for excessive disk I/O.
