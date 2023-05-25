@@ -14,4 +14,5 @@
 	* Delete
 	* Truncate
 	* Append
-	* 
+	* Copy
+	* Rename
