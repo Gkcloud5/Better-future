@@ -18,4 +18,7 @@
 	* Type
 	* Location
 	* Size
-	* Pro
+	* Protection
+	* Time and date
+	* User identification
+* 
