@@ -40,3 +40,5 @@
 
 * A well-deigned file system can improve the performance of reading and writing data by organizing it efficiently on disk.
 
+[[File concept 1]]
+
