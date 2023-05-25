@@ -12,4 +12,10 @@
 #### File Attributes:
 
 * Every file is associated with some attribute.
-* 
+* Some attributes are
+	* Name
+	* Identifier
+	* Type
+	* Location
+	* Size
+	* Pro
