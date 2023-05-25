@@ -85,5 +85,14 @@ Proprty: value
 :first-line
 :first-letter
 :before
-:After
+:after
+```
+
+```
+sudo.p:first-line {
+  color: green
+}
+sudo.p.nol {
+color:
+}
 ```
