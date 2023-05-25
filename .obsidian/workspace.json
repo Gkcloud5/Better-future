@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Buddy System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Buddy System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Buddy System.md"
               }
             }
           }
@@ -223,13 +223,15 @@
         "y": 167,
         "width": 600,
         "height": 680,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "fbe21d5427477931",
+  "active": "da832f12e067acd8",
   "lastOpenFiles": [
+    "Pasted image 20230525192902.png",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Buddy System.md",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Allocating Kernel Memory.md",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation",
@@ -241,7 +243,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing/working-set-model.md",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
     "Learning/Operating System/Image/Pasted image 20230525094551.png",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
@@ -269,7 +270,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Belady's Anomaly - FIFO.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/FIFO page replacement.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }
