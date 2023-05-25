@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8e7d09fae7df7cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "working-set-model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md"
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           }
@@ -156,8 +169,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba4c9b50d930c59e",
+  "floating": {
+    "id": "515076002b1cd153",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2829c76b15e8a2f4",
+        "type": "window",
+        "children": [
+          {
+            "id": "b2d40f8907d3424d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fbe21d5427477931",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 580,
+        "y": 36,
+        "width": 600,
+        "height": 680,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "fbe21d5427477931",
   "lastOpenFiles": [
+    "working-set-model.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
@@ -170,8 +221,6 @@
     "Web Development/CSS/Image/Pasted image 20230524195622.png",
     "Web Development/CSS/Fundamentals/CSS tables.md",
     "Web Development/CSS/Fundamentals/CSS links.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
     "Learning/Operating System/Image/Pasted image 20230524153924.png",

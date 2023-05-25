@@ -7,4 +7,7 @@
 	* But OS allocate 3 frames to process
 	* So while executing P1 process it will have too many page fault occurs
 	* More number of times swapping will occurs
-	* Here swap
+	* Here swapping process is high when compare to executing process, so CPU will mostly idle.
+* We have overcome thrashing by using following two methods
+	* [[working-set-model]]
+	* [[page-fault frequency]]
