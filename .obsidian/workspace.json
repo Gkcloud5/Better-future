@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocating Kernel Memory.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Allocating Kernel Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocating Kernel Memory.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Allocating Kernel Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocating Kernel Memory.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Allocating Kernel Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Allocating Kernel Memory.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Allocating Kernel Memory.md"
               }
             }
           }
@@ -216,11 +216,12 @@
       }
     ]
   },
-  "active": "b94f36e3787b8783",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocating Kernel Memory.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Allocating Kernel Memory.md",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing/page-fault frequency.md",
     "Learning/Operating System/Image/Pasted image 20230525132414.png",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing/Thrashing.md",
@@ -256,7 +257,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/FIFO page replacement.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
-    "Web Development/RoadMap/Web App developer roadmap.canvas",
-    "Web Development/CSS/Fundamentals/CSS image.md"
+    "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }
