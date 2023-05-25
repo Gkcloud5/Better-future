@@ -11,3 +11,4 @@
 * **Coalescing**:
 	* We can combine buddies in same size and can make larger size.
 * **Internal fragmentation** is disadvantage for this method
+* Always need to allocation process from lower to top.

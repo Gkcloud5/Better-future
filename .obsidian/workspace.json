@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "da832f12e067acd8",
+            "id": "a2a72b663daaaa2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buddy System.md",
+                "file": "Slab Allocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buddy System.md",
+                "file": "Slab Allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buddy System.md",
+                "file": "Slab Allocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buddy System.md"
+                "file": "Slab Allocation.md"
               }
             }
           }
@@ -219,21 +219,22 @@
           }
         ],
         "direction": "vertical",
-        "x": 783,
-        "y": 167,
-        "width": 600,
-        "height": 680,
-        "maximize": true,
+        "x": 683,
+        "y": 0,
+        "width": 683,
+        "height": 720,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "da832f12e067acd8",
+  "active": "a2a72b663daaaa2c",
   "lastOpenFiles": [
-    "Pasted image 20230525192902.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Buddy System.md",
+    "Slab Allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Allocating Kernel Memory.md",
+    "Buddy System.md",
+    "Pasted image 20230525192902.png",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
@@ -266,7 +267,6 @@
     "Learning/Operating System/Image/Pasted image 20230524150918.png",
     "Learning/Operating System/Image/OPT Page replacement.md",
     "Learning/Operating System/Image/Pasted image 20230524150433.png",
-    "Learning/Operating System/Image/Pasted image 20230524150418.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Belady's Anomaly - FIFO.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/FIFO page replacement.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
