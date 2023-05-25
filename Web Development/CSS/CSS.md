@@ -32,4 +32,5 @@
 #### Advanced:
 
 1. [[Some advanced things in CSS]]
-2. 
+2. [[Text and Image Effect]]
+3. 

@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3f9ac7d6ad75f826",
+            "id": "6011ee9cfd83281e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
+                "file": "Web Development/CSS/Fundamentals/Text and Image Effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
+                "file": "Web Development/CSS/Fundamentals/Text and Image Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
+                "file": "Web Development/CSS/Fundamentals/Text and Image Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Some advanced things in CSS.md"
+                "file": "Web Development/CSS/Fundamentals/Text and Image Effect.md"
               }
             }
           }
@@ -169,51 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "515076002b1cd153",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2829c76b15e8a2f4",
-        "type": "window",
-        "children": [
-          {
-            "id": "b2d40f8907d3424d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fbe21d5427477931",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 683,
-        "y": 0,
-        "width": 683,
-        "height": 720,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3f9ac7d6ad75f826",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Web Development/CSS/Fundamentals/Text and Image Effect.md",
     "Web Development/CSS/CSS.md",
+    "Web Development/CSS/Fundamentals/CSS Text.md",
+    "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
     "Learning/Operating System/Theory Parts/Disk Management/File concept 2.md",
     "Learning/Operating System/Theory Parts/Disk Management/File System.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/File concept 1.md",
     "Learning/Operating System/Image/Pasted image 20230525212347.png",
     "Learning/Operating System/Image/Pasted image 20230525212330.png",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Disk Management",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Slab Allocation.md",
@@ -231,7 +199,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
     "Learning/Operating System/Image/Pasted image 20230525094551.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
-    "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
     "Web Development/CSS/Fundamentals/Scroll-CSS.md",
     "Web Development/CSS/Fundamentals/Padding-CSS.md",
     "Web Development/CSS/Image/Pasted image 20230524202154.png",
@@ -244,8 +211,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
     "Learning/Operating System/Image/Pasted image 20230524153924.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Inverted page table.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Paging.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]

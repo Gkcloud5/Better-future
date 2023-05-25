@@ -91,8 +91,12 @@ Proprty: value
 ```
 sudo.p:first-line {
   color: green
+  padding:20px;
+  word-spacing:5px;
 }
-sudo.p.nol {
-color:
+sudo.p.nol:first-line {
+ color:red;
+ word-spacing:5px;
+ text-transfor: uppercase;v
 }
 ```
