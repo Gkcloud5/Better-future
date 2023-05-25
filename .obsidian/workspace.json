@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing/Thrashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "working-set-model.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing/working-set-model.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "working-set-model.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing/working-set-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "working-set-model.md",
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing/working-set-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "working-set-model.md"
+                "file": "Learning/Operating System/Theory Parts/Memory Management/Thrashing/working-set-model.md"
               }
             }
           }
@@ -204,12 +203,13 @@
       }
     ]
   },
-  "active": "a8e7d09fae7df7cd",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Pasted image 20230525094551.png",
+    "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
+    "Learning/Operating System/Image/Pasted image 20230525094551.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "working-set-model.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Thrashing.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Thrashing/working-set-model.md",
+    "Learning/Operating System/Theory Parts/Memory Management/Thrashing/Thrashing.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
@@ -237,7 +237,6 @@
     "Learning/Operating System/Image/Pasted image 20230524150418.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/Belady's Anomaly - FIFO.md",
     "Learning/Operating System/Image/Pasted image 20230524133512.png",
-    "Learning/Operating System/Image/Pasted image 20230524133506.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement/FIFO page replacement.md",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Virtual Memory.md",
