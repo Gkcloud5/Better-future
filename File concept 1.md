@@ -11,4 +11,5 @@
 
 #### File Attributes:
 
-*  E
+* Every file is associated with some attribute.
+* 
