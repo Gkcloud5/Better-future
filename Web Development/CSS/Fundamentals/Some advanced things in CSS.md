@@ -62,3 +62,12 @@ a:visited {
   color: green;
 }
 ```
+
+
+#### Pseudo elements:
+
+* It used to add special effects to some selectors.
+
+```
+selector:pseud
+```
