@@ -69,5 +69,14 @@ a:visited {
 * It used to add special effects to some selectors.
 
 ```
-selector:pseud
+selector:pseudo-element {
+ property: value
+}
 ```
+
+```
+selector.class:pseudo-element {
+Proprty: value
+}
+```
+
