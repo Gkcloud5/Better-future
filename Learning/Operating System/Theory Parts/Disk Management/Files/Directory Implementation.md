@@ -31,4 +31,6 @@
 
 * This approach suggests to use hash table along with the linked list.
 * key-value pair for each file in the directory gets generated and stored in the hash table. the key can be determined by applying the hash function on the file name while the key points to the corresponding file stored in the directory.
-* 
+
+![[Pasted image 20230526210541.png]]
+
