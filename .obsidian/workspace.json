@@ -30,31 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c18e320bde016472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b30d2d640b740c6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md"
               }
             }
           }
@@ -191,14 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c18e320bde016472",
+  "active": "a9087ac0c7a07bcf",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Communication/Words and meaning/Words meaning.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md",
     "Pasted image 20230526200003.png",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
-    "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md",
     "Learning/Operating System/Image/Pasted image 20230526193817.png",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Protection.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Sharing.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System Mounting.md",
@@ -220,7 +199,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Access Methods.md",
     "Learning/Operating System/Image/Pasted image 20230526135253.png",
-    "Learning/Operating System/Image/Pasted image 20230526125845.png",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 2.md",
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
     "Web Development/CSS/CSS.md",

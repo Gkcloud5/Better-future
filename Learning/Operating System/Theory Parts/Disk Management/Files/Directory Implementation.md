@@ -19,4 +19,6 @@
 
 ##### Characteristics:
 
-* 
+* When a new file is created, then the entire list is checked whether the new file name is matching to a existing file name or not. 
+* in case, it doesn't exit, the file can be created at the beginning or at the end.
+* The list needs to be traversed

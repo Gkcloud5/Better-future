@@ -39,4 +39,7 @@ maliciously - தீங்கிழைக்கும் வகையில்
 * This function is **maliciously** for a hole program.
 
 collision - மோதல்
-* there is a possibility for data **collision**
+* there is a possibility for data **collision
+
+traversed - கடந்து சென்றது
+
