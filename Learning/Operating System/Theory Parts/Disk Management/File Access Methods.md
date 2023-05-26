@@ -38,3 +38,14 @@
 * read n --> n is block number
 * write n
 * position to n
+
+
+#### Indexed sequential access:
+
+* Here, i works based upon index.
+* Let consider 5000 records
+	* Master index contains 6 blocks
+		* Pointer contains secondary index.
+			* first column represent record
+			* Next column represent pointer
+
