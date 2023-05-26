@@ -13,4 +13,10 @@
 #### Linear list:
 
 * All the files in directory are maintained as single lined list.
-* Each file con
+* Each file contains the pointers to the data blocks which are assigned to it and the next file in the directory.
+
+![[Pasted image 20230526200003.png]]
+
+##### Characteristics:
+
+* 
