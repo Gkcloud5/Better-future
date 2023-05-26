@@ -16,3 +16,10 @@
 ![[Pasted image 20230526124237.png]]
 
 * In sequential access, the OS read the file word by word. A pointer is maintained which initially points to the base address of the file.
+	* If user wants to read first word of the file then the pointer provides that word to the user and increases its value by 1 word. this process continues till the end of the file.
+* Modern way system provide the concept of 
+	* Direct access
+	* Indexed access
+	* But most used method is sequential access
+* Let consider, our file has 100 records, currently we are at 50th record now we want to access 75th record
+	* we are using sequential access so if we want to access 7sth record then
