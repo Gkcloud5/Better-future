@@ -32,14 +32,24 @@
             }
           },
           {
-            "id": "f09e0448e79bf4b6",
+            "id": "2c15fd1f3733cad8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Protection.md",
+                "file": "File system structure.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9b30d2d640b740c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           }
@@ -119,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Protection.md",
+                "file": "File system structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Protection.md",
+                "file": "File system structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Protection.md"
+                "file": "File system structure.md"
               }
             }
           }
@@ -181,8 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f09e0448e79bf4b6",
+  "active": "2c15fd1f3733cad8",
   "lastOpenFiles": [
+    "Pasted image 20230526193817.png",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "File system structure.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
     "File Protection.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Sharing.md",
@@ -210,7 +223,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 2.md",
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
     "Web Development/CSS/CSS.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Web Development/CSS/Fundamentals/CSS Text.md",
     "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 1.md",
@@ -221,8 +233,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Buddy System.md",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation",
     "Learning/Operating System/Theory Parts/Memory Management/Memory Management.md",
-    "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Thrashing/page-fault frequency.md",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
