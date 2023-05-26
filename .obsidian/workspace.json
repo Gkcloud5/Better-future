@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Access Methods.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Access Methods.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Access Methods.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Access Methods.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md"
               }
             }
           }
@@ -193,13 +193,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b64067b38228e17",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Pasted image 20230526125845.png",
-    "Pasted image 20230526125832.png",
+    "Learning/Operating System/Image/Pasted image 20230526125845.png",
+    "Learning/Operating System/Image/Pasted image 20230526125832.png",
     "Learning/Operating System/Theory Parts/Disk Management/File System.md",
-    "File Access Methods.md",
-    "Pasted image 20230526124237.png",
+    "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
+    "Learning/Operating System/Image/Pasted image 20230526124237.png",
     "Learning/Operating System/Theory Parts/Disk Management/File concept 2.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
