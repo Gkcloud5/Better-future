@@ -22,4 +22,11 @@
 	* Indexed access
 	* But most used method is sequential access
 * Let consider, our file has 100 records, currently we are at 50th record now we want to access 75th record
-	* we are using sequential access so if we want to access 7sth record then
+	* we are using sequential access so if we want to access 75th record then access 51, 52, 53, .., 74 record to achieve 75th record.
+	* not able to access record directly.
+	* It takes more number of time in order to access a record
+
+#### Direct access:
+
+* By using this method we can access a record directly.
+* Let consider file contain 100 instru
