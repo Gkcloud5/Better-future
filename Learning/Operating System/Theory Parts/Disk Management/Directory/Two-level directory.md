@@ -10,4 +10,5 @@
 
 ![[Pasted image 20230526142651.png]]
 
-* We can create a separate directory for each user. there is one master direcroy which contains sepearate directories
+* We can create a separate directory for each user. there is one master directory which contains separate directories to each user.
+	* the file does not let a user to enter in the other's user's directory without permission.
