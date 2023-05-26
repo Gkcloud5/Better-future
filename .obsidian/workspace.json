@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File system structure.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File system structure.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File system structure.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File system structure.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md"
               }
             }
           }
@@ -191,13 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c15fd1f3733cad8",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Pasted image 20230526193817.png",
+    "Learning/Operating System/Image/Pasted image 20230526193817.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "File system structure.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
-    "File Protection.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File Protection.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Sharing.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System Mounting.md",
     "Learning/Operating System/Image/Pasted image 20230526192811.png",
