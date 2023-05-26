@@ -4,3 +4,8 @@
 **Opacity:**
 
 * level of the opacity. 0 is fully transparent, 100 is fully opaque.
+
+**Finish opacity:**
+
+* level of the opacity at other end of the object.
+
