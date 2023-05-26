@@ -11,4 +11,18 @@
 
 * Each directory supports a number of common operations on the file:
 	* File creation
-	* Sea
+	* Search for the file
+	* File detection
+	* Renaming the file
+	* Traversing files
+	* Listing of files
+
+#### Types of directory:
+
+[[Single level Directory]]
+
+[[Two-level directory]]
+
+[[Tree-structured Directory]]
+
+[[Acyclic graph directories]]

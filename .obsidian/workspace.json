@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directory structure.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directory structure.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Directory structure.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Directory structure.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/File System.md"
               }
             }
           }
@@ -181,14 +180,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f89eebeb1d1a76f",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Pasted image 20230526141202.png",
+    "Learning/Operating System/Theory Parts/Disk Management/Directory",
+    "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
+    "Learning/Operating System/Image/Pasted image 20230526141202.png",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/File System.md",
-    "Directory structure.md",
     "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
-    "Pasted image 20230526135253.png",
+    "Learning/Operating System/Image/Pasted image 20230526135253.png",
     "Learning/Operating System/Image/Pasted image 20230526125845.png",
     "Learning/Operating System/Image/Pasted image 20230526125832.png",
     "Learning/Operating System/Image/Pasted image 20230526124237.png",
@@ -216,7 +216,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing/Thrashing.md",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing/working-set-model.md",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
-    "Learning/Operating System/Image/Pasted image 20230525094551.png",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Web Development/CSS/Fundamentals/Scroll-CSS.md",
     "Web Development/CSS/Fundamentals/Padding-CSS.md",
