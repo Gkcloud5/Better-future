@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a2a28c6f0a0346b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acyclic graph directories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree-structured Directory.md",
+                "file": "Acyclic graph directories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree-structured Directory.md",
+                "file": "Acyclic graph directories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree-structured Directory.md"
+                "file": "Acyclic graph directories.md"
               }
             }
           }
@@ -193,11 +205,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05b27637a40dc70e",
+  "active": "8a2a28c6f0a0346b",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Disk Management/Directory/Two-level directory.md",
     "Tree-structured Directory.md",
+    "Acyclic graph directories.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
+    "Pasted image 20230526143706.png",
+    "Pasted image 20230526143323.png",
+    "Learning/Operating System/Theory Parts/Disk Management/Directory/Two-level directory.md",
     "Learning/Operating System/Image/Pasted image 20230526142651.png",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Single level Directory.md",
     "Learning/Operating System/Image/Pasted image 20230526142134.png",
@@ -218,11 +233,9 @@
     "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
     "Learning/Operating System/Theory Parts/Disk Management/File concept 1.md",
     "Learning/Operating System/Image/Pasted image 20230525212347.png",
-    "Learning/Operating System/Image/Pasted image 20230525212330.png",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Disk Management",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Slab Allocation.md",
-    "Learning/Operating System/Image/Pasted image 20230525193927.png",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Allocating Kernel Memory.md",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Buddy System.md",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation",
@@ -234,7 +247,6 @@
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Web Development/CSS/Fundamentals/Scroll-CSS.md",
-    "Web Development/CSS/Fundamentals/Padding-CSS.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
