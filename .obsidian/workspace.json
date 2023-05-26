@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "2b64067b38228e17",
+            "id": "1f89eebeb1d1a76f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a86bb5cbaa74425e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/File concept 2.md",
+                "file": "Directory structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
+                "file": "Directory structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
+                "file": "Directory structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md"
+                "file": "Directory structure.md"
               }
             }
           }
@@ -193,15 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "1f89eebeb1d1a76f",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
+    "Learning/Operating System/Theory Parts/Disk Management/File System.md",
+    "Directory structure.md",
+    "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
+    "Pasted image 20230526135253.png",
     "Learning/Operating System/Image/Pasted image 20230526125845.png",
     "Learning/Operating System/Image/Pasted image 20230526125832.png",
-    "Learning/Operating System/Theory Parts/Disk Management/File System.md",
-    "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
     "Learning/Operating System/Image/Pasted image 20230526124237.png",
     "Learning/Operating System/Theory Parts/Disk Management/File concept 2.md",
-    "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
     "Web Development/CSS/CSS.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
@@ -229,9 +219,7 @@
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Memory Allocation Technique.md",
     "Web Development/CSS/Fundamentals/Scroll-CSS.md",
     "Web Development/CSS/Fundamentals/Padding-CSS.md",
-    "Web Development/CSS/Image/Pasted image 20230524202154.png",
     "Web Development/CSS/Fundamentals/Lists-CSS.md",
-    "Web Development/CSS/Image/Pasted image 20230524200637.png",
     "Web Development/CSS/Fundamentals/Border-style.md",
     "Web Development/CSS/Fundamentals/CSS tables.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",

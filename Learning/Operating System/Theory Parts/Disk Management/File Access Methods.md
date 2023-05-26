@@ -49,3 +49,5 @@
 			* first column represent record
 			* Next column represent pointer
 
+![[Pasted image 20230526135253.png]]
+
