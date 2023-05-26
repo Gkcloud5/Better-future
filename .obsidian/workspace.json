@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File System Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File System Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File System Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File System Implementation.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md"
               }
             }
           }
@@ -191,10 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c18e320bde016472",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
-    "File System Implementation.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md",
     "Learning/Operating System/Image/Pasted image 20230526193817.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
