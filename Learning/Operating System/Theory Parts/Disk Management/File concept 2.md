@@ -16,3 +16,14 @@
 	* Append
 	* Copy
 	* Rename
+
+
+#### File types:
+
+* Name and extenstion
+* Some types are
+	* executable --> .exe
+	* object  --> .obj, .o
+	* batch  --> .sh
+	* text    --> .txt
+	* library  --> .lib

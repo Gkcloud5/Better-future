@@ -4,34 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9561418de2163c",
+        "id": "eb62a933f35bacee",
         "type": "tabs",
         "children": [
           {
-            "id": "01b74ab44361dccd",
+            "id": "e720192ebf973921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6011ee9cfd83281e",
+            "id": "a9087ac0c7a07bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/Fundamentals/Text and Image Effect.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/File System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b64067b38228e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Access Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a86bb5cbaa74425e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Disk Management/File concept 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -105,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "File Access Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "File Access Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/CSS.md"
+                "file": "File Access Methods.md"
               }
             }
           }
@@ -167,16 +193,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01b74ab44361dccd",
+  "active": "2b64067b38228e17",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Disk Management/File System.md",
+    "File Access Methods.md",
+    "Learning/Operating System/Theory Parts/Disk Management/File concept 2.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Web Development/CSS/CSS.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Web Development/CSS/Fundamentals/CSS Text.md",
     "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
-    "Learning/Operating System/Theory Parts/Disk Management/File concept 2.md",
-    "Learning/Operating System/Theory Parts/Disk Management/File System.md",
-    "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/File concept 1.md",
     "Learning/Operating System/Image/Pasted image 20230525212347.png",
     "Learning/Operating System/Image/Pasted image 20230525212330.png",
@@ -206,7 +233,6 @@
     "Web Development/CSS/Image/Pasted image 20230524195622.png",
     "Web Development/CSS/Fundamentals/CSS tables.md",
     "Web Development/CSS/Fundamentals/CSS links.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Allocation/Allocation of frames.md",
     "Learning/Operating System/Image/Pasted image 20230524153924.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
