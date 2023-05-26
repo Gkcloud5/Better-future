@@ -24,4 +24,4 @@
 ##### Basic File system:
 
 * Physical block is input for this.
-* it give control to that block to IO control
+* it give control to that block to *IO control* devices
