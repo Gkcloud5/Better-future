@@ -21,4 +21,13 @@
 
 * When a new file is created, then the entire list is checked whether the new file name is matching to a existing file name or not. 
 * in case, it doesn't exit, the file can be created at the beginning or at the end.
-* The list needs to be traversed
+* The list needs to be traversed in case of every operation(creation, deletion, updating, etc) on the files therefore the system become inefficient.
+
+![[Pasted image 20230526205645.png]]
+
+
+
+#### Hash Table:
+
+* This approach suggests to use hash table along with the linked list.
+* 
