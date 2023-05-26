@@ -29,4 +29,9 @@
 #### Direct access:
 
 * By using this method we can access a record directly.
-* Let consider file contain 100 instru
+* Let consider file contain 100 record, currently we are in 20th record and looking to access 75th record
+	* By using direct access method can access 75th record from 20th record directly.
+
+![[Pasted image 20230526125832.png]]
+
+* Direct access is mostly required in the case of database systems. in most of the cases, we need filtered information from the database.
