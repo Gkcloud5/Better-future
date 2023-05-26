@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory Implementation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md"
               }
             }
           }
@@ -183,12 +182,13 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory Implementation.md",
     "Learning/Operating System/Image/Pasted image 20230526210541.png",
     "Learning/Operating System/Image/Pasted image 20230526205645.png",
-    "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Communication/Words and meaning/Words meaning.md",
-    "Learning/Operating System/Theory Parts/Disk Management/Files/Directory Implementation.md",
     "Learning/Operating System/Image/Pasted image 20230526200003.png",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md",
     "Learning/Operating System/Image/Pasted image 20230526193817.png",
@@ -209,8 +209,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Single level Directory.md",
     "Learning/Operating System/Image/Pasted image 20230526142134.png",
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
-    "Learning/Operating System/Image/Pasted image 20230526141202.png",
-    "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Access Methods.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 2.md",
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
