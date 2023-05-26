@@ -7,4 +7,12 @@
 * In order to access a data in file, OS have 3 options
 	* Sequential access
 	* Direct access (or) relative access
-	* indexed sequential acces
+	* indexed sequential access
+
+#### Sequential access:
+
+* Most of the OS access the file sequentially.
+
+![[Pasted image 20230526124237.png]]
+
+* In sequential access, the OS read the file word by word. A pointer is maintained which initially points to the base address of the file.
