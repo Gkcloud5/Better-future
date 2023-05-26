@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/File System.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File System Mounting.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Mounting.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File System Mounting.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Mounting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File System Mounting.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Mounting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File System Mounting.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Mounting.md"
               }
             }
           }
@@ -183,15 +183,17 @@
   },
   "active": "2067a7689de4adb7",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Disk Management/File System.md",
-    "File System Mounting.md",
-    "Acyclic graph directories.md",
-    "Pasted image 20230526192031.png",
-    "Tree-structured Directory.md",
+    "Pasted image 20230526192811.png",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File System Mounting.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Directory/Acyclic graph directories.md",
+    "Learning/Operating System/Image/Pasted image 20230526192031.png",
+    "Learning/Operating System/Theory Parts/Disk Management/Directory/Tree-structured Directory.md",
     "Learning/Programming/Python/Problem solving/If..else/Logical Problem 1.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
-    "Pasted image 20230526143706.png",
-    "Pasted image 20230526143323.png",
+    "Learning/Operating System/Image/Pasted image 20230526143706.png",
+    "Learning/Operating System/Image/Pasted image 20230526143323.png",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Two-level directory.md",
     "Learning/Operating System/Image/Pasted image 20230526142651.png",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Single level Directory.md",
@@ -199,18 +201,17 @@
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
     "Learning/Operating System/Image/Pasted image 20230526141202.png",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
-    "Learning/Operating System/Theory Parts/Disk Management/File Access Methods.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File Access Methods.md",
     "Learning/Operating System/Image/Pasted image 20230526135253.png",
     "Learning/Operating System/Image/Pasted image 20230526125845.png",
     "Learning/Operating System/Image/Pasted image 20230526125832.png",
-    "Learning/Operating System/Image/Pasted image 20230526124237.png",
-    "Learning/Operating System/Theory Parts/Disk Management/File concept 2.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 2.md",
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
     "Web Development/CSS/CSS.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Web Development/CSS/Fundamentals/CSS Text.md",
     "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
-    "Learning/Operating System/Theory Parts/Disk Management/File concept 1.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 1.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Disk Management",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Slab Allocation.md",
@@ -221,7 +222,6 @@
     "Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing/page-fault frequency.md",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing/Thrashing.md",
-    "Learning/Operating System/Theory Parts/Memory Management/Thrashing/working-set-model.md",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Operating System/Theory Parts/Memory Management/Allocation/Non-contiguous/Paging/Replacement",
