@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eb62a933f35bacee",
+        "id": "890cc7777aa74205",
         "type": "tabs",
         "children": [
           {
-            "id": "e720192ebf973921",
+            "id": "97c1c6c22f3318f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9087ac0c7a07bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "494f6210d921886e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory Implementation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
