@@ -6,4 +6,4 @@
 
 * In order to improve a performance, OS using **buffer cache**
 * Buffer cache are having a block that needed inorder to perform IO operations
-* 
+	* There is no need to transfer a data from secondary storage
