@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Efficiency and performance of File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Efficiency and performance of File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Efficiency and performance of File System.md"
               }
             }
           }
@@ -224,8 +224,10 @@
       }
     ]
   },
-  "active": "cc3ca2e1a78b79f2",
+  "active": "a67e49fa9ec352eb",
   "lastOpenFiles": [
+    "Pasted image 20230527174833.png",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/Efficiency and performance of File System.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/Free Space management.md",
@@ -247,7 +249,6 @@
     "Web Development/CSS/CSS.md",
     "Learning/Operating System/Image/Pasted image 20230526210541.png",
     "Learning/Operating System/Image/Pasted image 20230526205645.png",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Protection.md",
@@ -263,7 +264,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Access Methods.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 2.md",
     "Web Development/CSS/Fundamentals/CSS Text.md",
-    "Web Development/CSS/Fundamentals/Some advanced things in CSS.md",
     "Learning/Operating System/Theory Parts/Disk Management",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
