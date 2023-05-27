@@ -23,7 +23,18 @@
 
 .dropdown{
   position: relative;
-  display: 
+  display: inline-block;
+}
+
+.drodown-content a {
+ color: black;
+ padding: 12px 16px;
+ text-decoration: none;
+ display: block;
+}
+
+.dropdown-content a:hover {
+  background-color
 }
 </style>
 
