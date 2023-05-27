@@ -21,3 +21,16 @@
 ![[Pasted image 20230527144040.png]]
 
 * It is simply to implement.
+* It is difficult to find our contiguous block.
+* It have external fragmentation
+
+#### Linked Allocation:
+
+* It is based upon linked list.
+* We have a collection of blocks, where we can have a pointer field so that one block pointer can contain next block address.
+
+![[Pasted image 20230527150004.png]]
+
+* File allocation table can have start and end block numbers
+* Here no external fragmentation
+* 
