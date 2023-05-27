@@ -15,3 +15,7 @@
 
 
 #### Rotational Latency:
+
+* It is the time taken by the desired sector to rotate itself to the position from where it can access the R/W heads.
+* **Platter** is a circular magnetic plat that is used for storing data in a hard disk.
+* Rotational latency is the time it takes for a hard disk drive to r
