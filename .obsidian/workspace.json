@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storage Structure.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md"
               }
             }
           }
@@ -212,13 +212,14 @@
       }
     ]
   },
-  "active": "cc3ca2e1a78b79f2",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Storage Structure.md",
+    "Learning/Operating System/Image/Pasted image 20230527175659.png",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/Efficiency and performance of File System.md",
     "Learning/Operating System/Image/Pasted image 20230527174833.png",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/Free Space management.md",
     "Learning/Operating System/Image/Pasted image 20230527174036.png",
@@ -251,7 +252,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Access Methods.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 2.md",
-    "Web Development/CSS/Fundamentals/CSS Text.md",
     "Learning/Operating System/Theory Parts/Disk Management",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
