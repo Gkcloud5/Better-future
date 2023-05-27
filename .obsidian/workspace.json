@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FCFS Scheduling algorithm.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/FCFS Scheduling algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FCFS Scheduling algorithm.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/FCFS Scheduling algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FCFS Scheduling algorithm.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/FCFS Scheduling algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FCFS Scheduling algorithm.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/FCFS Scheduling algorithm.md"
               }
             }
           }
@@ -227,7 +227,7 @@
   "active": "37ad981c74574e8d",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/Disk Scheduling.md",
-    "FCFS Scheduling algorithm.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/FCFS Scheduling algorithm.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
