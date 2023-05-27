@@ -10,3 +10,13 @@
 	* Linked allocation
 	* Indexed allocation
 
+##### Contiguous allocation:
+
+* In this approach a set of continues block will be allocated for a file
+
+![[Pasted image 20230527143934.png]]
+
+* File allocation table contain each and every file that is stored in secondary storage
+
+![[Pasted image 20230527144040.png]]
+
