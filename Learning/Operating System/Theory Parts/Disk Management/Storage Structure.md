@@ -22,4 +22,11 @@
 ##### Main memory:
 
 * It is also called as primary memory.
-* Generally, Programs are saved in secondary memory, at the time of execution
+* Generally, Programs are saved in secondary memory, at the time of execution OS transfer program from secondary memory to primary memory.
+* Because CPU can have only access to primary memory.
+* It also called volatile memory, once power off then stored data in main memory will be deleted.
+
+##### Secondary memory:
+
+* It is used to store a things permanently in system
+* It is non-volatile memory.

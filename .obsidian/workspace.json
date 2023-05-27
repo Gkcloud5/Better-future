@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md"
               }
             }
           }
@@ -212,11 +212,11 @@
       }
     ]
   },
-  "active": "cf5ef259f82812a2",
+  "active": "0c64c18b2c5deae3",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md",
     "Learning/Operating System/Image/Pasted image 20230527175659.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/Efficiency and performance of File System.md",
     "Learning/Operating System/Image/Pasted image 20230527174833.png",
@@ -237,7 +237,6 @@
     "Learning/Operating System/OS.md",
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
     "Web Development/CSS/CSS.md",
-    "Learning/Operating System/Image/Pasted image 20230526210541.png",
     "Communication/Words and meaning/Words meaning.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Protection.md",
