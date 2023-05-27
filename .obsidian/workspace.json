@@ -213,8 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "bdf7f2b146f74a71",
   "lastOpenFiles": [
+    "Pasted image 20230527142456.png",
+    "Pasted image 20230527142443.png",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
@@ -244,7 +246,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Two-level directory.md",
     "Learning/Operating System/Image/Pasted image 20230526142651.png",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Single level Directory.md",
-    "Learning/Operating System/Image/Pasted image 20230526142134.png",
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Access Methods.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 2.md",
@@ -253,7 +254,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 1.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/Theory Parts/Disk Management",
-    "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation/Slab Allocation.md",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
