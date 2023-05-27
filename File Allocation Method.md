@@ -1,0 +1,12 @@
+#### Source:
+[YT](https://www.youtube.com/watch?v=gK6L3v1b8AM&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&index=85)
+
+* Generally files are stored in secondary storage device.
+* File allocation method OS to allow hard disk space for a files
+	* So that hard disk space can be used in effective manner.
+	* As well as files can accessed faster manner.
+* Types:
+	* Contiguous allocation
+	* Linked allocation
+	* Indexed allocation
+
