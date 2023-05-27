@@ -1,5 +1,7 @@
 #### Source:
 [TP](https://www.tutorialspoint.com/css/css_media_types.htm)
+[wd](https://web.dev/learn/design/media-queries/)
+
 
 #### Media rule:
 
