@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Allocation Method.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File Allocation Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Allocation Method.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File Allocation Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Allocation Method.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File Allocation Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Allocation Method.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File Allocation Method.md"
               }
             }
           }
@@ -225,15 +224,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24772bf9d84a86d6",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Pasted image 20230527144040.png",
-    "Pasted image 20230527143934.png",
+    "Learning/Operating System/Image/Pasted image 20230527144040.png",
+    "Learning/Operating System/Image/Pasted image 20230527143934.png",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
-    "File Allocation Method.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File Allocation Method.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
-    "Pasted image 20230527142456.png",
-    "Pasted image 20230527142443.png",
+    "Learning/Operating System/Image/Pasted image 20230527142456.png",
+    "Learning/Operating System/Image/Pasted image 20230527142443.png",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory Implementation.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
