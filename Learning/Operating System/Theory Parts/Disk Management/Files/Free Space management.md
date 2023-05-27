@@ -12,3 +12,17 @@
 #### Bit-Vector:
 
 * Hard disk contain collection of block.
+* Here each block is represented by bit.
+	* If bit 0 then it's occupied
+	* If bit is 1 then it's free
+
+ ![[Pasted image 20230527173802.png]]
+
+* It is very easy to implement.
+
+#### Linked-List:
+
+![[Pasted image 20230527174036.png]]
+
+* Here is no wastage of space.
+* 
