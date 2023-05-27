@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Free Space management.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Free Space management.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Space management.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Free Space management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Space management.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Free Space management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Space management.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/Free Space management.md"
               }
             }
           }
@@ -192,7 +192,7 @@
   "active": "a656c531870677bc",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
-    "Free Space management.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/Free Space management.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Allocation Method.md",
     "Learning/Operating System/Image/Pasted image 20230527150312.png",
