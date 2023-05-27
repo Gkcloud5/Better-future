@@ -18,4 +18,22 @@
 
 * It is the time taken by the desired sector to rotate itself to the position from where it can access the R/W heads.
 * **Platter** is a circular magnetic plat that is used for storing data in a hard disk.
-* Rotational latency is the time it takes for a hard disk drive to r
+* Rotational latency is the time it takes for a hard disk drive to rotate the platters until the desired data is under the read/write head. it is measured in ms.
+
+
+#### Transfer time:
+
+* It is the time taken to transfer a data
+
+#### Disk Access time:
+
+* Disk access time = Rotational latency + Seek time + transfer time
+
+#### Disk response time:
+
+* It is the average of time spent by each request waiting for the IO operations.
+
+
+### Purpose Disk Scheduling:
+
+* 
