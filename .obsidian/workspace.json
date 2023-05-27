@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md"
               }
             }
           }
@@ -213,12 +213,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf7f2b146f74a71",
+  "active": "e22a7108037240ed",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
     "Pasted image 20230527142456.png",
     "Pasted image 20230527142443.png",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
-    "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory Implementation.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
@@ -244,7 +244,6 @@
     "Learning/Operating System/Image/Pasted image 20230526143706.png",
     "Learning/Operating System/Image/Pasted image 20230526143323.png",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Two-level directory.md",
-    "Learning/Operating System/Image/Pasted image 20230526142651.png",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Single level Directory.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Access Methods.md",

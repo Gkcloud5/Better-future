@@ -43,4 +43,14 @@
 
 * It contains information about mount point.
 
-##### In-Memory directory s
+##### In-Memory directory structure:
+
+* It contains information about directory which are accessed recently.
+
+##### System-wide open-file table:
+
+* It contains files which are opened from several process.
+
+##### Per-process open-file table:
+
+* It contains only one process file open by process.
