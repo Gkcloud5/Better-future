@@ -11,4 +11,4 @@
 
 #### Bit-Vector:
 
-* 
+* Hard disk contain collection of block.
