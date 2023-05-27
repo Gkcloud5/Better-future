@@ -33,4 +33,12 @@
 
 * File allocation table can have start and end block numbers
 * Here no external fragmentation
-* 
+* Here each block have some memory for pointer. 
+
+#### Indexed Allocation:
+
+ ![[Pasted image 20230527150312.png]]
+
+* index contains all the blocks that related to file
+* It supports both sequential and direct address
+* here no external fragmentation.

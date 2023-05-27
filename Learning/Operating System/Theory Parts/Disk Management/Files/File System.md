@@ -58,6 +58,8 @@
 
 [[File Allocation Method]]
 
+[[Free Space management]]
+
 
 
 
