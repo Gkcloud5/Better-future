@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File System Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File System Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File System Implementation.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File System Implementation.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md"
               }
             }
           }
@@ -213,10 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf7f2b146f74a71",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System.md",
-    "File System Implementation.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory Implementation.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
