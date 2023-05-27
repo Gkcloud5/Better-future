@@ -35,14 +35,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dropdown menu.md",
+                "file": "Web Development/CSS/Fundamentals/Dropdown menu.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "75ff6488ea60f15b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Web Development/RoadMap/Web App developer roadmap.canvas",
+                "viewState": {
+                  "x": 60,
+                  "y": -165.5,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -117,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dropdown menu.md",
+                "file": "Web Development/RoadMap/Web App developer roadmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dropdown menu.md",
+                "file": "Web Development/RoadMap/Web App developer roadmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dropdown menu.md"
+                "file": "Web Development/RoadMap/Web App developer roadmap.canvas"
               }
             }
           }
@@ -179,11 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18845a4d61759db6",
+  "active": "75ff6488ea60f15b",
   "lastOpenFiles": [
+    "Web Development/CSS/Fundamentals/Dropdown menu.md",
     "Web Development/CSS/CSS.md",
-    "Dropdown menu.md",
-    "Media Types.md",
+    "Web Development/CSS/Fundamentals/Media Types.md",
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/FCFS Scheduling algorithm.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/Disk Scheduling.md",
