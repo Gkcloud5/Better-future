@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disk Scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/Disk Scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disk Scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/Disk Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Disk Scheduling.md",
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/Disk Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disk Scheduling.md"
+                "file": "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/Disk Scheduling.md"
               }
             }
           }
@@ -212,10 +212,11 @@
       }
     ]
   },
-  "active": "29e57621c0dc53b6",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Disk Scheduling.md",
+    "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/Disk Scheduling.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
     "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md",
     "Learning/Operating System/Image/Pasted image 20230527175659.png",
@@ -251,7 +252,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Single level Directory.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
     "Learning/Operating System/Theory Parts/Disk Management/Files/File Access Methods.md",
-    "Learning/Operating System/Theory Parts/Disk Management/Files/File concept 2.md",
     "Learning/Operating System/Theory Parts/Disk Management",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation",
     "Learning/Operating System/Theory Parts/Memory Management/Thrashing",

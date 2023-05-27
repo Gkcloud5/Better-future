@@ -10,4 +10,8 @@
 
 #### Seek Time:
 
-* Seek time is the time it take
+* Seek time is the time it takes a hard disk drive to move the read/write head to the correct location on the disk platter to access data.
+* Seek time is one of the factors that determines the overall access time of a hard disk drive.
+
+
+#### Rotational Latency:
