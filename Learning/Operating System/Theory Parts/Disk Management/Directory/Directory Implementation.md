@@ -1,8 +1,8 @@
 #### Source:
-[YT](https://www.youtube.com/watch?v=t8Rs9AbqHUc&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&index=83)
+[YT](https://www.youtube.com/watch?v=-KKj3WF1MFM&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&index=84)
 [JTP](https://www.javatpoint.com/os-directory-implementation)
 
-
+* Mainly we use directory to organize a files
 *  There is the number of algorithm by using which, the directories can be implemented.
 * However, the selection of an appropriate directory implementation algorithm may significantly affect the performance of the system
 * Directory implementation algorithms are classified according to the data structure they are using
@@ -14,6 +14,8 @@
 
 * All the files in directory are maintained as single lined list.
 * Each file contains the pointers to the data blocks which are assigned to it and the next file in the directory.
+* It maintain list of file names with pointers to a data blocks.
+* Files are stored in data blocks of s
 
 ![[Pasted image 20230526200003.png]]
 
