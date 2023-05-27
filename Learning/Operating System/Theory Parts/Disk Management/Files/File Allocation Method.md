@@ -20,3 +20,4 @@
 
 ![[Pasted image 20230527144040.png]]
 
+* It is simply to implement.
