@@ -25,4 +25,13 @@
 ![[Pasted image 20230527174036.png]]
 
 * Here is no wastage of space.
-* 
+* Each block should need contain pointer, it take some extra space in memory
+
+
+#### Grouping:
+
+* Stored address of n-1 free blocks in 1st free block.
+
+#### Counting:
+
+* In addition to next free block pointer, keep a pointer saying how many blocks are continuously free after a free block.
