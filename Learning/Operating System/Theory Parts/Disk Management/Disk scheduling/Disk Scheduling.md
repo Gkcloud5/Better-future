@@ -36,4 +36,14 @@
 
 ### Purpose Disk Scheduling:
 
-* 
+* Main purpose is select a disk request from the queue of IO requests and decide the schedule when this request will be processed.
+
+
+#### Some Algorithm:
+
+* [[FCFS Scheduling algorithm]]
+* SSTF algorithm
+* SCAN scheduling algorithm
+* C-Scan scheduling
+* LOOK scheduling
+* C-Look scheduling
