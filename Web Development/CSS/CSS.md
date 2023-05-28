@@ -36,4 +36,5 @@
 3. [[Media Types]]
 4. [[Dropdown menu]]
 5. [[Image gallery]]
-6. 
+6. [[Responsive form]]
+7. 
