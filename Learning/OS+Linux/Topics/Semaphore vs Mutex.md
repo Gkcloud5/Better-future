@@ -8,3 +8,7 @@
 * Process synchronization in OS refers to the coordination and control mechanisms employed to manage the execution order and access to shared resources among multiple concurrent processes.
 * The need for process synchronization arises when multiple processes or threads access shared resources simultaneously.
 * Process synchronization in OS is like the traffic control system that ensures smooth and safe interaction between processes.
+
+#### 2. Semaphore vs Mutex:
+
+* 
