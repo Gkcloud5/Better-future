@@ -5,4 +5,4 @@
 
 ##### Process synchronization:
 
-* 
+* Process synchronization in OS refers to the coordination and control mechanisms employed to manage the execution order and access to shared resources among multiple concurrent processes.
