@@ -45,5 +45,5 @@
 * [[SSTF algorithm]]
 * [[SCAN scheduling algorithm]]
 * C-Scan scheduling
-* LOOK scheduling
+* [LOOK scheduling](https://www.javatpoint.com/os-look-and-c-look-scheduling)
 * C-Look scheduling
