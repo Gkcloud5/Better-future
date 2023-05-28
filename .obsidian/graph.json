@@ -1,11 +1,11 @@
 {
   "collapse-filter": true,
-  "search": "path:\"Learning/OS+\"",
+  "search": "path:\"Learning/Operating System\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#index",
@@ -20,11 +20,11 @@
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 0.9421875,
   "lineSizeMultiplier": 1.22291666666667,
-  "collapse-forces": true,
-  "centerStrength": 0.333333333333333,
-  "repelStrength": 7.5,
-  "linkStrength": 0,
+  "collapse-forces": false,
+  "centerStrength": 0.307291666666667,
+  "repelStrength": 9.375,
+  "linkStrength": 1,
   "linkDistance": 145,
-  "scale": 0.4551118640183347,
+  "scale": 0.6380590499287098,
   "close": false
 }
