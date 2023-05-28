@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "982c0d6b21c62482",
+        "id": "fb07404c2751f5cd",
         "type": "tabs",
         "children": [
           {
-            "id": "105127d0d7b74237",
+            "id": "992af45fbccca9eb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230528170402.png"
-              }
-            }
-          },
-          {
-            "id": "d190011fc69a8ae1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Learning/Operating System/image_246.png"
+                "file": "Learning/OS+Linux/OS And Linux.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Operating System/image_246.png",
+                "file": "Learning/OS+Linux/OS And Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Operating System/image_246.png",
+                "file": "Learning/OS+Linux/OS And Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Operating System/image_246.png"
+                "file": "Learning/OS+Linux/OS And Linux.md"
               }
             }
           }
@@ -164,11 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d190011fc69a8ae1",
+  "active": "992af45fbccca9eb",
   "lastOpenFiles": [
+    "Learning/OS+Linux/OS And Linux.md",
+    "Learning/OS+Linux",
     "Untitled.md",
     "Learning/Operating System/image_246.png",
-    "Pasted image 20230528170402.png",
+    "Learning/Operating System/Image/Pasted image 20230528170402.png",
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/SCAN scheduling algorithm.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/Disk Scheduling.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
