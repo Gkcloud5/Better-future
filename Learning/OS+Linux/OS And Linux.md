@@ -6,5 +6,4 @@
 #### Topics:
 
 1. [[Semaphore vs Mutex]]
-2. [[Interprocess Communication]]
-3. 
+2. [[Interprocess Communication - OS+Linux]]
