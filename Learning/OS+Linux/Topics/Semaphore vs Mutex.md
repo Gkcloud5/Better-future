@@ -13,10 +13,23 @@
 
 * Hardware Approach
 * Software Approach
-	* 
+	* Semaphore
+	* Mutex
 
 #### 2. Semaphore vs Mutex:
 
 * We need to avoid clashes between process.
 * By using semaphore and mutex we are going to do allocate and release a resource without any collision.
+* Basic difference between both is the way the operation is done
+	* Semaphore is a signaling approach
+	* Mutex is a lock based approach
 
+
+##### 2.1 Semaphore:
+
+* It is all about wait() and signal(). this will indicate if the process is acquiring a resource or releasing a resource.
+
+##### 2.2 Mutex:
+
+*  It is all about locking.
+* Here the process shall acquire lock on the mutex object if the resource has to be acquired

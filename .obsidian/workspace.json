@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "731d50fa1dcf9a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Mutex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "992af45fbccca9eb",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,13 +189,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "b229f5f6aac6fbaa",
   "lastOpenFiles": [
+    "Learning/OS+Linux/OS And Linux.md",
+    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Mutex.md",
+    "Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
     "Learning/OS+Linux/Topics",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
-    "Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
-    "Learning/OS+Linux/OS And Linux.md",
     "Learning/OS+Linux/Image",
     "Learning/OS+Linux",
     "Untitled.md",
