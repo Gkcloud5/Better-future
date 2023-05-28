@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/OS+Linux/Semaphore vs Mutex.md",
+                "file": "Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/OS+Linux/Semaphore vs Mutex.md",
+                "file": "Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/OS+Linux/Semaphore vs Mutex.md",
+                "file": "Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/OS+Linux/Semaphore vs Mutex.md"
+                "file": "Learning/OS+Linux/Topics/Semaphore vs Mutex.md"
               }
             }
           }
@@ -177,11 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b229f5f6aac6fbaa",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/OS+Linux/Topics",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
-    "Learning/OS+Linux/Semaphore vs Mutex.md",
+    "Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
     "Learning/OS+Linux/OS And Linux.md",
     "Learning/OS+Linux/Image",
     "Learning/OS+Linux",
@@ -217,7 +218,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
     "Learning/Operating System/OS.md",
     "Communication/Words and meaning/Words meaning.md",
-    "Learning/Operating System/Theory Parts/Disk Management/Files/File system structure.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files",
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
     "Learning/Operating System/Theory Parts/Disk Management",
