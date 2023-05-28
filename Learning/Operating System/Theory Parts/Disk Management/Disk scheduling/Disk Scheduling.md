@@ -42,7 +42,7 @@
 #### Some Algorithm:
 
 * [[FCFS Scheduling algorithm]]
-* SSTF algorithm
+* [[SSTF algorithm]]
 * SCAN scheduling algorithm
 * C-Scan scheduling
 * LOOK scheduling

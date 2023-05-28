@@ -8,3 +8,6 @@
 
 ![[Pasted image 20230528150219.png]]
 
+![[Pasted image 20230528165023.png]]
+
+![[Pasted image 20230528165034.png]]
