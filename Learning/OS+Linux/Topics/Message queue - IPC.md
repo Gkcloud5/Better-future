@@ -5,4 +5,6 @@
 
 #### What is message queue:
 
+* It is a one of the mechanism use to do Interprocess communication
+* Messages are stored in a queue, and processes can send and receive messages from queue.
 * 
