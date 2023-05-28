@@ -32,11 +32,14 @@
 	* Binary
 	* Counting
 * Multiple program threads can access a finite instance of resources.
-* 
+* Semaphore value can be updated by any process.
+* It waits, until the resource count increase
+
 ##### 2.2 Mutex:
 
 *  It is all about locking.
 * Here the process shall acquire lock on the mutex object if the resource has to be acquired
 * It is an object
 * Mutex allow multiple program threads to access a single resource, but, with a restriction of not accessing simultaneously.
-* 
+* Only process which acquired lock can update a value.
+* It waits until the lock is released.
