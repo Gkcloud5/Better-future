@@ -28,8 +28,15 @@
 ##### 2.1 Semaphore:
 
 * It is all about wait() and signal(). this will indicate if the process is acquiring a resource or releasing a resource.
-
+* It is a integer
+	* Binary
+	* Counting
+* Multiple program threads can access a finite instance of resources.
+* 
 ##### 2.2 Mutex:
 
 *  It is all about locking.
 * Here the process shall acquire lock on the mutex object if the resource has to be acquired
+* It is an object
+* Mutex allow multiple program threads to access a single resource, but, with a restriction of not accessing simultaneously.
+* 
