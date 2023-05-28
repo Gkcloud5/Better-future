@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "731d50fa1dcf9a45",
+            "id": "6fb4d489435057df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Mutex.md",
+                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -191,12 +190,12 @@
   },
   "active": "8547fbb36b8c5a79",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
     "Learning/OS+Linux/Topics/Message queue - IPC.md",
     "Learning/OS+Linux/OS And Linux.md",
     "Learning/OS+Linux/Topics/Interprocess Communication - OS+Linux.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
     "Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Mutex.md",
     "Learning/Programming/Python/Problem solving/List comprehension/List Comprehensions - 1.md",
