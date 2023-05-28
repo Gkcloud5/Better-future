@@ -9,6 +9,8 @@
 * The need for process synchronization arises when multiple processes or threads access shared resources simultaneously.
 * Process synchronization in OS is like the traffic control system that ensures smooth and safe interaction between processes.
 
-#### What is Interprocess Communication:
+#### 2. What is Interprocess Communication:
 
-* Interprocess communication technique and 
+* Interprocess communication technique and mechanism used by the process running on same system or across network to exchange data, share resources and coordinate their activities.
+* It allows process to communicate with each other.
+
