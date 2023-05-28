@@ -43,3 +43,4 @@
 * Mutex allow multiple program threads to access a single resource, but, with a restriction of not accessing simultaneously.
 * Only process which acquired lock can update a value.
 * It waits until the lock is released.
+* 
