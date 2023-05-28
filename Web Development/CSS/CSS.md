@@ -35,4 +35,5 @@
 2. [[Text and Image Effect]]
 3. [[Media Types]]
 4. [[Dropdown menu]]
-5. 
+5. [[Image gallery]]
+6. 
