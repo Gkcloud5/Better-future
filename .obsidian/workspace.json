@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
+                "file": "Learning/Programming/Python/Problem solving/List comprehension/List Comprehensions - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
+                "file": "Learning/Programming/Python/Problem solving/List comprehension/List Comprehensions - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md"
+                "file": "Learning/Programming/Python/Problem solving/List comprehension/List Comprehensions - 1.md"
               }
             }
           }
@@ -201,8 +201,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "b229f5f6aac6fbaa",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
     "Learning/Programming/Python/Problem solving/List comprehension/List Comprehensions - 1.md",
     "Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
     "Learning/Programming/Python/Problem solving/List comprehension",
@@ -243,7 +244,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Files/File System Implementation.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory Implementation.md",
     "Learning/Operating System/Theory Parts/Disk Management/Directory/Directory structure.md",
-    "Learning/Operating System/OS.md",
     "Learning/Operating System/Theory Parts/Disk Management/Files",
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
     "Learning/Operating System/Theory Parts/Disk Management",
