@@ -43,4 +43,13 @@
 * Mutex allow multiple program threads to access a single resource, but, with a restriction of not accessing simultaneously.
 * Only process which acquired lock can update a value.
 * It waits until the lock is released.
-* 
+
+
+#### Mutual Exclusion:
+
+* Only one process at a time can gain access to the resource.
+
+
+* **When many resources are available, semaphore is preferred.**
+* **If there is only one shared resource in place, Mutex is preferred.**
+
