@@ -20,12 +20,48 @@
             }
           },
           {
-            "id": "4cd395bb7ccc7fa1",
+            "id": "afefb8b74dea27ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/OS+Linux/Topics/Shared Memory - OS_Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1753cd367c713d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0c8108aa3484c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Learning/OS+Linux/Topics/Create a child process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "802182093073f635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/OS+Linux/Topics/Daemons in Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/OS+Linux/OS And Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/OS+Linux/OS And Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/OS+Linux/OS And Linux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -176,14 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7017fe92641af75b",
+  "active": "57a5f1f56a1048a6",
   "lastOpenFiles": [
+    "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
+    "Learning/OS+Linux/Topics/Shared Memory - OS_Linux.md",
+    "Learning/OS+Linux/OS And Linux.md",
     "Learning/OS+Linux/Topics/Create a child process.md",
+    "Learning/OS+Linux/Topics/Daemons in Linux.md",
     "Learning/OS+Linux/Image/Pasted image 20230529183025.png",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
-    "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
-    "Learning/OS+Linux/OS And Linux.md",
-    "Learning/OS+Linux/Topics/Shared Memory - OS_Linux.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
     "Learning/OS+Linux/Topics/Message queue - IPC.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",

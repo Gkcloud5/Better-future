@@ -1,3 +1,5 @@
+**Process Synchronization** --> **Interprocess Communication** --> **Shared Memory**
+
 #### Source:
 [YT](https://www.youtube.com/watch?v=pdkGTYyvbPQ&list=PL3uLubnzL2Tlbyrr2GFVRE7Azo8FJe-dJ&index=5)
 
