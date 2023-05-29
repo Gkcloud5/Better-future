@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Signals in linux.md",
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signals in linux.md",
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signals in linux.md",
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Signals in linux.md"
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md"
               }
             }
           }
@@ -191,7 +191,10 @@
   },
   "active": "c96cd78d13738932",
   "lastOpenFiles": [
+    "Learning/Pasted image 20230529194208.png",
     "Signals in linux.md",
+    "Learning/Programming/Python/Problem solving/List/List - 1.md",
+    "Learning/Programming/Python/Problem solving/List",
     "Spinlock.md",
     "Diff between Spinlock and Mutex.md",
     "Learning/OS+Linux/OS And Linux.md",
@@ -219,8 +222,6 @@
     "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
     "Learning/Programming/Python/Problem solving/List comprehension",
     "Learning/OS+Linux/Topics",
-    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization intro.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/OS+Linux/Image",
     "Learning/OS+Linux",
     "Learning/Operating System/image_246.png",
@@ -236,7 +237,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
     "Learning/Operating System/Theory Parts/Disk Management",
     "Learning/Operating System/Theory Parts/Memory Management/Kernel Memory Allocation",
-    "Learning/Operating System/Theory Parts/Memory Management/Thrashing",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
