@@ -11,4 +11,13 @@
 
 #### Approaches for creating a child process:
 
-* Two A
+* Two Approaches
+	* By using **fork** system call
+	* By using **spawn** system call
+
+##### Fork system call:
+
+* Most of the features of the parent process come into its child process.
+* For example,
+	* File descriptors come into subprocess from its parent
+* In the unix system, a child process is referred to as the copy of its parent, using the fork system call.
