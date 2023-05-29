@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create a child process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30d9128fd4421c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sockets - OS+Linux.md",
+                "file": "Learning/OS+Linux/Topics/Create a child process.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create a child process.md",
+                "file": "Learning/OS+Linux/Topics/Create a child process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Create a child process.md",
+                "file": "Learning/OS+Linux/Topics/Create a child process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create a child process.md"
+                "file": "Learning/OS+Linux/Topics/Create a child process.md"
               }
             }
           }
@@ -203,11 +191,11 @@
   },
   "active": "4cd395bb7ccc7fa1",
   "lastOpenFiles": [
+    "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
     "Learning/OS+Linux/OS And Linux.md",
-    "Create a child process.md",
-    "Sockets - OS+Linux.md",
+    "Learning/OS+Linux/Topics/Create a child process.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
-    "Shared Memory - OS_Linux.md",
+    "Learning/OS+Linux/Topics/Shared Memory - OS_Linux.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
     "Learning/OS+Linux/Topics/Message queue - IPC.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
