@@ -9,4 +9,6 @@
 2. [[Interprocess Communication - OS+Linux]]
 3. [[Message queue - IPC]]
 4. [[Shared Memory - OS_Linux]]
-5. 
+5. [[Sockets - OS+Linux]]
+6. 
+7. 

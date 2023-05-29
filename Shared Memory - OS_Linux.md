@@ -6,4 +6,5 @@
 
 * Shared memory is a memory area that is accessible by multiple processes. 
 * It is a form of inter-process communication that allow processes to share data and communicate with each other without having to use a third party mechanism, such as a message queue or a file.
+* [[Shared Memory]]
 * 
