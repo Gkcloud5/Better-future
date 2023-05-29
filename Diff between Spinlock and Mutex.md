@@ -7,6 +7,8 @@
 #### Differences:
 
 * Both are used to avoid critical section problem by using lock method
-	* But mutex is sleeping lock
+	* But mutex is **sleeping** lock
 		* We are not using while loop here
-	* Spinlo
+	* Spinlock is a **busy lock**
+		* Because it continually check if critical section is available or not
+* Mutex requires [[Context switching]]

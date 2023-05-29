@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "9f11d1377c0c6fad",
+            "id": "c96cd78d13738932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diff between Spinlock and Mutex.md",
+                "file": "Signals in linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diff between Spinlock and Mutex.md",
+                "file": "Signals in linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diff between Spinlock and Mutex.md",
+                "file": "Signals in linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diff between Spinlock and Mutex.md"
+                "file": "Signals in linux.md"
               }
             }
           }
@@ -189,8 +189,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f11d1377c0c6fad",
+  "active": "c96cd78d13738932",
   "lastOpenFiles": [
+    "Signals in linux.md",
     "Spinlock.md",
     "Diff between Spinlock and Mutex.md",
     "Learning/OS+Linux/OS And Linux.md",
@@ -222,7 +223,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/Process Synchronization.md",
     "Learning/OS+Linux/Image",
     "Learning/OS+Linux",
-    "Untitled.md",
     "Learning/Operating System/image_246.png",
     "Learning/Operating System/Image/Pasted image 20230528170402.png",
     "Learning/Operating System/Image/Pasted image 20230528165722.png",
