@@ -10,5 +10,5 @@
 * [[Message Passing]]
 * We are using 3 different system call for send message
 	* msgsnd --> Will initialize queue
-	* msgrcv --> will be used to re
-	* mesgctl
+	* msgrcv --> will be used to receive the messages
+	* mesgctl --> will be used for administrative privileges.

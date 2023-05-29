@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:\"Learning/Operating System\"",
+  "search": "path:Learning/OS+Linux",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -20,11 +20,11 @@
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 0.9421875,
   "lineSizeMultiplier": 1.22291666666667,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.307291666666667,
   "repelStrength": 9.375,
   "linkStrength": 1,
   "linkDistance": 145,
-  "scale": 0.4474876162798804,
+  "scale": 0.6735032680811872,
   "close": false
 }
