@@ -21,3 +21,9 @@
 * For example,
 	* File descriptors come into subprocess from its parent
 * In the unix system, a child process is referred to as the copy of its parent, using the fork system call.
+* After the child process has created, it can be laminated with a different program(using exec system call) as per the requirement.
+
+##### By using the spawn:
+
+* Spawn is a method by which we can load and execute a new child process. currently, the running process can wait for the subprocess bring to an end or it can continue on its job.
+* Any process that is n
