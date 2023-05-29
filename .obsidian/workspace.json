@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/OS+Linux/Topics/Create a child process.md",
+                "file": "Learning/OS+Linux/OS And Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/OS+Linux/Topics/Create a child process.md",
+                "file": "Learning/OS+Linux/OS And Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/OS+Linux/Topics/Create a child process.md"
+                "file": "Learning/OS+Linux/OS And Linux.md"
               }
             }
           }
@@ -177,10 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cd395bb7ccc7fa1",
+  "active": "7017fe92641af75b",
   "lastOpenFiles": [
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
     "Learning/OS+Linux/Topics/Create a child process.md",
+    "Learning/OS+Linux/Image/Pasted image 20230529183025.png",
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
     "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
     "Learning/OS+Linux/OS And Linux.md",
     "Learning/OS+Linux/Topics/Shared Memory - OS_Linux.md",
@@ -210,7 +210,6 @@
     "Learning/Operating System/Image/Pasted image 20230528170402.png",
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/SCAN scheduling algorithm.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/Disk Scheduling.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Operating System/Image/Pasted image 20230528165722.png",
     "Learning/Operating System/Image/Pasted image 20230528165034.png",
     "Learning/Operating System/Image/Pasted image 20230528165023.png",
@@ -219,7 +218,6 @@
     "Learning/Operating System/Image/Pasted image 20230527175659.png",
     "Learning/Operating System/Image/Pasted image 20230527174833.png",
     "Learning/Operating System/Image/Pasted image 20230527174036.png",
-    "Learning/Operating System/Image/Pasted image 20230527173802.png",
     "Learning/Operating System/Theory Parts/Disk Management/Files",
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
     "Learning/Operating System/Theory Parts/Disk Management",

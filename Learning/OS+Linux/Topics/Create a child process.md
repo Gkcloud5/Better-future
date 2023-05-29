@@ -39,7 +39,10 @@
 
 * When child process ends up its execution or terminates, some data is go back to its parent process.
 * **Zombie:**
-	* A zombie process is a process that has completed execution b
+	* A zombie process is a process that has completed execution but still has an entry in the process table. this occurs for a child process.
+	* as the parent process still needs to read its child exit status. once this is done using the **wait()** system call, then the zombie process is eliminated from the process table.
+
+![[Pasted image 20230529183025.png]]
 
 
 
