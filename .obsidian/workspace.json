@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "802182093073f635",
+            "id": "57b2bf0ee16bf14c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/OS+Linux/Topics/Daemons in Linux.md",
+                "file": "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e262f20bfafb17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spinlock.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/OS+Linux/Topics/Daemons in Linux.md",
+                "file": "Spinlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/OS+Linux/Topics/Daemons in Linux.md",
+                "file": "Spinlock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/OS+Linux/Topics/Daemons in Linux.md"
+                "file": "Spinlock.md"
               }
             }
           }
@@ -177,13 +189,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "802182093073f635",
+  "active": "4e262f20bfafb17c",
   "lastOpenFiles": [
+    "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
     "Learning/OS+Linux/OS And Linux.md",
+    "Spinlock.md",
+    "Learning/OS+Linux/Topics/Daemons in Linux.md",
     "Learning/OS+Linux/Topics/Shared Memory - OS_Linux.md",
     "Learning/OS+Linux/Topics/Create a child process.md",
-    "Learning/OS+Linux/Topics/Daemons in Linux.md",
-    "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
     "Learning/OS+Linux/Image/Pasted image 20230529183025.png",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
@@ -211,7 +224,6 @@
     "Learning/Operating System/image_246.png",
     "Learning/Operating System/Image/Pasted image 20230528170402.png",
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/SCAN scheduling algorithm.md",
-    "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling/Disk Scheduling.md",
     "Learning/Operating System/Image/Pasted image 20230528165722.png",
     "Learning/Operating System/Image/Pasted image 20230528165034.png",
     "Learning/Operating System/Image/Pasted image 20230528165023.png",

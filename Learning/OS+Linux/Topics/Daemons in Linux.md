@@ -14,4 +14,5 @@
 
 #### Example of daemon process:
 
-* httpd 
+* httpd -- Apache HTTP server daemon
+* sshd -- SSH server daemon
