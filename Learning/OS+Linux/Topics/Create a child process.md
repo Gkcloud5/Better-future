@@ -30,4 +30,6 @@
 
 #### Limitation to create child process:
 
-* 
+* Each process can create many sub processes but each and every process must have parent process
+	* If process does not have a parent process so this indicates it was directly created by the kernel
+* Some process which has no parent may be created to carry out various daemon ta
