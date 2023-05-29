@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/OS+Linux/Topics/Signals in linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/OS+Linux/Topics/Signals in linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/OS+Linux/Topics/Signals in linux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -189,11 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffb5cb28073c523c",
+  "active": "57a5f1f56a1048a6",
   "lastOpenFiles": [
-    "Learning/OS+Linux/OS And Linux.md",
     "Learning/OS+Linux/Topics/Signals in linux.md",
     "Learning/OS+Linux/Topics/Spinlock.md",
+    "Learning/OS+Linux/OS And Linux.md",
     "Learning/OS+Linux/Image/Pasted image 20230529185502.png",
     "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/Programming/Python/Images/Pasted image 20230529194208.png",

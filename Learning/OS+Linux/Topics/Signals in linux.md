@@ -5,4 +5,5 @@
 
 * In OS, signals are a form of inter-process communication that allows processes or threads to send notifications to each other.
 * They are used to handle various events or exceptional conditions that occur during program execution.
-* Signals are used to inform a process about events such as the termination of another process, user interupt, hardware
+* Signals are used to inform a process about events such as the termination of another process, user interrupt, hardware exceptions, or  specific conditions like segmentation fault.
+	* When a signal is sent to a process, the OS interrupts the normal flow of  execution and delivers the signal to the target process.
