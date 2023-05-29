@@ -26,4 +26,8 @@
 ##### By using the spawn:
 
 * Spawn is a method by which we can load and execute a new child process. currently, the running process can wait for the subprocess bring to an end or it can continue on its job.
-* Any process that is n
+* Any process that is new to the system it requires sufficient memory space that's why parent and its subprocess can execute without any interruption.
+
+#### Limitation to create child process:
+
+* 
