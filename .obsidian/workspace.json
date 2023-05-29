@@ -38,18 +38,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "fbb1f03144131e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -191,10 +179,10 @@
   },
   "active": "4cd395bb7ccc7fa1",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
+    "Learning/OS+Linux/Topics/Create a child process.md",
     "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
     "Learning/OS+Linux/OS And Linux.md",
-    "Learning/OS+Linux/Topics/Create a child process.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
     "Learning/OS+Linux/Topics/Shared Memory - OS_Linux.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
     "Learning/OS+Linux/Topics/Message queue - IPC.md",
