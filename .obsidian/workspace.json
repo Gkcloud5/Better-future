@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Shared Memory - OS_Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Shared Memory - OS_Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Shared Memory - OS_Linux.md"
+              }
             }
           }
         ]
@@ -185,10 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57a5f1f56a1048a6",
+  "active": "01cc40162e8bdf42",
   "lastOpenFiles": [
-    "Shared Memory - OS_Linux.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
+    "Shared Memory - OS_Linux.md",
     "Learning/OS+Linux/OS And Linux.md",
     "Learning/OS+Linux/Topics/Message queue - IPC.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
