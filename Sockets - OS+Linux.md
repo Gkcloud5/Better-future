@@ -8,4 +8,13 @@
 	* Client sends a message
 	* Receiver receive a message
 * If we handle a file, we remember to
-	* Pass the file descrip
+	* Pass the file descriptor
+	* Address(&)
+	* sizeof
+* In socket, we need to pass
+	* Protocol
+	* server IP address
+	* port number
+	* client IP address
+	* sizeof
+*  [[Sockets]]
