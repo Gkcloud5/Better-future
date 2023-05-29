@@ -7,3 +7,5 @@
 * Socket is a simple communication end point, which can be used to send and receive message.
 	* Client sends a message
 	* Receiver receive a message
+* If we handle a file, we remember to
+	* Pass the file descrip
