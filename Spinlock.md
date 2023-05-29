@@ -1,4 +1,4 @@
-**Process synchronization** --> **Critical section **
+**Process synchronization** --> **Critical Section Problem**
 
 #### Source:
 [YT](https://www.youtube.com/watch?v=XKBjwQQJ0qk&list=PL3uLubnzL2Tlbyrr2GFVRE7Azo8FJe-dJ&index=9)
@@ -11,4 +11,6 @@
 ![[Pasted image 20230529185502.png]]
 
 * Since the thread remains active but is not performing a useful task, the use of such a lock is a kind of busy waiting.(Busy for waiting)
-* 
+* One of the oldest solution to solve critical section problem.
+
+[[Diff between Spinlock and Mutex]]

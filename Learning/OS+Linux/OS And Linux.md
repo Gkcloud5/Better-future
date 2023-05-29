@@ -15,5 +15,6 @@
 6. [[Create a child process]]
 7. [[Daemons in Linux]]
 8. [[Spinlock]]
-9. 
+9. [[Diff between Spinlock and Mutex]]
 10. 
+11. 

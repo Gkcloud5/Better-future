@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "57b2bf0ee16bf14c",
+            "id": "9f11d1377c0c6fad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
+                "file": "Diff between Spinlock and Mutex.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spinlock.md",
+                "file": "Diff between Spinlock and Mutex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spinlock.md",
+                "file": "Diff between Spinlock and Mutex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spinlock.md"
+                "file": "Diff between Spinlock and Mutex.md"
               }
             }
           }
@@ -189,12 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e262f20bfafb17c",
+  "active": "9f11d1377c0c6fad",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230529185502.png",
-    "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
-    "Learning/OS+Linux/OS And Linux.md",
     "Spinlock.md",
+    "Diff between Spinlock and Mutex.md",
+    "Learning/OS+Linux/OS And Linux.md",
+    "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
+    "Learning/Pasted image 20230529185502.png",
     "Learning/OS+Linux/Topics/Daemons in Linux.md",
     "Learning/OS+Linux/Topics/Shared Memory - OS_Linux.md",
     "Learning/OS+Linux/Topics/Create a child process.md",
@@ -231,7 +232,6 @@
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling",
     "Learning/Operating System/Image/Pasted image 20230527175659.png",
     "Learning/Operating System/Image/Pasted image 20230527174833.png",
-    "Learning/Operating System/Image/Pasted image 20230527174036.png",
     "Learning/Operating System/Theory Parts/Disk Management/Files",
     "Learning/Operating System/Theory Parts/Disk Management/Directory",
     "Learning/Operating System/Theory Parts/Disk Management",
