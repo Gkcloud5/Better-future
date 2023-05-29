@@ -52,3 +52,16 @@ list_new = list_runner(arr)
 print(list_new)
 ```
 
+#### Solution 3:(Using special methods in language)
+
+```python
+n = int(input())
+arr = map(int, input().split())
+
+
+#set will help to remove duplicate
+
+score_list = list(set(arr))
+print (score_list)
+print (score_list[(len(score_list)-2)])
+```
