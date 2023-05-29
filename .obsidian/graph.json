@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:Learning/OS+Linux",
+  "search": "path:\"Learning/Operating System\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 9.375,
   "linkStrength": 1,
   "linkDistance": 145,
-  "scale": 0.6735032680811872,
+  "scale": 0.3335146061125273,
   "close": false
 }
