@@ -1,4 +1,4 @@
-**Process Synchronization** --> **Interprocess Communication** --> **Shared Memory**
+**Process Synchronization** --> **Interprocess Communication** --> **Message Passing** --> **Socket**
 
 #### Source:
 [YT](https://www.youtube.com/watch?v=pdkGTYyvbPQ&list=PL3uLubnzL2Tlbyrr2GFVRE7Azo8FJe-dJ&index=5)
