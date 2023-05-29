@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Responsive form.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Responsive form.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Responsive form.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Responsive form.md"
+                "file": "Learning/Programming/Python/Index of Python.md"
               }
             }
           }
@@ -171,11 +170,12 @@
   },
   "active": "24fa57c1982ec435",
   "lastOpenFiles": [
-    "Web Development/CSS/CSS.md",
-    "Responsive form.md",
-    "Image gallery.md",
-    "Learning/OS+Linux/Topics/Message queue - IPC.md",
     "Learning/OS+Linux/OS And Linux.md",
+    "Web Development/CSS/CSS.md",
+    "Web Development/HTML/HTML.md",
+    "Web Development/CSS/Fundamentals/Responsive form.md",
+    "Web Development/CSS/Fundamentals/Image gallery.md",
+    "Learning/OS+Linux/Topics/Message queue - IPC.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
     "Learning/OS+Linux/Topics/Interprocess Communication - OS+Linux.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
@@ -207,7 +207,6 @@
     "Web Development/CSS/Fundamentals/Text and Image Effect.md",
     "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling",
     "Learning/Operating System/Theory Parts/Disk Management/Disk Management.md",
-    "Learning/Operating System/Theory Parts/Disk Management/Storage Structure.md",
     "Learning/Operating System/Image/Pasted image 20230527175659.png",
     "Learning/Operating System/Image/Pasted image 20230527174833.png",
     "Learning/Operating System/Image/Pasted image 20230527174036.png",
