@@ -60,4 +60,8 @@
 
 #### Simple explanation:
 
-* Linux is OS same like windows OS, by using linux O
+* Linux is OS same like windows OS, by using linux we can control computer hardware. 
+* linux is free and open source
+* linux os take minimum amount of space in main memory so that user can use more space
+* Linux concepts are make linux more stronger and make user usage easily.
+* Linux have lot's of distro, we can select it as per we requirement.

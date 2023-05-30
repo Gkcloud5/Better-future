@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa05c87dd508b9c0",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Linux/Images",
     "Learning/Linux/Linux Index.md",
     "Learning/Linux/About Linux OS.md",
     "Learning/Operating System/OS Topics.md",
@@ -207,7 +208,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
     "Learning/OS+Linux/Topics/Message queue - IPC.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
-    "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Problem solving/List/List comprehension",
     "Learning/OS+Linux/Topics",
     "Learning/OS+Linux/Image",
