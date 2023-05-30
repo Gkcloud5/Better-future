@@ -28,7 +28,7 @@
 * Secure:
 	* It's more secure, it is resistant to viruses and other malware
 
-#### Concept:
+#### Concepts:
 
 * Linux key feature is **Kernel**
 	* Kernel manages the system's resources, handle communication between software and hardware components and provides various services to applications.
@@ -51,3 +51,13 @@
 		* yum
 		* apt
 * Linux follows a standard **file system** hierarchy that organizes files and directories in a specific manner
+* Linux has a robust **Permission** system that provides fine-grained control over file access and execution
+	* Linux supports multiple user accounts and system administrator can manage user access and permissions.
+* **Networking and Security:**
+	* Linux support various network protocols, including TCP/IP
+	* It provides tools and services for networking configurations and operations.
+
+
+#### Simple explanation:
+
+* Linux is OS same like windows OS, by using linux O

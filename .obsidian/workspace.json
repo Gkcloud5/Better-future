@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Linux Index.md",
+                "file": "Learning/Linux/About Linux OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Linux Index.md",
+                "file": "Learning/Linux/About Linux OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Linux Index.md"
+                "file": "Learning/Linux/About Linux OS.md"
               }
             }
           }
@@ -167,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3272cecd841d369",
+  "active": "fa05c87dd508b9c0",
   "lastOpenFiles": [
-    "Learning/Linux/About Linux OS.md",
     "Learning/Linux/Linux Index.md",
+    "Learning/Linux/About Linux OS.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
     "Learning/OS+Linux/OS And Linux.md",
