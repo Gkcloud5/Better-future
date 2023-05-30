@@ -20,5 +20,3 @@
 11. [[Linux Threads]]
 12. [[Terminal vs console vs shell]]
 13. [[About Process - Linux + OS]]
-14. 
-15. 
