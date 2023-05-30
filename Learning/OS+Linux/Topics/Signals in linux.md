@@ -9,3 +9,11 @@
 	* When a signal is sent to a process, the OS interrupts the normal flow of  execution and delivers the signal to the target process.
 * list of signals `kill -l`
 * A signal in linux is a notification sent to a process to indicate that an important event has occurred.
+* Signal can be sent by the kernel, by other processes or by the process itself.
+
+
+##### Actions:
+
+* When a process receives a signal, it can take one of several actions
+	* Ignore the signal
+	* Handle the sign
