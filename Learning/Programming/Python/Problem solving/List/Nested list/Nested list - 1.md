@@ -62,7 +62,7 @@ for x in range(0, len(second_grade)):
 
 #### Solution 2: (Chat GPT solution)
 
-```
+```python
 students = []
 if __name__ == '__main__':
     for _ in range(int(input())):
@@ -86,3 +86,4 @@ students_with_second_lowest_grade = sorted(students_with_second_lowest_grade)
 for student_name in students_with_second_lowest_grade:
     print(student_name)
 ```
+
