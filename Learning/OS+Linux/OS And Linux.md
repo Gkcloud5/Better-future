@@ -18,5 +18,6 @@
 9. [[Diff between Spinlock and Mutex]]
 10. [[Signals in linux]]
 11. [[Linux Threads]]
-12. 
+12. [[Terminal vs console vs shell]]
 13. 
+14. 

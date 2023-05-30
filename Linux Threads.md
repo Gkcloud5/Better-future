@@ -1,3 +1,5 @@
+**Process** --> **Threads**
+
 #### Source:
 [YT](https://www.youtube.com/watch?v=ZXW-iVivWF4&list=PL3uLubnzL2Tlbyrr2GFVRE7Azo8FJe-dJ&index=12)
 

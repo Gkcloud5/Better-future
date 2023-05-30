@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "8158a0d63aa9efd5",
+            "id": "0705a14719be83ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Threads.md",
+                "file": "Learning/OS+Linux/Topics/Signals in linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6cc8ce82cdd240b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminal vs console vs shell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Threads.md",
+                "file": "Terminal vs console vs shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Threads.md",
+                "file": "Terminal vs console vs shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Threads.md"
+                "file": "Terminal vs console vs shell.md"
               }
             }
           }
@@ -169,11 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8158a0d63aa9efd5",
+  "active": "d6cc8ce82cdd240b",
   "lastOpenFiles": [
-    "Learning/OS+Linux/OS And Linux.md",
     "Linux Threads.md",
+    "Terminal vs console vs shell.md",
     "Learning/OS+Linux/Topics/Signals in linux.md",
+    "Learning/OS+Linux/OS And Linux.md",
     "Development/HTML/Practise/Images/32PRLI301467_idcard.pdf",
     "Development/HTML/Practise/Images/Unconfirmed 342246.crdownload",
     "Web Development/CSS/Fundamentals/Responsive form.md",
@@ -202,7 +215,6 @@
     "Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
     "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Mutex.md",
     "Learning/Programming/Python/Problem solving/List comprehension/List Comprehensions - 1.md",
-    "Learning/Programming/Python/Practice/Advanced/List Comprehensions.md",
     "Learning/Programming/Python/Problem solving/List comprehension",
     "Learning/OS+Linux/Topics",
     "Learning/OS+Linux/Image",
