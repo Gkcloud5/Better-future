@@ -5,4 +5,4 @@
 * terminal = tty= text input and output environment
 	* It refers to a command line interface that allows users to interact with OS
 * console = Physical machine ==> 
-* Shell ==> command line inter
+* Shell ==> command line interpreter
