@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "fa05c87dd508b9c0",
+            "id": "4f7eae01ed4fb62d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/About Linux OS.md",
+                "file": "Learning/Linux/Basics/Linux distro.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/About Linux OS.md",
+                "file": "Learning/Linux/Basics/Linux distro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/About Linux OS.md",
+                "file": "Learning/Linux/Basics/Linux distro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/About Linux OS.md"
+                "file": "Learning/Linux/Basics/Linux distro.md"
               }
             }
           }
@@ -168,11 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "4f7eae01ed4fb62d",
   "lastOpenFiles": [
-    "Learning/Linux/Images",
     "Learning/Linux/Linux Index.md",
-    "Learning/Linux/About Linux OS.md",
+    "Learning/Linux/Basics/Linux distro.md",
+    "Learning/Linux/Basics",
+    "Learning/Linux/Basics/About Linux OS.md",
+    "Learning/Linux/Images/Pasted image 20230530224752.png",
+    "Learning/Linux/Images",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
     "Learning/OS+Linux/OS And Linux.md",
@@ -207,15 +210,11 @@
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Sockets.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Shared Memory.md",
     "Learning/OS+Linux/Topics/Message queue - IPC.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/IPC/Message Passing.md",
     "Learning/Programming/Python/Problem solving/List/List comprehension",
     "Learning/OS+Linux/Topics",
     "Learning/OS+Linux/Image",
-    "Learning/OS+Linux",
     "Learning/Operating System/image_246.png",
     "Learning/Operating System/Image/Pasted image 20230528170402.png",
-    "Learning/Operating System/Image/Pasted image 20230528165722.png",
-    "Learning/Operating System/Theory Parts/Disk Management/Disk scheduling",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]

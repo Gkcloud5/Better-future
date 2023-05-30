@@ -65,3 +65,8 @@
 * linux os take minimum amount of space in main memory so that user can use more space
 * Linux concepts are make linux more stronger and make user usage easily.
 * Linux have lot's of distro, we can select it as per we requirement.
+
+
+#### Image related to linux:
+
+![[Pasted image 20230530224752.png]]
