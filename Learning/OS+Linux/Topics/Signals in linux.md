@@ -16,4 +16,7 @@
 
 * When a process receives a signal, it can take one of several actions
 	* Ignore the signal
-	* Handle the sign
+	* Handle the signal by calling a signal handler function
+	* Terminate
+
+3u
