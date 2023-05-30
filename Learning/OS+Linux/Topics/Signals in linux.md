@@ -18,5 +18,3 @@
 	* Ignore the signal
 	* Handle the signal by calling a signal handler function
 	* Terminate
-
-3u
