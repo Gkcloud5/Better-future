@@ -10,6 +10,9 @@
 
 ![[Pasted image 20230530210111.png]]
 
+#### Sample Input:
+
+![[Pasted image 20230530215928.png]]
 
 #### Solution 1: (By using for loop and if condition)
 
@@ -57,8 +60,29 @@ for x in range(0, len(second_grade)):
 ```
 
 
-#### Solution 2: (By using calling function)
+#### Solution 2: (Chat GPT solution)
 
 ```
+students = []
+if __name__ == '__main__':
+    for _ in range(int(input())):
+        name = input()
+        score = float(input())
+        students.append([name, score])
 
+# Find the second lowest grade
+grades = set([student[1] for student in students])
+second_lowest_grade = sorted(grades)[1]
+
+
+# Get the names of students with the second lowest grade
+students_with_second_lowest_grade = [student[0] for student in students if student[1] == second_lowest_grade]
+
+
+students_with_second_lowest_grade = sorted(students_with_second_lowest_grade)
+
+
+# Print the names of students with the second lowest grade
+for student_name in students_with_second_lowest_grade:
+    print(student_name)
 ```
