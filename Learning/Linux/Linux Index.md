@@ -33,4 +33,16 @@
 
 #### Concept:
 
-* Linux key feature is **
+* Linux key feature is **Kernel**
+	* Kernel manages the system's resources, handle communication between software and hardware components and provides various services to applications.
+* **Distributions:**
+	* Linux is distributed in various flavors or distributions, often referred to as "distros".
+	* Examples
+		* Ubuntu
+		* Fedora
+		* Debian
+		* Centos
+* **CLI:**
+	* Command line interface - Linux offers CLI
+		* Where users can interact with the system by typing commands.
+		* It provide extensive control over the system by typing
