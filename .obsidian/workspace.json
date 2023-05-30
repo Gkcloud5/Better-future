@@ -171,6 +171,7 @@
   },
   "active": "04be7b9857228531",
   "lastOpenFiles": [
+    "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
     "Learning/OS+Linux/OS And Linux.md",
     "About Process - Linux + OS.md",
     "Terminal vs console vs shell.md",
@@ -202,7 +203,6 @@
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Interprocess Communication.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Communication in client and server architecture.md",
     "Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
-    "Learning/Operating System/Theory Parts/Process synchronization/Critical section/Mutex.md",
     "Learning/Programming/Python/Problem solving/List comprehension",
     "Learning/OS+Linux/Topics",
     "Learning/OS+Linux/Image",
