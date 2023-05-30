@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
+                "file": "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
+                "file": "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md"
+                "file": "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md"
               }
             }
           }
@@ -168,14 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3020f6bf3a1536c8",
+  "active": "2971b66d40cd4711",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
     "Learning/Pasted image 20230530210111.png",
     "Learning/Pasted image 20230530210047.png",
     "Learning/Programming/Python/Problem solving/List/List comprehension/List Comprehensions - 1.md",
     "Learning/Programming/Python/Problem solving/List/Nested list",
-    "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/OS+Linux/OS And Linux.md",
     "Learning/Linux/Linux Index.md",
     "Learning/Linux",

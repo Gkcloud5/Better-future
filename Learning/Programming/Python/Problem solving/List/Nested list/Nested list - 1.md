@@ -23,9 +23,28 @@ if __name__ == '__main__':
         
 student_list.sort(key = lambda x: x[1])
 
-second_mark = student_list[1][1]
+
+unique_mark = list(set(map(lambda x: x[1], student_list)))
+unique_mark.sort()
+
+
+print(len(unique_mark))
+second_mark = 0
+
+#Get second mark 
+if len(unique_mark) < 3:
+    if unique_mark < 0:
+        second_mark = unique_mark[1]
+    else
+        second_mark = min(unique_mark)
+else:
+    second_mark = unique_mark[1]
+
+print(second_mark)
+
+
 second_grade = []
-print(student_list)
+
 for x in student_list:
     if second_mark == x[1]:
         second_grade.append(x)
@@ -33,6 +52,8 @@ for x in student_list:
 second_grade.sort(key = lambda x: x[0])
 for x in range(0, len(second_grade)):
     print (second_grade[x][0])
+    
+    
 ```
 
 
