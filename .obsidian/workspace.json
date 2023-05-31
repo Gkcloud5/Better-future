@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd75dfa9aa153cda",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "825bf35e004ec3b1",
             "type": "leaf",
             "state": {
@@ -37,6 +29,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "84a32452d8845b5b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -115,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Basics/Linux distro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Basics/Linux distro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Linux/Basics/Linux distro.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -177,15 +172,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "882ac88a671591fd",
+  "active": "84a32452d8845b5b",
   "lastOpenFiles": [
+    "Learning/Linux/Basics/Linux distro.md",
     "Learning/Linux/Linux Index.md",
     "Learning/Programming/Python/Images/Pasted image 20230531120538.png",
     "Learning/Programming/Python/Images/Pasted image 20230531120508.png",
     "Learning/Programming/Python/Problem solving/List/List-2.md",
     "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
-    "Learning/Linux/Basics/Linux distro.md",
     "Learning/Linux/Basics",
     "Learning/Linux/Basics/About Linux OS.md",
     "Learning/Linux/Images/Pasted image 20230530224752.png",
