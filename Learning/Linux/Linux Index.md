@@ -11,4 +11,5 @@
 3. [[Linux Directories]]
 4. [[Linux Files]]
 5. [[Linux MAN]]
-6. 
+6. [[File permission - Linux]]
+7. 

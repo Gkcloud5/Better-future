@@ -19,3 +19,5 @@ man ls
 man pwd
 ```
 
+
+![[Pasted image 20230531233707.png]]
