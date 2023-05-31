@@ -42,3 +42,48 @@ cd -
 chem/notes
 gok/users
 ```
+
+```
+#To know current working directory
+pwd
+```
+
+
+#### Listing Directory:
+
+```
+#List a directory
+ls dirname
+ls /usr/local
+```
+
+#### Creating Directories:
+
+```
+mkdir name_of_directory
+mkdir gokul
+
+#create directory inside another directory
+mkdir /tmp/test
+
+#create multiple directory
+mkdir gok1 gok2
+```
+
+#### Creating parent directories:
+
+* create a new directory at that same time create another directory from newly created directory
+
+```
+mkdir -p /gok/user/dir1
+```
+
+-p --> it creates all the necessary directories for you.
+
+
+#### Removing directories:
+
+```
+#rem
+```
+
