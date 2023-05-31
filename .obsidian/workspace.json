@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux MAN.md",
+                "file": "Learning/Linux/Basics/Linux MAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux MAN.md",
+                "file": "Learning/Linux/Basics/Linux MAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux MAN.md",
+                "file": "Learning/Linux/Basics/Linux MAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux MAN.md"
+                "file": "Learning/Linux/Basics/Linux MAN.md"
               }
             }
           }
@@ -169,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30306617cd29fce5",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Linux/Linux Index.md",
-    "Linux MAN.md",
+    "Learning/Linux/Basics/Linux MAN.md",
     "Learning/Linux/Basics/Linux Files.md",
     "Learning/Pasted image 20230531231406.png",
     "Learning/Linux/Images/Pasted image 20230531225551.png",
