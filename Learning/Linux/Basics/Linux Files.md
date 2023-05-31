@@ -58,3 +58,21 @@ ls -a
 
 
 #### Creating Files:
+
+* we can use `vi` editor to create directory files.
+
+```
+vi filename
+```
+
+* This will open file with given name. now press `i` to come into the edit mode.
+
+```
+This is linux file. I created it for the first time
+```
+
+* Save a file
+	* press `esc` to come out of the edit mode
+
+
+#### Display content of a file:
