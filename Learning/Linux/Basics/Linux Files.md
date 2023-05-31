@@ -76,3 +76,15 @@ This is linux file. I created it for the first time
 
 
 #### Display content of a file:
+
+* we can use `cat` command to see the content of a file.
+
+```
+cat filename
+
+#to show line number
+cat -b filename
+```
+
+
+#### Counting words:
