@@ -29,3 +29,32 @@ ls -l
 ```
 
 ![[Pasted image 20230531225551.png]]
+
+
+#### Metacharacters:
+
+* Metacharacters have a special meaning in linux.
+	* * use to match 0 or more characters
+	* ? use to match with single character
+
+```
+#example
+ls ch*.doc
+
+#output
+ch01-1.doc   ch010.doc  ch02.doc    ch03-2.doc 
+ch04-1.doc   ch040.doc  ch05.doc    ch06-2.doc
+ch01-2.doc ch02-1.doc c
+```
+
+
+#### Hidden files:
+
+* An invisible file is one, the first character of which is the `dot(.)` 
+
+```
+ls -a
+```
+
+
+#### Creating Files:
