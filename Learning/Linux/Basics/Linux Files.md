@@ -88,3 +88,24 @@ cat -b filename
 
 
 #### Counting words:
+
+* we can use wc command to get a count of the total number of lines
+
+```
+wc filename
+2  19 103 filename
+```
+
+![[Pasted image 20230531231406.png]]
+
+```
+#To get muiltiple files information
+wc filename1 filename2 filename3
+```
+
+
+#### Copying Files:
+
+```
+cp source_file dest
+```
