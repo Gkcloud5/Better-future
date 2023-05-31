@@ -84,6 +84,34 @@ mkdir -p /gok/user/dir1
 #### Removing directories:
 
 ```
-#rem
+#remove dir
+rmdir dirname1
+
+#to remove multiple directories
+rmdir gok1 gok2
 ```
 
+
+#### Changing Directories:
+
+* You can use *cd* command to change directory
+
+```
+cd dirname
+cd /usr/local/bin
+```
+
+#### Renaming directories:
+
+* we can use *mv* command to rename a directory
+
+```
+mv dirname1 dirname2
+```
+
+#### Directory with . and ..:
+
+![[Pasted image 20230531155415.png]]
+
+* here **``.``** represents the current working directory
+* **`..`** represents directory one level above the current working directory
