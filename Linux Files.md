@@ -9,4 +9,9 @@
 #### Basic types of file:
 
 * **Ordinary Files**
-	* 
+	* It contains data, text or program instructions.
+* **Directories:**
+	* It store both special and ordinary files.
+* **Special Files:**
+	* Some special files provide access to hardware such as hard drives, CD-ROM drive,  modems and ethernet adaptors.
+
