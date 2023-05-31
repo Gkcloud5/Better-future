@@ -21,5 +21,11 @@
 * List the files and directories stored in current directory
 
 ```
+ls
+
+#to get more information
+ls -l
 
 ```
+
+![[Pasted image 20230531225551.png]]
