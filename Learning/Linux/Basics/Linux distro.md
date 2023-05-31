@@ -14,4 +14,8 @@
 #### Distro:
 
 1. [Debian](https://linuxjourney.com/lesson/debian)
-2. [Red Hat]()
+2. [Red Hat](https://linuxjourney.com/lesson/red-hat-enterprise-linux)
+3. [Ubuntu](https://linuxjourney.com/lesson/ubuntu)
+4. [Fedora](https://linuxjourney.com/lesson/fedora)
+5. [Arch Linux](https://linuxjourney.com/lesson/arch-linux)
+6. [OpenSUSE](https://linuxjourney.com/lesson/opensuse)
