@@ -107,5 +107,22 @@ wc filename1 filename2 filename3
 #### Copying Files:
 
 ```
-cp source_file dest
+cp source_file destination_file
 ```
+
+#### Renaming file:
+
+```
+mv olf_file new_file
+```
+
+#### Deleting files:
+
+```
+rm filename
+```
+
+
+#### [Rename](https://www.javatpoint.com/linux-rename-v)
+
+
