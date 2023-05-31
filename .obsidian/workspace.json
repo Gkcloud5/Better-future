@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Directories.md",
+                "file": "Learning/Linux/Basics/Linux Directories.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Directories.md",
+                "file": "Learning/Linux/Basics/Linux Directories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Directories.md",
+                "file": "Learning/Linux/Basics/Linux Directories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Directories.md"
+                "file": "Learning/Linux/Basics/Linux Directories.md"
               }
             }
           }
@@ -171,7 +172,7 @@
   "active": "9aa45fe2e0350a8b",
   "lastOpenFiles": [
     "Learning/Linux/Linux Index.md",
-    "Linux Directories.md",
+    "Learning/Linux/Basics/Linux Directories.md",
     "Learning/Linux/Basics/About Linux OS.md",
     "Learning/Linux/Images/Pasted image 20230531152442.png",
     "Learning/Linux/Basics/Linux distro.md",
