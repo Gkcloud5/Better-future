@@ -70,3 +70,6 @@
 #### Image related to linux:
 
 ![[Pasted image 20230530224752.png]]
+
+
+![[Pasted image 20230531152442.png]]

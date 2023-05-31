@@ -20,23 +20,15 @@
             }
           },
           {
-            "id": "882ac88a671591fd",
+            "id": "123637de1c693ece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Basics/Linux distro.md",
+                "file": "Learning/Linux/Basics/About Linux OS.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "84a32452d8845b5b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -115,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Basics/Linux distro.md",
+                "file": "Learning/Linux/Basics/About Linux OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Basics/Linux distro.md",
+                "file": "Learning/Linux/Basics/About Linux OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Basics/Linux distro.md"
+                "file": "Learning/Linux/Basics/About Linux OS.md"
               }
             }
           }
@@ -177,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "882ac88a671591fd",
+  "active": "123637de1c693ece",
   "lastOpenFiles": [
+    "Learning/Pasted image 20230531152442.png",
     "Learning/Linux/Linux Index.md",
     "Learning/Linux/Basics/Linux distro.md",
     "Learning/Programming/Python/Images/Pasted image 20230531120538.png",
