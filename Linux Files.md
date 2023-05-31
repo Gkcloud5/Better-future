@@ -18,4 +18,8 @@
 
 #### Listing files:
 
-* List the 
+* List the files and directories stored in current directory
+
+```
+
+```
