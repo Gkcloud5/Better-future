@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File permission - Linux.md",
+                "file": "Learning/Linux/Basics/File permission - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File permission - Linux.md",
+                "file": "Learning/Linux/Basics/File permission - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File permission - Linux.md",
+                "file": "Learning/Linux/Basics/File permission - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File permission - Linux.md"
+                "file": "Learning/Linux/Basics/File permission - Linux.md"
               }
             }
           }
@@ -169,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee1c3176f99996fc",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Linux/Linux Index.md",
-    "File permission - Linux.md",
+    "Learning/Linux/Basics/File permission - Linux.md",
     "Learning/Linux/Basics/Linux MAN.md",
     "Learning/Linux/Images/Pasted image 20230531233707.png",
     "Learning/Linux/Basics/Linux Files.md",
