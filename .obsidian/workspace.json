@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Linux Index.md",
+                "file": "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List-2.md",
+                "file": "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List-2.md",
+                "file": "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List-2.md"
+                "file": "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md"
               }
             }
           }
@@ -168,13 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f7eae01ed4fb62d",
+  "active": "e3272cecd841d369",
   "lastOpenFiles": [
     "Learning/Pasted image 20230531120538.png",
     "Learning/Pasted image 20230531120508.png",
-    "Learning/Linux/Basics/Linux distro.md",
-    "Learning/Programming/Python/Problem solving/List/List-2.md",
+    "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
     "Learning/Linux/Linux Index.md",
+    "Learning/Programming/Python/Problem solving/List/List-2.md",
+    "Learning/Linux/Basics/Linux distro.md",
     "Learning/Linux/Basics",
     "Learning/Linux/Basics/About Linux OS.md",
     "Learning/Linux/Images/Pasted image 20230530224752.png",
@@ -182,7 +182,6 @@
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
     "Learning/OS+Linux/OS And Linux.md",
-    "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
     "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/Programming/Python/Images/Pasted image 20230530215928.png",
     "Learning/Programming/Python/Images/Pasted image 20230530215924.png",
@@ -215,7 +214,6 @@
     "Learning/Programming/Python/Problem solving/List/List comprehension",
     "Learning/OS+Linux/Topics",
     "Learning/OS+Linux/Image",
-    "Learning/Operating System/image_246.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
