@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bef7b6c8795f7483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux/Basics/Communication - ping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Linux Index.md",
+                "file": "Learning/Linux/Basics/Communication - ping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Linux Index.md",
+                "file": "Learning/Linux/Basics/Communication - ping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Linux Index.md"
+                "file": "Learning/Linux/Basics/Communication - ping.md"
               }
             }
           }
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c44a39f9a51795e",
+  "active": "f01a964698a0aaab",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Learning/Linux/Linux Index.md",
+    "Learning/Linux/Basics/Processes - Linux.md",
+    "Learning/Linux/Basics/Communication - ping.md",
+    "conflict-files-obsidian-git.md",
     "Learning/OS+Linux/OS And Linux.md",
     "Learning/Programming/Python/Problem solving/List/List-3.md",
     "Learning/Programming/Python/Images/Pasted image 20230601164021.png",
