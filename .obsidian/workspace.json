@@ -169,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddbc07d6f9b5a1ad",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Linux/Images/Pasted image 20230601065835.png",
     "Learning/Linux/Linux Index.md",
     "Web Development/CSS/Fundamentals/Responsive form.md",
     "Web Development/CSS/CSS.md",
@@ -213,7 +214,6 @@
     "Learning/OS+Linux/Topics/Diff between Spinlock and Mutex.md",
     "Learning/OS+Linux/Topics/Sockets - OS+Linux.md",
     "Learning/OS+Linux/Topics/Daemons in Linux.md",
-    "Learning/OS+Linux/Topics/Shared Memory - OS_Linux.md",
     "Learning/Programming/Python/Problem solving/List/List comprehension",
     "Learning/OS+Linux/Topics",
     "Learning/OS+Linux/Image",

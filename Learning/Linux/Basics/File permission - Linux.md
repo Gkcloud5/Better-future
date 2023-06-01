@@ -42,4 +42,30 @@ drwxr-xr--- 1 amrood   users 1024  Nov 2 00:10  mydir
 
 #### Directory access modes:
 
-* It looks like 
+* It looks like same as file access methods.
+* Read
+* Write
+* Execute
+	* User must have execute access to the bin directory in order to execute the `ls` or `cd` command.
+
+
+#### Changing permissions:
+
+```
+chmod
+```
+
+* It has two modes
+	* Symbolic mode
+	* Absolute mode
+
+##### Using chmod in symbolic mode:
+
+![[Pasted image 20230601065835.png]]
+
+
+```
+chmod o+wx filename
+
+chmod u-x filenae
+```
