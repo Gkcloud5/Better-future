@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Basics/File permission - Linux.md",
+                "file": "Learning/Linux/Linux Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Basics/File permission - Linux.md",
+                "file": "Learning/Linux/Linux Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Basics/File permission - Linux.md"
+                "file": "Learning/Linux/Linux Index.md"
               }
             }
           }
@@ -169,13 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "667c4973df0c26ab",
   "lastOpenFiles": [
+    "Learning/Linux/Basics/File permission - Linux.md",
+    "Learning/Pasted image 20230601070112.png",
     "Learning/Linux/Images/Pasted image 20230601065835.png",
     "Learning/Linux/Linux Index.md",
     "Web Development/CSS/Fundamentals/Responsive form.md",
     "Web Development/CSS/CSS.md",
-    "Learning/Linux/Basics/File permission - Linux.md",
     "Learning/Linux/Basics/Linux MAN.md",
     "Learning/Linux/Images/Pasted image 20230531233707.png",
     "Learning/Linux/Basics/Linux Files.md",
@@ -197,8 +197,6 @@
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
     "Learning/OS+Linux/OS And Linux.md",
-    "Learning/Programming/Python/Images/Pasted image 20230530215928.png",
-    "Learning/Programming/Python/Images/Pasted image 20230530215924.png",
     "Learning/Programming/Python/Problem solving/List/List comprehension/List Comprehensions - 1.md",
     "Learning/Programming/Python/Problem solving/List/Nested list",
     "Learning/Linux",

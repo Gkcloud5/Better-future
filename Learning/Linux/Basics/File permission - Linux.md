@@ -67,5 +67,33 @@ chmod
 ```
 chmod o+wx filename
 
-chmod u-x filenae
+chmod u-x filename
+
+chmod g = rx filename
+
+chmod o+wx,u-x filename
 ```
+
+##### Using chmod with absolute permission:
+
+* It is based on value
+
+![[Pasted image 20230601070112.png]]
+
+```
+chmod 743 filename
+```
+
+
+#### Changing owners:
+
+```
+chown user filename
+```
+
+#### Changing group ownership:
+
+```
+chgrp group filename
+```
+
