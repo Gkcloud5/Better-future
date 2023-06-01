@@ -1,0 +1,26 @@
+
+- `len()`: This method returns the length of a string, list, tuple, or other iterable object.
+- `append()`: This method adds an element to the end of a list.
+- `insert()`: This method inserts an element into a list at a specific index.
+- `remove()`: This method removes an element from a list.
+- `sort()`: This method sorts a list in ascending order.
+- `reverse()`: This method reverses the order of a list.
+- `min()`: This method returns the minimum value in a list.
+- `max()`: This method returns the maximum value in a list.
+- `sum()`: This method returns the sum of the elements in a list.
+- `count()`: This method returns the number of times a specific element appears in a list.
+- `index()`: This method returns the index of the first occurrence of a specific element in a list.
+- `split()`: This method splits a string into a list of substrings based on a delimiter.
+- `join()`: This method joins a list of strings into a single string using a delimiter.
+- `format()`: This method formats a string using a format string.
+- `startswith()`: This method checks if a string starts with a given prefix.
+- `endswith()`: This method checks if a string ends with a given suffix.
+- `contains()`: This method checks if a string contains a given substring.
+- `lower()`: This method converts a string to lowercase.
+- `upper()`: This method converts a string to uppercase.
+- `title()`: This method converts the first letter of each word in a string to uppercase.
+- `strip()`: This method removes whitespace from the beginning and end of a string.
+- `replace()`: This method replaces a substring in a string with a new substring.
+- `splitlines()`: This method splits a string into a list of lines.
+- `join()`: This method joins a list of strings into a single string using a delimiter.
+- 

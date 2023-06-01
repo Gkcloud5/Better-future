@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List-3.md",
+                "file": "Learning/Programming/Python/Problem solving/Python methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List-3.md",
+                "file": "Learning/Programming/Python/Problem solving/Python methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List-3.md",
+                "file": "Learning/Programming/Python/Problem solving/Python methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List-3.md"
+                "file": "Learning/Programming/Python/Problem solving/Python methods.md"
               }
             }
           }
@@ -167,10 +167,11 @@
   },
   "active": "57db3f20236983e0",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Problem solving/List/List-3.md",
+    "Learning/Programming/Python/Problem solving/Python methods.md",
     "Learning/Pasted image 20230601164021.png",
     "Learning/Pasted image 20230601164007.png",
     "Learning/Programming/Python/Problem solving/List/List comprehension/List Comprehensions - 1.md",
-    "Learning/Programming/Python/Problem solving/List/List-3.md",
     "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/Programming/Python/Problem solving/List/List-2.md",
     "Learning/Linux/Linux Index.md",
@@ -191,7 +192,6 @@
     "Learning/Linux/Images/Pasted image 20230531233707.png",
     "Learning/Linux/Basics/Linux Files.md",
     "Learning/Linux/Images/Pasted image 20230531231406.png",
-    "Learning/Linux/Images/Pasted image 20230531225551.png",
     "Learning/Linux/Basics/Linux Directories.md",
     "Learning/Linux/Basics/About Linux OS.md",
     "Learning/Linux/Basics/Linux distro.md",
