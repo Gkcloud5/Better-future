@@ -13,3 +13,6 @@ echo $TEST
 Env variable
 ```
 
+#### .profile file:
+
+* It contains shell initialization information required by the all users on a system
