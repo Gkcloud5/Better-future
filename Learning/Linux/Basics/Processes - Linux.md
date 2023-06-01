@@ -13,3 +13,29 @@
 ##### Foreground processes:
 
 * every process that you start runs in the foreground. it gets input from the keyboard and sends its output to the screen.
+* While a program is running in the foreground and is time-consuming, no other commands can be run because the prompt would not be available until the program finishes processing and comes out.
+
+##### Background processes:
+
+* Background processes runs without being connected to your keyboard.
+* advantage of background process is that you can run other commands
+	* No need to wait for complete one process
+* simplest way to start a background process, need to add & at the end of the command.
+
+```
+ls ch*.doc &
+```
+
+
+#### Listing running processes:
+
+* `ps` command
+
+```
+ps
+
+ps -f
+```
+
+![[Pasted image 20230601085420.png]]
+
