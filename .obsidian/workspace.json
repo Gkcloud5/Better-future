@@ -23,11 +23,9 @@
             "id": "6b9762cfa7612c38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Web Development/CSS/Image/Website layout.md",
-                "mode": "source",
-                "source": false
+                "file": "Web Development/CSS/Image/Pasted image 20230601234540.png"
               }
             }
           }
@@ -82,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0542bf38a5328cd1",
@@ -107,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Image/Website layout.md",
+                "file": "Web Development/CSS/Image/Pasted image 20230601234540.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Image/Website layout.md",
+                "file": "Web Development/CSS/Image/Pasted image 20230601234540.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Image/Website layout.md"
+                "file": "Web Development/CSS/Image/Pasted image 20230601234540.png"
               }
             }
           }
@@ -172,9 +169,9 @@
   },
   "active": "86d9b18bffcb7245",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230601234540.png",
-    "Web Development/CSS/CSS.md",
     "Web Development/CSS/Image/Website layout.md",
+    "Web Development/CSS/Image/Pasted image 20230601234540.png",
+    "Web Development/CSS/CSS.md",
     "Learning/Linux/Basics/Communication - ping.md",
     "Learning/Linux/Linux Index.md",
     "Learning/Linux/Images/Pasted image 20230601231154.png",
