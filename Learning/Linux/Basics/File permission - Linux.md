@@ -27,5 +27,19 @@ drwxr-xr--- 1 amrood   users 1024  Nov 2 00:10  mydir
 	* **write(w)**
 	* **execute(x)**
 * 2 to 4 character represents permission for the file's owner.
-	* -rwxr --> owner had read, write and execute permission
-* 5 to 7 consists of the permission for the group to which the be
+	* -**rwx**r --> owner had read, write and execute permission
+* 5 to 7 consists of the permission for the group to which the file belongs.
+	* -rwx**r-x**r-- -->group has read and execute permission
+* 8 to 10 represents the permission for every one.
+	* -rwxr-x**r--** --> only read permission.
+
+
+#### File Access Modes:
+
+* Read
+* Write
+* Execute
+
+#### Directory access modes:
+
+* It looks like 
