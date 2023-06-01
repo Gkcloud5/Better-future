@@ -39,3 +39,27 @@ ps -f
 
 ![[Pasted image 20230601085420.png]]
 
+
+#### Stopping processes:
+
+* signal --> `CTRL+C`
+* get process id and kill it
+
+```
+ps -f
+
+kill process_id
+```
+
+
+#### Parent and child process:
+
+* Each linux process has two ID numbers
+	* pid
+	* ppid ==> Parent process ID.
+
+#### Zombie and orphan processes:
+
+* Parent process is killed before kill child process so child process will not have a parent so this process called a orphan processes.
+* z state --> zombie state
+	* This process is dead and not being used
