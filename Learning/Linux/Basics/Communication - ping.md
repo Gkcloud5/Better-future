@@ -58,4 +58,11 @@ ftp hostname or ip-address
 * **get filename**
 	* Download filename from the remote machine to the local machine
 * **mput file list**
-	* Uploads more than one file from th
+	* Uploads more than one file from the local machine to the remote machine.
+
+![[Pasted image 20230601231154.png]]
+
+
+#### telnet utility:
+
+* 
