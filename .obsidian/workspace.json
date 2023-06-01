@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -166,6 +167,8 @@
   },
   "active": "57db3f20236983e0",
   "lastOpenFiles": [
+    "Learning/Pasted image 20230601164021.png",
+    "Learning/Pasted image 20230601164007.png",
     "Learning/Programming/Python/Problem solving/List/List comprehension/List Comprehensions - 1.md",
     "Learning/Programming/Python/Problem solving/List/List-3.md",
     "Learning/Programming/Python/Problem solving/List/List - 1.md",
@@ -190,7 +193,6 @@
     "Learning/Linux/Images/Pasted image 20230531231406.png",
     "Learning/Linux/Images/Pasted image 20230531225551.png",
     "Learning/Linux/Basics/Linux Directories.md",
-    "Learning/Linux/Images/Pasted image 20230531155415.png",
     "Learning/Linux/Basics/About Linux OS.md",
     "Learning/Linux/Basics/Linux distro.md",
     "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
@@ -205,7 +207,6 @@
     "Learning/Operating System/Theory Parts/Process & schedule/Process.md",
     "Learning/OS+Linux/Topics/Terminal vs console vs shell.md",
     "Learning/OS+Linux/Topics/Linux Threads.md",
-    "Learning/OS+Linux/Topics/Signals in linux.md",
     "Development/HTML/Practise/Images/32PRLI301467_idcard.pdf",
     "Development/HTML/Practise/Images/Unconfirmed 342246.crdownload",
     "Learning/Programming/Python/Problem solving/List",
