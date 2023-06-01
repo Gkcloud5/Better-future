@@ -1,4 +1,6 @@
 {
   "accentColor": "#aa28e6",
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "theme": "moonstone",
+  "nativeMenus": false
 }

@@ -1,4 +1,4 @@
-#index
+ #Python #index 
 
 1. [[Some Basics]]
 2. [[Print output]]
@@ -16,3 +16,16 @@
 
 #### Advance:
 1. [[Generators]]
+2. [[List Comprehensions]]
+3. [[Lambda functions]]
+4. [[Multiple function argument]]
+5. [[Regular expression]]
+6. [[Exception handle - A]]
+7. [[Sets]]
+8. [[Serialization]]
+9. [[Partial function]]
+10. [[Closures]]
+11. [[Decorators]]
+12. [[Map]]  
+13. [[Filter]]
+14. [[Reduce]]

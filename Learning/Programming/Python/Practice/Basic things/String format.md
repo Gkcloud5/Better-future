@@ -1,4 +1,4 @@
-#string #Basics 
+#string #Basics  #Python 
 
 #### Source: [String format](https://www.learnpython.org/en/String_Formatting)
 

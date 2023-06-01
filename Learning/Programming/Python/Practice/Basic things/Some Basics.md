@@ -1,4 +1,5 @@
-#Basics 
+#Basics  #Python 
+
 ## Install a python in linux:
  **Please refer a following links:**
 	https://docs.python-guide.org/starting/install3/linux/

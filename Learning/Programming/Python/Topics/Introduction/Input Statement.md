@@ -1,4 +1,4 @@
-#Basics 
+#Basics  #Python 
 ### About INPUT:
 
 * Always return string

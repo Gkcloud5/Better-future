@@ -1,4 +1,4 @@
-#string #Basics 
+#string #Basics  #Python 
 
 #### Source: [string operations](https://www.learnpython.org/en/Basic_String_Operations)
 
@@ -64,3 +64,6 @@ print(str2)
 
 ![[Pasted image 20230411001346.png]]
 
+
+##### Additional source:
+[AS-1](https://thispointer.com/python-how-to-remove-characters-from-a-string-by-index/)

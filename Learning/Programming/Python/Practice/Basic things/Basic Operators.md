@@ -1,4 +1,4 @@
-#operators #Basics 
+#operators #Basics #Python 
 
 #### Source: [Operators](https://www.learnpython.org/en/Basic_Operators)
 

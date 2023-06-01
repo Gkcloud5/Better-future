@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Learning"
 }

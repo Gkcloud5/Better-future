@@ -7,3 +7,7 @@
 2. [[Flow control]]
 3. [[Python Functions]]
 4. [[Python Files]]
+
+[[Practice in IDE]]
+[[Logical Programs]]
+[[Exercise Topics]]
