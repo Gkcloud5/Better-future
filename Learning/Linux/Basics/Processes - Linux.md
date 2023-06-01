@@ -62,4 +62,18 @@ kill process_id
 
 * Parent process is killed before kill child process so child process will not have a parent so this process called a orphan processes.
 * z state --> zombie state
-	* This process is dead and not being used
+	* This process is dead and not being used. this process are different from the orphan processes.
+	* they have completed execution but still find an entry in the process table.
+
+#### Daemon process:
+
+* It is a system related background process that often run with the permission of root.
+
+#### top command:
+
+* it is very useful tool for quickly showing processes sorted by various criteria
+
+```
+top
+```
+

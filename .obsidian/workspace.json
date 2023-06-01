@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4ee13420d64f2987",
+            "id": "d2ecfc74a47fc26a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Basics/Processes - Linux.md",
+                "file": "Learning/Linux/Basics/Communication - ping.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Basics/Processes - Linux.md",
+                "file": "Learning/Linux/Basics/Communication - ping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Basics/Processes - Linux.md",
+                "file": "Learning/Linux/Basics/Communication - ping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Basics/Processes - Linux.md"
+                "file": "Learning/Linux/Basics/Communication - ping.md"
               }
             }
           }
@@ -169,11 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ee13420d64f2987",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Linux/Images/Pasted image 20230601085420.png",
     "Learning/Linux/Linux Index.md",
+    "Learning/Linux/Basics/Communication - ping.md",
     "Learning/Linux/Basics/Processes - Linux.md",
+    "Learning/Linux/Images/Pasted image 20230601085420.png",
     "Learning/Linux/Basics/Pipes and filters.md",
     "Learning/Linux/Images/Pasted image 20230601075922.png",
     "Learning/Linux/Images/Pasted image 20230601075804.png",
@@ -192,7 +192,6 @@
     "Learning/Linux/Basics/Linux Directories.md",
     "Learning/Linux/Images/Pasted image 20230531155415.png",
     "Learning/Linux/Basics/About Linux OS.md",
-    "Learning/Linux/Images/Pasted image 20230531152442.png",
     "Learning/Linux/Basics/Linux distro.md",
     "Learning/Programming/Python/Problem solving/List/List-2.md",
     "Learning/Programming/Python/Problem solving/List/List - 1.md",
