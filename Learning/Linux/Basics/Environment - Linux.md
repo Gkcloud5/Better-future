@@ -16,3 +16,7 @@ Env variable
 #### .profile file:
 
 * It contains shell initialization information required by the all users on a system
+
+![[Pasted image 20230601074938.png]]
+
+* Type of terminal are we using
