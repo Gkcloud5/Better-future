@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0542bf38a5328cd1",
@@ -169,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f01a964698a0aaab",
+  "active": "bef7b6c8795f7483",
   "lastOpenFiles": [
     "Learning/Linux/Linux Index.md",
     "Learning/Linux/Basics/Processes - Linux.md",
