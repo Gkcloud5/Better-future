@@ -19,11 +19,33 @@ ls /dev
 ```
 ls -l /dev
 
-brw-rw----   1 root disk      8,   0 Dec 20 20:13 sda
-  
-crw-rw-rw-   1 root root      1,   3 Dec 20 20:13 null
-  
-srw-rw-rw-   1 root root           0 Dec 20 20:13 log
-  
+brw-rw----   1 root disk      8,   0 Dec 20 20:13 sda 
+crw-rw-rw-   1 root root      1,   3 Dec 20 20:13 null 
+srw-rw-rw-   1 root root           0 Dec 20 20:13 log 
 prw-r--r--   1 root root           0 Dec 20 20:13 fdata
 ```
+
+* Columns are as follows from left to right
+	* Permission
+	* owner
+	* group
+	* Major device number
+	* Minor device number
+	* timestamp
+	* device name
+* In command you can see type of file in each line
+	* c - character
+	* b - block
+	* p - pipe
+	* s - socket
+
+
+#### Character Device:
+
+* These devices transfer a data but one character at a time.
+* you will see lot of pseudo devices(/dev/null) as character devices.
+	* These devices are not really physically connected to the machine, but they allow the OS greater functionality.
+
+#### Block device:
+
+* 
