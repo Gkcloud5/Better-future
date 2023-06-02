@@ -48,4 +48,20 @@ prw-r--r--   1 root root           0 Dec 20 20:13 fdata
 
 #### Block device:
 
-* 
+* These devices transfer data, but in large fixed-size blocks.
+* Harddrives and filesystem
+
+#### Pipe Devices:
+
+* Pipe allow two or more processes to communicate with each other.
+
+#### Socket:
+
+* It used to communicate with many process at once.
+
+
+#### 3. Device Names:
+
+* ##### SCSI devices:
+	* Small Computer System Interface.
+	* It is a protocol used to allow communication between disks
