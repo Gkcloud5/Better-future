@@ -22,3 +22,7 @@
 * /tmp --> Storage temporary files
 * /usr  --> most often it does not contain user files in the sense of a home folder. this is meant for user installed software and utilities.
 * /var --> Variable directory. it's used for system logging, user tracking, caches, etc.
+
+
+1. [[Filesystem Types]]
+2. 

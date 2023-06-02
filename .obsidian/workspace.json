@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "998f9a1da73b90aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Linux Index.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Linux Index.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Linux Index.md"
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md"
               }
             }
           }
@@ -169,9 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbaba3a5163635db",
+  "active": "998f9a1da73b90aa",
   "lastOpenFiles": [
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
+    "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
     "Learning/Linux/Linux Index.md",
     "Learning/Linux/Advanced/Filesystem",
     "Learning/Linux/Advanced",
