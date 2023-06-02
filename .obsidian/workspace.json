@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md"
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md"
               }
             }
           }
@@ -182,14 +182,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82d0acf521c23e75",
+  "active": "998f9a1da73b90aa",
   "lastOpenFiles": [
+    "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
     "conflict-files-obsidian-git.md",
     "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
     "Learning/Programming/Python/Problem solving/String",
     "Learning/Programming/Python/Images/Pasted image 20230602164931.png",
-    "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Learning/Linux/Linux Index.md",
     "Learning/Linux/Advanced/Filesystem",
     "Learning/Linux/Advanced",
