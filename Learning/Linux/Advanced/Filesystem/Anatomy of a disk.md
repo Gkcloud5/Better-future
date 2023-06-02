@@ -14,4 +14,4 @@
 
 #### Partition:
 
-* 
+* Disks
