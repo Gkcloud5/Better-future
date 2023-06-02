@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "12abcb2db1ae917a",
+        "id": "36fbfb1afcdf1511",
         "type": "tabs",
         "children": [
           {
-            "id": "cbaba3a5163635db",
+            "id": "6739f4eddafe96ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Linux Index.md",
+                "file": "Web Development/CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82d0acf521c23e75",
+            "id": "98a9a38ca9554b91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a266cb8e4af6c1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
+                "file": "Units - CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
+                "file": "Units - CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
+                "file": "Units - CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md"
+                "file": "Units - CSS.md"
               }
             }
           }
@@ -182,10 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86d9b18bffcb7245",
+  "active": "98a9a38ca9554b91",
   "lastOpenFiles": [
-    "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
+    "Web Development/CSS/CSS.md",
+    "Units - CSS.md",
+    "Web Development/CSS/Image/Website layout.md",
     "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
+    "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Learning/Linux/Images/Pasted image 20230602230440.png",
     "conflict-files-obsidian-git.md",
@@ -203,8 +194,6 @@
     "Learning/Linux/Images/Pasted image 20230602074129.png",
     "Learning/Linux/Images/Pasted image 20230602073828.png",
     "Learning/Linux/Basics/Communication - ping.md",
-    "Web Development/CSS/CSS.md",
-    "Web Development/CSS/Image/Website layout.md",
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
     "Learning/Linux/Images/Pasted image 20230601231154.png",
     "Learning/Linux/Basics/Processes - Linux.md",
