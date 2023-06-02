@@ -5,7 +5,7 @@
 #### Question:
 ![[Pasted image 20230602164931.png]]
 
-#### Solution -1:
+#### Solution -1:(Using special method)
 
 ```
 def swap_case(s):
