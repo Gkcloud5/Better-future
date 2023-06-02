@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "98a9a38ca9554b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Units - CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0542bf38a5328cd1",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Units - CSS.md",
+                "file": "Web Development/CSS/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Units - CSS.md",
+                "file": "Web Development/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Units - CSS.md"
+                "file": "Web Development/CSS/CSS.md"
               }
             }
           }
@@ -170,10 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98a9a38ca9554b91",
+  "active": "6739f4eddafe96ab",
   "lastOpenFiles": [
+    "Web Development/CSS/Image/Pasted image 20230602233258.png",
+    "Web Development/CSS/Advanced/Units - CSS.md",
+    "Web Development/CSS/Image/Pasted image 20230602233339.png",
+    "Web Development/CSS/Advanced",
     "Web Development/CSS/CSS.md",
-    "Units - CSS.md",
     "Web Development/CSS/Image/Website layout.md",
     "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
@@ -195,10 +184,8 @@
     "Learning/Linux/Images/Pasted image 20230602073828.png",
     "Learning/Linux/Basics/Communication - ping.md",
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
-    "Learning/Linux/Images/Pasted image 20230601231154.png",
     "Learning/Linux/Basics/Processes - Linux.md",
     "Learning/OS+Linux/OS And Linux.md",
-    "Learning/Programming/Python/Problem solving/List/List-3.md",
-    "Learning/Programming/Python/Images/Pasted image 20230601164021.png"
+    "Learning/Programming/Python/Problem solving/List/List-3.md"
   ]
 }
