@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Linux Index.md",
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md"
+              }
             }
           }
         ]
@@ -160,11 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "9f01dfb3bac43e52",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Learning/Linux/Linux Index.md",
-    "conflict-files-obsidian-git.md",
     "Web Development/CSS/Image/Website layout.md",
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
     "Learning/Programming/Python/Images/Pasted image 20230601164021.png",
