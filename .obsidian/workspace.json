@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filesystem Hierarchy -Linux.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filesystem Hierarchy -Linux.md",
+                "file": "Learning/Linux/Linux Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filesystem Hierarchy -Linux.md",
+                "file": "Learning/Linux/Linux Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filesystem Hierarchy -Linux.md"
+                "file": "Learning/Linux/Linux Index.md"
               }
             }
           }
@@ -170,10 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82d0acf521c23e75",
+  "active": "cbaba3a5163635db",
   "lastOpenFiles": [
+    "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Learning/Linux/Linux Index.md",
-    "Filesystem Hierarchy -Linux.md",
+    "Learning/Linux/Advanced/Filesystem",
+    "Learning/Linux/Advanced",
     "Learning/Linux/Basics/Devices - Linux.md",
     "Learning/Linux/Basics/vi editor.md",
     "Learning/Linux/Images/Pasted image 20230602074833.png",
