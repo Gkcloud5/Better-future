@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "cfe23685887fdb95",
+            "id": "398b381d8f106c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/Advanced/Rounded corners.md",
+                "file": "Background Image - CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Background Image - CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Background Image - CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/CSS.md"
+                "file": "Background Image - CSS.md"
               }
             }
           }
@@ -169,11 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6739f4eddafe96ab",
+  "active": "398b381d8f106c9f",
   "lastOpenFiles": [
     "Web Development/CSS/Advanced/Rounded corners.md",
-    "Web Development/CSS/Image/Pasted image 20230602235303.png",
+    "Background Image - CSS.md",
     "Web Development/CSS/CSS.md",
+    "Background.md",
+    "Web Development/CSS/Image/Pasted image 20230602235303.png",
     "Web Development/CSS/Image/Pasted image 20230602233258.png",
     "Web Development/CSS/Fundamentals/Units - CSS.md",
     "Web Development/CSS/Image/Pasted image 20230602233339.png",
