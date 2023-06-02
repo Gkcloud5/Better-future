@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e45a14ad5644982e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -181,9 +193,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82d0acf521c23e75",
+  "active": "e45a14ad5644982e",
   "lastOpenFiles": [
     "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
+    "conflict-files-obsidian-git.md",
+    "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
+    "Learning/Programming/Python/Problem solving/String",
+    "Learning/Programming/Python/Images/Pasted image 20230602164931.png",
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Learning/Linux/Linux Index.md",
     "Learning/Linux/Advanced/Filesystem",
@@ -201,7 +217,6 @@
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
     "Learning/Linux/Images/Pasted image 20230601231154.png",
     "Learning/Linux/Basics/Processes - Linux.md",
-    "conflict-files-obsidian-git.md",
     "Learning/OS+Linux/OS And Linux.md",
     "Learning/Programming/Python/Problem solving/List/List-3.md",
     "Learning/Programming/Python/Images/Pasted image 20230601164021.png",
