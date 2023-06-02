@@ -17,4 +17,8 @@
 9. [[Processes - Linux]]
 10. [[Communication - ping]]
 11. [[vi editor]]
-12. 
+
+#### Advanced:
+
+1. [[Devices - Linux]]
+2. 

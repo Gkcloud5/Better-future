@@ -35,3 +35,9 @@
 
 ![[Pasted image 20230602074833.png]]
 
+
+#### Replacing text:
+
+```
+:s/search/replace/g
+```
