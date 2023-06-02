@@ -64,4 +64,19 @@ prw-r--r--   1 root root           0 Dec 20 20:13 fdata
 
 * ##### SCSI devices:
 	* Small Computer System Interface.
-	* It is a protocol used to allow communication between disks
+	* It is a protocol used to allow communication between disks, printers, scanners and other peripherals to your system.
+	* Common SCSI device
+		* /dev/sda - First hard disk
+		* /dev/sdb - Second hard disk
+
+* ##### Pseudo Devices:
+	* /dev/zero -- accepts and discard all the input
+	* /dev/null -- accepts and discards all input, produces no output.
+
+
+### [sysfs](https://linuxjourney.com/lesson/sysfs)
+
+
+#### udev:
+
+* udev systems dynamically creates and remove device files for us dependin
