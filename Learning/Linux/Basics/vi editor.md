@@ -17,3 +17,21 @@
 #### Deleting characters:
 
 ![[Pasted image 20230602074339.png]]
+
+
+#### Change commands:
+
+![[Pasted image 20230602074552.png]]
+
+
+#### Searching:
+
+* it has two kinds of searches
+	* string
+	* character
+* for string search `/` and `?` command are used.
+	* / command searches forward in the file
+	* ? command searches backward in the file.
+
+![[Pasted image 20230602074833.png]]
+
