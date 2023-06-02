@@ -11,28 +11,11 @@
             "id": "6739f4eddafe96ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "398b381d8f106c9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Background Image - CSS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0542bf38a5328cd1",
@@ -107,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Background Image - CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Background Image - CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,13 +126,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Background Image - CSS.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,11 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "398b381d8f106c9f",
+  "active": "6739f4eddafe96ab",
   "lastOpenFiles": [
-    "Web Development/CSS/Advanced/Rounded corners.md",
-    "Background Image - CSS.md",
+    "Web Development/HTML/HTML.md",
+    "Web Development/CSS/Advanced/Background Image - CSS.md",
+    "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/CSS/CSS.md",
+    "Web Development/CSS/Advanced/Rounded corners.md",
     "Background.md",
     "Web Development/CSS/Image/Pasted image 20230602235303.png",
     "Web Development/CSS/Image/Pasted image 20230602233258.png",
