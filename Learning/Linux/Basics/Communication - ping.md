@@ -65,4 +65,4 @@ ftp hostname or ip-address
 
 #### telnet utility:
 
-* 
+* Telnet is a utility that allows customer user at one site to make a connection, login and then conduct work on a computer at another site.
