@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0542bf38a5328cd1",
@@ -156,10 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6739f4eddafe96ab",
+  "active": "86d9b18bffcb7245",
   "lastOpenFiles": [
     "Web Development/CSS/Image/Pasted image 20230602233258.png",
-    "Web Development/CSS/Advanced/Units - CSS.md",
+    "Web Development/CSS/Fundamentals/Units - CSS.md",
     "Web Development/CSS/Image/Pasted image 20230602233339.png",
     "Web Development/CSS/Advanced",
     "Web Development/CSS/CSS.md",
