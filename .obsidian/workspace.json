@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
+                "file": "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
+                "file": "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
+                "file": "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md"
+                "file": "Learning/Programming/Python/Problem solving/String/SwapCase-1.md"
               }
             }
           }
@@ -166,6 +167,9 @@
   },
   "active": "9f01dfb3bac43e52",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Problem solving/List/List - 1.md",
+    "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
+    "Learning/Programming/Python/Problem solving/String",
     "conflict-files-obsidian-git.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Learning/Linux/Linux Index.md",
@@ -188,7 +192,6 @@
     "Learning/Programming/Python/Problem solving/List/List-3.md",
     "Learning/Pasted image 20230601164021.png",
     "Learning/Programming/Python/Problem solving/List/List comprehension/List Comprehensions - 1.md",
-    "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/Programming/Python/Problem solving/List/List-2.md",
     "Learning/Linux/Basics/Communication - ping.md",
     "Learning/Linux/Basics/Processes - Linux.md",
@@ -205,13 +208,11 @@
     "Learning/Programming/Python/Problem solving/List/Nested list/Nested list - 1.md",
     "Learning/Linux/Basics",
     "Learning/Linux/Images",
-    "Learning/Operating System/OS Topics.md",
     "Learning/Programming/Python/Problem solving/List/Nested list",
     "Learning/Linux",
     "Development/HTML/Practise/Images/32PRLI301467_idcard.pdf",
     "Development/HTML/Practise/Images/Unconfirmed 342246.crdownload",
     "Learning/Programming/Python/Problem solving/List",
-    "Learning/Programming/Python/Problem solving/List/List comprehension",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
