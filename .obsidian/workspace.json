@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "45409556a54541c4",
+            "id": "a266cb8e4af6c1d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0542bf38a5328cd1",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Types.md"
+                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md"
               }
             }
           }
@@ -181,11 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45409556a54541c4",
+  "active": "86d9b18bffcb7245",
   "lastOpenFiles": [
+    "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
+    "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Learning/Linux/Images/Pasted image 20230602230440.png",
-    "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
     "conflict-files-obsidian-git.md",
     "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
     "Learning/Programming/Python/Problem solving/String",
