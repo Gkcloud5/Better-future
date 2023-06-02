@@ -14,8 +14,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "cbaba3a5163635db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux/Linux Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57e8a6fb47c5148b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux/Basics/Communication - ping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0542bf38a5328cd1",
@@ -89,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Learning/Linux/Basics/Communication - ping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Learning/Linux/Basics/Communication - ping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/CSS.md"
+                "file": "Learning/Linux/Basics/Communication - ping.md"
               }
             }
           }
@@ -152,13 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86d9b18bffcb7245",
+  "active": "57e8a6fb47c5148b",
   "lastOpenFiles": [
+    "Learning/Linux/Linux Index.md",
+    "Web Development/CSS/CSS.md",
     "Web Development/CSS/Image/Website layout.md",
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
-    "Web Development/CSS/CSS.md",
     "Learning/Linux/Basics/Communication - ping.md",
-    "Learning/Linux/Linux Index.md",
     "Learning/Linux/Images/Pasted image 20230601231154.png",
     "Learning/Linux/Basics/Processes - Linux.md",
     "conflict-files-obsidian-git.md",
