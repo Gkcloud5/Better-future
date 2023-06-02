@@ -40,5 +40,5 @@
 6. [[Responsive form]]
 7. [[Website layout]]
 8. [[Units - CSS]]
-9. [[Rounded cornors]]
+9. [[Rounded corners]]
 10. 
