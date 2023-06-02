@@ -20,4 +20,20 @@
 
 #### Common Desktop filesystem types:
 
-* 
+* **ext4:** 
+	* This is most current version of the native filesystems.
+* **Btrfs:**
+	* Better or Butter FS
+	* It is new filesystem for linux that comes with snapshots, incremental backups, performance increase and much more.
+* **XFS:**
+	* High performance journaling file system, great for a system with large files such as media server.
+* **NTFS and FAT:**
+	* Windows filesystems
+* **HFS+:**
+	* Macintosh filesystem
+
+```
+df -T
+```
+
+![[Pasted image 20230602230440.png]]
