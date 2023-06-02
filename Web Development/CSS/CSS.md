@@ -38,4 +38,5 @@
 4. [[Dropdown menu]]
 5. [[Image gallery]]
 6. [[Responsive form]]
-7. 
+7. [[Website layout]]
+8. 
