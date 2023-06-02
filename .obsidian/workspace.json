@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rounded corners.md",
+                "file": "Web Development/CSS/Advanced/Rounded corners.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rounded corners.md",
+                "file": "Web Development/CSS/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rounded corners.md",
+                "file": "Web Development/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rounded corners.md"
+                "file": "Web Development/CSS/CSS.md"
               }
             }
           }
@@ -170,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfe23685887fdb95",
+  "active": "6739f4eddafe96ab",
   "lastOpenFiles": [
+    "Web Development/CSS/Advanced/Rounded corners.md",
+    "Web Development/CSS/Image/Pasted image 20230602235303.png",
     "Web Development/CSS/CSS.md",
-    "Rounded corners.md",
     "Web Development/CSS/Image/Pasted image 20230602233258.png",
     "Web Development/CSS/Fundamentals/Units - CSS.md",
     "Web Development/CSS/Image/Pasted image 20230602233339.png",
@@ -198,7 +198,6 @@
     "Learning/Linux/Images/Pasted image 20230602074129.png",
     "Learning/Linux/Images/Pasted image 20230602073828.png",
     "Learning/Linux/Basics/Communication - ping.md",
-    "Web Development/CSS/Image/Pasted image 20230601234540.png",
     "Learning/Linux/Basics/Processes - Linux.md",
     "Learning/OS+Linux/OS And Linux.md",
     "Learning/Programming/Python/Problem solving/List/List-3.md"
