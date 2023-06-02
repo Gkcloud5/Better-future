@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e45a14ad5644982e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0542bf38a5328cd1",
@@ -130,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md"
               }
             }
           }
@@ -193,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e45a14ad5644982e",
+  "active": "82d0acf521c23e75",
   "lastOpenFiles": [
     "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
     "conflict-files-obsidian-git.md",
