@@ -79,4 +79,11 @@ prw-r--r--   1 root root           0 Dec 20 20:13 fdata
 
 #### udev:
 
-* udev systems dynamically creates and remove device files for us dependin
+* udev systems dynamically creates and remove device files for us depending on whether or not they are connected.
+* there is a `udevd` daemon that is running on the system and it listens for messages from the kernel about devices connected to the system.
+
+```
+udevadm info --query=all --name=/dev/sda
+```
+
+#### [dd](https://linuxjourney.com/lesson/dd-command)

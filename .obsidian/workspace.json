@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "9c0bc76cb041bf02",
+            "id": "82d0acf521c23e75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Basics/Devices - Linux.md",
+                "file": "Filesystem Hierarchy -Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Basics/Devices - Linux.md",
+                "file": "Filesystem Hierarchy -Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Basics/Devices - Linux.md",
+                "file": "Filesystem Hierarchy -Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Basics/Devices - Linux.md"
+                "file": "Filesystem Hierarchy -Linux.md"
               }
             }
           }
@@ -170,9 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c0bc76cb041bf02",
+  "active": "82d0acf521c23e75",
   "lastOpenFiles": [
     "Learning/Linux/Linux Index.md",
+    "Filesystem Hierarchy -Linux.md",
     "Learning/Linux/Basics/Devices - Linux.md",
     "Learning/Linux/Basics/vi editor.md",
     "Learning/Linux/Images/Pasted image 20230602074833.png",
