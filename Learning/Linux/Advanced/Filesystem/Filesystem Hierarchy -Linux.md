@@ -32,4 +32,5 @@
 6. [[Swap -Linux]]
 7. [[Filesystem repair]]
 8. [[Inode - Linux]]
-9. 
+9. [[Symlinks]]
+10. 

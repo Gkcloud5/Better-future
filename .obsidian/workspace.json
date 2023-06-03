@@ -40,31 +40,19 @@
             }
           },
           {
-            "id": "796f52c0e8d34e89",
+            "id": "bca6183a96c82b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2d3645758329be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inode - Linux.md",
+                "file": "Symlinks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inode - Linux.md",
+                "file": "Symlinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inode - Linux.md",
+                "file": "Symlinks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inode - Linux.md"
+                "file": "Symlinks.md"
               }
             }
           }
@@ -201,13 +189,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2d3645758329be9",
+  "active": "bca6183a96c82b4a",
   "lastOpenFiles": [
-    "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
+    "Symlinks.md",
+    "Inode - Linux.md",
+    "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
     "Learning/Linux/Advanced/Filesystem/Creating Filesystem.md",
     "Learning/Linux/Linux Index.md",
-    "Inode - Linux.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem repair.md",
     "Learning/Linux/Advanced/Filesystem/Disk Partitioning.md",
     "Learning/Linux/Advanced/Filesystem/Swap -Linux.md",
@@ -243,7 +232,6 @@
     "Learning/Programming/Python/Problem solving/List/List comprehension/List Comprehensions - 1.md",
     "Learning/Programming/Python/Problem solving/List/List-2.md",
     "Learning/Linux/Basics/Communication - ping.md",
-    "Learning/Linux/Basics/Processes - Linux.md",
     "Learning/Linux/Basics",
     "Learning/Linux/Images",
     "Learning/Programming/Python/Problem solving/List/Nested list",
