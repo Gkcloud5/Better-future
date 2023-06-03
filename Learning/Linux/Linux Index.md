@@ -23,4 +23,5 @@
 1. [[Devices - Linux]]
 2. [[Filesystem Hierarchy -Linux]]
 3. [[Boot the system]]
-4. 
+4. [[Kernel overview]]
+5. 

@@ -13,4 +13,10 @@
 
 ##### Upstart:
 
-* 
+* This is the init you will find on older ubuntu installation.
+
+##### Systemd:
+
+* This is new standard for init.
+* it is goal oriented.
+* Basically you have a goal that you want to achieve and systemd tries to satisfy the goal's dependencies to complete the goal.

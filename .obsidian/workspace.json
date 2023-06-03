@@ -28,31 +28,19 @@
             }
           },
           {
-            "id": "2b74134db5778efb",
+            "id": "a6e093e3e5ff2d95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Advanced/Booting/Boot the system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33e537c34a76c910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "init - Linux.md",
+                "file": "Kernel overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "init - Linux.md",
+                "file": "Kernel overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "init - Linux.md",
+                "file": "Kernel overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "init - Linux.md"
+                "file": "Kernel overview.md"
               }
             }
           }
@@ -189,18 +177,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33e537c34a76c910",
+  "active": "a6e093e3e5ff2d95",
   "lastOpenFiles": [
-    "Kernel.md",
-    "init - Linux.md",
     "Learning/Linux/Advanced/Booting/Boot the system.md",
+    "Kernel overview.md",
+    "Learning/Linux/Linux Index.md",
+    "Learning/Linux/Advanced/Booting/init - Linux.md",
+    "Learning/Linux/Advanced/Booting/Kernel.md",
     "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
     "Learning/Linux/Advanced/Booting/Bootloader - linux.md",
     "Learning/Linux/Images/Pasted image 20230603225557.png",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
     "Learning/Linux/Advanced/Booting/BIOS.md",
     "Learning/Linux/Advanced/Booting",
-    "Learning/Linux/Linux Index.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Learning/Linux/Advanced/Filesystem/Hardlinks.md",
     "Learning/Linux/Advanced/Filesystem/Symlinks.md",
@@ -226,7 +215,6 @@
     "Learning/Linux/Images/Pasted image 20230602230440.png",
     "Learning/Programming/Python/Problem solving/Python methods.md",
     "Learning/Programming/Python/Images/Pasted image 20230602164931.png",
-    "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/Programming/Python/Problem solving/String",
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
     "Learning/Programming/Python/Images/Pasted image 20230601164021.png",
