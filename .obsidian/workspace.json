@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3601854140b8cf5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f01dfb3bac43e52",
+  "active": "3601854140b8cf5f",
   "lastOpenFiles": [
     "Learning/Programming/Python/Problem solving/Python methods.md",
     "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
