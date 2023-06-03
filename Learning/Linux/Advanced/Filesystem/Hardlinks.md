@@ -12,5 +12,6 @@ ln myfile2 myhardlink
 ```
 
 * It is also same as symlink but this is not shortcut
-* Here hardlink file also connected to a inode so if you made any changes in any of file it will change to both files.
-* 
+* Here hardlink file also connected to a inode so if you made any changes in any of file it will change modification to both files.
+* But if i deleted any one of file then another file still there.
+* Link count is the number of hardlinks that an inode has
