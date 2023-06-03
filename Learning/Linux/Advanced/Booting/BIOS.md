@@ -10,5 +10,15 @@
 * BIOS main goal is to find the system bootloader.
 * Once the BIOS boots up the hard drive, it searches for the boot block to figure out how to boot up the system.
 * Depending on partition
-	* It will look MBR or 
+	* It will look MBR or GPT
+		* MBR is located in the first sector of the hard drive, first 512 bytes.
+		* MBR contains the code to load another program somewhere on the disk. this program in turn actually loads up bootloader.
+
+
+#### UEFI:
+
+* There is another way to boot up your system instead of using BIOS.
+* Unified extensible firmware interface.
+* Most hardware out there today comes with UEFI firmware.
+* first sector of a GPT disk is reserved for a "protective MBR" to make it possible to boot BIOS based machine.
 
