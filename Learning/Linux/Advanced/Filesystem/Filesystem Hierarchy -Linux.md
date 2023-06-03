@@ -29,4 +29,5 @@
 3. [[Disk Partitioning]]
 4. [[Creating Filesystem]]
 5. [[fstab]]
-6. 
+6. [[Swap -Linux]]
+7. 
