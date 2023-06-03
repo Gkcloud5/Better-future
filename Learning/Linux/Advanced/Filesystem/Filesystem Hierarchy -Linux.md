@@ -31,4 +31,5 @@
 5. [[fstab]]
 6. [[Swap -Linux]]
 7. [[Filesystem repair]]
-8. 
+8. [[Inode - Linux]]
+9. 
