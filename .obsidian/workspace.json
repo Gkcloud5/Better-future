@@ -16,34 +16,36 @@
             }
           },
           {
-            "id": "9f01dfb3bac43e52",
+            "id": "c6e621b81a766a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
+                "file": "Learning/Linux/Linux Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3601854140b8cf5f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
-            "id": "5cd73adb4fb53a28",
+            "id": "fae0b040ee7fcf07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f82df5191cf6042e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -124,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md"
               }
             }
           }
@@ -186,8 +189,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cd73adb4fb53a28",
+  "active": "f82df5191cf6042e",
   "lastOpenFiles": [
+    "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
+    "Learning/Linux/Linux Index.md",
+    "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
     "conflict-files-obsidian-git.md",
     "Web Development/CSS/Image/Pasted image 20230602235303.png",
     "Web Development/CSS/Image/Pasted image 20230602233339.png",
@@ -199,12 +205,9 @@
     "Learning/Linux/Images/Pasted image 20230602230440.png",
     "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
     "Learning/Programming/Python/Problem solving/Python methods.md",
-    "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
     "Learning/Programming/Python/Images/Pasted image 20230602164931.png",
     "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/Programming/Python/Problem solving/String",
-    "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
-    "Learning/Linux/Linux Index.md",
     "Web Development/CSS/Image/Website layout.md",
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
     "Learning/Programming/Python/Images/Pasted image 20230601164021.png",

@@ -14,4 +14,12 @@
 
 #### Partition:
 
-* Disks
+* Disks are comprised of partitions that help us organize our data. 
+* You can have multiple partitions on a disk and they can't overlap each other.
+* If space not allocated in a partition, then it is known as free space.
+* The types of partitions depend on your partition table
+
+##### MBR:
+
+* Traditional partition table, was used as standard.
+* Can have primary, extended and log
