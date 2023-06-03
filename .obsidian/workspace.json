@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel overview.md",
+                "file": "Learning/Linux/Advanced/Kernel/Kernel overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kernel overview.md",
+                "file": "Learning/Linux/Advanced/Kernel/Kernel overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kernel overview.md",
+                "file": "Learning/Linux/Advanced/Kernel/Kernel overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kernel overview.md"
+                "file": "Learning/Linux/Advanced/Kernel/Kernel overview.md"
               }
             }
           }
@@ -177,10 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e093e3e5ff2d95",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Linux/Advanced/Kernel",
     "Learning/Linux/Advanced/Booting/Boot the system.md",
-    "Kernel overview.md",
+    "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Learning/Linux/Linux Index.md",
     "Learning/Linux/Advanced/Booting/init - Linux.md",
     "Learning/Linux/Advanced/Booting/Kernel.md",
@@ -213,7 +213,6 @@
     "Web Development/CSS/Advanced/Background Image - CSS.md",
     "Web Development/CSS/Advanced",
     "Learning/Linux/Images/Pasted image 20230602230440.png",
-    "Learning/Programming/Python/Problem solving/Python methods.md",
     "Learning/Programming/Python/Images/Pasted image 20230602164931.png",
     "Learning/Programming/Python/Problem solving/String",
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
