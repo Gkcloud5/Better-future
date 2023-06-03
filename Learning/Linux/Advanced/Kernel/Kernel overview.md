@@ -10,3 +10,5 @@
 		* Kernel job is talk to the hardware to make sure it does what we want our process to do.
 	* Third level is user space
 		* it includes the shell, the programs that you run the graphics, etc.
+
+[[Privilege level -Kernel]]
