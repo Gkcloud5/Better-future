@@ -40,12 +40,12 @@
             }
           },
           {
-            "id": "cbcd5a69fafccfab",
+            "id": "f519348c549f997f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating Filesystem.md",
+                "file": "fstab.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creating Filesystem.md",
+                "file": "fstab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creating Filesystem.md",
+                "file": "fstab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creating Filesystem.md"
+                "file": "fstab.md"
               }
             }
           }
@@ -189,10 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbcd5a69fafccfab",
+  "active": "f519348c549f997f",
   "lastOpenFiles": [
-    "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Creating Filesystem.md",
+    "fstab.md",
+    "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
+    "etc/fstab.md",
+    "etc",
     "Disk Partitioning.md",
     "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
     "Learning/Linux/Images/Pasted image 20230603131251.png",
@@ -229,14 +232,11 @@
     "Learning/Linux/Basics/Pipes and filters.md",
     "Learning/Linux/Basics/Environment - Linux.md",
     "Learning/Linux/Basics/File permission - Linux.md",
-    "Web Development/CSS/Fundamentals/Responsive form.md",
-    "Web Development/CSS/CSS.md",
     "Learning/Linux/Basics",
     "Learning/Linux/Images",
     "Learning/Programming/Python/Problem solving/List/Nested list",
     "Learning/Linux",
     "Development/HTML/Practise/Images/32PRLI301467_idcard.pdf",
-    "Development/HTML/Practise/Images/Unconfirmed 342246.crdownload",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]

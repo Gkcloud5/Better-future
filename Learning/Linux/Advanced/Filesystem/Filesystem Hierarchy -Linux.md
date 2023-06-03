@@ -28,4 +28,5 @@
 2. [[Anatomy of a disk]]
 3. [[Disk Partitioning]]
 4. [[Creating Filesystem]]
-5. 
+5. [[fstab]]
+6. 
