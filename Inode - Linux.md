@@ -29,4 +29,18 @@
 ls -li
 ```
 
-* Inodes are identified by numbers, when a file gets created it is assigned
+* Inodes are identified by numbers, when a file gets created it is assigned an inode number.
+* Number is assigned in sequential order.
+
+```
+stat ~/Desktop/
+```
+
+
+#### How do inodes locate files?
+
+* Inodes point to the actual data blocks of your files.
+* In a typical filesystem, each inode contains 15 pointers, the first 12 pointers point directly to the data blocks.
+* the 13 the pointers point to a block containing pointers to more blocks.
+* the 14th pointer points to another nested block of pointers. 
+* and 15th pointer points yet again to another block of pointers.
