@@ -22,4 +22,21 @@
 ##### MBR:
 
 * Traditional partition table, was used as standard.
-* Can have primary, extended and log
+* Can have primary, extended and logical partitions.
+* MBR has a limit of four primary partitions.
+
+##### GPT:
+
+* GUID Partition Table, new standard for disk partitioning
+* Has only one type of partition and you can make many of them
+* Each partition has globally unique ID.
+* Used mostly in conjunction with UEFI based booting.
+
+#### File system structure:
+
+* File system is an organized and collection of files and directories.
+
+##### Boot Block:
+
+* 
+
