@@ -18,7 +18,7 @@
 * Bootloader loads the kernel into memory and then starts the kernel with a set of kernel parameters.
 * One of the most common bootloader is GRUB.
 
-#### Kernel:
+#### [[Kernel]]:
 
 * When the kernel is loaded, it immediately initialize device and memory.
 * Main job of the kernel is to load up the init process.

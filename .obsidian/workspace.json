@@ -40,12 +40,12 @@
             }
           },
           {
-            "id": "eecd71263d00b889",
+            "id": "9f99e400d73eda72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootloader - linux.md",
+                "file": "Kernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bootloader - linux.md",
+                "file": "Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bootloader - linux.md",
+                "file": "Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bootloader - linux.md"
+                "file": "Kernel.md"
               }
             }
           }
@@ -189,10 +189,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eecd71263d00b889",
+  "active": "9f99e400d73eda72",
   "lastOpenFiles": [
+    "Learning/Linux/Advanced/Booting/Bootloader - linux.md",
+    "Kernel.md",
     "Learning/Linux/Advanced/Booting/Boot the system.md",
-    "Bootloader - linux.md",
+    "Learning/Linux/Images/Pasted image 20230603225557.png",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
     "Learning/Linux/Advanced/Booting/BIOS.md",
     "Learning/Linux/Advanced/Booting",
@@ -228,9 +230,7 @@
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
     "Learning/Programming/Python/Images/Pasted image 20230601164021.png",
     "Learning/Programming/Python/Images/Pasted image 20230601164007.png",
-    "Learning/Linux/Images/Pasted image 20230602074833.png",
     "Learning/Linux/Basics/vi editor.md",
-    "Learning/Linux/Basics/Devices - Linux.md",
     "Learning/Linux/Advanced/Filesystem",
     "Learning/Linux/Advanced",
     "Learning/Linux/Basics",

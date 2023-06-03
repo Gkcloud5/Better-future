@@ -6,4 +6,6 @@
 	* Select a kernel to use
 	* Specify kernel parameters
 * Most common bootloader for linux is GRUB.
-* 
+
+![[Pasted image 20230603225557.png]]
+
