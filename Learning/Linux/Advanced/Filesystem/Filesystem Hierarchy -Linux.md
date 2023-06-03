@@ -30,4 +30,5 @@
 4. [[Creating Filesystem]]
 5. [[fstab]]
 6. [[Swap -Linux]]
-7. 
+7. [[Filesystem repair]]
+8. 

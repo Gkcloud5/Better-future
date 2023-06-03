@@ -15,4 +15,4 @@ du -h
 ```
 
 * df -h --> shows utilization of your currently mounted filesystems.
-* du -h --> it shows disk usage of current directory you are in
+* du -h --> it shows disk usage of current directory you are in.

@@ -40,12 +40,12 @@
             }
           },
           {
-            "id": "f1e6d5bff57f5d04",
+            "id": "f6d2e2ff57038c11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disk Partitioning.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem repair.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swap -Linux.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Swap -Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disk Partitioning.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem repair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Disk Partitioning.md",
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem repair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disk Partitioning.md"
+                "file": "Learning/Linux/Advanced/Filesystem/Filesystem repair.md"
               }
             }
           }
@@ -201,16 +201,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1e6d5bff57f5d04",
+  "active": "f6d2e2ff57038c11",
   "lastOpenFiles": [
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
-    "Swap -Linux.md",
+    "Learning/Linux/Advanced/Filesystem/Filesystem repair.md",
+    "Learning/Linux/Advanced/Filesystem/Disk Partitioning.md",
+    "Learning/Linux/Advanced/Filesystem/Swap -Linux.md",
     "Learning/Linux/Linux Index.md",
-    "fstab.md",
-    "Creating Filesystem.md",
+    "Learning/Linux/Advanced/Filesystem/fstab.md",
+    "Learning/Linux/Advanced/Filesystem/Creating Filesystem.md",
     "etc/fstab.md",
     "etc",
-    "Disk Partitioning.md",
     "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
     "Learning/Linux/Images/Pasted image 20230603131251.png",
     "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
@@ -243,7 +244,6 @@
     "Learning/Linux/Basics/Communication - ping.md",
     "Learning/Linux/Basics/Processes - Linux.md",
     "Learning/Linux/Basics/Pipes and filters.md",
-    "Learning/Linux/Basics/Environment - Linux.md",
     "Learning/Linux/Basics",
     "Learning/Linux/Images",
     "Learning/Programming/Python/Problem solving/List/Nested list",
