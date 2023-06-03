@@ -40,12 +40,12 @@
             }
           },
           {
-            "id": "f82df5191cf6042e",
+            "id": "cbcd5a69fafccfab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
+                "file": "Creating Filesystem.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
+                "file": "Creating Filesystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
+                "file": "Creating Filesystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md"
+                "file": "Creating Filesystem.md"
               }
             }
           }
@@ -189,9 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f82df5191cf6042e",
+  "active": "cbcd5a69fafccfab",
   "lastOpenFiles": [
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
+    "Creating Filesystem.md",
+    "Disk Partitioning.md",
+    "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
+    "Learning/Linux/Images/Pasted image 20230603131251.png",
     "Learning/Linux/Linux Index.md",
     "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
     "conflict-files-obsidian-git.md",
@@ -203,7 +207,6 @@
     "Web Development/CSS/Advanced/Background Image - CSS.md",
     "Web Development/CSS/Advanced",
     "Learning/Linux/Images/Pasted image 20230602230440.png",
-    "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
     "Learning/Programming/Python/Problem solving/Python methods.md",
     "Learning/Programming/Python/Images/Pasted image 20230602164931.png",
     "Learning/Programming/Python/Problem solving/List/List - 1.md",
@@ -213,7 +216,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230601164021.png",
     "Learning/Programming/Python/Images/Pasted image 20230601164007.png",
     "Learning/Linux/Images/Pasted image 20230602074833.png",
-    "Learning/Linux/Images/Pasted image 20230602074552.png",
     "Learning/Linux/Basics/vi editor.md",
     "Learning/Linux/Basics/Devices - Linux.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
@@ -229,7 +231,6 @@
     "Learning/Linux/Basics/File permission - Linux.md",
     "Web Development/CSS/Fundamentals/Responsive form.md",
     "Web Development/CSS/CSS.md",
-    "Learning/Linux/Basics/Linux MAN.md",
     "Learning/Linux/Basics",
     "Learning/Linux/Images",
     "Learning/Programming/Python/Problem solving/List/Nested list",

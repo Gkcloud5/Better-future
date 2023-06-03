@@ -26,4 +26,6 @@
 
 1. [[Filesystem Types]]
 2. [[Anatomy of a disk]]
-3. 
+3. [[Disk Partitioning]]
+4. [[Creating Filesystem]]
+5. 

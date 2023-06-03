@@ -50,5 +50,10 @@
 ##### Inode table:
 
 * This is a database that manages our files.
-* Each file or directory has a unique entry in the inode table and it has various infomation about the files.
+* Each file or directory has a unique entry in the inode table and it has various information about the files.
 
+##### Data Blocks:
+
+* This is the actual data for the files and directories.
+
+![[Pasted image 20230603131251.png]]
