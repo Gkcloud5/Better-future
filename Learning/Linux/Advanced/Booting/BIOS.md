@@ -21,4 +21,7 @@
 * Unified extensible firmware interface.
 * Most hardware out there today comes with UEFI firmware.
 * first sector of a GPT disk is reserved for a "protective MBR" to make it possible to boot BIOS based machine.
+* UEFI stores all the information about startup in an `.efi` file.
+* File is stored on a special partition called EFI system partition on the hardware.
+* inside this partition it will contain the bootloader.
 

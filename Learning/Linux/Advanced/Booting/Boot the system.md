@@ -13,7 +13,7 @@
 * It initialize the hardware and makes sure with a Power-on-self test(POST) that all the hardware is good to go.
 * The main job of the BIOS is to load up the bootloader
 
-#### Bootloader:
+#### [[Bootloader - linux]]:
 
 * Bootloader loads the kernel into memory and then starts the kernel with a set of kernel parameters.
 * One of the most common bootloader is GRUB.

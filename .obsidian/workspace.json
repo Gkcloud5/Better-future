@@ -40,12 +40,12 @@
             }
           },
           {
-            "id": "29f08101af94db4b",
+            "id": "eecd71263d00b889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Advanced/Booting/BIOS.md",
+                "file": "Bootloader - linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Booting/BIOS.md",
+                "file": "Bootloader - linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Booting/BIOS.md",
+                "file": "Bootloader - linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Booting/BIOS.md"
+                "file": "Bootloader - linux.md"
               }
             }
           }
@@ -189,9 +189,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29f08101af94db4b",
+  "active": "eecd71263d00b889",
   "lastOpenFiles": [
     "Learning/Linux/Advanced/Booting/Boot the system.md",
+    "Bootloader - linux.md",
+    "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
     "Learning/Linux/Advanced/Booting/BIOS.md",
     "Learning/Linux/Advanced/Booting",
     "Learning/Linux/Linux Index.md",
@@ -229,10 +231,8 @@
     "Learning/Linux/Images/Pasted image 20230602074833.png",
     "Learning/Linux/Basics/vi editor.md",
     "Learning/Linux/Basics/Devices - Linux.md",
-    "Learning/Linux/Advanced/Filesystem/Filesystem Types.md",
     "Learning/Linux/Advanced/Filesystem",
     "Learning/Linux/Advanced",
-    "Learning/Programming/Python/Problem solving/List/List-3.md",
     "Learning/Linux/Basics",
     "Learning/Linux/Images",
     "Learning/Programming/Python/Problem solving/List/Nested list",
