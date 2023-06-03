@@ -39,4 +39,7 @@
 5. [[Image gallery]]
 6. [[Responsive form]]
 7. [[Website layout]]
-8. 
+8. [[Units - CSS]]
+9. [[Rounded corners]]
+10. [[Background Image - CSS]]
+11. 
