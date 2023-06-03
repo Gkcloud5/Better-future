@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "f1e6d5bff57f5d04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disk Partitioning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c2dbc18d41c1e3be",
             "type": "leaf",
             "state": {
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swap -Linux.md",
+                "file": "Disk Partitioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Swap -Linux.md",
+                "file": "Disk Partitioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swap -Linux.md"
+                "file": "Disk Partitioning.md"
               }
             }
           }
@@ -189,7 +201,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2dbc18d41c1e3be",
+  "active": "f1e6d5bff57f5d04",
   "lastOpenFiles": [
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
     "Swap -Linux.md",

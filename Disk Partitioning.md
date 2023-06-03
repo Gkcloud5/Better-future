@@ -6,3 +6,13 @@
 	* parted --> It support both MBR and GPT
 	* gparted --> GUI version of parted
 	* gdisk --> it does not MBR.
+
+#### To check disk usage:
+
+```
+df -h
+du -h
+```
+
+* df -h --> shows utilization of your currently mounted filesystems.
+* du -h --> it shows disk usage of current directory you are in
