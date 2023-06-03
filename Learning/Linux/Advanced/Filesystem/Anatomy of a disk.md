@@ -38,5 +38,17 @@
 
 ##### Boot Block:
 
-* 
+* This is located in the first few sectors of the filesystem, and it's not really used by the file system.
+* It contains information used to boot the OS
+* Only one boot block is needed by the OS.
+
+##### Super Block:
+
+* This is single block it comes after the boot block.
+* It contains information about the filesystem, such as size of the inode table, logical blocks and the size of the filesystem.
+
+##### Inode table:
+
+* This is a database that manages our files.
+* Each file or directory has a unique entry in the inode table and it has various infomation about the files.
 
