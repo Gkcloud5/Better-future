@@ -31,4 +31,8 @@ total 12
 * Symbolic links are denoted by ``-``
 * When a modify a symlink then file also gets modified.
 * Inode numbers are unique to filesystems
-* 
+
+```
+#create a symlink
+ln -s myfile mylink
+```

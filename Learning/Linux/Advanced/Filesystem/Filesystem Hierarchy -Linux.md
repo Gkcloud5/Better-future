@@ -33,4 +33,5 @@
 7. [[Filesystem repair]]
 8. [[Inode - Linux]]
 9. [[Symlinks]]
-10. 
+10. [[Hardlinks]]
+11. 
