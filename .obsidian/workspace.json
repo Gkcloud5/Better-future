@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kernel.md",
+                "file": "Learning/Linux/Advanced/Booting/Boot the system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kernel.md",
+                "file": "Learning/Linux/Advanced/Booting/Boot the system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kernel.md"
+                "file": "Learning/Linux/Advanced/Booting/Boot the system.md"
               }
             }
           }
@@ -189,11 +189,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f99e400d73eda72",
+  "active": "2b74134db5778efb",
   "lastOpenFiles": [
-    "Learning/Linux/Advanced/Booting/Bootloader - linux.md",
-    "Kernel.md",
+    "Learning/Operating System/Theory Parts/Basics/Booting process/init.md",
     "Learning/Linux/Advanced/Booting/Boot the system.md",
+    "Kernel.md",
+    "Learning/Linux/Advanced/Booting/Bootloader - linux.md",
     "Learning/Linux/Images/Pasted image 20230603225557.png",
     "Learning/Operating System/Theory Parts/Basics/Booting process/Bootloader.md",
     "Learning/Linux/Advanced/Booting/BIOS.md",
@@ -230,7 +231,6 @@
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
     "Learning/Programming/Python/Images/Pasted image 20230601164021.png",
     "Learning/Programming/Python/Images/Pasted image 20230601164007.png",
-    "Learning/Linux/Basics/vi editor.md",
     "Learning/Linux/Advanced/Filesystem",
     "Learning/Linux/Advanced",
     "Learning/Linux/Basics",

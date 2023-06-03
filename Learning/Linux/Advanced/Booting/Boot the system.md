@@ -23,7 +23,7 @@
 * When the kernel is loaded, it immediately initialize device and memory.
 * Main job of the kernel is to load up the init process.
 
-#### init:
+#### [[init - Linux]]:
 
 * Remember the init process is the first process that gets started
 * init starts and stops essential service to the system
