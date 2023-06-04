@@ -1,7 +1,7 @@
 ---
 creation date: 2023-06-03 23:21
 modification date: Sunday 4th June 2023 17:29:22
-tag: 
+tag: #kernel, #privilege
 ---
 
 #### Source:

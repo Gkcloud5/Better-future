@@ -40,18 +40,6 @@
             }
           },
           {
-            "id": "1c9449cc4a689546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed7807c789523123",
             "type": "leaf",
             "state": {
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+                "file": "System Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+                "file": "System Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md"
+                "file": "System Calls.md"
               }
             }
           }
@@ -237,13 +225,13 @@
       }
     ]
   },
-  "active": "1c9449cc4a689546",
+  "active": "ed7807c789523123",
   "lastOpenFiles": [
-    "Learning/Linux/Advanced/Kernel/Kernel overview.md",
-    "System Calls.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Template/Theory template.md",
     "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+    "System Calls.md",
+    "Template/Theory template.md",
+    "Learning/Linux/Advanced/Kernel/Kernel overview.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Linux/Images/Pasted image 20230604184938.png",
     "Learning/Linux/Images/Pasted image 20230604181108.png",
     "Theory.md",

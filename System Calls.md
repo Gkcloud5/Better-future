@@ -1,16 +1,18 @@
 ---
 creation date: 2023-06-04 18:50
 modification date: Sunday 4th June 2023 18:50:35
-tag: 
+tag: #kernel
+Links: [[Syste,]]
 ---
 
 #### Source:
-
+[LJ](https://linuxjourney.com/lesson/system-calls)
 
 -----------------------------------------------------
 #### What is it?
 
-
+* System call provide user space processes a way to request the kernel to do something for us.
+* 
 -----------------------------------------------------
 #### Why we need it?
 
@@ -20,7 +22,7 @@ tag:
 
 
 -----------------------------------------------------
-#### Concept:
+#### Explanation about it:
 
 
 -----------------------------------------------------
