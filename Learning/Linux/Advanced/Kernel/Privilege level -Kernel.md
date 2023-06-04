@@ -20,10 +20,12 @@ tag:
 
 ![[Pasted image 20230604181108.png]]
 
-
+* Processes are executed in this protection rings then process has little limitation as per the ring process in.
 -----------------------------------------------------
 #### Why we need it?
 
+* Protection rings are one of the key solutions for sharing resources and hardware.
+* 
 
 -----------------------------------------------------
 #### Where it comes?
