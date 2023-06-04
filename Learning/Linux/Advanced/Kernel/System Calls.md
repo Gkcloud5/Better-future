@@ -14,6 +14,9 @@ tag: #kernel
 * The kernel makes certain services available through the system call API.
 	* These services allow us to read or write to a file, modify memory usage, modify our network, etc.
 * OS already has table of what system call exist and each system call has a unique ID.
+* It is a programmatic method in which computer program requests a service from the kernel of the OS.
+
+![[Pasted image 20230604210613.png]]
 -----------------------------------------------------
 #### Why we need it?
 
