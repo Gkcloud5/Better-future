@@ -62,21 +62,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ab66fc37d9aa0167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Theory template.md",
+                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Theory template.md",
+                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Theory template.md"
+                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md"
               }
             }
           }
@@ -214,12 +202,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e26b55e6dd5e1d5c",
+  "active": "d11a14a1d3d0a1f2",
   "lastOpenFiles": [
-    "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
-    "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Template/Theory template.md",
     "Theory.md",
+    "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+    "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Learning/Linux/Linux Index.md",
     "2023-06-03.md",
     "Template",
