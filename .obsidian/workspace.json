@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "f22d23e33e85a544",
+            "id": "1c9449cc4a689546",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "e26b55e6dd5e1d5c",
+            "id": "ed7807c789523123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Theory template.md",
+                "file": "System Calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,12 +202,50 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f22d23e33e85a544",
+  "floating": {
+    "id": "4445a09b7514e3d9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7e8fcb31245ea9b5",
+        "type": "window",
+        "children": [
+          {
+            "id": "0899fc423ec61419",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8ca13db3f31ffb8",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1514,
+        "y": 22,
+        "width": 916,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1c9449cc4a689546",
   "lastOpenFiles": [
     "Learning/Linux/Advanced/Kernel/Kernel overview.md",
-    "Learning/Linux/Images/Pasted image 20230604181108.png",
-    "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+    "System Calls.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Template/Theory template.md",
+    "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+    "Learning/Linux/Images/Pasted image 20230604184938.png",
+    "Learning/Linux/Images/Pasted image 20230604181108.png",
     "Theory.md",
     "Learning/Linux/Linux Index.md",
     "2023-06-03.md",
@@ -235,7 +273,6 @@
     "etc/fstab.md",
     "etc",
     "Learning/Linux/Images/Pasted image 20230603131251.png",
-    "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
     "Web Development/CSS/Image/Pasted image 20230602235303.png",
     "Web Development/CSS/Image/Pasted image 20230602233339.png",
     "Web Development/CSS/Image/Pasted image 20230602233258.png",
@@ -244,7 +281,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230602164931.png",
     "Learning/Programming/Python/Problem solving/String",
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
-    "Learning/Programming/Python/Images/Pasted image 20230601164021.png",
     "Learning/Linux/Advanced/Filesystem",
     "Learning/Linux/Advanced",
     "Learning/Linux/Basics",

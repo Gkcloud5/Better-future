@@ -12,3 +12,6 @@
 		* it includes the shell, the programs that you run the graphics, etc.
 
 [[Privilege level -Kernel]]
+
+[[System Calls]]
+

@@ -73,6 +73,10 @@ tag:
 -----------------------------------------------------
 #### Simple Explanation:
 
-* Kernel is a important thing to connect hardware and getting work from hardware so if any mistake happen in hardware while doing process it will affect hole computer process so we need to avoid this thing so that we can use privilege ring to control the hardware resources with different layer. not all layer have direct connection to hardware so mostly unexcepted thing not going to happen
+* Kernel is a important thing to connect hardware and getting work from hardware so if any mistake happen in hardware while doing process it will affect hole computer process so we need to avoid this thing so that we can use privilege ring to control the hardware resources with different layer. not all layer have direct connection to hardware so mostly unexcepted thing not going to happen.
+* System calls allow us to perform privileged instruction in kernel mode and then switch back to the user mode.
+
 -----------------------------------------------------
 #### Visual image of topic:
+
+![[Pasted image 20230604184938.png]]
