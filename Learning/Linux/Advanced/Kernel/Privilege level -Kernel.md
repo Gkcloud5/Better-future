@@ -18,6 +18,9 @@ tag:
 	* Computers are often running multiple software processes at once, and these will require differing levels of access to resources and hardware.
 	* Process are executed in layered "rings". where each ring has different access rights to resources.
 
+![[Pasted image 20230604181108.png]]
+
+
 -----------------------------------------------------
 #### Why we need it?
 

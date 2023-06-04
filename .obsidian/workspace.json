@@ -43,11 +43,9 @@
             "id": "d11a14a1d3d0a1f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
-                "mode": "source",
-                "source": false
+                "file": "Learning/Pasted image 20230604181108.png"
               }
             }
           },
@@ -114,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -139,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+                "file": "Learning/Pasted image 20230604181108.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+                "file": "Learning/Pasted image 20230604181108.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md"
+                "file": "Learning/Pasted image 20230604181108.png"
               }
             }
           }
@@ -204,8 +201,9 @@
   },
   "active": "d11a14a1d3d0a1f2",
   "lastOpenFiles": [
-    "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+    "Learning/Pasted image 20230604181108.png",
+    "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Template/Theory template.md",
     "Theory.md",
     "Learning/Linux/Linux Index.md",
@@ -235,7 +233,6 @@
     "etc",
     "Learning/Linux/Images/Pasted image 20230603131251.png",
     "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
-    "conflict-files-obsidian-git.md",
     "Web Development/CSS/Image/Pasted image 20230602235303.png",
     "Web Development/CSS/Image/Pasted image 20230602233339.png",
     "Web Development/CSS/Image/Pasted image 20230602233258.png",
@@ -245,7 +242,6 @@
     "Learning/Programming/Python/Problem solving/String",
     "Web Development/CSS/Image/Pasted image 20230601234540.png",
     "Learning/Programming/Python/Images/Pasted image 20230601164021.png",
-    "Learning/Programming/Python/Images/Pasted image 20230601164007.png",
     "Learning/Linux/Advanced/Filesystem",
     "Learning/Linux/Advanced",
     "Learning/Linux/Basics",
