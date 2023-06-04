@@ -32,7 +32,11 @@ tag:
 -----------------------------------------------------
 #### Where it comes?
 
-* 
+* OS have two different abstraction layer
+	* Kernel space
+	* User space
+* Both layer operates in two different mode.
+	* Kernel operated
 -----------------------------------------------------
 #### Explanation about it:
 
