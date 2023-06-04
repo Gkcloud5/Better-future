@@ -11,6 +11,7 @@ tag: #kernel
 #### What is it?
 
 * System call provide user space processes a way to request the kernel to do something for us.
+* The kernel makes certain services available through the system call API.
 * 
 -----------------------------------------------------
 #### Why we need it?
