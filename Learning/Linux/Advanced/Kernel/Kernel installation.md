@@ -10,4 +10,21 @@ tag: #kernel #Linux #OS
 -----------------------------------------------------
 #### Explanation about it:
 
-* 
+* We can install multiple kernels on our system.
+* We can select kernel in grub menu
+
+```
+uname -r
+3.19.0-generic
+```
+
+```
+Update a kernel
+apt dist-upgrade
+```
+
+
+* If we install a kernel, it will add couple of file in /boot directory.
+
+![[Pasted image 20230604225434.png]]
+
