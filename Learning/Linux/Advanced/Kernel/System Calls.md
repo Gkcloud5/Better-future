@@ -48,11 +48,17 @@ tag: #kernel
 
 * It helps OS to efficiently manage system resources.
 * It play crucial role in enforcing security and protection mechanism.
-* It will create, 
+* It will create, terminating and managing process.
+* It can be used to Interprocess communication, like exchange data, share resources.
+* It provide standardized interface for program to interact with the OS.
+
 -----------------------------------------------------
 #### Simple Explanation:
 
-
+* System call helps user's program to access computer hardware with a help of kernel.
+* It validity request from users so it consider security check also.
+* By requesting and releasing resource, it will helps OS to utilize a resource more efficiently.
+* it helps to manage process also
 -----------------------------------------------------
 #### Visual image of topic:
 

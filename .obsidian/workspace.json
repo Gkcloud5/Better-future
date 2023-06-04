@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/System Calls.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/System Calls.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/System Calls.md"
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           }
@@ -232,17 +232,17 @@
         "y": 22,
         "width": 916,
         "height": 992,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "ed7807c789523123",
+  "active": "d8ca13db3f31ffb8",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230604210613.png",
+    "Learning/Linux/Advanced/Kernel/System Calls.md",
+    "Learning/Linux/Images/Pasted image 20230604210613.png",
     "Template/Theory template.md",
     "Learning/Linux/Advanced/Kernel/Kernel overview.md",
-    "Learning/Linux/Advanced/Kernel/System Calls.md",
     "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Linux/Images/Pasted image 20230604184938.png",
@@ -280,7 +280,6 @@
     "Learning/Linux/Images/Pasted image 20230602230440.png",
     "Learning/Programming/Python/Images/Pasted image 20230602164931.png",
     "Learning/Programming/Python/Problem solving/String",
-    "Web Development/CSS/Image/Pasted image 20230601234540.png",
     "Learning/Linux/Advanced/Filesystem",
     "Learning/Linux/Advanced",
     "Learning/Linux/Basics",
