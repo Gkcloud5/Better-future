@@ -7,13 +7,16 @@ tag:
 #### Source:
 [LJ](https://linuxjourney.com/lesson/kernel-privilege-levels)
 [S1](https://www.baeldung.com/cs/os-rings)
+[S2](https://www.futurelearn.com/info/courses/computer-systems/0/steps/53514)
 
 -----------------------------------------------------
 #### What is it?
 
 * OS provide different level to access resources.
 * This are hierarchically arranged from most privileged to least privileged.
-* 
+* OS manages system resources, such as processing time on the CPU and access to memory
+	* Computers are often running multiple software processes at once, and these will require differing levels of access to resources and hardware.
+	* Process are executed in layered "rings". where each ring has different access rights to resources.
 
 -----------------------------------------------------
 #### Why we need it?
