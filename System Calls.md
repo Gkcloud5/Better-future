@@ -2,7 +2,6 @@
 creation date: 2023-06-04 18:50
 modification date: Sunday 4th June 2023 18:50:35
 tag: #kernel
-Links: [[Syste,]]
 ---
 
 #### Source:
@@ -35,3 +34,9 @@ Links: [[Syste,]]
 
 -----------------------------------------------------
 #### Visual image of topic:
+
+
+--------------------------------------------
+#### Links:
+
+[[System Call]]
