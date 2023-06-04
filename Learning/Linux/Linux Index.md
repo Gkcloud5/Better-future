@@ -24,4 +24,5 @@
 2. [[Filesystem Hierarchy -Linux]]
 3. [[Boot the system]]
 4. [[Kernel overview]]
-5. 
+5. [[init Process]]
+6. 
