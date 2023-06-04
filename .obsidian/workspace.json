@@ -52,7 +52,7 @@
             }
           },
           {
-            "id": "52d35b60e0a31225",
+            "id": "e26b55e6dd5e1d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,12 +64,12 @@
             }
           },
           {
-            "id": "e26b55e6dd5e1d5c",
+            "id": "ab66fc37d9aa0167",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Theory template.md",
+                "file": "Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Theory template.md",
+                "file": "Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Theory template.md",
+                "file": "Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Theory template.md"
+                "file": "Theory.md"
               }
             }
           }
@@ -214,15 +214,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e26b55e6dd5e1d5c",
+  "active": "ab66fc37d9aa0167",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2023-06-03.md",
     "Template/Theory template.md",
-    "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
-    "Template",
     "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Learning/Linux/Linux Index.md",
+    "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+    "Theory.md",
+    "2023-06-03.md",
+    "Template",
     "Learning/Linux/Advanced/Kernel",
     "Learning/Linux/Advanced/Booting/Boot the system.md",
     "Learning/Linux/Advanced/Booting/init - Linux.md",
