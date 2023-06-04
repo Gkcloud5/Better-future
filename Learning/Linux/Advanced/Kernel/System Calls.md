@@ -22,15 +22,20 @@ tag: #kernel
 #### Why we need it?
 
 * ##### Access to privileged instructions:
-	* System call allow user-level programs to execute privileged instructions that are restricted from direct execution. this instructions might involce
+	* System call allow user-level programs to execute privileged instructions that are restricted from direct execution. this instructions might involve accessing hardware devices.
+* ##### Resource Management:
+	* System call enable programs to request and release system resources such as files, network connections and hardware devices.
+* ##### Process control:
+	* It allow programs to create, terminate and manage processes.
 -----------------------------------------------------
 #### Where it comes?
 
-
+* System call is a bridge between user interface and kernel.
 -----------------------------------------------------
 #### Explanation about it:
 
-
+* A system call is a way for a program running on a computer to request services from the OS.
+* It acts as a bridge between user-level programs(application) and the low
 -----------------------------------------------------
 #### Benefit:
 
