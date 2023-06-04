@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Calls.md",
+                "file": "Learning/Linux/Advanced/Kernel/System Calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Calls.md",
+                "file": "Learning/Linux/Advanced/Kernel/System Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Calls.md",
+                "file": "Learning/Linux/Advanced/Kernel/System Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Calls.md"
+                "file": "Learning/Linux/Advanced/Kernel/System Calls.md"
               }
             }
           }
@@ -237,11 +237,11 @@
       }
     ]
   },
-  "active": "ed7807c789523123",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Template/Theory template.md",
     "Learning/Linux/Advanced/Kernel/Kernel overview.md",
-    "System Calls.md",
+    "Learning/Linux/Advanced/Kernel/System Calls.md",
     "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Linux/Images/Pasted image 20230604184938.png",
