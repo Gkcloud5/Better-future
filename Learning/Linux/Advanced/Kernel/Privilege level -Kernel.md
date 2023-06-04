@@ -6,10 +6,14 @@ tag:
 
 #### Source:
 [LJ](https://linuxjourney.com/lesson/kernel-privilege-levels)
+[S1](https://www.baeldung.com/cs/os-rings)
 
 -----------------------------------------------------
 #### What is it?
 
+* OS provide different level to access resources.
+* This are hierarchically arranged from most privileged to least privileged.
+* 
 
 -----------------------------------------------------
 #### Why we need it?
