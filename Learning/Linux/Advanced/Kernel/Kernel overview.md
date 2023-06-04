@@ -15,3 +15,5 @@
 
 [[System Calls]]
 
+[[Kernel installation]]
+

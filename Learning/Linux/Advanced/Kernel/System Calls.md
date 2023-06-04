@@ -18,7 +18,8 @@ tag: #kernel
 * It provide a way for user-level program to interact with the OS kernel.
 
 ![[Pasted image 20230604210613.png]]
------------------------------------------------------
+
+----------------------------------------------------------------------
 
 #### Why we need it?
 
@@ -59,9 +60,11 @@ tag: #kernel
 * It validity request from users so it consider security check also.
 * By requesting and releasing resource, it will helps OS to utilize a resource more efficiently.
 * it helps to manage process also
+
 -----------------------------------------------------
 #### Visual image of topic:
 
+![[Pasted image 20230604212927.png]]
 
 --------------------------------------------
 #### Links:

@@ -40,12 +40,12 @@
             }
           },
           {
-            "id": "cde46c429a8e6c0d",
+            "id": "66fad937be293b5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Theory template.md",
+                "file": "Learning/Linux/Advanced/Kernel/Kernel installation.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Linux/Advanced/Kernel/Kernel installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Linux/Advanced/Kernel/Kernel installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Learning/Linux/Advanced/Kernel/Kernel installation.md"
               }
             }
           }
@@ -237,14 +237,16 @@
       }
     ]
   },
-  "active": "d8ca13db3f31ffb8",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Linux/Advanced/Kernel/System Calls.md",
-    "Learning/Linux/Images/Pasted image 20230604210613.png",
-    "Template/Theory template.md",
     "Learning/Linux/Advanced/Kernel/Kernel overview.md",
-    "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+    "Learning/Linux/Advanced/Kernel/Kernel installation.md",
+    "Template/Theory template.md",
+    "Learning/Linux/Advanced/Kernel/System Calls.md",
+    "Learning/Linux/Images/Pasted image 20230604212927.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Linux/Images/Pasted image 20230604210613.png",
+    "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
     "Learning/Linux/Images/Pasted image 20230604184938.png",
     "Learning/Linux/Images/Pasted image 20230604181108.png",
     "Theory.md",
@@ -278,7 +280,6 @@
     "Web Development/CSS/Image/Pasted image 20230602233258.png",
     "Web Development/CSS/Advanced",
     "Learning/Linux/Images/Pasted image 20230602230440.png",
-    "Learning/Programming/Python/Images/Pasted image 20230602164931.png",
     "Learning/Programming/Python/Problem solving/String",
     "Learning/Linux/Advanced/Filesystem",
     "Learning/Linux/Advanced",
