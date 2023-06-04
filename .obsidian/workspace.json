@@ -206,52 +206,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "4445a09b7514e3d9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7e8fcb31245ea9b5",
-        "type": "window",
-        "children": [
-          {
-            "id": "0899fc423ec61419",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d8ca13db3f31ffb8",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1514,
-        "y": 22,
-        "width": 916,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "f75bce92eb5b8e1e",
   "lastOpenFiles": [
-    "Learning/Linux/Linux Index.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "init Process.md",
+    "Learning/Linux/Linux Index.md",
     "Learning/Linux/Advanced/Kernel/Kernel installation.md",
     "Learning/Linux/Images/Pasted image 20230604225434.png",
     "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Template/Theory template.md",
     "Learning/Linux/Advanced/Kernel/System Calls.md",
     "Learning/Linux/Images/Pasted image 20230604212927.png",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Linux/Images/Pasted image 20230604210613.png",
     "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
     "Learning/Linux/Images/Pasted image 20230604184938.png",
