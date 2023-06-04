@@ -8,6 +8,7 @@ tag:
 [LJ](https://linuxjourney.com/lesson/kernel-privilege-levels)
 [S1](https://www.baeldung.com/cs/os-rings)
 [S2](https://www.futurelearn.com/info/courses/computer-systems/0/steps/53514)
+[S3](https://www.geeksforgeeks.org/protection-ring/)
 
 -----------------------------------------------------
 #### What is it?
@@ -36,10 +37,23 @@ tag:
 	* Kernel space
 	* User space
 * Both layer operates in two different mode.
-	* Kernel operated
+	* Kernel space operated in kernel mode
+	* User space operated in user mode
+* This privilege ring comes under a kernel mode
+
 -----------------------------------------------------
 #### Explanation about it:
 
+* It mainly provide limit to process to access a resources.
+* the limitation is based on where is that process in layer.
+* Levels of ring protection
+	* Ring 0
+	* Ring 3
+	* Ring 1 and Ring 2
+
+* ##### Ring 0:
+	* It is accessible to the kernel, which is a central part of most OS and can access everything.
+	* Code running here is said to be running in kernel mode.
 
 -----------------------------------------------------
 #### Benefit:
