@@ -63,13 +63,16 @@ tag:
 	* It has special privileges that ring 3 does not.
 	* Ring 1 is used to interact with and control hardware connected to your computer
 	* Ring 2 is used for instructions that need to interact with system storage, loading and saving files.
+
 -----------------------------------------------------
 #### Benefit:
 
+* It provides better control over the access of system resources.
+* It ensures that the users only have access to the resources they are authorized to access, thus improving computer security.
 
 -----------------------------------------------------
 #### Simple Explanation:
 
-
+* Kernel is a important thing to connect hardware and getting work from hardware so if any mistake happen in hardware while doing process it will affect hole computer process so we need to avoid this thing so that we can use privilege ring to control the hardware resources with different layer. not all layer have direct connection to hardware so mostly unexcepted thing not going to happen
 -----------------------------------------------------
 #### Visual image of topic:
