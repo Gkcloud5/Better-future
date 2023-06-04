@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+                "file": "Template/Theory template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
+                "file": "Template/Theory template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md"
+                "file": "Template/Theory template.md"
               }
             }
           }
@@ -202,11 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d11a14a1d3d0a1f2",
+  "active": "e26b55e6dd5e1d5c",
   "lastOpenFiles": [
+    "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
     "Template/Theory template.md",
     "Theory.md",
-    "Learning/Linux/Advanced/Kernel/Privilege level -Kernel.md",
     "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Learning/Linux/Linux Index.md",
     "2023-06-03.md",
