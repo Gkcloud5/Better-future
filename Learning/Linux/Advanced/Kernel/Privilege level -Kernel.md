@@ -39,7 +39,7 @@ tag:
 * Both layer operates in two different mode.
 	* Kernel space operated in kernel mode
 	* User space operated in user mode
-* This privilege ring comes under a kernel mode
+* This privilege ring comes under a process, based on process it will placed in layer
 
 -----------------------------------------------------
 #### Explanation about it:
@@ -54,7 +54,15 @@ tag:
 * ##### Ring 0:
 	* It is accessible to the kernel, which is a central part of most OS and can access everything.
 	* Code running here is said to be running in kernel mode.
-
+	* Process running in kernel mode affect all the entire system if anything fails here
+* ##### Ring 3:
+	* It is a least privilege ring
+	* It is accessible to the user processes that are running in user mode.
+	* This ring has no direct access to the CPU or memory.
+* ##### Rings 1 and 2:
+	* It has special privileges that ring 3 does not.
+	* Ring 1 is used to interact with and control hardware connected to your computer
+	* Ring 2 is used for instructions that need to interact with system storage, loading and saving files.
 -----------------------------------------------------
 #### Benefit:
 
