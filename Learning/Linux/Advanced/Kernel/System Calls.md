@@ -15,12 +15,14 @@ tag: #kernel
 	* These services allow us to read or write to a file, modify memory usage, modify our network, etc.
 * OS already has table of what system call exist and each system call has a unique ID.
 * It is a programmatic method in which computer program requests a service from the kernel of the OS.
+* It provide a way for user-level program to interact with the OS kernel.
 
 ![[Pasted image 20230604210613.png]]
 -----------------------------------------------------
 #### Why we need it?
 
-
+* ##### Access to privileged instructions:
+	* System call allow user-level programs to execute privileged instructions that are restricted from direct execution. this instructions might involce
 -----------------------------------------------------
 #### Where it comes?
 
