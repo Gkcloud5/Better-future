@@ -33,10 +33,12 @@ tag: #kernel #process
 * If a process has one thread it is single-threaded and if a process has more than one thread it is multi-threaded.
 * Each thread represents an independent sequence instructions.
 * OS scheduler determines the order and duration of execution for each thread.
-* Threads within a process share the same memory space and resources, allowing them to commuicate an
+* Threads within a process share the same memory space and resources, allowing them to communicate and coordinate easily.
+* When the OS starts executing a program, it typically creates a primary thread, known as the main thread. the main thread is responsible for initiating the execution of other threads.
 -----------------------------------------------------
 #### Benefit:
 
+* **Concurrency:** threads enable concurrent execution of multiple tasks within a single process.
 
 -----------------------------------------------------
 #### Simple Explanation:
