@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "init Process.md",
+                "file": "Learning/Linux/Advanced/Init/init Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "init Process.md",
+                "file": "Learning/Linux/Linux Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "init Process.md",
+                "file": "Learning/Linux/Linux Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "init Process.md"
+                "file": "Learning/Linux/Linux Index.md"
               }
             }
           }
@@ -206,10 +205,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f75bce92eb5b8e1e",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Linux/Advanced/Init",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "init Process.md",
+    "Learning/Linux/Advanced/Init/init Process.md",
     "Learning/Linux/Linux Index.md",
     "Learning/Linux/Advanced/Kernel/Kernel installation.md",
     "Learning/Linux/Images/Pasted image 20230604225434.png",
@@ -242,7 +242,6 @@
     "Learning/Linux/Advanced/Filesystem/Creating Filesystem.md",
     "Learning/Linux/Advanced/Filesystem/Filesystem repair.md",
     "Learning/Linux/Advanced/Filesystem/Disk Partitioning.md",
-    "Learning/Linux/Advanced/Filesystem/Swap -Linux.md",
     "etc",
     "Learning/Linux/Images/Pasted image 20230603131251.png",
     "Web Development/CSS/Image/Pasted image 20230602235303.png",
