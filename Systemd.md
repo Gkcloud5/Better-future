@@ -19,4 +19,4 @@ tag: #kernl #OS #init
 	* First, systemd loads its configuration files, usually located in /etc/systemd/system or /usr/lib/systemd/system.
 	* Then it determines its boot goal, which is usually default.target
 	* Systemd figures out the dependencies of the boot target and activates them.
-* systemd does not
+* systemd does not just start and stop services, it can mount filesystems, monitor your network sockets, etc and because of that robustness it has different types
