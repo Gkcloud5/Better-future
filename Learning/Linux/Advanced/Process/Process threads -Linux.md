@@ -18,15 +18,20 @@ tag: #kernel #process
 
 * **To improve performance:**
 	* threads can run concurrently on the multiple CPU's, which significantly improve the performance of an application
-* 
+* It improve resource utilization.
 -----------------------------------------------------
 #### Where it comes?
 
+* Process synchronization
+* multiprogramming OS
 
 -----------------------------------------------------
 #### Explanation about it:
 
-
+* Threads are used to execute the same program.
+* They are often referred to as lightweight processes.
+* If a process has one thread it is single-threaded and if a process has more than one thread it is multi-threaded.
+* 
 -----------------------------------------------------
 #### Benefit:
 
