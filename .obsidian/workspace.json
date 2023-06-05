@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -170,7 +169,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "94c4e9d663cc0e68",
   "lastOpenFiles": [
     "Web Development/CSS/Advanced/Background Image - CSS.md",
     "Web Development/CSS/Advanced/CSS Shadow.md",
