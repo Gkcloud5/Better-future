@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process Utlizations.md",
+                "file": "Learning/Linux/Advanced/Process/Process Utlizations.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracking process - TOP.md",
+                "file": "Learning/Linux/Advanced/Process/Tracking process - TOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracking process - TOP.md",
+                "file": "Learning/Linux/Advanced/Process/Tracking process - TOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracking process - TOP.md",
+                "file": "Learning/Linux/Advanced/Process/Tracking process - TOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracking process - TOP.md"
+                "file": "Learning/Linux/Advanced/Process/Tracking process - TOP.md"
               }
             }
           }
@@ -196,8 +197,8 @@
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Linux/Advanced/Process",
-    "Process Utlizations.md",
-    "Tracking process - TOP.md",
+    "Learning/Linux/Advanced/Process/Process Utlizations.md",
+    "Learning/Linux/Advanced/Process/Tracking process - TOP.md",
     "Learning/Linux/Linux Index.md",
     "Template/Theory template.md",
     "Template/Simple explain template.md",
