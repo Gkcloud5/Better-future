@@ -11,3 +11,11 @@ tag:
 
 #### Explanation about it:
 
+* Monitor CPU usage
+
+```
+iostat
+```
+
+![[Pasted image 20230605231441.png]]
+
