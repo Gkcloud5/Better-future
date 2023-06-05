@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -169,7 +170,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "9ddeae9fe19a0a7f",
   "lastOpenFiles": [
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Advanced/2D transfroms.md",
