@@ -10,11 +10,15 @@ tag: #kernel #process
 -----------------------------------------------------
 #### What is it?
 
-
+* A thread is a basic unit of execution within a process.
+* thread sharing the same memory space and resource with their parent process so sometimes we call it as lightweight process.
+* Threads helps to running a multiple tasks simultaneously or in parallel.
 -----------------------------------------------------
 #### Why we need it?
 
-
+* **To improve performance:**
+	* threads can run concurrently on the multiple CPU's, which significantly improve the performance of an application
+* 
 -----------------------------------------------------
 #### Where it comes?
 
@@ -38,6 +42,5 @@ tag: #kernel #process
 -----------------------------------------------------
 
 #### Links:
-
-[[Threads]]
-[[Threads]]
+* [[Threads]]
+* [[Threads in OS]]
