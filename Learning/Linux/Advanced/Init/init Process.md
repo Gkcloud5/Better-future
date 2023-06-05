@@ -16,6 +16,9 @@ tag: #linux #OS #init #kernel
 -----------------------------------------------------
 #### Why we need it?
 
+* It is also known as father of all the process.
+* It ensures that all of the necessary processes are started when the system boots up.
+* It helps to keep the system stable, if a process crashes, the init process can restart it.
 
 -----------------------------------------------------
 #### Where it comes?
@@ -25,7 +28,11 @@ tag: #linux #OS #init #kernel
 -----------------------------------------------------
 #### Explanation about it:
 
-
+* Different versions of linux have used different init systems. the most common init systems are:
+	* [[System V]]
+	* [[Upstart]]
+	* [[Systemd]]
+* 
 -----------------------------------------------------
 #### Benefit:
 
