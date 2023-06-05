@@ -20,4 +20,4 @@ uptime
 * load average is a information about the CPU load on your system.
 * This number represent the average CPU load in 1, 5 and 15 minute intervals.
 * CPU load is the average number of processes that are waiting to be executed by the CPU.
-* 
+
