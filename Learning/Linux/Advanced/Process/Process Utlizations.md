@@ -19,4 +19,6 @@ tag: #OS #process #Linux
 
  [[Process threads -Linux]]
 
+ [[CPU monitoring]]
+
  [[]]

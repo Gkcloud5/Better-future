@@ -48,10 +48,10 @@ tag: #kernel #process
 * Threads operation is same like process, trying to do a run a program, but here threads is created inside a process, creation of thread is completely depends on a process, if process needs multiple thread then it may create it
 * Created thread share a same memory space of a parent process so it does not need that instruction should be in main memory. 
 * Here no need for context switching, simply OS scheduler will change the thread and execute a process.
-* 
 -----------------------------------------------------
 #### Visual image of topic:
 
+![[Pasted image 20230605230042.png]]
 
 -----------------------------------------------------
 
