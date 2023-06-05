@@ -19,4 +19,35 @@ tag: #kernl #OS #init
 	* First, systemd loads its configuration files, usually located in /etc/systemd/system or /usr/lib/systemd/system.
 	* Then it determines its boot goal, which is usually default.target
 	* Systemd figures out the dependencies of the boot target and activates them.
-* systemd does not just start and stop services, it can mount filesystems, monitor your network sockets, etc and because of that robustness it has different types
+* systemd does not just start and stop services, it can mount filesystems, monitor your network sockets, etc and because of that robustness it has different types of units it operates.
+	* Service.units - these are the services we have been starting and stopping, these unit files end in .service
+	* Mount units - These mount filesystems, these unit files and in .mount.
+	* Target units - these group together other units, the files end in .target.
+
+```
+[Unit]  
+Description=My Foobar
+Before=bar.target
+
+[Service]  
+ExecStart=/usr/bin/foobar
+
+[Install]
+WantedBy=multi-user.target
+```
+
+
+#### Some commands:
+
+```
+systemctl list-units
+
+#status
+systemctl status networking.service
+
+#start
+systemctl start networking.service
+
+#stop
+systemctl stop networking
+```
