@@ -1,3 +1,4 @@
+
 ---
 creation date: 2023-06-04 22:57
 modification date: Monday 5th June 2023 20:08:45
@@ -32,7 +33,7 @@ tag: #linux #OS #init #kernel
 	* [[System V]]
 	* [[Upstart]]
 	* [[Systemd]]
-* 
+
 -----------------------------------------------------
 #### Benefit:
 

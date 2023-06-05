@@ -32,19 +32,43 @@
             }
           },
           {
-            "id": "a3fd1f0330336c78",
+            "id": "994256b7f7bd6113",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System V.md",
+                "file": "Upstart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e1c6027289a608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Simple explain template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b268f06e983188b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Theory template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System V.md",
+                "file": "Template/Theory template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System V.md",
+                "file": "Template/Theory template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System V.md"
+                "file": "Template/Theory template.md"
               }
             }
           }
@@ -182,14 +206,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3fd1f0330336c78",
+  "active": "4b268f06e983188b",
   "lastOpenFiles": [
     "Template/Simple explain template.md",
-    "Template/Theory template.md",
-    "System V.md",
-    "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Learning/Linux/Advanced/Init/init Process.md",
+    "Untitled.md",
+    "Upstart.md",
     "Learning/Linux/Linux Index.md",
+    "System V.md",
+    "Template/Theory template.md",
+    "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Learning/Linux/Advanced/Init",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Linux/Advanced/Kernel/Kernel installation.md",
@@ -218,8 +244,6 @@
     "Learning/Linux/Advanced/Filesystem/Symlinks.md",
     "Learning/Linux/Advanced/Filesystem/Inode - Linux.md",
     "Learning/Linux/Advanced/Filesystem/Anatomy of a disk.md",
-    "Learning/Linux/Advanced/Filesystem/Creating Filesystem.md",
-    "Learning/Linux/Advanced/Filesystem/Filesystem repair.md",
     "etc",
     "Learning/Linux/Images/Pasted image 20230603131251.png",
     "Web Development/CSS/Image/Pasted image 20230602235303.png",
