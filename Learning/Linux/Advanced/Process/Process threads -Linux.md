@@ -38,12 +38,17 @@ tag: #kernel #process
 -----------------------------------------------------
 #### Benefit:
 
-* **Concurrency:** threads enable concurrent execution of multiple tasks within a single process.
+* **Concurrency:** threads enable concurrent execution of multiple tasks within a single process. this concurrency allows for better utilization of system resource.
+* **Responsiveness**
+* **Resource efficiency:** Threads share the same memory space and resources of the parent process.
 
 -----------------------------------------------------
 #### Simple Explanation:
 
-
+* Threads operation is same like process, trying to do a run a program, but here threads is created inside a process, creation of thread is completely depends on a process, if process needs multiple thread then it may create it
+* Created thread share a same memory space of a parent process so it does not need that instruction should be in main memory. 
+* Here no need for context switching, simply OS scheduler will change the thread and execute a process.
+* 
 -----------------------------------------------------
 #### Visual image of topic:
 
