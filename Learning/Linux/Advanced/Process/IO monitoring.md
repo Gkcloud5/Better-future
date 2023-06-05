@@ -19,3 +19,5 @@ iostat
 
 ![[Pasted image 20230605231441.png]]
 
+* nice value is priority value assigned to a process.
+* the nice value, also known as the niceness level, determines the priority at which a process will be schedules for CPU execution.
