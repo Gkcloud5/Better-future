@@ -31,7 +31,9 @@ tag: #kernel #process
 * Threads are used to execute the same program.
 * They are often referred to as lightweight processes.
 * If a process has one thread it is single-threaded and if a process has more than one thread it is multi-threaded.
-* 
+* Each thread represents an independent sequence instructions.
+* OS scheduler determines the order and duration of execution for each thread.
+* Threads within a process share the same memory space and resources, allowing them to commuicate an
 -----------------------------------------------------
 #### Benefit:
 
