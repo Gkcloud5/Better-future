@@ -12,4 +12,5 @@ tag: #Process
 #### Explanation about it:
 
 * By using `top` command we can read and analyze the resource utilization on your system.
+* top command provide real time view of the system utilization.
 * 
