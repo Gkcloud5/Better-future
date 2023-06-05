@@ -17,4 +17,6 @@ tag: #OS #process #Linux
 
  [[lsof and fuser]]
 
+ [[Process threads -Linux]]
+
  [[]]
