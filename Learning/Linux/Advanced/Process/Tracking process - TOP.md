@@ -37,4 +37,4 @@ KiB Swap: 33480700 total,    39892 used, 33440808 free. 19454152 cached Mem
 ##### 3rd line:
 * CPU information
 * us: User CPU time - percentage of CPU time spent running users processes that are not niced.
-* sy: System CPU time - percentage of CPU time spent running the kernel proces
+* sy: System CPU time - percentage of CPU time spent running the kernel processes
