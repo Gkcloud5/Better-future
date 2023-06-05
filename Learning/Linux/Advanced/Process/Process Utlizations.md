@@ -15,4 +15,6 @@ tag: #OS #process #Linux
 
  [[Tracking process - TOP]]
 
- 
+ [[lsof and fuser]]
+
+ [[]]

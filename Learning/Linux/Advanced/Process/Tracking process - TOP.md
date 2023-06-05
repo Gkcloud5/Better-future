@@ -40,4 +40,7 @@ KiB Swap: 33480700 total,    39892 used, 33440808 free. 19454152 cached Mem
 * sy: System CPU time - percentage of CPU time spent running the kernel processes
 * ni: nice CPU time -  CPU time spent running niced processes.
 * id: CPU idle time -  Percentage of CPU time that is spent idle
-* 
+* wa: IO wait time - Percentage of CPU time that is spent waiting for IO. if this value is low, the problem probably is not disk or network IO.
+* hi: Hardware interrupt - percentage of CPU time spent serving hardware interrupts
+
+![[Pasted image 20230605222134.png]]
