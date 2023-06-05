@@ -42,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "36e1c6027289a608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Simple explain template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b268f06e983188b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Theory template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Theory template.md",
+                "file": "Upstart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Theory template.md",
+                "file": "Upstart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Theory template.md"
+                "file": "Upstart.md"
               }
             }
           }
@@ -206,15 +182,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b268f06e983188b",
+  "active": "994256b7f7bd6113",
   "lastOpenFiles": [
     "Template/Simple explain template.md",
+    "Template/Theory template.md",
     "Learning/Linux/Advanced/Init/init Process.md",
-    "Untitled.md",
     "Upstart.md",
+    "Untitled.md",
     "Learning/Linux/Linux Index.md",
     "System V.md",
-    "Template/Theory template.md",
     "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Learning/Linux/Advanced/Init",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
