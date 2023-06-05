@@ -49,5 +49,9 @@ systemctl status networking.service
 systemctl start networking.service
 
 #stop
-systemctl stop networking
+systemctl stop networking.service
+
+#restart
+systemctl restart networking.service
+
 ```

@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Template/Theory template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92cdf00bb9a29a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Learning/Linux/Linux Index.md",
                 "mode": "source",
                 "source": false
@@ -20,31 +32,31 @@
             }
           },
           {
-            "id": "f75bce92eb5b8e1e",
+            "id": "00da6cfb8182bf7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Advanced/Init/init Process.md",
+                "file": "Process Utlizations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71e6930b306dd5be",
+            "id": "fc6ffd26c522e636",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemd.md",
+                "file": "Tracking process - TOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemd.md",
+                "file": "Tracking process - TOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemd.md",
+                "file": "Tracking process - TOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemd.md"
+                "file": "Tracking process - TOP.md"
               }
             }
           }
@@ -182,16 +193,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "71e6930b306dd5be",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Linux/Advanced/Init/init Process.md",
-    "Systemd.md",
-    "Upstart.md",
-    "Template/Simple explain template.md",
-    "Template/Theory template.md",
-    "Untitled.md",
+    "Learning/Linux/Advanced/Process",
+    "Process Utlizations.md",
+    "Tracking process - TOP.md",
     "Learning/Linux/Linux Index.md",
-    "System V.md",
+    "Template/Theory template.md",
+    "Template/Simple explain template.md",
+    "Untitled.md",
+    "Learning/Linux/Advanced/Init/init Process.md",
+    "Learning/Linux/Advanced/Init/Systemd.md",
+    "Learning/Linux/Advanced/Init/Upstart.md",
+    "Learning/Linux/Advanced/Init/System V.md",
     "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Learning/Linux/Advanced/Init",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
@@ -217,9 +231,6 @@
     "Learning/Linux/Advanced/Booting/BIOS.md",
     "Learning/Linux/Advanced/Booting",
     "Learning/Linux/Advanced/Filesystem/Filesystem Hierarchy -Linux.md",
-    "Learning/Linux/Advanced/Filesystem/Hardlinks.md",
-    "Learning/Linux/Advanced/Filesystem/Symlinks.md",
-    "Learning/Linux/Advanced/Filesystem/Inode - Linux.md",
     "etc",
     "Learning/Linux/Images/Pasted image 20230603131251.png",
     "Web Development/CSS/Image/Pasted image 20230602235303.png",

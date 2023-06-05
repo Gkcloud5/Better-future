@@ -25,4 +25,5 @@
 3. [[Boot the system]]
 4. [[Kernel overview]]
 5. [[init Process]]
-6. 
+6. [[Process Utlizations]]
+7. 
