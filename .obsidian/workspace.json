@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b512655a47b95a0c",
+            "id": "1de7327fa8936bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D transforms.md",
+                "file": "Transition.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D transforms.md",
+                "file": "Transition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D transforms.md",
+                "file": "Transition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D transforms.md"
+                "file": "Transition.md"
               }
             }
           }
@@ -169,10 +170,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b512655a47b95a0c",
+  "active": "1de7327fa8936bff",
   "lastOpenFiles": [
     "Web Development/CSS/CSS.md",
-    "3D transforms.md",
+    "Transition.md",
+    "Web Development/CSS/Advanced/3D transforms.md",
     "Web Development/CSS/Advanced/2D transforms.md",
     "Learning/Linux/Related to Network/Network sharing.md",
     "Learning/Linux/Linux.md",
@@ -206,7 +208,6 @@
     "Learning/Linux/Advanced/Process/Tracking process - TOP.md",
     "Learning/Linux/Images/Pasted image 20230605222134.png",
     "Learning/Linux/Advanced/Process",
-    "Template/Simple explain template.md",
     "Learning/Linux/Advanced/Init",
     "Learning/Linux/Images/Pasted image 20230604225434.png",
     "Learning/Linux/Images/Pasted image 20230604212927.png",
