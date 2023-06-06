@@ -12,4 +12,5 @@ tag: #kernel #process #cron
 #### Explanation about it:
 
 * Cron is used to schedule tasks using cron.
-* there is a service that runs programs f
+* there is a service that runs programs for you at whatever time you schedule.
+* 
