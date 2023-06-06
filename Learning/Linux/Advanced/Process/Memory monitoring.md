@@ -36,3 +36,14 @@ procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
 * swpd - Amount of virtual memory used
 * free - Amount of free memory
 * buff - Amount of memory used as buffers [[Buffering]]
+* cache - Amount of memory used as cache
+	* cache is high speed storage area that used to store frequently accessed data or instruction for faster access.
+
+##### swap:
+
+* si - amount of memory swapped in from disk
+* so - amount of memory swapped out to disk
+
+##### Interrupts:
+
+* 

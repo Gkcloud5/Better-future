@@ -4,7 +4,8 @@
 #### About Buffering:
 
 * Buffering means what is a size of a buffer
-*  Buffer means 
+* Buffer is a temporary storage area that is used to hold data while it is being transferred between different components or processes. 
+
 ##### 0 Capacity:
 * It means there is a no buffer
 * If sender send a message then sender has to wait until receiver receive a message because there is no space to hold next message
