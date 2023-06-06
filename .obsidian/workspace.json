@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "95cb581638c47a79",
+        "id": "2766a489b613ce67",
         "type": "tabs",
         "children": [
           {
-            "id": "70c963ac48695b54",
+            "id": "50b3d114933c12cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Learning/Linux/Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9ddeae9fe19a0a7f",
+            "id": "8224d2be70ff9bcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/Advanced/2D transfroms.md",
+                "file": "Learning/Linux/Advanced/Process/Process Utlizations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e91a739dc4d6c3bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux/Advanced/Process/IO monitoring.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Advanced/2D transfroms.md",
+                "file": "Learning/Linux/Advanced/Process/IO monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Advanced/2D transfroms.md",
+                "file": "Learning/Linux/Advanced/Process/IO monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Advanced/2D transfroms.md"
+                "file": "Learning/Linux/Advanced/Process/IO monitoring.md"
               }
             }
           }
@@ -170,15 +182,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ddeae9fe19a0a7f",
+  "active": "e91a739dc4d6c3bc",
   "lastOpenFiles": [
-    "Web Development/CSS/CSS.md",
+    "Learning/Linux/Advanced/Process/Process Utlizations.md",
+    "Learning/Linux/Linux.md",
     "Web Development/CSS/Advanced/2D transfroms.md",
+    "Web Development/CSS/CSS.md",
     "Web Development/CSS/Advanced/CSS Shadow.md",
     "Web Development/CSS/Advanced/Background Image - CSS.md",
     "Learning/Linux/Advanced/Process/IO monitoring.md",
-    "Learning/Linux/Advanced/Process/Process Utlizations.md",
-    "Learning/Linux/Linux.md",
     "Template/Theory template.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
