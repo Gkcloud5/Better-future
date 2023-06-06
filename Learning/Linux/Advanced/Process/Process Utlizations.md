@@ -25,4 +25,7 @@ tag: #OS #process #Linux
 
  [[Memory monitoring]]
 
- [[]]
+ [Continuous monitoring](https://linuxjourney.com/lesson/continuous-monitoring)
+
+ [[Cron jobs]]
+ 

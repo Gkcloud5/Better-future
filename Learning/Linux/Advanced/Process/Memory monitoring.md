@@ -46,4 +46,4 @@ procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
 
 ##### Interrupts:
 
-* 
+* Interrupt is a signal that is sent to the CPU to indicate that an event has occurred that requires the CPU attention.
