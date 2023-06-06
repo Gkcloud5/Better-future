@@ -51,15 +51,13 @@ less /var/log/syslog
 -----------------------------------------------------
 #### Benefit:
 
+* Logs are used to troubleshoot and debugg a errors.
+* It helps to track error and exception.
+* It helps to monitor performance of application.
+* It provide some information related to security, it leads to make system more secure.
 
 -----------------------------------------------------
 #### Simple Explanation:
 
-
+* Logs are participating major part in linux OS, it will provide complete information about OS behavior's like booting process information, If OS have any hardware error then it will provide information about it. overall it main purpose is helps OS to make more useability.
 -----------------------------------------------------
-#### Visual image of topic:
-
-
------------------------------------------------------
-
-#### Links:
