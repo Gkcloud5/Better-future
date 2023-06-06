@@ -13,4 +13,12 @@ tag:
 
 ##### /var/log/dmesg:
 
-* On boot-time your system logs information
+* On boot-time your system logs information about the kernel ring buffer.
+* This shows us information about hardware drivers, kernel information and status during bootup and more.
+* this log reset on every boot.
+* dmesg is the best place to look issue regarding hardware.
+
+##### /var/log/kern.log:
+
+* This is another log to view kernel information.
+* this logs the information and events on your sys
