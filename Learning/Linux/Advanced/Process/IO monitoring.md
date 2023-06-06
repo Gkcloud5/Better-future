@@ -22,4 +22,7 @@ iostat
 * nice value is priority value assigned to a process.
 * the nice value, also known as the niceness level, determines the priority at which a process will be schedules for CPU execution.
 * %user - show the percentage of CPU utilization that occurred while executing at the user level(application)
-* %nice - show the percentage of CPU utilization that occurred while
+* %nice - show the percentage of CPU utilization that occurred while executing at the user level with nice priority.
+* %system - show the percentage of CPU utilization that occurred while executing at the system level(kernel)
+* %iowait - Show the percentage of time that the CPU were idle during which the system had an outstanding disk IO request.
+* %steal - show the percentage of time spent in involuntary wait by the virtual CPU while the
