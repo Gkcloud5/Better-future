@@ -25,4 +25,7 @@ iostat
 * %nice - show the percentage of CPU utilization that occurred while executing at the user level with nice priority.
 * %system - show the percentage of CPU utilization that occurred while executing at the system level(kernel)
 * %iowait - Show the percentage of time that the CPU were idle during which the system had an outstanding disk IO request.
-* %steal - show the percentage of time spent in involuntary wait by the virtual CPU while the
+* %steal - show the percentage of time spent in involuntary wait by the virtual CPU while the hypervisor was servicing another virtual processor.
+* %idle - Show the percentage of time that the CPU or CPUs were idle and the system did not have an outstanding disk I/O request.
+
+![[Pasted image 20230606151440.png]]
