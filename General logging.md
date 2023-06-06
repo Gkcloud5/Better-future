@@ -19,3 +19,7 @@ tag:
 ##### /var/log/messages:
 
 * This log contains all non-critical and non-debug messages, includes message logged during bootup, auth, cron, daemon, etc,
+
+##### /var/log/syslog:
+
+* This logs everything except auth messages, it's exremely useful for debugging errors on your machine.

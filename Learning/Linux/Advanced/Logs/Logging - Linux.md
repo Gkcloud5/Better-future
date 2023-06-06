@@ -41,6 +41,8 @@ less /var/log/syslog
 
 #### [[General logging]]
 
+#### [[Kernel Logging]]
+
 
 
 -----------------------------------------------------
