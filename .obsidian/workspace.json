@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Animation - CSS.md",
+                "file": "Web Development/CSS/Advanced/Animation - CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Animation - CSS.md",
+                "file": "Web Development/CSS/Advanced/Animation - CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Animation - CSS.md",
+                "file": "Web Development/CSS/Advanced/Animation - CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Animation - CSS.md"
+                "file": "Web Development/CSS/Advanced/Animation - CSS.md"
               }
             }
           }
@@ -170,11 +170,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a31b70d1b6312e89",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Pasted image 20230606232332.png",
     "Web Development/CSS/CSS.md",
-    "Animation - CSS.md",
-    "Transition.md",
+    "Web Development/CSS/Advanced/Animation - CSS.md",
+    "Web Development/CSS/Advanced/Transition.md",
     "Web Development/CSS/Advanced/3D transforms.md",
     "Web Development/CSS/Advanced/2D transforms.md",
     "Learning/Linux/Related to Network/Network sharing.md",
@@ -204,7 +205,6 @@
     "Learning/Linux/Advanced/Process/CPU monitoring.md",
     "Learning/Linux/Advanced/Process/Process threads -Linux.md",
     "Learning/Linux/Images/Pasted image 20230605230042.png",
-    "Learning/Linux/Advanced/Process/lsof and fuser.md",
     "Learning/Linux/Images/Pasted image 20230605222537.png",
     "Learning/Linux/Images/Pasted image 20230605222134.png",
     "Learning/Linux/Advanced/Process",
