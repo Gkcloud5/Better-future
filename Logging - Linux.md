@@ -17,7 +17,8 @@ tag: #OS #Linux #Log
 -----------------------------------------------------
 #### Why we need it?
 
-
+* **Troubleshooting and Debugging:** 
+	* Logs provide a valuable inf
 -----------------------------------------------------
 #### Where it comes?
 
