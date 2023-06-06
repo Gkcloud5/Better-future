@@ -43,8 +43,11 @@ less /var/log/syslog
 
 #### [[Kernel Logging]]
 
+#### [[Authentication logging]]
 
-
+*  Log files generated lots of data and they store this data on your hard disks, however there are lots of issues with this
+	* logrotate utility helps to manage logs.
+		* It has a configuration file that allows us to specify how many and what logs to keep.
 -----------------------------------------------------
 #### Benefit:
 

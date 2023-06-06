@@ -21,4 +21,4 @@ tag:
 ##### /var/log/kern.log:
 
 * This is another log to view kernel information.
-* this logs the information and events on your sys
+* this logs the information and events on your system
