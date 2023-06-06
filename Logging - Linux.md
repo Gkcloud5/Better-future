@@ -18,7 +18,8 @@ tag: #OS #Linux #Log
 #### Why we need it?
 
 * **Troubleshooting and Debugging:** 
-	* Logs provide a valuable inf
+	* Logs provide a valuable information for diagnosing and resolving issues in a linux system.
+* It monitor security related
 -----------------------------------------------------
 #### Where it comes?
 
