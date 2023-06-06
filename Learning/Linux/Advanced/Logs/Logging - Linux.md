@@ -19,11 +19,13 @@ tag: #OS #Linux #Log
 
 * **Troubleshooting and Debugging:** 
 	* Logs provide a valuable information for diagnosing and resolving issues in a linux system.
-* It monitor security related
+* It monitor security related things like failed login attempts and unauthorized access attempts.
+* logs helps to monitor and analyze system performance.
+
 -----------------------------------------------------
 #### Where it comes?
 
-
+* Linux journal and process events notes.
 -----------------------------------------------------
 #### Explanation about it:
 
