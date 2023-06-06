@@ -29,7 +29,13 @@ tag: #OS #Linux #Log
 -----------------------------------------------------
 #### Explanation about it:
 
+* syslog is used to sends information to the system logger.
+* syslog actually contains many components, one of the important ones is daemon running called syslogd(newer linux distributions use rsyslogd).
+* Each application can have their own logging rules and generate different log files.
 
+```
+less /var/lo
+```
 -----------------------------------------------------
 #### Benefit:
 

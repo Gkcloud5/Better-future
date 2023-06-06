@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "16013f68d7998093",
+            "id": "f8e22c3ab5ad7589",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,12 +170,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16013f68d7998093",
+  "active": "f8e22c3ab5ad7589",
   "lastOpenFiles": [
     "Learning/Linux/Linux.md",
-    "Learning/Programming/Python/Problem solving/String/To find string.md",
-    "Learning/Pasted image 20230606210932.png",
+    "Learning/Programming/Python/Images/Pasted image 20230606210932.png",
     "Learning/Linux/Advanced/Logs/Logging - Linux.md",
+    "Learning/Programming/Python/Problem solving/String/To find string.md",
     "Learning/Linux/Advanced/Logs",
     "Learning/Linux/Advanced/Process/Process Utilizations.md",
     "Learning/Linux/Advanced/Process/Cron jobs.md",
