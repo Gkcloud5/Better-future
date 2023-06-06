@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logging - Linux.md",
+                "file": "Learning/Programming/Python/Problem solving/String/To find string.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logging - Linux.md",
+                "file": "Learning/Programming/Python/Problem solving/String/To find string.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logging - Linux.md",
+                "file": "Learning/Programming/Python/Problem solving/String/To find string.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logging - Linux.md"
+                "file": "Learning/Programming/Python/Problem solving/String/To find string.md"
               }
             }
           }
@@ -171,8 +171,11 @@
   },
   "active": "5c97812ad443088e",
   "lastOpenFiles": [
+    "Learning/Pasted image 20230606210932.png",
+    "Learning/Linux/Advanced/Logs/Logging - Linux.md",
+    "Learning/Programming/Python/Problem solving/String/To find string.md",
+    "Learning/Linux/Advanced/Logs",
     "Learning/Linux/Linux.md",
-    "Logging - Linux.md",
     "Learning/Linux/Advanced/Process/Process Utilizations.md",
     "Learning/Linux/Advanced/Process/Cron jobs.md",
     "Learning/Linux/Advanced/Process/Memory monitoring.md",
@@ -202,9 +205,7 @@
     "Learning/Linux/Advanced/Init/Systemd.md",
     "Learning/Linux/Advanced/Init/Upstart.md",
     "Learning/Linux/Advanced/Init/System V.md",
-    "Learning/Linux/Advanced/Kernel/Kernel overview.md",
     "Learning/Linux/Advanced/Init",
-    "Learning/Linux/Advanced/Kernel/Kernel installation.md",
     "Learning/Linux/Images/Pasted image 20230604225434.png",
     "Learning/Linux/Images/Pasted image 20230604212927.png",
     "Learning/Linux/Images/Pasted image 20230604210613.png",
@@ -217,7 +218,6 @@
     "Web Development/CSS/Advanced",
     "Learning/Programming/Python/Problem solving/String",
     "Learning/Linux/Advanced/Filesystem",
-    "Learning/Linux/Advanced",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }
