@@ -34,8 +34,11 @@ tag: #OS #Linux #Log
 * Each application can have their own logging rules and generate different log files.
 
 ```
-less /var/lo
+less /var/log/syslog
 ```
+
+#### [[Syslog]]
+
 -----------------------------------------------------
 #### Benefit:
 

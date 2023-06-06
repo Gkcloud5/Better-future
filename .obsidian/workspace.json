@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29f8aa0458bca28a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syslog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Advanced/Logs/Logging - Linux.md",
+                "file": "Syslog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Advanced/Logs/Logging - Linux.md",
+                "file": "Syslog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Advanced/Logs/Logging - Linux.md"
+                "file": "Syslog.md"
               }
             }
           }
@@ -170,11 +182,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8e22c3ab5ad7589",
+  "active": "29f8aa0458bca28a",
   "lastOpenFiles": [
+    "Learning/Linux/Advanced/Logs/Logging - Linux.md",
+    "Syslog.md",
     "Learning/Linux/Linux.md",
     "Learning/Programming/Python/Images/Pasted image 20230606210932.png",
-    "Learning/Linux/Advanced/Logs/Logging - Linux.md",
     "Learning/Programming/Python/Problem solving/String/To find string.md",
     "Learning/Linux/Advanced/Logs",
     "Learning/Linux/Advanced/Process/Process Utilizations.md",
