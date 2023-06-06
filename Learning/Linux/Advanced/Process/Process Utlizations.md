@@ -23,4 +23,6 @@ tag: #OS #process #Linux
 
  [[IO monitoring]]
 
+ [[Memory monitoring]]
+
  [[]]
