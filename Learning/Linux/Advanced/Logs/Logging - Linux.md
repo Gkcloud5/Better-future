@@ -39,6 +39,10 @@ less /var/log/syslog
 
 #### [[Syslog]]
 
+#### [[General logging]]
+
+
+
 -----------------------------------------------------
 #### Benefit:
 

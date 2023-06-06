@@ -33,4 +33,11 @@ mail.*                          -/var/log/mail.log
 
 ```
 
-* rules to log files are denoted by t
+* rules to log files are denoted by the selector on the left column and the action on the right column.
+* action tells us where to send the log information, in a file, console etc.
+* Manually send log
+
+```
+logger -s Hello
+```
+
