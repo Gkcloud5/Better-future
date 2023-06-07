@@ -28,7 +28,10 @@ tag: #linux #network
 #### Explanation about it:
 
 * Generally, in network you can share files from another device in network easily. main purpose of network is share a files
-* 
+* Inorder to achieve above thing we need to configure our device, generally assigning public IP address is helps to connect device into internet
+
+#### [[SCP - LINUX]]
+
 -----------------------------------------------------
 #### Benefit:
 

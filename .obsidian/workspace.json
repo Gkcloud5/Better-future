@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2219ca9b3a4edb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCP - LINUX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Related to Network/Network sharing.md",
+                "file": "SCP - LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Related to Network/Network sharing.md",
+                "file": "SCP - LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Related to Network/Network sharing.md"
+                "file": "SCP - LINUX.md"
               }
             }
           }
@@ -178,8 +190,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fd775d6ef1c0747",
+  "active": "d2219ca9b3a4edb0",
   "lastOpenFiles": [
+    "Learning/Linux/Related to Network/Network sharing.md",
+    "SCP - LINUX.md",
     "Learning/Linux/Linux.md",
     "Web Development/CSS/Advanced/Animation - CSS.md",
     "Learning/Pasted image 20230606232332.png",
@@ -187,7 +201,6 @@
     "Web Development/CSS/Advanced/Transition.md",
     "Web Development/CSS/Advanced/3D transforms.md",
     "Web Development/CSS/Advanced/2D transforms.md",
-    "Learning/Linux/Related to Network/Network sharing.md",
     "Learning/Linux/Related to Network",
     "Learning/Linux/Advanced/Logs/Logging - Linux.md",
     "Learning/Linux/Advanced/Logs/Authentication logging.md",
