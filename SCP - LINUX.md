@@ -31,4 +31,5 @@ scp root@Address:/remote/directory/file.txt /local/directory
 ```
 #Copy directory from local to remote
 
-scp -r mydir root@address:/remote/direct
+scp -r mydir root@address:/remote/directory
+```
