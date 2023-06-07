@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DHCP - Linux.md",
+                "file": "Learning/Programming/Python/Problem solving/String/Check string character.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DHCP - Linux.md",
+                "file": "Learning/Programming/Python/Problem solving/String/Check string character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DHCP - Linux.md",
+                "file": "Learning/Programming/Python/Problem solving/String/Check string character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DHCP - Linux.md"
+                "file": "Learning/Programming/Python/Problem solving/String/Check string character.md"
               }
             }
           }
@@ -184,9 +184,10 @@
   },
   "active": "9d0bcaa2468e1fea",
   "lastOpenFiles": [
+    "Learning/Linux/Related to Network/DHCP - Linux.md",
+    "Learning/Programming/Python/Problem solving/String/Check string character.md",
     "Learning/Linux/Related to Network/Network Basics.md",
-    "DHCP - Linux.md",
-    "Network Addressing.md",
+    "Learning/Linux/Related to Network/Network Addressing.md",
     "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
     "Learning/Linux/Linux.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
@@ -214,7 +215,6 @@
     "Learning/Linux/Advanced/Logs",
     "Learning/Linux/Advanced/Process/Process Utilizations.md",
     "Learning/Linux/Advanced/Process/Cron jobs.md",
-    "Learning/Linux/Advanced/Process/Memory monitoring.md",
     "Learning/Linux/Images/Pasted image 20230606151440.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Linux/Images/Pasted image 20230605231441.png",
