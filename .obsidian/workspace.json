@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0d8b325c0a97872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Addressing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c21e149370851a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Addressing.md",
+                "file": "Learning/Linux/Related to Network/Network Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Addressing.md",
+                "file": "Learning/Linux/Related to Network/Network Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Addressing.md"
+                "file": "Learning/Linux/Related to Network/Network Basics.md"
               }
             }
           }
@@ -194,10 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0d8b325c0a97872",
+  "active": "e0763bcada829574",
   "lastOpenFiles": [
-    "Learning/Linux/Related to Network/Network Basics.md",
     "Network Addressing.md",
+    "Learning/Linux/Related to Network/Network Basics.md",
     "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
     "Learning/Linux/Linux.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
