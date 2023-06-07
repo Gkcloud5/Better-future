@@ -36,5 +36,6 @@ rsync /local/directory root@address:/remote/directory
 ```
 #copy files from remore host to local host
 
-rsync root@address:
+rsync root@address:/remote/directory /local/directory
 ```
+
