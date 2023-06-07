@@ -28,24 +28,12 @@
             }
           },
           {
-            "id": "9fd775d6ef1c0747",
+            "id": "9e64ce1b4e0c852a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Related to Network/Network sharing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "904404906cb32204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NFS - Linux.md",
+                "file": "Learning/Linux/Related to Network/Network Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Linux/Related to Network/Network Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Learning/Linux/Related to Network/Network Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Learning/Linux/Related to Network/Network Basics.md"
               }
             }
           }
@@ -190,49 +178,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "dffcd180578303cb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f6632dce0872db40",
-        "type": "window",
-        "children": [
-          {
-            "id": "7a8b5c7b21243901",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1cc97d895df4959d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1474,
-        "y": 27,
-        "width": 916,
-        "height": 992,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1cc97d895df4959d",
+  "active": "9e64ce1b4e0c852a",
   "lastOpenFiles": [
-    "Learning/Linux/Related to Network/Network sharing.md",
-    "NFS - Linux.md",
-    "HTTP server.md",
-    "rsync -LINUX.md",
-    "SCP - LINUX.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Linux/Related to Network/Network Basics.md",
     "Learning/Linux/Linux.md",
+    "Learning/Linux/Related to Network/NFS - Linux.md",
+    "Learning/Linux/Related to Network/Network sharing.md",
+    "Learning/Pasted image 20230607145047.png",
+    "Learning/Linux/Related to Network/HTTP server.md",
+    "Learning/Linux/Related to Network/rsync -LINUX.md",
+    "Learning/Linux/Related to Network/SCP - LINUX.md",
     "Web Development/CSS/Advanced/Animation - CSS.md",
     "Learning/Pasted image 20230606232332.png",
     "Web Development/CSS/CSS.md",
@@ -256,8 +212,6 @@
     "Learning/Linux/Images/Pasted image 20230606151440.png",
     "Web Development/CSS/Advanced/CSS Shadow.md",
     "Web Development/CSS/Advanced/Background Image - CSS.md",
-    "Template/Theory template.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Linux/Images/Pasted image 20230605231441.png",
     "Learning/Linux/Images/Pasted image 20230605230042.png",
@@ -267,7 +221,6 @@
     "Learning/Linux/Advanced/Init",
     "Learning/Linux/Images/Pasted image 20230604225434.png",
     "Learning/Linux/Images/Pasted image 20230604212927.png",
-    "Learning/Linux/Images/Pasted image 20230604210613.png",
     "Template",
     "Learning/Linux/Advanced/Kernel",
     "Learning/Linux/Advanced/Booting",
