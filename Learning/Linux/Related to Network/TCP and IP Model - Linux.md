@@ -38,4 +38,4 @@ tag:
 
 ##### Link layer:
 
-* Link layer specifies how to send data across a physical piece of hardware. such as data travelling thriugh ethernet, fiber
+* Link layer specifies how to send data across a physical piece of hardware. such as data travelling through ethernet, fiber

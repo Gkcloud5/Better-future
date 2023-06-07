@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP and IP Model - Linux.md",
+                "file": "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP and IP Model - Linux.md",
+                "file": "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP and IP Model - Linux.md",
+                "file": "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP and IP Model - Linux.md"
+                "file": "Learning/Linux/Related to Network/TCP and IP Model - Linux.md"
               }
             }
           }
@@ -190,10 +190,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67000fc17a509df3",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Linux/Related to Network/Network Basics.md",
-    "TCP and IP Model - Linux.md",
+    "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
     "Learning/Linux/Related to Network/OSI Model - Linux.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Linux/Linux.md",
