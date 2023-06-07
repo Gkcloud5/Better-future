@@ -14,6 +14,5 @@ tag:
 * DHCP is a important network topic.
 * Dynamic Host Configuration Protocol
 * DHCP assigns IP addresses, subnet masks and gateways to our machine.
-
-
+* It is a network protocol used to automatically assign IP addresses and other network configuration s
 
