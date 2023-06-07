@@ -21,4 +21,5 @@ tag:
 ```
 
 * If it's in 1 then it is masked, so only possible hosts are from the 00000000 region.
-* we need to subtract 2 host
+* we need to subtract 2 host, because we need to assign broadcast address and subnet address so possible host count is 254.
+* 192.168.1.1 to 192.168.254
