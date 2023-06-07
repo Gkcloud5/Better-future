@@ -12,4 +12,9 @@ tag:
 #### Explanation about it:
 
 * a subnet refers to a portion of a larger network that has been divided for better management and organization.
-* It helps efficiently managing IP addresses and routing within a ne
+* It helps efficiently managing IP addresses and routing within a network.
+* IP address consist of two parts
+	* network portion
+	* host portion
+* Subnet is used to divide the network portion of an IP address from the host portion.
+* IP address is a 3
