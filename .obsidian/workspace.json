@@ -40,12 +40,12 @@
             }
           },
           {
-            "id": "2cddb24aafa0bad7",
+            "id": "904404906cb32204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP server.md",
+                "file": "NFS - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP server.md",
+                "file": "NFS - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP server.md",
+                "file": "NFS - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP server.md"
+                "file": "NFS - Linux.md"
               }
             }
           }
@@ -190,9 +190,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cddb24aafa0bad7",
+  "active": "904404906cb32204",
   "lastOpenFiles": [
     "Learning/Linux/Related to Network/Network sharing.md",
+    "NFS - Linux.md",
     "HTTP server.md",
     "rsync -LINUX.md",
     "SCP - LINUX.md",
@@ -223,7 +224,6 @@
     "Template/Theory template.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "DevOps & Cloud Plans/RoadMap/Resources.md",
     "Learning/Linux/Images/Pasted image 20230605231441.png",
     "Learning/Linux/Images/Pasted image 20230605230042.png",
     "Learning/Linux/Images/Pasted image 20230605222537.png",
