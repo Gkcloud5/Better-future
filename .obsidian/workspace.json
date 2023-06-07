@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "18235d5c7b17f74f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux/Related to Network/DHCP - Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9d0bcaa2468e1fea",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,8 +197,10 @@
   "active": "9d0bcaa2468e1fea",
   "lastOpenFiles": [
     "Learning/Linux/Related to Network/DHCP - Linux.md",
-    "Learning/Programming/Python/Problem solving/String/Check string character.md",
     "Learning/Linux/Related to Network/Network Basics.md",
+    "Learning/Programming/Python/Problem solving/String/Check string character.md",
+    "Learning/Pasted image 20230607225630.png",
+    "Learning/Pasted image 20230607225615.png",
     "Learning/Linux/Related to Network/Network Addressing.md",
     "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
     "Learning/Linux/Linux.md",
@@ -214,7 +228,6 @@
     "Learning/Programming/Python/Problem solving/String/To find string.md",
     "Learning/Linux/Advanced/Logs",
     "Learning/Linux/Advanced/Process/Process Utilizations.md",
-    "Learning/Linux/Advanced/Process/Cron jobs.md",
     "Learning/Linux/Images/Pasted image 20230606151440.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Linux/Images/Pasted image 20230605231441.png",
@@ -223,8 +236,6 @@
     "Learning/Linux/Images/Pasted image 20230605222134.png",
     "Learning/Linux/Advanced/Process",
     "Learning/Linux/Advanced/Init",
-    "Learning/Linux/Images/Pasted image 20230604225434.png",
-    "Learning/Linux/Images/Pasted image 20230604212927.png",
     "Template",
     "Learning/Linux/Advanced/Kernel",
     "Learning/Linux/Advanced/Booting",
