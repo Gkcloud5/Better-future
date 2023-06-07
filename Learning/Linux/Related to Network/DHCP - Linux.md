@@ -18,4 +18,6 @@ tag:
 * DHCP server that manages and control the assignment of IP addresses. 
 	* When a device connects to the network, it sends DHCP request to the DHCP server.
 	* then server responds with an available IP address and other network settings, such as the subnet mask, gateway and DNS servers.
-* 
+
+![[Pasted image 20230607230757.png]]
+
