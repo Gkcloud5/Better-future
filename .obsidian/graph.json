@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "path:Learning/Linux",
   "showTags": false,
   "showAttachments": false,
@@ -32,6 +32,6 @@
   "repelStrength": 8.02083333333333,
   "linkStrength": 0.255208333333333,
   "linkDistance": 270,
-  "scale": 0.40298676140139694,
+  "scale": 0.5649805475149366,
   "close": false
 }
