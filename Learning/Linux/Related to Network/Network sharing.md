@@ -20,10 +20,12 @@ tag: #linux #network
 * Network connectivity enables internet in OS.
 * It make possible remote access for device
 * You can share file to another device in network
+
 -----------------------------------------------------
 #### Where it comes?
 
 * Networking
+
 -----------------------------------------------------
 #### Explanation about it:
 
@@ -38,20 +40,19 @@ tag: #linux #network
 
 #### [[NFS - Linux]]
 
-
-
 -----------------------------------------------------
 #### Benefit:
 
+* Share a files through network
+* Show our webpage to network devices
 
 -----------------------------------------------------
 #### Simple Explanation:
 
+* Network is important thing in linux, it makes linux as more usable one. it will give remote access, sharing files and enable internet access so that you can contact with another device in network.
 
 -----------------------------------------------------
 #### Visual image of topic:
 
 
 -----------------------------------------------------
-
-#### Links:

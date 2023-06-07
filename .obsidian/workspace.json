@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NFS - Linux.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NFS - Linux.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NFS - Linux.md"
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           }
@@ -190,7 +190,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "904404906cb32204",
+  "floating": {
+    "id": "dffcd180578303cb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f6632dce0872db40",
+        "type": "window",
+        "children": [
+          {
+            "id": "7a8b5c7b21243901",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1cc97d895df4959d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1474,
+        "y": 27,
+        "width": 916,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1cc97d895df4959d",
   "lastOpenFiles": [
     "Learning/Linux/Related to Network/Network sharing.md",
     "NFS - Linux.md",
