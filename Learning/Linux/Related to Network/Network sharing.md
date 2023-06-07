@@ -10,7 +10,8 @@ tag: #linux #network
 -----------------------------------------------------
 #### What is it?
 
-* 
+* Networks can be as small as two computers connected at your home and as large as in a large company or connected systems worldwide known as internet.
+* Linux OS has a very strong set of networking instruments to provide and mange routing, bridging, virtual networks and monitoring.
 -----------------------------------------------------
 #### Why we need it?
 
