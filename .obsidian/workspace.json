@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61f10b71495115a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subnet Math - Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Subnetting/Subnetting - Linux.md",
+                "file": "Subnet Math - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Subnetting/Subnetting - Linux.md",
+                "file": "Subnet Math - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Subnetting/Subnetting - Linux.md"
+                "file": "Subnet Math - Linux.md"
               }
             }
           }
@@ -170,10 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "707952a0a9354a67",
+  "active": "61f10b71495115a3",
   "lastOpenFiles": [
-    "Subnets - Linux.md",
     "Learning/Linux/Subnetting/Subnetting - Linux.md",
+    "Subnet Math - Linux.md",
+    "Subnets - Linux.md",
     "Learning/Linux/Subnetting/IPv4.md",
     "Learning/Linux/Subnetting",
     "Learning/Pasted image 20230607232111.png",
@@ -205,7 +218,6 @@
     "Learning/Linux/Advanced/Logs/Authentication logging.md",
     "Learning/Linux/Advanced/Logs/Kernel Logging.md",
     "Learning/Linux/Advanced/Logs/General logging.md",
-    "Learning/Linux/Advanced/Logs/Syslog.md",
     "Learning/Programming/Python/Images/Pasted image 20230606210932.png",
     "Learning/Linux/Advanced/Logs",
     "Learning/Linux/Images/Pasted image 20230606151440.png",
