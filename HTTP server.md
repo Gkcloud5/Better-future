@@ -11,4 +11,18 @@ tag: #linux #netowrk
 
 #### Explanation about it:
 
-* 
+* HTTP server is a software application that serves web content over the internet.
+* If we want to share web pages to others then we need to run HTTP server.
+* Some HTTP servers
+	* Apache
+	* Ngnix
+	* IIS
+
+#### Setup basic Web server:
+
+* Python has a super useful tool for serving files over HTTP.
+
+```
+python -m SimpleHTTPServer
+```
+
