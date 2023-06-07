@@ -26,3 +26,4 @@ tag: #linux #netowrk
 python -m SimpleHTTPServer
 ```
 
+* This sets up a basic webserver that you can access via the localhost address.
