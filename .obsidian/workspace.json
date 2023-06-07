@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00459255e6f3e756",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "fb5083ecf1e5f1d1",
             "type": "leaf",
             "state": {
@@ -31,28 +23,12 @@
             "id": "9e64ce1b4e0c852a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Linux/Related to Network/Network Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67000fc17a509df3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Linux/Related to Network/TCP and IP Model - Linux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -190,21 +162,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "9e64ce1b4e0c852a",
   "lastOpenFiles": [
     "Learning/Linux/Related to Network/Network Basics.md",
+    "Learning/Linux/Images/Pasted image 20230607145047.png",
+    "Learning/Linux/Linux.md",
+    "Web Development/CSS/Image/Pasted image 20230606232332.png",
     "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
     "Learning/Linux/Related to Network/OSI Model - Linux.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Learning/Linux/Linux.md",
     "Learning/Linux/Related to Network/NFS - Linux.md",
     "Learning/Linux/Related to Network/Network sharing.md",
-    "Learning/Pasted image 20230607145047.png",
     "Learning/Linux/Related to Network/HTTP server.md",
     "Learning/Linux/Related to Network/rsync -LINUX.md",
     "Learning/Linux/Related to Network/SCP - LINUX.md",
     "Web Development/CSS/Advanced/Animation - CSS.md",
-    "Learning/Pasted image 20230606232332.png",
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Advanced/Transition.md",
     "Web Development/CSS/Advanced/3D transforms.md",
@@ -222,7 +194,6 @@
     "Learning/Linux/Advanced/Process/Cron jobs.md",
     "Learning/Linux/Advanced/Process/Memory monitoring.md",
     "Learning/Operating System/Theory Parts/Process synchronization/IPC/Buffering.md",
-    "Learning/Linux/Advanced/Process/IO monitoring.md",
     "Learning/Linux/Images/Pasted image 20230606151440.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Linux/Images/Pasted image 20230605231441.png",

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:Learning/Linux",
   "showTags": false,
   "showAttachments": false,
@@ -24,14 +24,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -2,
+  "textFadeMultiplier": -2.2,
   "nodeSizeMultiplier": 0.9421875,
   "lineSizeMultiplier": 1.22291666666667,
-  "collapse-forces": true,
-  "centerStrength": 0.46875,
-  "repelStrength": 10.5208333333333,
-  "linkStrength": 0.588541666666667,
-  "linkDistance": 263,
-  "scale": 0.564980547514934,
+  "collapse-forces": false,
+  "centerStrength": 0.286458333333333,
+  "repelStrength": 8.02083333333333,
+  "linkStrength": 0.255208333333333,
+  "linkDistance": 270,
+  "scale": 0.40298676140139694,
   "close": false
 }
