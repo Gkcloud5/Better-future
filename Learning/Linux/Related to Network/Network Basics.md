@@ -21,3 +21,5 @@ tag: #OS #linux #network
 * The data and information that gets transmitted through networks are known as packets.
 
 [[OSI Model - Linux]]
+
+[[TCP and IP Model - Linux]]

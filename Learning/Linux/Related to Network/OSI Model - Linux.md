@@ -5,9 +5,11 @@ tag:
 ---
 
 #### Source:
-[]()
+[LJ](https://linuxjourney.com/lesson/osi-model)
 
 --------------------------------------
 
 #### Explanation about it:
 
+* OSI model is theoretical model of networking
+* This model shows us how a packet traverses through a network in seven different layers.
