@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subnetting - Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ce7fc60583a8a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IPv4.md",
+                "file": "Learning/Linux/Subnetting/Subnetting - Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPv4.md",
+                "file": "Learning/Linux/Subnetting/Subnetting - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IPv4.md",
+                "file": "Learning/Linux/Subnetting/Subnetting - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IPv4.md"
+                "file": "Learning/Linux/Subnetting/Subnetting - Linux.md"
               }
             }
           }
@@ -182,10 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ce7fc60583a8a98",
+  "active": "707952a0a9354a67",
   "lastOpenFiles": [
-    "Subnetting - Linux.md",
-    "IPv4.md",
+    "Subnets - Linux.md",
+    "Learning/Linux/Subnetting/Subnetting - Linux.md",
+    "Learning/Linux/Subnetting/IPv4.md",
+    "Learning/Linux/Subnetting",
+    "Learning/Pasted image 20230607232111.png",
     "Learning/Linux/Linux.md",
     "Learning/Linux/Related to Network/Network Basics.md",
     "Learning/Linux/Related to Network/DHCP - Linux.md",
@@ -216,13 +207,11 @@
     "Learning/Linux/Advanced/Logs/General logging.md",
     "Learning/Linux/Advanced/Logs/Syslog.md",
     "Learning/Programming/Python/Images/Pasted image 20230606210932.png",
-    "Learning/Programming/Python/Problem solving/String/To find string.md",
     "Learning/Linux/Advanced/Logs",
     "Learning/Linux/Images/Pasted image 20230606151440.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Linux/Images/Pasted image 20230605231441.png",
     "Learning/Linux/Images/Pasted image 20230605230042.png",
-    "Learning/Linux/Images/Pasted image 20230605222537.png",
     "Learning/Linux/Advanced/Process",
     "Learning/Linux/Advanced/Init",
     "Template",
@@ -230,7 +219,6 @@
     "Learning/Linux/Advanced/Booting",
     "etc",
     "Web Development/CSS/Advanced",
-    "Learning/Programming/Python/Problem solving/String",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }

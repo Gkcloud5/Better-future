@@ -21,4 +21,8 @@ tag:
 	* Network portion
 	* Host portion
 * IP address is separated into octets by the periods. so there are 4 octets in an IPv4 address.
-* Octet is 8 bits and 8 bits actually equal 1 byte. so we also refer IPv4 address as having 4 bytes
+* Octet is 8 bits and 8 bits actually equal 1 byte. so we also refer IPv4 address as having 4 bytes.
+
+
+![[Pasted image 20230607232111.png]]
+
