@@ -17,4 +17,7 @@ tag:
 	* network portion
 	* host portion
 * Subnet is used to divide the network portion of an IP address from the host portion.
-* IP address is a 3
+* IP address is a 32-bit number. it unique
+
+[[IPv4]]
+
