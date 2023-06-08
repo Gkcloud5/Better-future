@@ -12,4 +12,4 @@ tag:
 #### Explanation about it:
 
 * Network address translation.
-* NAT makes a device like our router act as an
+* NAT makes a device like our router act as an intermediary between the internet and private network. so only a 
