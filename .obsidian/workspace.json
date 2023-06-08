@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "707952a0a9354a67",
+            "id": "8af12d1aadc55851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Subnetting/Subnetting - Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d19efb6f62ae844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NAT.md",
+                "file": "Learning/Linux/Routing/Routing - Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NAT.md",
+                "file": "Learning/Linux/Routing/Routing - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NAT.md",
+                "file": "Learning/Linux/Routing/Routing - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAT.md"
+                "file": "Learning/Linux/Routing/Routing - Linux.md"
               }
             }
           }
@@ -182,17 +170,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d19efb6f62ae844",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Linux/Routing",
+    "Learning/Linux/Linux.md",
+    "Learning/Linux/Routing/Routing - Linux.md",
     "Learning/Linux/Subnetting/Subnetting - Linux.md",
-    "NAT.md",
+    "Learning/Linux/Subnetting/NAT.md",
+    "Learning/Linux/Images/Pasted image 20230608201805.png",
     "Learning/Linux/Subnetting/CIDR.md",
-    "Learning/Pasted image 20230608182137.png",
+    "Learning/Linux/Images/Pasted image 20230608182137.png",
     "Learning/Linux/Images/Pasted image 20230608171751.png",
     "Learning/Linux/Images/Pasted image 20230607232111.png",
     "Learning/Linux/Subnetting/Subnetting Cheats.md",
     "Learning/Linux/Subnetting/Subnet Math - Linux.md",
-    "Learning/Linux/Linux.md",
     "Learning/Linux/Subnetting/Subnets - Linux.md",
     "Learning/Linux/Subnetting/IPv4.md",
     "Learning/Linux/Subnetting",
@@ -217,12 +208,9 @@
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Advanced/Transition.md",
     "Web Development/CSS/Advanced/3D transforms.md",
-    "Web Development/CSS/Advanced/2D transforms.md",
     "Learning/Linux/Related to Network",
-    "Learning/Linux/Advanced/Logs/Logging - Linux.md",
     "Learning/Programming/Python/Images/Pasted image 20230606210932.png",
     "Learning/Linux/Advanced/Logs",
-    "Learning/Linux/Images/Pasted image 20230606151440.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Linux/Advanced/Process",
     "Learning/Linux/Advanced/Init",

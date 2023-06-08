@@ -12,4 +12,7 @@ tag:
 #### Explanation about it:
 
 * Network address translation.
-* NAT makes a device like our router act as an intermediary between the internet and private network. so only a 
+* NAT makes a device like our router act as an intermediary between the internet and private network. so only a single, unique IP address is required to represent an entire group of companies.
+
+![[Pasted image 20230608201805.png]]
+
