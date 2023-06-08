@@ -23,4 +23,6 @@ tag:
 
 * Router is a networking device that operates at the network layer(layer3) of the OSI model.
 * Its primary function is to forward data packets between different networks, allowing devices to communicate with each other.
-* 
+* Router receives data from your devices. this data can be anything from a webpage request to an email.
+* Router converts the data into a format that can be transmitted over the internet. this is done by breaking the data down into small pieces called packets.
+* The router sends the packets out
