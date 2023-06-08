@@ -14,3 +14,7 @@ tag:
 * CIDR stands for Classless inter-domain routing, it is used to represent a subnet mask in a more compact way.
 * Subnet noted in CIDR notation, where a subnet such as the 10.42.3.0/255.255.255.0 is written as 10.42.3.0/24.
 	* Which just means it includes both the subnet prefix and the subnet mask
+* IP address consist of  bytes or 32bits.
+
+![[Pasted image 20230608182137.png]]
+
