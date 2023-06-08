@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routing Table - Linux.md",
+                "file": "Learning/Linux/Routing/Routing Table - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routing Table - Linux.md",
+                "file": "Learning/Linux/Routing/Routing Table - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routing Table - Linux.md",
+                "file": "Learning/Linux/Routing/Routing Table - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routing Table - Linux.md"
+                "file": "Learning/Linux/Routing/Routing Table - Linux.md"
               }
             }
           }
@@ -185,7 +185,7 @@
   "active": "9123f7c8f4a268f8",
   "lastOpenFiles": [
     "Learning/Linux/Routing/Routing - Linux.md",
-    "Routing Table - Linux.md",
+    "Learning/Linux/Routing/Routing Table - Linux.md",
     "Learning/Linux/Routing",
     "Learning/Linux/Linux.md",
     "Learning/Linux/Subnetting/Subnetting - Linux.md",
