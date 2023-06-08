@@ -33,4 +33,7 @@ tag:
 
 ##### Additional details about router:
 
+* Router has two interfaces
+	* WAN interface -  it used to connect to internet
+	* LAN interface - it used to connects home network
 * 
