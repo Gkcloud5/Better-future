@@ -36,4 +36,9 @@ tag:
 * Router has two interfaces
 	* WAN interface -  it used to connect to internet
 	* LAN interface - it used to connects home network
-* 
+* Routers using routing protocol to determine the best path to send data.
+	* The most common routing protocol is called RIP(Routing information protocol)
+
+
+[[Routing Table - Linux]]
+
