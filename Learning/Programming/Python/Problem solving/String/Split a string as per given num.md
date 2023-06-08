@@ -34,3 +34,20 @@ if __name__ == '__main__':
 ```
 
 #### Solution 2: using chatGPT
+
+```
+import textwrap
+
+def wrap_paragraph(string, width):
+    wrapped_text = textwrap.wrap(string, width)
+    paragraph = "\n".join(wrapped_text)
+    return paragraph
+
+# Example usage
+text = "Lorem ipsum"
+wrapped_paragraph = wrap_paragraph(text, 4)
+print(wrapped_paragraph)
+```
+
+* `textwrap.wrap` function, passing `string` and `width` as arguments. The `wrap` function splits the `string` into a list of substrings
+* The program then uses `"\n".join(wrapped_text)` to join the elements of `wrapped_text` with a newline character (`\n`)
