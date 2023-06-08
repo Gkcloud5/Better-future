@@ -21,4 +21,6 @@ tag:
 
 ##### How does router work?
 
+* Router is a networking device that operates at the network layer(layer3) of the OSI model.
+* Its primary function is to forward data packets between different networks, allowing devices to communicate with each other.
 * 
