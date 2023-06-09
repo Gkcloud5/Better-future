@@ -37,7 +37,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Learning/Pasted image 20230608232003.png"
+                "file": "Learning/Programming/Python/Images/Pasted image 20230608232003.png"
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Pasted image 20230608232003.png",
+                "file": "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Pasted image 20230608232003.png",
+                "file": "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Pasted image 20230608232003.png"
+                "file": "Learning/Programming/Python/Images/Pasted image 20230608232003.png"
               }
             }
           }
@@ -179,14 +179,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ab61590cff8e150",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Linux/Routing/Path of Packet.md",
     "Learning/Linux/Linux.md",
     "Learning/Linux/Routing/Routing - Linux.md",
     "Learning/Linux/Routing/Routing Table - Linux.md",
     "Learning/Programming/Python/Problem solving/String/Split a string as per given num.md",
-    "Learning/Pasted image 20230608232003.png",
+    "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
     "Learning/Linux/Routing",
     "Learning/Linux/Subnetting/Subnetting - Linux.md",
     "Learning/Linux/Subnetting/NAT.md",
