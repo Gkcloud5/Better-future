@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Path of Packet.md",
+                "file": "Learning/Linux/Routing/Path of Packet.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Path of Packet.md",
+                "file": "Learning/Linux/Routing/Path of Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Path of Packet.md",
+                "file": "Learning/Linux/Routing/Path of Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Path of Packet.md"
+                "file": "Learning/Linux/Routing/Path of Packet.md"
               }
             }
           }
@@ -182,10 +182,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ab61590cff8e150",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Linux/Linux.md",
-    "Path of Packet.md",
+    "Learning/Linux/Routing/Path of Packet.md",
     "Learning/Linux/Routing/Routing - Linux.md",
     "Learning/Linux/Routing/Routing Table - Linux.md",
     "Learning/Programming/Python/Problem solving/String/Split a string as per given num.md",

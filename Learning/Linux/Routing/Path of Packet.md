@@ -21,4 +21,4 @@ tag:
 ##### How packets travels outside its network:
 
 * First the local machine will compare the destination IP address, since its outside of our network, it does not see the MAC address of the destination host. And we can't use ARP because the ARP request is a broadcast to locally connected hosts.
-* S
+* So our packet now looks at the routing table, 
