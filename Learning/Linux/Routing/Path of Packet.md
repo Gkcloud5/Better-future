@@ -26,4 +26,5 @@ tag:
 * The router looks at the packet and confirms the destination MAC address, but it's not the final destination IP address, so it keeps looking the routing table to forward packet to another IP address 
 	* That can help the packet move along to its destination.
 	* Everytime packet moves, it strips the old source and destination MAC address and updates the packet with the new source and destination MAC addresses.
-* 
+* Once the packet gets forwarded to the same network, we use ARP to find the final destination MAC address.
+* During this process, our packet does not change the source or destination IP address.
