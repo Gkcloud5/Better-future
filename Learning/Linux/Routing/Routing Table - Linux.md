@@ -30,4 +30,9 @@ Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
 * If we are sending a packet that is not on the same network, it will be sent to this gateway address.
 
 ##### Genmask:
-* 
+* This is the subnet mask, used to figure out what IP addresses match what destination.
+
+##### Flags:
+
+* UG - Network is Up and is a gateway.
+* U
