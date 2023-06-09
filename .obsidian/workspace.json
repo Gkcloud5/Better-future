@@ -13,48 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8af12d1aadc55851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Linux/Routing/Routing - Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ab61590cff8e150",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Learning/Programming/Python/Images/Pasted image 20230608232003.png"
-              }
-            }
-          },
-          {
-            "id": "5c9416106584e689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
+                "file": "Learning/Programming/Python/Problem solving/Pattern/As per given input print a pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
+                "file": "Learning/Programming/Python/Problem solving/Pattern/As per given input print a pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
+                "file": "Learning/Programming/Python/Problem solving/Pattern/As per given input print a pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md"
+                "file": "Learning/Programming/Python/Problem solving/Pattern/As per given input print a pattern.md"
               }
             }
           }
@@ -191,16 +156,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c9416106584e689",
+  "active": "fb5083ecf1e5f1d1",
   "lastOpenFiles": [
+    "Learning/Linux/Linux.md",
+    "Learning/Programming/Python/Problem solving/Pattern/As per given input print a pattern.md",
+    "Learning/Programming/Python/Problem solving/Pattern",
+    "Learning/Linux/Routing/Routing - Linux.md",
+    "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/Programming/Python/Problem solving/String/To find string.md",
     "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
     "Learning/Programming/Python/Problem solving/String/Check string character.md",
     "Learning/Programming/Python/Problem solving/String/Split a string as per given num.md",
     "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
     "Learning/Linux/Routing/Path of Packet.md",
-    "Learning/Linux/Linux.md",
-    "Learning/Linux/Routing/Routing - Linux.md",
     "Learning/Linux/Routing/Routing Table - Linux.md",
     "Learning/Linux/Routing",
     "Learning/Linux/Subnetting/Subnetting - Linux.md",
@@ -229,8 +197,6 @@
     "Learning/Linux/Related to Network/NFS - Linux.md",
     "Learning/Linux/Related to Network/Network sharing.md",
     "Learning/Linux/Related to Network/HTTP server.md",
-    "Learning/Linux/Related to Network/rsync -LINUX.md",
-    "Learning/Linux/Related to Network/SCP - LINUX.md",
     "Learning/Linux/Related to Network",
     "Learning/Linux/Advanced/Logs",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
@@ -239,7 +205,6 @@
     "Template",
     "Learning/Linux/Advanced/Kernel",
     "Learning/Linux/Advanced/Booting",
-    "etc",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }
