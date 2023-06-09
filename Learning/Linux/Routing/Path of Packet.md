@@ -21,4 +21,9 @@ tag:
 ##### How packets travels outside its network:
 
 * First the local machine will compare the destination IP address, since its outside of our network, it does not see the MAC address of the destination host. And we can't use ARP because the ARP request is a broadcast to locally connected hosts.
-* So our packet now looks at the routing table, 
+* So our packet now looks at the routing table, it does not know the address of the destination IP, so it sends it out to the default gateway(another router). 
+	* So now our packet contains source IP, destination IP and source MAC, we don't have destination MAC addresses.
+* The router looks at the packet and confirms the destination MAC address, but it's not the final destination IP address, so it keeps looking the routing table to forward packet to another IP address 
+	* That can help the packet move along to its destination.
+	* Everytime packet moves, it strips the old source and destination MAC address and updates the packet with the new source and destination MAC addresses.
+* 
