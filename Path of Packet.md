@@ -14,4 +14,5 @@ tag:
 ##### Packets travels within its local network:
 
 * First the local machine will compare the destination IP address to see if it's in the same subnet by looking at its subnet mask.
-* When packets are sent they need to have a source MAC address, destination MAC address, source IP address and destination IP address.
+* When packets are sent they need to have a source MAC address, destination MAC address, source IP address and destination IP address, at this point we do not know the destination MAC address.
+* To get to the destinatation host
