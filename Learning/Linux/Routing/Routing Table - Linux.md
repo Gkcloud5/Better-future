@@ -23,4 +23,11 @@ Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
 
 ##### Destination:
 
+* In this field, we have a destination IP address of 192.168.224.0, this says that any packet that tries to go to this network.
+* If address is in 0.0.0.0, it seems routing table does not know where that goes, so it denotes it, and therefore routes our packet to the gateway.
+
+##### Gateway:
+* If we are sending a packet that is not on the same network, it will be sent to this gateway address.
+
+##### Genmask:
 * 
