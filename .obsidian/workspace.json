@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/String/Split a string as per given num.md",
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/String/Split a string as per given num.md",
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/String/Split a string as per given num.md",
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/String/Split a string as per given num.md"
+                "file": "Learning/Programming/Python/Problem solving/List/List - 1.md"
               }
             }
           }
@@ -193,12 +193,15 @@
   },
   "active": "5c9416106584e689",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Problem solving/String/To find string.md",
+    "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
+    "Learning/Programming/Python/Problem solving/String/Check string character.md",
+    "Learning/Programming/Python/Problem solving/String/Split a string as per given num.md",
     "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
     "Learning/Linux/Routing/Path of Packet.md",
     "Learning/Linux/Linux.md",
     "Learning/Linux/Routing/Routing - Linux.md",
     "Learning/Linux/Routing/Routing Table - Linux.md",
-    "Learning/Programming/Python/Problem solving/String/Split a string as per given num.md",
     "Learning/Linux/Routing",
     "Learning/Linux/Subnetting/Subnetting - Linux.md",
     "Learning/Linux/Subnetting/NAT.md",
@@ -217,7 +220,6 @@
     "Learning/Linux/Images/Pasted image 20230607230757.png",
     "Learning/Programming/Python/Images/Pasted image 20230607225630.png",
     "Learning/Programming/Python/Images/Pasted image 20230607225615.png",
-    "Learning/Programming/Python/Problem solving/String/Check string character.md",
     "Learning/Linux/Related to Network/Network Addressing.md",
     "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
@@ -229,7 +231,6 @@
     "Learning/Linux/Related to Network/HTTP server.md",
     "Learning/Linux/Related to Network/rsync -LINUX.md",
     "Learning/Linux/Related to Network/SCP - LINUX.md",
-    "Web Development/CSS/Advanced/Animation - CSS.md",
     "Learning/Linux/Related to Network",
     "Learning/Linux/Advanced/Logs",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
