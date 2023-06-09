@@ -35,4 +35,7 @@ Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
 ##### Flags:
 
 * UG - Network is Up and is a gateway.
-* U
+* U - Network is UP.
+
+##### iface:
+* This is the interface that our packet will be going out of, eth0 usually stands for the first ethernet device on your system.
