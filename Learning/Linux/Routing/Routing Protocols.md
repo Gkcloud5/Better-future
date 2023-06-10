@@ -28,3 +28,4 @@ tag:
 ##### Convergence works:
 
 * **Detection:** Routers detect network changes, such as link failures or new router ad. this can be achieved through mechanisms like link monitoring, keepalive messages or neighbor notifications.
+* **Notification:** Routers inform their neighboring routers about the detected changes. this can be done by sending routing update messages, such as link state ad or routing information protocol.
