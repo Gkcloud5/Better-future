@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distance vector protocol.md",
+                "file": "Learning/Programming/Python/Problem solving/Python methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distance vector protocol.md",
+                "file": "Learning/Programming/Python/Problem solving/Python methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distance vector protocol.md",
+                "file": "Learning/Programming/Python/Problem solving/Python methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distance vector protocol.md"
+                "file": "Learning/Programming/Python/Problem solving/Python methods.md"
               }
             }
           }
@@ -183,8 +183,11 @@
   },
   "active": "0a3ae977cfc3fa4e",
   "lastOpenFiles": [
-    "Learning/Linux/Routing/Routing - Linux.md",
+    "Learning/Programming/Python/To-do--PYTHON.md",
+    "Learning/Programming/Python/Index of Python.md",
+    "Learning/Programming/Python/Problem solving/Python methods.md",
     "Distance vector protocol.md",
+    "Learning/Linux/Routing/Routing - Linux.md",
     "Learning/Linux/Routing/Routing Protocols.md",
     "Learning/Linux/Routing/Path of Packet.md",
     "Learning/Linux/Linux.md",
@@ -218,10 +221,7 @@
     "Learning/Programming/Python/Images/Pasted image 20230607225615.png",
     "Learning/Linux/Related to Network/Network Addressing.md",
     "Learning/Linux/Related to Network/TCP and IP Model - Linux.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Linux/Images/Pasted image 20230607145047.png",
-    "Learning/Linux/Related to Network/OSI Model - Linux.md",
-    "Learning/Linux/Related to Network/NFS - Linux.md",
     "Learning/Linux/Related to Network",
     "Learning/Linux/Advanced/Logs",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
