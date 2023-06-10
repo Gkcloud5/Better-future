@@ -13,3 +13,10 @@ tag:
 
 * Routing protocol are used to help  our system adapt to network changes.
 * It learns of different routes, builds them in the routing table and then routes our packets through that way.
+* Two primary routing protocol types
+	* Distance Vector protocol
+	* Link state protocol
+
+##### Convergence:
+
+* 
