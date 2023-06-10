@@ -25,4 +25,6 @@ tag:
 	* When they agree on how a network should look, every routing table maps out the complete topology of the network, thus converging.
 	* when something occurs in the network topology, the convergence will temporarily break until all routers are aware of this change.
 
-##### 
+##### Convergence works:
+
+* **Detection:** Routers detect network changes, such as link failures or new router ad. this can be achieved through mechanisms like link monitoring, keepalive messages or neighbor notifications.
