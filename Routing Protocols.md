@@ -24,3 +24,5 @@ tag:
 * When using routing protocols, routers communicate with other routers to collect and exchange information about the network.
 	* When they agree on how a network should look, every routing table maps out the complete topology of the network, thus converging.
 	* when something occurs in the network topology, the convergence will temporarily break until all routers are aware of this change.
+
+##### 
