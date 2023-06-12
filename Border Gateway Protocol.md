@@ -11,4 +11,6 @@ tag:
 
 #### Explanation about it:
 
-* BGP is basically how the internet 
+* BGP is basically how the internet runs.
+* It's used to collect and exchange routing information among autonomous systems.
+* 
