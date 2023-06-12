@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network interface.md",
+                "file": "Learning/Linux/Network/Network interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network interface.md",
+                "file": "Learning/Linux/Network/Network interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network interface.md",
+                "file": "Learning/Linux/Network/Network interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network interface.md"
+                "file": "Learning/Linux/Network/Network interface.md"
               }
             }
           }
@@ -172,8 +172,9 @@
   },
   "active": "bfc3d012b983af33",
   "lastOpenFiles": [
+    "Learning/Linux/Network",
     "Learning/Linux/Linux.md",
-    "Network interface.md",
+    "Learning/Linux/Network/Network interface.md",
     "Learning/Linux/Routing/Routing - Linux.md",
     "Learning/Linux/Routing/Border Gateway Protocol.md",
     "Learning/Linux/Images/network-of-networks.svg",
@@ -207,7 +208,6 @@
     "Learning/Linux/Subnetting/Subnets - Linux.md",
     "Learning/Linux/Subnetting/IPv4.md",
     "Learning/Linux/Subnetting",
-    "Learning/Linux/Related to Network/Network Basics.md",
     "Learning/Linux/Images/Pasted image 20230607230757.png",
     "Learning/Programming/Python/Images/Pasted image 20230607225630.png",
     "Learning/Programming/Python/Images/Pasted image 20230607225615.png",
