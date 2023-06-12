@@ -24,4 +24,6 @@ eth0      Link encap:Ethernet  HWaddr 1d:3a:32:24:4d:ce
 
 ##### ifconfig command:
 
-* the ifconfig tool allows us to configure
+* the ifconfig tool allows us to configure our network interfaces, if we don't have any network interfaces set up, the kernel device drivers and the network won't know how to talk to each others.
+* ifconfig runs on bootup and configures our interfaces through config files, but we can also manually modify them.
+* Output of ifconfig shows the interface nam
