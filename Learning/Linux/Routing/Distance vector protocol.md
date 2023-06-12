@@ -11,4 +11,6 @@ tag:
 
 #### Explanation about it:
 
+* Distance vector protocol determine the path of other networks using the hop count a packet takes across the network.
+* It is a routing protocol used in computer networks to determine the best path for data packets to travel from source to destination.
 * 
