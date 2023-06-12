@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5c32ff69cd41ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Route - Network - Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Network/Network interface.md",
+                "file": "Route - Network - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Network/Network interface.md",
+                "file": "Route - Network - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Network/Network interface.md"
+                "file": "Route - Network - Linux.md"
               }
             }
           }
@@ -170,11 +182,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bfc3d012b983af33",
+  "active": "b5c32ff69cd41ae5",
   "lastOpenFiles": [
+    "Learning/Linux/Network/Network interface.md",
+    "Route - Network - Linux.md",
     "Learning/Linux/Network",
     "Learning/Linux/Linux.md",
-    "Learning/Linux/Network/Network interface.md",
     "Learning/Linux/Routing/Routing - Linux.md",
     "Learning/Linux/Routing/Border Gateway Protocol.md",
     "Learning/Linux/Images/network-of-networks.svg",
@@ -218,7 +231,6 @@
     "Learning/Linux/Advanced/Init",
     "Template",
     "Learning/Linux/Advanced/Kernel",
-    "Learning/Linux/Advanced/Booting",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }
