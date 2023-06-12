@@ -11,4 +11,17 @@ tag:
 
 #### Explanation about it:
 
-* 
+* it is how the kernel links up the software side of the networking to the hardware side.
+
+```
+ifconfig -a
+  
+eth0      Link encap:Ethernet  HWaddr 1d:3a:32:24:4d:ce  
+          inet addr:192.168.1.129  Bcast:192.168.1.255  Mask:255.255.255.0 
+          inet6 addr: fd60::21c:29ff:fe63:5cdc/64 Scope:Link
+```
+
+
+##### ifconfig command:
+
+* the ifconfig tool allows us to configure
