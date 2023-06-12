@@ -13,4 +13,4 @@ tag:
 
 * BGP is basically how the internet runs.
 * It's used to collect and exchange routing information among autonomous systems.
-* 
+* ![[network-of-networks.svg]]

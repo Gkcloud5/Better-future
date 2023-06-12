@@ -35,4 +35,9 @@
 2. [[Network Basics]]
 3. [[Subnetting - Linux]]
 4. [[Routing - Linux]]
-5. 
+
+
+#### Network configuration
+
+1. [[Network interface]]
+2. 
