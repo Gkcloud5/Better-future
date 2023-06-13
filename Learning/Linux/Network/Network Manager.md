@@ -13,4 +13,11 @@ tag:
 
 * Network Manager daemon used to configure their network automatically.
 * It manages your network's hardware and connection information.
-* For instance on startup, Netw
+* For instance on startup, Network Manager will gather network hardware information, search for connections to wireless, wired, etc and then activates it.
+
+```
+nm-tool
+
+nmcli
+```
+
