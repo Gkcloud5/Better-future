@@ -15,4 +15,14 @@ tag:
 
 ```
 #Add route
+route add -net IPaddress/23 gw GATEWAYADDR
+
+#Delete a route
+route del -net IPADDRESS/23
+
+#Add route
+ip route add IPADDress/23 via GATEWAYADDRESS
+
+#Delete route
+ip route delete IPaddress/23 via GatewayAddress
 ```

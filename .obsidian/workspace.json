@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "b5c32ff69cd41ae5",
+            "id": "6fbc60c76bd3bed7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Route - Network - Linux.md",
+                "file": "DHclient - Network - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Route - Network - Linux.md",
+                "file": "DHclient - Network - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Route - Network - Linux.md",
+                "file": "DHclient - Network - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Route - Network - Linux.md"
+                "file": "DHclient - Network - Linux.md"
               }
             }
           }
@@ -182,10 +181,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5c32ff69cd41ae5",
+  "active": "6fbc60c76bd3bed7",
   "lastOpenFiles": [
     "Learning/Linux/Network/Network interface.md",
-    "Route - Network - Linux.md",
+    "DHclient - Network - Linux.md",
+    "Learning/Linux/Network/Route - Network - Linux.md",
     "Learning/Linux/Network",
     "Learning/Linux/Linux.md",
     "Learning/Linux/Routing/Routing - Linux.md",
@@ -219,7 +219,6 @@
     "Learning/Linux/Subnetting/Subnetting Cheats.md",
     "Learning/Linux/Subnetting/Subnet Math - Linux.md",
     "Learning/Linux/Subnetting/Subnets - Linux.md",
-    "Learning/Linux/Subnetting/IPv4.md",
     "Learning/Linux/Subnetting",
     "Learning/Linux/Images/Pasted image 20230607230757.png",
     "Learning/Programming/Python/Images/Pasted image 20230607225630.png",
