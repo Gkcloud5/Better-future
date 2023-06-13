@@ -68,6 +68,7 @@ ip address add IPADDRESS/24 dev eth0
 
 [[DHclient - Network - Linux]]
 
+[[Network Manager]]
 
 
 
