@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICMP - Network - Linux.md",
+                "file": "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICMP - Network - Linux.md",
+                "file": "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICMP - Network - Linux.md",
+                "file": "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICMP - Network - Linux.md"
+                "file": "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md"
               }
             }
           }
@@ -172,8 +172,9 @@
   },
   "active": "12f54243f45917e1",
   "lastOpenFiles": [
+    "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
+    "Learning/Linux/Troubleshoot",
     "Learning/Linux/Linux.md",
-    "ICMP - Network - Linux.md",
     "Learning/Linux/Network/Network interface.md",
     "Learning/Linux/Network/ARP - Network - Linux.md",
     "Learning/Linux/Network/Network Manager.md",
@@ -204,7 +205,6 @@
     "Learning/Linux/Subnetting/Subnetting - Linux.md",
     "Learning/Linux/Subnetting/NAT.md",
     "Learning/Linux/Images/Pasted image 20230608201805.png",
-    "Learning/Linux/Subnetting/CIDR.md",
     "Learning/Linux/Images/Pasted image 20230608182137.png",
     "Learning/Linux/Images/Pasted image 20230608171751.png",
     "Learning/Linux/Images/Pasted image 20230607232111.png",
@@ -218,7 +218,6 @@
     "Learning/Linux/Advanced/Process",
     "Learning/Linux/Advanced/Init",
     "Template",
-    "Learning/Linux/Advanced/Kernel",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }
