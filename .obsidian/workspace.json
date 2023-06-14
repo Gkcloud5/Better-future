@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Network/ARP - Network - Linux.md",
+                "file": "Learning/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Network/ARP - Network - Linux.md",
+                "file": "Learning/Linux/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Network/ARP - Network - Linux.md"
+                "file": "Learning/Linux/Linux.md"
               }
             }
           }
@@ -182,7 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97efb974158381c5",
+  "active": "0e5cd4f42bd55b20",
   "lastOpenFiles": [
     "Learning/Linux/Network/Network interface.md",
     "Learning/Linux/Network/ARP - Network - Linux.md",
