@@ -11,4 +11,6 @@ tag:
 
 #### Explanation about it:
 
-* 
+* ICMP stands for internet control message protocol, it is a network protocol that is used to send error messages and control messages and operational information between network devices.
+* ICMP operates at the network layer of the TCP/IP protocol suite, and its primary purposes is to provide feedback and reporting about the status of network.
+* It used
