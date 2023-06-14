@@ -27,4 +27,4 @@ Address                  HWtype  HWaddress           Flags Mask            Iface
 	* Source host broadcasts this frame to the entire network
 	* If one of the hosts on the network knows the correct MAC address, it will send a reply packet and frame containing the mac address.
 	* The source host adds the IP to MAC address mapping to the ARP cache and then proceeds with sending the packet.
-* 
+* When a device wants to send data to specific IP address, it first checks its ARP cache, which is a table that stores IP-to-MAC addre
