@@ -40,4 +40,13 @@
 #### Network configuration
 
 1. [[Network interface]]
+2. [[Route - Network - Linux]]
+3. [[DHclient - Network - Linux]]
+4. [[Network Manager]]
+5. [[ARP - Network - Linux]]
+
+
+#### Troubleshooting
+
+1. [[ICMP - Network - Linux]]
 2. 
