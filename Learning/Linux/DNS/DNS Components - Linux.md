@@ -28,4 +28,10 @@ tag:
 * Each line is a record and contains information about hosts nameservers and other resources.
 * Field consist of
 	* Record name
-	* TTL - The time after which we discard the record and obtain a new one.
+	* TTL - The time after which we discard the record and obtain a new one. internet is constantly changing, one minute a host can be mapped to X IP address then next it can be at Y IP address.
+	* Class - Namespace of the record information. most commonly IN is used for internet.
+	* TYPE - Type of information stored in the record data.
+		* A for address
+		* MX or mail exchanger
+	* Data - This field contain an IP address if it's an A record or something else depending on the record type.
+

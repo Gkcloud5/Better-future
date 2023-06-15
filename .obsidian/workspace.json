@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "780875e95a505804",
+            "id": "971e66132592f39b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS Components - Linux.md",
+                "file": "DNS Process - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNS Components - Linux.md",
+                "file": "DNS Process - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNS Components - Linux.md",
+                "file": "DNS Process - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNS Components - Linux.md"
+                "file": "DNS Process - Linux.md"
               }
             }
           }
@@ -170,11 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "780875e95a505804",
+  "active": "971e66132592f39b",
   "lastOpenFiles": [
     "Learning/Linux/Linux.md",
-    "DNS Components - Linux.md",
-    "What is DNS - Linux.md",
+    "DNS Process - Linux.md",
+    "Learning/Linux/DNS",
+    "Learning/Linux/DNS/DNS Components - Linux.md",
+    "Learning/Linux/DNS/What is DNS - Linux.md",
     "Learning/Linux/Troubleshoot/Packet analysis - Linux.md",
     "Learning/Linux/Troubleshoot/netstat - Linux.md",
     "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
@@ -202,7 +204,6 @@
     "Learning/Programming/Python/Problem solving/Pattern",
     "Learning/Programming/Python/Problem solving/List/List - 1.md",
     "Learning/Programming/Python/Problem solving/String/To find string.md",
-    "Learning/Programming/Python/Problem solving/String/SwapCase-1.md",
     "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
     "Learning/Linux/Routing",
     "Learning/Linux/Images/Pasted image 20230608201805.png",
@@ -218,7 +219,6 @@
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Linux/Advanced/Process",
     "Learning/Linux/Advanced/Init",
-    "Template",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }
