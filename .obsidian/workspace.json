@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "netstat - Linux.md",
+                "file": "Learning/Linux/Troubleshoot/netstat - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "netstat - Linux.md",
+                "file": "Learning/Linux/Troubleshoot/netstat - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "netstat - Linux.md",
+                "file": "Learning/Linux/Troubleshoot/netstat - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "netstat - Linux.md"
+                "file": "Learning/Linux/Troubleshoot/netstat - Linux.md"
               }
             }
           }
@@ -173,7 +172,7 @@
   "active": "4e8a2bbe14757e97",
   "lastOpenFiles": [
     "Learning/Linux/Linux.md",
-    "netstat - Linux.md",
+    "Learning/Linux/Troubleshoot/netstat - Linux.md",
     "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
     "Learning/Linux/Troubleshoot/Ping -Linux.md",
     "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
