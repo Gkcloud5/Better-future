@@ -14,4 +14,4 @@ tag:
 ##### Nameserver:
 
 * We setup DNS via "nameservers"
-* the nameserver load up our DNS settings and configs and answer
+* the nameserver load up our DNS settings and configs and answers any questions from clients or other servers that want to know things like "who is google.com" 
