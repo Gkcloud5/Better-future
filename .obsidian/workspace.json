@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "cb2234d204208f89",
+            "id": "5fc121cd34c9d70b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/Advanced/Animation - CSS.md",
+                "file": "Web Development/CSS/Advanced/Button - CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Advanced/Animation - CSS.md",
+                "file": "Web Development/CSS/Advanced/Button - CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Advanced/Animation - CSS.md",
+                "file": "Web Development/CSS/Advanced/Button - CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Advanced/Animation - CSS.md"
+                "file": "Web Development/CSS/Advanced/Button - CSS.md"
               }
             }
           }
@@ -170,9 +170,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cb2234d204208f89",
+  "active": "5fc121cd34c9d70b",
   "lastOpenFiles": [
     "Web Development/CSS/CSS.md",
+    "Web Development/CSS/Advanced/Button - CSS.md",
+    "Web Development/CSS/Advanced/Animation - CSS.md",
     "Learning/Linux/Linux.md",
     "Learning/Linux/DNS/DNS setup - Linux.md",
     "Template/Theory template.md",
@@ -200,8 +202,6 @@
     "Learning/Linux/Routing/Link state protocol.md",
     "Learning/Linux/Routing/Distance vector protocol.md",
     "Learning/Programming/Python/To-do--PYTHON.md",
-    "Learning/Programming/Python/Index of Python.md",
-    "Learning/Programming/Python/Problem solving/Python methods.md",
     "Learning/Programming/Python/Images/Pasted image 20230610010015.png",
     "Learning/Programming/Python/Problem solving/Pattern",
     "Learning/Programming/Python/Images/Pasted image 20230608232003.png",

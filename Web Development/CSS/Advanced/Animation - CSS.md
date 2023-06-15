@@ -23,6 +23,7 @@
   text-align: center;
   padding: 15px;
   animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
 
 @keyframes example {
