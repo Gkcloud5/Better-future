@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4e8a2bbe14757e97",
+            "id": "39513951bc102b3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Troubleshoot/netstat - Linux.md",
+                "file": "Learning/Linux/Troubleshoot/Packet analysis - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Troubleshoot/netstat - Linux.md",
+                "file": "Learning/Linux/Troubleshoot/Packet analysis - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Troubleshoot/netstat - Linux.md",
+                "file": "Learning/Linux/Troubleshoot/Packet analysis - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Troubleshoot/netstat - Linux.md"
+                "file": "Learning/Linux/Troubleshoot/Packet analysis - Linux.md"
               }
             }
           }
@@ -170,9 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e8a2bbe14757e97",
+  "active": "39513951bc102b3b",
   "lastOpenFiles": [
     "Learning/Linux/Linux.md",
+    "Learning/Linux/Troubleshoot/Packet analysis - Linux.md",
     "Learning/Linux/Troubleshoot/netstat - Linux.md",
     "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
     "Learning/Linux/Troubleshoot/Ping -Linux.md",
@@ -203,7 +204,6 @@
     "Learning/Programming/Python/Problem solving/String/Check string character.md",
     "Learning/Programming/Python/Problem solving/String/Split a string as per given num.md",
     "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
-    "Learning/Linux/Routing/Routing Table - Linux.md",
     "Learning/Linux/Routing",
     "Learning/Linux/Images/Pasted image 20230608201805.png",
     "Learning/Linux/Images/Pasted image 20230608182137.png",

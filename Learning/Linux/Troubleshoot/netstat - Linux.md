@@ -60,3 +60,4 @@ tcp6       0      0 ip6-localhost:6010      [::]:*                  LISTEN
 * **Local Address** -  Locally connected host
 * **Foreign Address** - Remotely connected host
 * **State** - The state of the socket.
+
