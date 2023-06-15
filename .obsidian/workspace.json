@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Web Development/CSS/Advanced/Button - CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
+                "file": "Web Development/CSS/Advanced/Button - CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/CSS.md"
+                "file": "Web Development/CSS/Advanced/Button - CSS.md"
               }
             }
           }
@@ -169,22 +170,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76e4a1dc5b996a60",
+  "active": "5fc121cd34c9d70b",
   "lastOpenFiles": [
+    "Web Development/CSS/CSS.md",
+    "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/Icon/Simple Grace Medical .png",
+    "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/Icon",
+    "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/New folder",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/Favicon/favicon.ico",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/Favicon/favicon.ico.crdownload",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/Favicon",
-    "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/New folder",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/New folder",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/CSS-P/index.css",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/CSS-P",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/HTML-P/index.html",
-    "Development/Practise/HTML + CSS Practise/HTMLCSS-1/HTML-P",
-    "Development/Practise/HTML + CSS Practise/HTMLCSS-1/HTML-Pro",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/image_260.png",
     "Web Development/CSS/Advanced/Button - CSS.md",
-    "Web Development/CSS/CSS.md",
     "Web Development/CSS/Advanced/Animation - CSS.md",
     "Learning/Linux/Linux.md",
     "Learning/Linux/DNS/DNS setup - Linux.md",
@@ -216,7 +217,6 @@
     "Learning/Linux/Images/Pasted image 20230608171751.png",
     "Learning/Linux/Images/Pasted image 20230607232111.png",
     "Learning/Linux/Images/Pasted image 20230607230757.png",
-    "Learning/Programming/Python/Images/Pasted image 20230607225630.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
