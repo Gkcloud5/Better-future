@@ -21,3 +21,11 @@ tag:
 
 * Inside a nameserver lives something called zone files.
 * Zone files are how the name server stores information about the domain or how to get to the domain if it does not know.
+
+##### Resource records:
+
+* A zone file is comprised of entries of resource records.
+* Each line is a record and contains information about hosts nameservers and other resources.
+* Field consist of
+	* Record name
+	* TTL - The time after which we discard the record and obtain a new one.
