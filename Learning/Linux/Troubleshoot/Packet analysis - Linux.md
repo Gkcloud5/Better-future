@@ -14,3 +14,10 @@ tag:
 * Two popular packet analyzers
 	* Wireshark
 	* tcpdump
+* These tools scan your network interfaces and capture the packet activity, parse the packages and output the information for us to see.
+
+```
+apt install tcpdump
+
+
+```

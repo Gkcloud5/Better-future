@@ -53,3 +53,9 @@
 3. [[Traceroute - Linux]]
 4. [[netstat - Linux]]
 5. [[Packet analysis - Linux]]
+
+
+#### About DNS:
+
+1. [[What is DNS - Linux]]
+2. 
