@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS Process - Linux.md",
+                "file": "Learning/Linux/DNS/DNS Process - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNS Process - Linux.md",
+                "file": "Learning/Linux/DNS/DNS Process - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNS Process - Linux.md",
+                "file": "Learning/Linux/DNS/DNS Process - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNS Process - Linux.md"
+                "file": "Learning/Linux/DNS/DNS Process - Linux.md"
               }
             }
           }
@@ -173,7 +173,7 @@
   "active": "971e66132592f39b",
   "lastOpenFiles": [
     "Learning/Linux/Linux.md",
-    "DNS Process - Linux.md",
+    "Learning/Linux/DNS/DNS Process - Linux.md",
     "Learning/Linux/DNS",
     "Learning/Linux/DNS/DNS Components - Linux.md",
     "Learning/Linux/DNS/What is DNS - Linux.md",
