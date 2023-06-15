@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "edd7fc25f5b8b8b0",
+        "id": "924a4d22b82b2a62",
         "type": "tabs",
         "children": [
           {
-            "id": "0e5cd4f42bd55b20",
+            "id": "76e4a1dc5b996a60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Linux.md",
+                "file": "Web Development/CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5baf81a6877e3e62",
+            "id": "cb2234d204208f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/DNS/DNS setup - Linux.md",
+                "file": "Web Development/CSS/Advanced/Animation - CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/DNS/DNS setup - Linux.md",
+                "file": "Web Development/CSS/Advanced/Animation - CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/DNS/DNS setup - Linux.md",
+                "file": "Web Development/CSS/Advanced/Animation - CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/DNS/DNS setup - Linux.md"
+                "file": "Web Development/CSS/Advanced/Animation - CSS.md"
               }
             }
           }
@@ -170,12 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5baf81a6877e3e62",
+  "active": "cb2234d204208f89",
   "lastOpenFiles": [
+    "Web Development/CSS/CSS.md",
     "Learning/Linux/Linux.md",
+    "Learning/Linux/DNS/DNS setup - Linux.md",
     "Template/Theory template.md",
     "Template/Simple explain template.md",
-    "Learning/Linux/DNS/DNS setup - Linux.md",
     "Learning/Linux/DNS/etc file hosts - Linux.md",
     "Learning/Linux/DNS/DNS Process - Linux.md",
     "Learning/Linux/DNS",
@@ -201,7 +202,6 @@
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/Problem solving/Python methods.md",
-    "Learning/Linux/Routing/Routing Protocols.md",
     "Learning/Programming/Python/Images/Pasted image 20230610010015.png",
     "Learning/Programming/Python/Problem solving/Pattern",
     "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
