@@ -17,3 +17,8 @@ tag:
 * Each ICMP message contains a type, code and checksum field.
 	* type field is the type of ICMP message,
 	* the code is a sub-type and describes more information about the message and the checksum is used to detect any issues with the integrity of the message.
+* Common ICMP types
+	* TYPE 0 - Echo reply
+	* TYPE 3 - Destination unreachable
+	* TYPE 8 - Echo request
+	* TYPE 11 - Time exceeded

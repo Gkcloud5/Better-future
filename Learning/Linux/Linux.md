@@ -49,4 +49,5 @@
 #### Troubleshooting
 
 1. [[ICMP - Network - Linux]]
-2. 
+2. [[Ping -Linux]]
+3. 
