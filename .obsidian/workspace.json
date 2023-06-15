@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "74c130d0d63789f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6b8e9f9857cc4613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ping -Linux.md",
+                "file": "Learning/Linux/Troubleshoot/Ping -Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ping -Linux.md",
+                "file": "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ping -Linux.md",
+                "file": "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ping -Linux.md"
+                "file": "Learning/Linux/Troubleshoot/Traceroute - Linux.md"
               }
             }
           }
@@ -182,11 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b8e9f9857cc4613",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
-    "Ping -Linux.md",
     "Learning/Linux/Linux.md",
+    "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
+    "Learning/Linux/Troubleshoot/Ping -Linux.md",
+    "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
     "Learning/Linux/Troubleshoot",
     "Learning/Linux/Network/Network interface.md",
     "Learning/Linux/Network/ARP - Network - Linux.md",
@@ -216,7 +229,6 @@
     "Learning/Linux/Routing/Routing Table - Linux.md",
     "Learning/Linux/Routing",
     "Learning/Linux/Subnetting/Subnetting - Linux.md",
-    "Learning/Linux/Subnetting/NAT.md",
     "Learning/Linux/Images/Pasted image 20230608201805.png",
     "Learning/Linux/Images/Pasted image 20230608182137.png",
     "Learning/Linux/Images/Pasted image 20230608171751.png",

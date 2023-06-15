@@ -33,4 +33,9 @@ PING www.google.com (172.217.13.100) 56(84) bytes of data.
 
 ##### ttl:
 
-* Time to live field is used as a hop counter, as you make hops, it decrements a counter by one and once the hop counter reaches 0 then packet dies
+* Time to live field is used as a hop counter, as you make hops, it decrements a counter by one and once the hop counter reaches 0 then packet dies.
+* It meant to give the packet a lifespan, we don't want our packets travelling around forever.
+
+##### time:
+
+* The roundtrip time it took from you sending the echo request packet to getting echo reply.
