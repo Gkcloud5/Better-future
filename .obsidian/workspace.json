@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "74c130d0d63789f5",
+            "id": "4e8a2bbe14757e97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b8e9f9857cc4613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Linux/Troubleshoot/Ping -Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12f54243f45917e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
+                "file": "netstat - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
+                "file": "netstat - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
+                "file": "netstat - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Troubleshoot/Traceroute - Linux.md"
+                "file": "netstat - Linux.md"
               }
             }
           }
@@ -194,9 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "4e8a2bbe14757e97",
   "lastOpenFiles": [
     "Learning/Linux/Linux.md",
+    "netstat - Linux.md",
     "Learning/Linux/Troubleshoot/Traceroute - Linux.md",
     "Learning/Linux/Troubleshoot/Ping -Linux.md",
     "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
@@ -228,7 +205,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
     "Learning/Linux/Routing/Routing Table - Linux.md",
     "Learning/Linux/Routing",
-    "Learning/Linux/Subnetting/Subnetting - Linux.md",
     "Learning/Linux/Images/Pasted image 20230608201805.png",
     "Learning/Linux/Images/Pasted image 20230608182137.png",
     "Learning/Linux/Images/Pasted image 20230608171751.png",
