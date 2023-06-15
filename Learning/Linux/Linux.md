@@ -60,4 +60,4 @@
 1. [[What is DNS - Linux]]
 2. [[DNS Components - Linux]]
 3. [[DNS Process - Linux]]
-4. 
+4. [[etc -> hosts - L]]

@@ -29,4 +29,11 @@ tag:
 ##### Top-level domain:
 
 * we send another request to the name server that knows ".com" addresses and asks if it knows where "domain.com is?"
-	* TLD doesn't have the domain.com in their zone files, but it does see a record 
+	* TLD doesn't have the domain.com in their zone files, but it does see a record for the name server for domain.com
+	* So it gives us the IP address of the name server and tell us to look there.
+
+##### Authoritative DNS server:
+
+* We send final request to the DNS server that actually has the record we want.
+* The name server sees that it has a zone file for domain.com and there is a resource record for www for this host.
+* it then gives IP address of this host and we can finally see website.
