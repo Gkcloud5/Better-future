@@ -21,4 +21,8 @@ modification date: Thursday 15th June 2023 16:59:35
 
 * It is most popular DNS server on the internet.
 * BIND stands for Berkeley internet name domain.
-* BIND responsible for tr
+* BIND responsible for translating human readable domain names into the numeric IP addresses that computers use to communicate with each other.
+
+##### DNSmasq:
+
+* 
