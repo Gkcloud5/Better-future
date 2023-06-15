@@ -58,4 +58,5 @@
 #### About DNS:
 
 1. [[What is DNS - Linux]]
-2. 
+2. [[DNS Components - Linux]]
+3. 
