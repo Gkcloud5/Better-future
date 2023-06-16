@@ -6,7 +6,7 @@ modification date: Friday 16th June 2023 15:12:41
 **Tags:** #linux #firewall
 
 #### Source:
-[LJ](https://www.youtube.com/watch?v=R5RgvzdXhIc)
+[TY](https://www.youtube.com/watch?v=R5RgvzdXhIc)
 
 --------------------------------------
 
