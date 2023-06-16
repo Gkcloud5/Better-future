@@ -63,3 +63,8 @@
 4. [[etc file hosts - Linux]]
 5. [[DNS setup - Linux]]
 6. [[DNS Tools - Linux]]
+
+
+#### Firewall:
+
+1. 
