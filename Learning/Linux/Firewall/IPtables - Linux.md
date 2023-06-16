@@ -28,3 +28,7 @@ modification date: Friday 16th June 2023 16:06:42
 	* Modifying particular packet and connection.
 
 
+##### Chains:
+
+* Chains can be seen as tags that define and match packets to the state
+* 
