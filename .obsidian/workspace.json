@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "695e06820ec488ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Linux/DNS/DNS Tools - Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -182,7 +170,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "2386c947f04b7326",
   "lastOpenFiles": [
     "Learning/Linux/Linux.md",
     "Learning/Linux/Firewall/About Firewall - Linux.md",

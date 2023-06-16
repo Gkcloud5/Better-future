@@ -12,4 +12,5 @@ modification date: Friday 16th June 2023 15:12:41
 
 #### Explanation about it:
 
+* Firewall is a set of rules that helps to secure system more.
 * 
