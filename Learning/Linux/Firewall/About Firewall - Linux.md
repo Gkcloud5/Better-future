@@ -13,4 +13,6 @@ modification date: Friday 16th June 2023 15:12:41
 #### Explanation about it:
 
 * Firewall is a set of rules that helps to secure system more.
+* A firewall is set of rules, when a data packet moves into or out of a protected network space.
+* Firewall creates a safety barrier between a private network and the public network.
 * 
