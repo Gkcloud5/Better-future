@@ -62,4 +62,4 @@
 3. [[DNS Process - Linux]]
 4. [[etc file hosts - Linux]]
 5. [[DNS setup - Linux]]
-6. 
+6. [[DNS Tools - Linux]]

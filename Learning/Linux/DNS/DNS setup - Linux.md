@@ -30,4 +30,4 @@ modification date: Thursday 15th June 2023 16:59:35
 
 ##### PowerDNS:
 
-* Full featured and similar to BIND, it offers you little bit more flexibility with options. It reads information from multiple databases such as MySQL, postgreSQL, 
+* Full featured and similar to BIND, it offers you little bit more flexibility with options. It reads information from multiple databases such as MySQL, postgreSQL, etc.
