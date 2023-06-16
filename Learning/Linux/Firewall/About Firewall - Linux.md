@@ -32,4 +32,8 @@ modification date: Friday 16th June 2023 15:12:41
 
 ##### Network-Based firewall:
 
-* It is a combination of 
+* It is a combination of software and hardware
+* It protects entire network.
+* mostly it is stand alone product.
+	* Cloud firewall
+* 
