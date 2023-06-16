@@ -27,4 +27,9 @@ modification date: Friday 16th June 2023 15:12:41
 ##### Host based firewall:
 
 * Software firewall that is installed on a computer
-* 
+* It protects only that computer
+* E.G: Windows firewall
+
+##### Network-Based firewall:
+
+* It is a combination of 
