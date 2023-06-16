@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "924a4d22b82b2a62",
+        "id": "48a1404b5531a142",
         "type": "tabs",
         "children": [
           {
-            "id": "76e4a1dc5b996a60",
+            "id": "3a4ff8dca88298c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fc121cd34c9d70b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/CSS/Advanced/Button - CSS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Advanced/Button - CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Advanced/Button - CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/CSS/Advanced/Button - CSS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,8 +148,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fc121cd34c9d70b",
+  "active": "3a4ff8dca88298c1",
   "lastOpenFiles": [
+    "Web Development/CSS/Advanced/Button - CSS.md",
     "Web Development/CSS/CSS.md",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/Icon/Simple Grace Medical .png",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/Icon",
@@ -185,7 +164,6 @@
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/CSS-P",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/HTML-P/index.html",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/image_260.png",
-    "Web Development/CSS/Advanced/Button - CSS.md",
     "Web Development/CSS/Advanced/Animation - CSS.md",
     "Learning/Linux/Linux.md",
     "Learning/Linux/DNS/DNS setup - Linux.md",
