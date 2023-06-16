@@ -31,4 +31,6 @@ modification date: Friday 16th June 2023 16:06:42
 ##### Chains:
 
 * Chains can be seen as tags that define and match packets to the state
-* 
+* **Input chain:** It is used to manage incoming packets and connection's and to a particular service to a protocol.
+* **Output Chain:** It is used to manage outgoing packets after they have been created or processed.
+* **Forward chain:** It is used to forward incoming packets from their source to the destination.
