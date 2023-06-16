@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flex Box - CSS.md",
+                "file": "Web Development/CSS/Advanced/Flex Box - CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flex Box - CSS.md",
+                "file": "Web Development/CSS/Advanced/Flex Box - CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flex Box - CSS.md",
+                "file": "Web Development/CSS/Advanced/Flex Box - CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flex Box - CSS.md"
+                "file": "Web Development/CSS/Advanced/Flex Box - CSS.md"
               }
             }
           }
@@ -172,8 +172,9 @@
   },
   "active": "282e37af2d554a87",
   "lastOpenFiles": [
+    "Learning/Pasted image 20230616171105.png",
     "Web Development/CSS/CSS.md",
-    "Flex Box - CSS.md",
+    "Web Development/CSS/Advanced/Flex Box - CSS.md",
     "Learning/Linux/Firewall/About Firewall - Linux.md",
     "Learning/Linux/Firewall/IPtables - Linux.md",
     "Learning/Linux/Linux.md",
@@ -210,7 +211,6 @@
     "Learning/Linux/Network/Network Manager.md",
     "Learning/Linux/Network/DHclient - Network - Linux.md",
     "Learning/Linux/Network/Route - Network - Linux.md",
-    "Learning/Linux/Routing/Routing - Linux.md",
     "Learning/Linux/Images/network-of-networks.svg",
     "Learning/Programming/Python/Images/Pasted image 20230610010015.png",
     "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
