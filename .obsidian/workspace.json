@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS Tools - Linux.md",
+                "file": "Learning/Linux/DNS/DNS Tools - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -169,9 +168,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a4ff8dca88298c1",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "DNS Tools - Linux.md",
+    "Learning/Linux/Firewall",
+    "Learning/Linux/DNS/DNS Tools - Linux.md",
     "Learning/Linux/Linux.md",
     "Learning/Linux/DNS/DNS setup - Linux.md",
     "Web Development/CSS/Advanced/Button - CSS.md",
@@ -209,7 +209,6 @@
     "Learning/Linux/Routing/Border Gateway Protocol.md",
     "Learning/Linux/Images/network-of-networks.svg",
     "Learning/Linux/Routing/Link state protocol.md",
-    "Learning/Linux/Routing/Distance vector protocol.md",
     "Learning/Programming/Python/Images/Pasted image 20230610010015.png",
     "Learning/Programming/Python/Images/Pasted image 20230608232003.png",
     "Learning/Linux/Images/Pasted image 20230608201805.png",
