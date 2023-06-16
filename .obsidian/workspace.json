@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0e3e3b2db37cdb2f",
+        "id": "2c2c8a3237e3783e",
         "type": "tabs",
         "children": [
           {
-            "id": "4a2d071a0055bbcd",
+            "id": "ce2da2583edd1baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "282e37af2d554a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/CSS/Advanced/Flex Box - CSS.md",
+                "file": "Learning/Programming/Python/Problem solving/String/String format.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS/Advanced/Flex Box - CSS.md",
+                "file": "Learning/Programming/Python/Problem solving/String/String format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS/Advanced/Flex Box - CSS.md",
+                "file": "Learning/Programming/Python/Problem solving/String/String format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS/Advanced/Flex Box - CSS.md"
+                "file": "Learning/Programming/Python/Problem solving/String/String format.md"
               }
             }
           }
@@ -169,8 +157,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "282e37af2d554a87",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Images/Pasted image 20230617014551.png",
+    "Learning/Programming/Python/Images/Pasted image 20230617014543.png",
+    "Learning/Programming/Python/Problem solving/String/String format.md",
+    "Web Development/CSS/Advanced/Flex Box - CSS.md",
     "Web Development/CSS/CSS.md",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Icon/Simple Grace Medical .png",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Favicon/favicon.ico",
@@ -190,7 +182,6 @@
     "Development/HTML-CSS-1/README.md",
     "Web Development/CSS/Image/Pasted image 20230616171105.png",
     "Web Development/CSS/Image/Pasted image 20230616172629.png",
-    "Web Development/CSS/Advanced/Flex Box - CSS.md",
     "Learning/Linux/Firewall/About Firewall - Linux.md",
     "Learning/Linux/Firewall/IPtables - Linux.md",
     "Learning/Linux/Linux.md",
@@ -214,8 +205,6 @@
     "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
     "Learning/Linux/Network/Network interface.md",
     "Learning/Linux/Network/ARP - Network - Linux.md",
-    "Learning/Linux/Network/Network Manager.md",
-    "Learning/Linux/Images/network-of-networks.svg",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]

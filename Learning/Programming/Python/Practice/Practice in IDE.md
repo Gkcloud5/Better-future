@@ -5,7 +5,7 @@
 3. [[Variable and types]]
 4. [[Lists]]
 5. [[Basic Operators]]
-6. [[String format]]
+6. [[Learning/Programming/Python/Practice/Basic things/String format]]
 7. [[Basic String operation]]
 8. [[Conditions]]
 9. [[Loops]]
