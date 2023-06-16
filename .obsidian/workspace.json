@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPtables - Linux.md",
+                "file": "Learning/Linux/Firewall/IPtables - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPtables - Linux.md",
+                "file": "Learning/Linux/Firewall/IPtables - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IPtables - Linux.md",
+                "file": "Learning/Linux/Firewall/IPtables - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IPtables - Linux.md"
+                "file": "Learning/Linux/Firewall/IPtables - Linux.md"
               }
             }
           }
@@ -182,10 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "074800e46d814aeb",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Linux/Images/Pasted image 20230616160712.png",
     "Learning/Linux/Firewall/About Firewall - Linux.md",
-    "IPtables - Linux.md",
+    "Learning/Linux/Firewall/IPtables - Linux.md",
     "Learning/Linux/Linux.md",
     "Learning/Linux/Firewall",
     "Learning/Linux/DNS/DNS Tools - Linux.md",
@@ -221,7 +222,6 @@
     "Learning/Linux/Network/DHclient - Network - Linux.md",
     "Learning/Linux/Network/Route - Network - Linux.md",
     "Learning/Linux/Routing/Routing - Linux.md",
-    "Learning/Linux/Routing/Border Gateway Protocol.md",
     "Learning/Linux/Images/network-of-networks.svg",
     "Learning/Programming/Python/Images/Pasted image 20230610010015.png",
     "Learning/Programming/Python/Images/Pasted image 20230608232003.png",

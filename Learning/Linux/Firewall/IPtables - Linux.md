@@ -12,3 +12,8 @@ modification date: Friday 16th June 2023 16:06:42
 
 #### Explanation about it:
 
+![[Pasted image 20230616160712.png]]
+
+* **netfilter:** It is a firewall framework.
+* Iptable is utility to control and manage net filter.
+* Table is collection of chain
