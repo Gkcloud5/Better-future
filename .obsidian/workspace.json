@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2386c947f04b7326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux/Firewall/About Firewall - Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "695e06820ec488ee",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Linux.md",
+                "file": "Learning/Linux/Firewall/About Firewall - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Linux.md",
+                "file": "Learning/Linux/Firewall/About Firewall - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Linux.md"
+                "file": "Learning/Linux/Firewall/About Firewall - Linux.md"
               }
             }
           }
@@ -170,9 +184,10 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Linux/Linux.md",
+    "Learning/Linux/Firewall/About Firewall - Linux.md",
     "Learning/Linux/Firewall",
     "Learning/Linux/DNS/DNS Tools - Linux.md",
-    "Learning/Linux/Linux.md",
     "Learning/Linux/DNS/DNS setup - Linux.md",
     "Web Development/CSS/Advanced/Button - CSS.md",
     "Web Development/CSS/CSS.md",
@@ -186,7 +201,6 @@
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/New folder",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/CSS-P/index.css",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/CSS-P",
-    "Development/Practise/HTML + CSS Practise/HTMLCSS-1/HTML-P/index.html",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/image_260.png",
     "Web Development/CSS/Advanced/Animation - CSS.md",
     "Template/Theory template.md",
