@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard of my better future/Home of my learning.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard of my better future/Dashboard template.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -199,9 +199,11 @@
   "active": "32eef8751c27270f",
   "lastOpenFiles": [
     "Dashboard of my better future/Dashboard template.md",
+    "Dashboard of my better future/Home of my learning.md",
+    "Learning/Operating System/OS Topics.md",
+    "Learning/Operating System/OS.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Python/Index of Python.md",
-    "Dashboard of my better future/Home of my learning.md",
     "Dashboard of my better future",
     "Learning/Programming/Bash/Bash.md",
     "DevOps & Cloud Plans/RoadMap/Resources.md",
@@ -243,7 +245,6 @@
     "Template/Simple explain template.md",
     "Learning/Linux/DNS/etc file hosts - Linux.md",
     "Learning/Linux/DNS/DNS Process - Linux.md",
-    "Learning/Linux/DNS/DNS Components - Linux.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }
