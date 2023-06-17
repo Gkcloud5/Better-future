@@ -20,4 +20,12 @@ modification date: Saturday 17th June 2023 16:02:19
 * It is targeting authentication protocol.
 	* Send random username and password to login server
 	* Attackers mostly target most privilege account.
-	* 
+
+#### All about fail2ban:
+
+* It ban IP based on logs
+* In logs we have information about failed authentication.
+
+```
+
+```
