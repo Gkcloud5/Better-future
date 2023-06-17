@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "55fc3855aa552154",
+            "id": "aa745e59e252617b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux/Firewall/UFW - Linux.md",
+                "file": "Learning/Linux/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux/Firewall/UFW - Linux.md",
+                "file": "Learning/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux/Firewall/UFW - Linux.md",
+                "file": "Learning/Linux/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux/Firewall/UFW - Linux.md"
+                "file": "Learning/Linux/Linux.md"
               }
             }
           }
@@ -170,10 +170,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55fc3855aa552154",
+  "active": "aa745e59e252617b",
   "lastOpenFiles": [
-    "Learning/Linux/Linux.md",
     "Learning/Linux/Firewall/UFW - Linux.md",
+    "Learning/Linux/Linux.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Linux/Firewall/IPtables - Linux.md",
     "Learning/Programming/Python/Problem solving/String/String format.md",
     "Learning/Programming/Python/Images/Pasted image 20230617014551.png",
@@ -217,7 +218,6 @@
     "Learning/Linux/Troubleshoot/Ping -Linux.md",
     "Learning/Linux/Troubleshoot/ICMP - Network - Linux.md",
     "Learning/Linux/Network/Network interface.md",
-    "Learning/Linux/Network/ARP - Network - Linux.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]

@@ -28,7 +28,15 @@ ufw diable
 ufw default deny incoming
 
 #allow
-ufw default 
+ufw default allow incoming
+
+#disble service
+systemctl stop ufw
+
+#delete rule
+ufw status numbered
+ufw delete *number*
 ```
 
-* 
+* stop service and add rule is best practice
+
