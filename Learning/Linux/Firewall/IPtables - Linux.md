@@ -49,5 +49,12 @@ modification date: Friday 16th June 2023 16:06:42
 #to view rules
 iptables -L
 
+#set rule
+iptables --policy INPUT ACCEPT
 
-```
+#to delete rule
+iptables -L --line-numbers
+iptables -D INPUT *linenumber*
+
+#
+``` 
