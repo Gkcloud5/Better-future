@@ -2,5 +2,8 @@
   "accentColor": "#aa28e6",
   "cssTheme": "Things",
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
 }
