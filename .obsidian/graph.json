@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "path:Learning/Linux",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#index",
+      "color": {
+        "a": 1,
+        "rgb": 14485996
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2.7,
+  "nodeSizeMultiplier": 0.916666666666667,
+  "lineSizeMultiplier": 1.22291666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.421875,
+  "repelStrength": 13.9583333333333,
+  "linkStrength": 0.489583333333333,
+  "linkDistance": 272,
+  "scale": 0.46600453928133534,
+  "close": false
+}
