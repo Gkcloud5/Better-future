@@ -56,5 +56,15 @@ iptables --policy INPUT ACCEPT
 iptables -L --line-numbers
 iptables -D INPUT *linenumber*
 
-#
+#regarding port
+iptables -I INPUT -p tcp --dport 80 -j DROP
+
+#save rule
+/sbin/iptables-save
+
+#Append
+iptables -A
+
+#insert
+iptables -I
 ``` 
