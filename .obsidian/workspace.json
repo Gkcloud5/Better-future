@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2c2c8a3237e3783e",
+        "id": "c5eaf30ddd83b4db",
         "type": "tabs",
         "children": [
           {
-            "id": "ce2da2583edd1baf",
+            "id": "94390740748e1d75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/String/String format.md",
+                "file": "Learning/Linux/Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f540a1ea32be374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux/Firewall/IPtables - Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/String/String format.md",
+                "file": "Learning/Linux/Firewall/IPtables - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/String/String format.md",
+                "file": "Learning/Linux/Firewall/IPtables - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/Problem solving/String/String format.md"
+                "file": "Learning/Linux/Firewall/IPtables - Linux.md"
               }
             }
           }
@@ -157,11 +170,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce2da2583edd1baf",
+  "active": "5f540a1ea32be374",
   "lastOpenFiles": [
+    "Learning/Linux/Linux.md",
+    "Learning/Programming/Python/Problem solving/String/String format.md",
     "Learning/Programming/Python/Images/Pasted image 20230617014551.png",
     "Learning/Programming/Python/Images/Pasted image 20230617014543.png",
-    "Learning/Programming/Python/Problem solving/String/String format.md",
     "Web Development/CSS/Advanced/Flex Box - CSS.md",
     "Web Development/CSS/CSS.md",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Icon/Simple Grace Medical .png",
@@ -184,13 +198,11 @@
     "Web Development/CSS/Image/Pasted image 20230616172629.png",
     "Learning/Linux/Firewall/About Firewall - Linux.md",
     "Learning/Linux/Firewall/IPtables - Linux.md",
-    "Learning/Linux/Linux.md",
     "Learning/Linux/Images/Pasted image 20230616160712.png",
     "Learning/Linux/DNS/DNS Tools - Linux.md",
     "Learning/Linux/DNS/DNS setup - Linux.md",
     "Web Development/CSS/Advanced/Button - CSS.md",
     "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/Icon/Simple Grace Medical .png",
-    "Development/Practise/HTML + CSS Practise/HTMLCSS-1/image_260.png",
     "Web Development/CSS/Advanced/Animation - CSS.md",
     "Template/Theory template.md",
     "Template/Simple explain template.md",
