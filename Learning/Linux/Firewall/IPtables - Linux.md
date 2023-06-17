@@ -35,3 +35,5 @@ modification date: Friday 16th June 2023 16:06:42
 * **Output Chain:** It is used to manage outgoing packets after they have been created or processed.
 * **Forward chain:** It is used to forward incoming packets from their source to the destination.
 
+**Firewall rules is a responsible for managing a input and output of packets of server**
+
