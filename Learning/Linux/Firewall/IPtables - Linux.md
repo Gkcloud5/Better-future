@@ -37,3 +37,11 @@ modification date: Friday 16th June 2023 16:06:42
 
 **Firewall rules is a responsible for managing a input and output of packets of server**
 
+##### Target:
+
+* What going to happen if packet match with firewall rule
+	* Accept
+	* Reject
+	* Drop
+* 
+
