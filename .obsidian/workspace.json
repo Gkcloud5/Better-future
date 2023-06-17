@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard of my better future/Home of my learning.md",
+                "file": "Dashboard of my better future/My Journey.md",
                 "mode": "preview",
                 "source": false
               }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard of my better future/Home of my learning.md",
+                "file": "Dashboard of my better future/Dashboard template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard of my better future/Home of my learning.md",
+                "file": "Dashboard of my better future/Dashboard template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard of my better future/Home of my learning.md"
+                "file": "Dashboard of my better future/Dashboard template.md"
               }
             }
           }
@@ -196,10 +196,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32eef8751c27270f",
+  "active": "3ac9f52aa29e3f5f",
   "lastOpenFiles": [
+    "Dashboard of my better future/My Journey.md",
     "Dashboard of my better future/Dashboard template.md",
-    "Dashboard of my better future/Home of my learning.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
