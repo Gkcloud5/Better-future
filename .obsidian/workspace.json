@@ -26,7 +26,19 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard of my better future/My Journey.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1961b14cd246706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banners/Banner.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -59,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard of my better future/Dashboard template.md",
+                "file": "Dashboard of my better future/My Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard of my better future/Dashboard template.md",
+                "file": "Dashboard of my better future/My Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard of my better future/Dashboard template.md"
+                "file": "Dashboard of my better future/My Journey.md"
               }
             }
           }
@@ -196,9 +208,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ac9f52aa29e3f5f",
+  "active": "32eef8751c27270f",
   "lastOpenFiles": [
+    "Banners/Banner.md",
+    "Learning/randy-tarampi-U2eUlPEKIgU-unsplash.jpg",
     "Dashboard of my better future/My Journey.md",
+    "Banners",
     "Dashboard of my better future/Dashboard template.md",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
@@ -227,7 +242,6 @@
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/HTML-P/index.html",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/README.md",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images",
-    "Development/Projects/HTML + CSS Practise/HTML-CSS-1/HTML-P",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/image_260.png",
     "Development/HTML-CSS-1/image_260.png",
     "Development/HTML-CSS-1/Images/Icon/Simple Grace Medical .png",
@@ -239,12 +253,9 @@
     "Learning/Linux/DNS/DNS Tools - Linux.md",
     "Learning/Linux/DNS/DNS setup - Linux.md",
     "Web Development/CSS/Advanced/Button - CSS.md",
-    "Development/Practise/HTML + CSS Practise/HTMLCSS-1/Images/Icon/Simple Grace Medical .png",
     "Web Development/CSS/Advanced/Animation - CSS.md",
     "Template/Theory template.md",
     "Template/Simple explain template.md",
-    "Learning/Linux/DNS/etc file hosts - Linux.md",
-    "Learning/Linux/DNS/DNS Process - Linux.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }
