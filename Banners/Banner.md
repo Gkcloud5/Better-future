@@ -1,1 +1,0 @@
-![[randy-tarampi-U2eUlPEKIgU-unsplash.jpg]]

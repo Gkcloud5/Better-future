@@ -1,5 +1,7 @@
 ---
 cssclass: dashboard
+
+banner: "![[jordan-whitfield-sm3Ub_IJKQg-unsplash.jpg]]"
 ---
 
 # Cloud Engineer and DevOps

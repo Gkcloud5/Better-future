@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
+                "file": "Dashboard of my better future/Banner.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banners/Banner.md",
+                "file": "Dashboard of my better future/Banner.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard of my better future/Dashboard template.md",
-                "mode": "preview",
+                "file": "Dashboard of my better future/My Journey.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -208,13 +209,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32eef8751c27270f",
+  "active": "3ac9f52aa29e3f5f",
   "lastOpenFiles": [
-    "Banners/Banner.md",
-    "Learning/randy-tarampi-U2eUlPEKIgU-unsplash.jpg",
+    "Dashboard of my better future/Banner.md",
+    "Learning/jordan-whitfield-sm3Ub_IJKQg-unsplash.jpg",
     "Dashboard of my better future/My Journey.md",
-    "Banners",
     "Dashboard of my better future/Dashboard template.md",
+    "Learning/randy-tarampi-U2eUlPEKIgU-unsplash.jpg",
+    "Banners",
     "Learning/Operating System/OS Topics.md",
     "Learning/Operating System/OS.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
@@ -249,7 +251,6 @@
     "Web Development/CSS/Image/Pasted image 20230616171105.png",
     "Web Development/CSS/Image/Pasted image 20230616172629.png",
     "Learning/Linux/Firewall/About Firewall - Linux.md",
-    "Learning/Linux/Images/Pasted image 20230616160712.png",
     "Learning/Linux/DNS/DNS Tools - Linux.md",
     "Learning/Linux/DNS/DNS setup - Linux.md",
     "Web Development/CSS/Advanced/Button - CSS.md",
