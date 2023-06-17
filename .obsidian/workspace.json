@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f690a453beb9d8",
+        "id": "f279b778f4f1307e",
         "type": "tabs",
         "children": [
           {
-            "id": "c7174b3701d65344",
+            "id": "071dff25255878b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Bash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ac9f52aa29e3f5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard of my better future/My Journey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a533aeb787df46c6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": 41.579798872135996,
-                  "y": -369.64868760528026,
-                  "zoom": -0.059266886217092196
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -122,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dashboard of my better future/My Journey.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,14 +148,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ac9f52aa29e3f5f",
+  "active": "071dff25255878b5",
   "lastOpenFiles": [
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Dashboard of my better future/My Journey.md",
+    "Dashboard of my better future/Dashboard template.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Bash/Bash.md",
     "Dashboard of my better future/Banner.md",
     "Learning/jordan-whitfield-sm3Ub_IJKQg-unsplash.jpg",
-    "Dashboard of my better future/Dashboard template.md",
     "Learning/randy-tarampi-U2eUlPEKIgU-unsplash.jpg",
     "Banners",
     "Learning/Operating System/OS Topics.md",
