@@ -43,5 +43,11 @@ modification date: Friday 16th June 2023 16:06:42
 	* Accept
 	* Reject
 	* Drop
-* 
 
+
+```
+#to view rules
+iptables -L
+
+
+```
