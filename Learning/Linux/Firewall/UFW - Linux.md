@@ -13,4 +13,12 @@ modification date: Saturday 17th June 2023 14:55:35
 #### Explanation about it:
 
 * UFW stands for Uncomplicated firewall
-* 
+
+**do not enable ufw before setup firewall rule because it can actually lock you out**
+
+
+```
+#check status
+
+ufw status
+```
