@@ -4,6 +4,7 @@
   "theme": "obsidian",
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "dashboard"
+    "dashboard",
+    "DB-readline"
   ]
 }

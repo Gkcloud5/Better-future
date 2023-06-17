@@ -2,5 +2,9 @@
 cssclass: dashboard
 ---
 
-# Cloud Engineer and Devops
+# Cloud Engineer and DevOps
 
+- Fundamentals
+	- Programming
+		- Index of Python | Python]]
+		- [[Bash]]

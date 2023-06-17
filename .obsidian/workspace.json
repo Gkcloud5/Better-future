@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "359ef54606f531bf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "c7174b3701d65344",
             "type": "leaf",
             "state": {
@@ -46,13 +38,28 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard of my better future/Dashboard template.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a533aeb787df46c6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "viewState": {
+                  "x": 145.70457943925237,
+                  "y": -305.7975233644862,
+                  "zoom": 0.4407331137829078
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +199,11 @@
   "active": "32eef8751c27270f",
   "lastOpenFiles": [
     "Dashboard of my better future/Dashboard template.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "Learning/Programming/Python/Index of Python.md",
     "Dashboard of my better future/Home of my learning.md",
     "Dashboard of my better future",
     "Learning/Programming/Bash/Bash.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "DevOps & Cloud Plans/RoadMap/Resources.md",
     "Learning/Programming/Bash",
     "Learning/Linux/Linux.md",
@@ -236,8 +244,6 @@
     "Learning/Linux/DNS/etc file hosts - Linux.md",
     "Learning/Linux/DNS/DNS Process - Linux.md",
     "Learning/Linux/DNS/DNS Components - Linux.md",
-    "Learning/Linux/DNS/What is DNS - Linux.md",
-    "Learning/Linux/Troubleshoot/Packet analysis - Linux.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }

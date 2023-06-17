@@ -3,5 +3,5 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Learning",
-  "readableLineLength": false
+  "readableLineLength": true
 }
