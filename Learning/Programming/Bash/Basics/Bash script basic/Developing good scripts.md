@@ -22,4 +22,11 @@ modification date: Sunday 18th June 2023 17:41:59
 
 ##### Structure:
 
-* 
+* Structure of a shell script is very flexible.
+* we must ensure correct logic, flow control and efficiency so that users executing the script can do so easily and correctly
+* When a starting on a new script, ask yourself the following question
+	* Will I be needing any information from the user or from the user's environment?
+	* How will I store the information?
+	* Are there any files that need to be created? where and with which permissions and ownerships?
+	* What commands will I use? when using the script on different systems, do all these systems have these commands in the required versions?
+	* 
