@@ -32,4 +32,3 @@ modification date: Sunday 18th June 2023 17:22:51
 	* Parameter is an entity that stores a values,
 		* It can be name, a number or a special value.
 	* For shell's purpose, a variable is a parameter that stores a name. 
-* 
