@@ -62,3 +62,23 @@ modification date: Sunday 18th June 2023 17:41:59
         
 3. Exit
 ```
+
+##### Example script:
+
+```
+#!/bin/bash
+clear
+echo "Program starting now"
+
+echo "Hello, $USER"
+echo
+
+echo "Today's date is `date`, this is week `date + "%v"`."
+echo
+
+echo "Users are currently connected:"
+w | cut -d " " -f 1 - | grep -v USER | sort -u
+echo
+
+echo "That's all folks!"
+```
