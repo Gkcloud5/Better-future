@@ -12,4 +12,6 @@ modification date: Sunday 18th June 2023 15:30:29
 
 #### Explanation about it:
 
-##### 1. General shell functions
+##### 1. General shell functions:
+
+* 
