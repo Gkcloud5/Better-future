@@ -12,4 +12,14 @@ modification date: Sunday 18th June 2023 15:18:34
 
 #### Explanation about it:
 
-* In this topic we will learn more about
+* In this topic we will learn more about following things
+	* some common shells
+	* GNU bash advantage and feature
+	* shell's building blocks
+	* Bash initialization files
+	* How shell executes commands
+
+#### Topics
+
+* [[Common shell program]]
+* 
