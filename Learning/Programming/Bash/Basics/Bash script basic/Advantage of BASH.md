@@ -12,3 +12,7 @@ modification date: Sunday 18th June 2023 16:00:32
 
 #### Explanation about it:
 
+##### Bash in the GNU shell:
+
+* GNU stands for `GNU's not Unix` 
+* 
