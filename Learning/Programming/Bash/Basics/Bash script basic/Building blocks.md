@@ -23,5 +23,13 @@ modification date: Sunday 18th June 2023 17:22:51
 * Optically the shell waits for the command to complete and collects its exit status.
 
 * **Shell commands:** 
-	* tocuh filename
-	* 
+	* touch filename
+	* ls | more
+	* ....
+* **Shell functions:** 
+	* Shell functions are a way to group commands for later execution using single name for the group.
+* **Shell Parameters:** 
+	* Parameter is an entity that stores a values,
+		* It can be name, a number or a special value.
+	* For shell's purpose, a variable is a parameter that stores a name. 
+* 
