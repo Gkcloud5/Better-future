@@ -83,3 +83,7 @@ echo
 echo "That's all folks!"
 ```
 
+###### Output:
+
+![[Pasted image 20230618181146.png]]
+

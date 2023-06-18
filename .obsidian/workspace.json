@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard of my better future/My Journey.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -196,9 +196,11 @@
   },
   "active": "431178bfa403a5bb",
   "lastOpenFiles": [
+    "Dashboard of my better future/My Journey.md",
+    "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
+    "Learning/Programming/Bash/Images/Pasted image 20230618181146.png",
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
-    "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
     "Learning/Programming/Bash/Images",
     "Learning/Programming/Bash/Images/Pasted image 20230618175718.png",
     "Learning/Programming/Bash/Basics/Bash script basic/Building blocks.md",
@@ -206,7 +208,6 @@
     "Learning/Programming/Bash/Basics/Bash script basic/Executing Commands.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Common shell program.md",
     "Learning/Programming/Bash/Bash.md",
-    "Dashboard of my better future/My Journey.md",
     "Learning/Linux/Linux.md",
     "Learning/Programming/Bash/Basics/Bash script basic",
     "Learning/Programming/Bash/Basics",
@@ -241,7 +242,6 @@
     "Development/HTML-CSS-1/image_260.png",
     "Development/HTML-CSS-1/Images/Icon/Simple Grace Medical .png",
     "Development/HTML-CSS-1/README.md",
-    "Web Development/CSS/Image/Pasted image 20230616171105.png",
     "Learning/Linux/Firewall/About Firewall - Linux.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
