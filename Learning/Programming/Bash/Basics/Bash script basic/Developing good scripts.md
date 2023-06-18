@@ -29,4 +29,36 @@ modification date: Sunday 18th June 2023 17:41:59
 	* How will I store the information?
 	* Are there any files that need to be created? where and with which permissions and ownerships?
 	* What commands will I use? when using the script on different systems, do all these systems have these commands in the required versions?
-	* 
+	* Does the user need any notifications? when and why?
+
+##### Terminology:
+
+![[Pasted image 20230618175718.png]]
+
+**Using our own spoken language to pin down the tasks to be executed by our program will help us to create an understandable form of our program**
+
+###### Example logic flow:
+
+```
+1. Do you want to rotate logs?
+    
+    1. If yes:
+        
+        1. Enter directory name containing the logs to be rotated.
+            
+        2. Enter base name of the log file.
+            
+        3. Enter number of days logs should be kept.
+            
+        4. Make settings permanent in user's crontab file.
+            
+    2. If no, go to step 3.
+        
+2. Do you want to rotate another set of logs?
+    
+    1. If yes: repeat step 1.
+        
+    2. If no: go to step 3.
+        
+3. Exit
+```

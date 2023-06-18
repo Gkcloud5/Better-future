@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "67d7f684111b3e95",
+            "id": "431178bfa403a5bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,10 +194,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "431178bfa403a5bb",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
+    "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
+    "Learning/Programming/Bash/Images",
+    "Learning/Programming/Bash/Images/Pasted image 20230618175718.png",
     "Learning/Programming/Bash/Basics/Bash script basic/Building blocks.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Advantage of BASH.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Executing Commands.md",
@@ -233,16 +236,13 @@
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Icon/Simple Grace Medical .png",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Favicon/favicon.ico",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Icon",
-    "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Favicon",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/README.md",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/image_260.png",
     "Development/HTML-CSS-1/image_260.png",
     "Development/HTML-CSS-1/Images/Icon/Simple Grace Medical .png",
     "Development/HTML-CSS-1/README.md",
     "Web Development/CSS/Image/Pasted image 20230616171105.png",
-    "Web Development/CSS/Image/Pasted image 20230616172629.png",
     "Learning/Linux/Firewall/About Firewall - Linux.md",
-    "Learning/Linux/DNS/DNS Tools - Linux.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
 }
