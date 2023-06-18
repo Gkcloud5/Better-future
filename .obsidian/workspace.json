@@ -15,9 +15,9 @@
               "state": {
                 "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
-                  "x": -201,
-                  "y": 180,
-                  "zoom": -0.9878509173338839
+                  "x": 30.29912559122286,
+                  "y": -202.728163333728,
+                  "zoom": 0.012149082666116029
                 }
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Linux/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Learning/Linux/Linux.md"
               }
             }
           }
@@ -159,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "071dff25255878b5",
   "lastOpenFiles": [
     "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
