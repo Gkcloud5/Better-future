@@ -10,3 +10,5 @@
 
 ### Topics:
 
+1. [[Bash and Bash scripts]]
+2. 
