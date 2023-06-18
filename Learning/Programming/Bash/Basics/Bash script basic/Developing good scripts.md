@@ -73,7 +73,7 @@ echo "Program starting now"
 echo "Hello, $USER"
 echo
 
-echo "Today's date is `date`, this is week `date + "%v"`."
+echo "Today's date is `date`, this is week `date +"%V"`."
 echo
 
 echo "Users are currently connected:"
@@ -82,3 +82,4 @@ echo
 
 echo "That's all folks!"
 ```
+
