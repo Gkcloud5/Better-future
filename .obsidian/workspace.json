@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7290a06bd417647b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Bash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e20c5d520e0adbea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "431178bfa403a5bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
+                "file": "Dashboard of my better future/My Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
+                "file": "Dashboard of my better future/My Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md"
+                "file": "Dashboard of my better future/My Journey.md"
               }
             }
           }
@@ -193,10 +156,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "431178bfa403a5bb",
+  "active": "071dff25255878b5",
   "lastOpenFiles": [
-    "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
+    "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Images/Pasted image 20230618181146.png",
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
