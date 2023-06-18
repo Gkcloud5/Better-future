@@ -12,7 +12,14 @@ modification date: Sunday 18th June 2023 16:00:32
 
 #### Explanation about it:
 
-##### Bash in the GNU shell:
+##### 1. Bash in the GNU shell:
 
 * GNU stands for `GNU's not Unix` 
-* 
+* Bash can run most sh scripts without modification.
+* Bash program offer lot of extra functions that other shells can't offer
+
+##### 2. Feature of bash:
+
+**2.1 Invocation:**
+* we can set names and values of shell and linux environment variable.
+
