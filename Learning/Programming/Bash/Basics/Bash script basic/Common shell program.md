@@ -14,4 +14,14 @@ modification date: Sunday 18th June 2023 15:30:29
 
 ##### 1. General shell functions:
 
-* 
+* Shell program interprets user commands
+	* Directly entered by the user
+	* Can be read from a file called shell script.
+* Shell scripts are interpreted not compiled.
+* Shell reads commands from the script line by line.
+
+##### 2. Shell types:
+
+* Linux have variety of shell types
+	* `sh or Bourne shell:` This is basic shell, a small program with few feature.
+	* `bash or Bourne shell again:`  
