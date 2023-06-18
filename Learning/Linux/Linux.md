@@ -4,7 +4,7 @@ cssclass: dashboard
 
 #index 
 
-#### - Source:
+#### Source:
 [LJ](https://linuxjourney.com/)
 [JTP](https://www.javatpoint.com/linux-tutorial)
 [tldp](https://tldp.org/LDP/intro-linux/html/)
