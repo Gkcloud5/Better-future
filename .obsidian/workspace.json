@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Executing Commands.md",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Executing Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Executing Commands.md",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Executing Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Executing Commands.md",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Executing Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Executing Commands.md"
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Executing Commands.md"
               }
             }
           }
@@ -206,10 +206,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "911b914c13d75dec",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
-    "Executing Commands.md",
+    "Learning/Programming/Bash/Basics/Bash script basic/Executing Commands.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Advantage of BASH.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Common shell program.md",
     "Learning/Programming/Bash/Bash.md",
