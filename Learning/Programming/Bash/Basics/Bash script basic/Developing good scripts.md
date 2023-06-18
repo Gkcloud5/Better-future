@@ -20,3 +20,6 @@ modification date: Sunday 18th June 2023 17:41:59
 * Script does not do unnecessary work
 * Script should be reusable.
 
+##### Structure:
+
+* 

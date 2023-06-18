@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developing good scripts.md",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing good scripts.md",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing good scripts.md",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing good scripts.md"
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md"
               }
             }
           }
@@ -194,10 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67d7f684111b3e95",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
-    "Developing good scripts.md",
+    "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Building blocks.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Advantage of BASH.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Executing Commands.md",
