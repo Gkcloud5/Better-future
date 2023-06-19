@@ -11,18 +11,40 @@
             "id": "071dff25255878b5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": 30.29912559122286,
-                  "y": -110.50803754756446,
-                  "zoom": 0.012149082666116029
-                }
+                "file": "Learning/Programming/Bash/Bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cecc3b08ecd1f963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6954616d4a4e551a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -96,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md"
               }
             }
           }
@@ -159,12 +182,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "071dff25255878b5",
+  "active": "cecc3b08ecd1f963",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Bash.md",
+    "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
+    "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
     "Learning/Programming/Bash/Images/Pasted image 20230618181146.png",
-    "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Bash/Images",
     "Learning/Programming/Bash/Images/Pasted image 20230618175718.png",
@@ -172,13 +198,11 @@
     "Learning/Programming/Bash/Basics/Bash script basic/Advantage of BASH.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Executing Commands.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Common shell program.md",
-    "Learning/Programming/Bash/Bash.md",
     "Learning/Linux/Linux.md",
     "Learning/Programming/Bash/Basics/Bash script basic",
     "Learning/Programming/Bash/Basics",
     "Dashboard of my better future/Images",
     "Dashboard of my better future/Dashboard template.md",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Dashboard of my better future/Banner.md",
     "Dashboard of my better future/Images/jordan-whitfield-sm3Ub_IJKQg-unsplash.jpg",
     "Dashboard of my better future/Images/randy-tarampi-U2eUlPEKIgU-unsplash.jpg",
