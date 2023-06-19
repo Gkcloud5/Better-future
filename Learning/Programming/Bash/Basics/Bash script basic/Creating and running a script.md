@@ -15,4 +15,13 @@ modification date: Monday 19th June 2023 09:07:42
 ##### 1. Writing and naming:
 
 * Shell script is a sequence of commands for which you have repeated use
-	* This sequence is typ
+	* This sequence is typically executed by entering the name of the script on the command line.
+	* You can use scripts to automate tasks using the cron facility.
+
+```
+locate scriptname
+```
+
+```
+
+```
