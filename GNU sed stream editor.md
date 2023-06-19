@@ -20,3 +20,8 @@ modification date: Monday 19th June 2023 15:33:27
 
 ![[Pasted image 20230619153815.png]]
 
+
+#### Topics:
+
+1. [[Interactive editing - sed]]
+2. 

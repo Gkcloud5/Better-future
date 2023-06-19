@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "956dbb3c8a1af137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interactive editing - sed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNU sed stream editor.md",
+                "file": "Interactive editing - sed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNU sed stream editor.md",
+                "file": "Interactive editing - sed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNU sed stream editor.md"
+                "file": "Interactive editing - sed.md"
               }
             }
           }
@@ -170,11 +182,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe1046a187c643af",
+  "active": "956dbb3c8a1af137",
   "lastOpenFiles": [
+    "GNU sed stream editor.md",
+    "Interactive editing - sed.md",
     "Learning/Pasted image 20230619153815.png",
     "Learning/Programming/Bash/Bash.md",
-    "GNU sed stream editor.md",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Basics/Regular expression/Pattern matching using BASH.md",
     "Learning/Programming/Bash/Images/Pasted image 20230619153043.png",
@@ -206,7 +219,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230618181146.png",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Bash/Images",
-    "Learning/Programming/Bash/Images/Pasted image 20230618175718.png",
     "Learning/Programming/Bash/Basics/Bash script basic/Building blocks.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Advantage of BASH.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Executing Commands.md",
