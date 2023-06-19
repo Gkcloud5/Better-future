@@ -67,3 +67,33 @@ first_name="GK"
 export varname="value"
 ```
 
+
+#### Special parameter:
+
+```
+#!/bin/bash
+
+echo "value, $#"
+
+echo
+
+echo "return value, $?"
+
+echo
+
+echo "each parameter, $@"
+
+echo
+
+```
+
+```
+Output:
+root@root:~/bash_script# bash script2.sh gk cool
+value, 2
+
+return value, 0
+
+each parameter, gk cool
+
+```
