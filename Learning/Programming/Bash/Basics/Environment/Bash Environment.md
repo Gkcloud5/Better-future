@@ -24,4 +24,5 @@ modification date: Monday 19th June 2023 10:02:20
 #### Topics:
 
 1. [[Shell initialization files]]
-2. 
+2. [[Variable - Bash]]
+3. 
