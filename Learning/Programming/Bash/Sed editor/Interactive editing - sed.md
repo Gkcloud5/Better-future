@@ -13,5 +13,24 @@ modification date: Monday 19th June 2023 15:39:21
 #### Explanation about it:
 
 ```
-sed '/errors/p' example
+sed '/errors/p' example.txt
 ```
+
+![[Pasted image 20230619154455.png]]
+
+```
+sed -n '/error/p' example.txt
+```
+
+![[Pasted image 20230619154606.png]]
+
+##### Delete a line:
+
+```
+sed '/errors/d' example.txt
+```
+
+![[Pasted image 20230619154723.png]]
+
+
+##### Range of lines:

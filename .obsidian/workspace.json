@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNU sed stream editor.md",
+                "file": "Learning/Programming/Bash/Sed editor/GNU sed stream editor.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interactive editing - sed.md",
+                "file": "Learning/Programming/Bash/Sed editor/Interactive editing - sed.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interactive editing - sed.md",
+                "file": "Learning/Programming/Bash/Sed editor/Interactive editing - sed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interactive editing - sed.md",
+                "file": "Learning/Programming/Bash/Sed editor/Interactive editing - sed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interactive editing - sed.md"
+                "file": "Learning/Programming/Bash/Sed editor/Interactive editing - sed.md"
               }
             }
           }
@@ -182,11 +182,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "956dbb3c8a1af137",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "GNU sed stream editor.md",
-    "Interactive editing - sed.md",
-    "Learning/Pasted image 20230619153815.png",
+    "Learning/Programming/Bash/Sed editor",
+    "Learning/Programming/Bash/Images/Pasted image 20230619154723.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230619154606.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230619154455.png",
+    "Learning/Programming/Bash/Sed editor/GNU sed stream editor.md",
+    "Learning/Programming/Bash/Sed editor/Interactive editing - sed.md",
+    "Learning/Programming/Bash/Images/Pasted image 20230619153815.png",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Basics/Regular expression/Pattern matching using BASH.md",
@@ -203,8 +207,6 @@
     "Learning/Programming/Bash/Basics/Environment/Aliases.md",
     "Learning/Programming/Bash/Basics/Environment/Shell Expansion.md",
     "Learning/Programming/Bash/Basics/Environment/Quoting characters.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230619125535.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230619125136.png",
     "Learning/Programming/Bash/Basics/Environment/Variable - Bash.md",
     "Learning/Programming/Bash/Basics/Environment/Shell initialization files.md",
     "Learning/Programming/Bash/Basics/Environment",
@@ -216,7 +218,6 @@
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230618181146.png",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Bash/Images",
     "Learning/Programming/Bash/Basics/Bash script basic/Building blocks.md",
@@ -227,7 +228,6 @@
     "Learning/Programming/Bash/Basics/Bash script basic",
     "Learning/Programming/Bash/Basics",
     "Dashboard of my better future/Images",
-    "Dashboard of my better future/Dashboard template.md",
     "Banners",
     "Dashboard of my better future",
     "Learning/Programming/Bash",
