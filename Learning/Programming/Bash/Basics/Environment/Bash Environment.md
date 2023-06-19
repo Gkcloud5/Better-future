@@ -19,3 +19,9 @@ modification date: Monday 19th June 2023 10:02:20
 	* Perform arithmetic calculations
 	* Assigning aliases
 	* Using expansion and substitution
+
+
+#### Topics:
+
+1. [[Shell initialization files]]
+2. 
