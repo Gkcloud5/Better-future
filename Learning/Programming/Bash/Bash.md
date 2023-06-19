@@ -12,4 +12,5 @@
 
 1. [[Bash and Bash scripts]]
 2. [[Writing and debugging scripts]]
-3. 
+3. [[Bash Environment]]
+4. 

@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "cecc3b08ecd1f963",
+            "id": "8297de37354d253e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48f129382f3af852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debugging bash scripts.md",
+                "file": "Learning/Programming/Bash/Basics/Environment/Bash Environment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debugging bash scripts.md",
+                "file": "Learning/Programming/Bash/Basics/Environment/Bash Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Debugging bash scripts.md",
+                "file": "Learning/Programming/Bash/Basics/Environment/Bash Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Debugging bash scripts.md"
+                "file": "Learning/Programming/Bash/Basics/Environment/Bash Environment.md"
               }
             }
           }
@@ -182,13 +170,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48f129382f3af852",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Bash.md",
+    "Learning/Programming/Bash/Basics/Environment/Bash Environment.md",
+    "Learning/Programming/Bash/Basics/Environment",
     "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
-    "Debugging bash scripts.md",
+    "Learning/Programming/Bash/Basics/Bash script basic/Debugging bash scripts.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Script Basics.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Creating and running a script.md",
-    "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Dashboard of my better future/My Journey.md",
@@ -225,10 +215,8 @@
     "Learning/Programming/Python/Images/Pasted image 20230617014551.png",
     "Learning/Programming/Python/Images/Pasted image 20230617014543.png",
     "Web Development/CSS/Advanced/Flex Box - CSS.md",
-    "Web Development/CSS/CSS.md",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Icon/Simple Grace Medical .png",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Favicon/favicon.ico",
-    "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Icon",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/image_260.png",
     "Development/HTML-CSS-1/image_260.png",
     "Development/HTML-CSS-1/Images/Icon/Simple Grace Medical .png",
