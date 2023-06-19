@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examples using grep.md",
+                "file": "Learning/Programming/Bash/Basics/Regular expression/Examples using grep.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples using grep.md",
+                "file": "Learning/Programming/Bash/Basics/Regular expression/Examples using grep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examples using grep.md",
+                "file": "Learning/Programming/Bash/Basics/Regular expression/Examples using grep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examples using grep.md"
+                "file": "Learning/Programming/Bash/Basics/Regular expression/Examples using grep.md"
               }
             }
           }
@@ -182,10 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "997318cd40b904b9",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Images/Pasted image 20230619152240.png",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
-    "Examples using grep.md",
+    "Learning/Programming/Bash/Basics/Regular expression/Examples using grep.md",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions1 -Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230619142212.png",
     "Learning/Programming/Bash/Images/Pasted image 20230619142208.png",
@@ -227,7 +228,6 @@
     "Dashboard of my better future/Images/randy-tarampi-U2eUlPEKIgU-unsplash.jpg",
     "Banners",
     "Learning/Operating System/OS Topics.md",
-    "Learning/Operating System/OS.md",
     "Dashboard of my better future",
     "Learning/Programming/Bash",
     "Learning/Linux/Security",
