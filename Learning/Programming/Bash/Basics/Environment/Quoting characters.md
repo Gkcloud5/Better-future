@@ -26,3 +26,25 @@ echo \$date
 ```
 
 ![[Pasted image 20230619125136.png]]
+
+###### Single quotes:
+
+```
+echo '$date'
+
+#output
+$date
+```
+
+###### Double quote:
+
+* Dollar sign and the backticks retain their special meaning within the double quotes
+
+```
+echo "$date"
+
+echo "`date`"
+```
+
+![[Pasted image 20230619125535.png]]
+
