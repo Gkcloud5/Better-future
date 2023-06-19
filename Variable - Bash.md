@@ -41,4 +41,28 @@ HOME=/root
 * Local variable are variable that are limited in scope to a particular block of code or function.
 
 
-#####
+##### Variable by content:
+
+* 4 Types
+	* String Variables
+	* Integer Variables
+	* Constant Variables
+	* Array Variables
+
+
+#### Creating Variables:
+
+* Variables are case sensitive by default.
+
+```
+#Example of variable creation
+MYVAR="2"
+first_name="GK"
+
+```
+
+#### Exporting variables
+
+```
+export varname="value"
+```
