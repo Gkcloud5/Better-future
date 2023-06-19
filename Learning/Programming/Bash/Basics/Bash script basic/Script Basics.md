@@ -13,4 +13,12 @@ modification date: Monday 19th June 2023 09:19:29
 #### Explanation about it:
 
 * First line of the script determines the shell to start.
-	* #!
+	* #! then follows the path
+		* #!/bin/bash
+
+```
+#Adding comments
+
+clear   #Clear terminal window
+```
+

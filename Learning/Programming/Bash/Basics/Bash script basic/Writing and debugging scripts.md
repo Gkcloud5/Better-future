@@ -20,4 +20,5 @@ modification date: Monday 19th June 2023 08:29:03
 
 1. [[Creating and running a script]]
 2. [[Script Basics]]
-3. 
+3. [[Debugging bash scripts]]
+4. 
