@@ -24,7 +24,20 @@ echo sp{el,il,al}l
 ##### Command expansion:
 
 ```
-$(command) #$(date)
+$(command) #$date
 or
 `date`
+```
+
+
+##### Arithmetic expansion:
+
+```
+$((EXPRESSION))
+
+$((10+15))
+
+
+$[EXPRESSION]
+$[35+45]
 ```

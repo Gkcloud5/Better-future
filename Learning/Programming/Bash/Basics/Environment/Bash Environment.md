@@ -27,4 +27,5 @@ modification date: Monday 19th June 2023 10:02:20
 2. [[Variable - Bash]]
 3. [[Quoting characters]]
 4. [[Shell Expansion]]
-5. 
+5. [[Aliases]]
+6. 
