@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script Basics.md",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Script Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script Basics.md",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Script Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script Basics.md",
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Script Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script Basics.md"
+                "file": "Learning/Programming/Bash/Basics/Bash script basic/Script Basics.md"
               }
             }
           }
@@ -206,10 +206,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9847dea7e13ee5c3",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
-    "Script Basics.md",
+    "Learning/Programming/Bash/Basics/Bash script basic/Script Basics.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Creating and running a script.md",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
