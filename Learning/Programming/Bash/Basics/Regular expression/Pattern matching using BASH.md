@@ -12,4 +12,8 @@ modification date: Monday 19th June 2023 15:28:00
 
 #### Explanation about it:
 
-* 
+```
+ls -la [a-ex-z]* /
+```
+
+![[Pasted image 20230619153043.png]]

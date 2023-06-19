@@ -14,4 +14,5 @@
 2. [[Writing and debugging scripts]]
 3. [[Bash Environment]]
 4. [[Regular expressions - Bash]]
-5. 
+5. [[GNU sed stream editor]]
+6. 
