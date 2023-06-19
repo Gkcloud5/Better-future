@@ -26,4 +26,5 @@ modification date: Monday 19th June 2023 10:02:20
 1. [[Shell initialization files]]
 2. [[Variable - Bash]]
 3. [[Quoting characters]]
-4. 
+4. [[Shell Expansion]]
+5. 
