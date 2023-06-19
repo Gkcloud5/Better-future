@@ -24,3 +24,26 @@ grep root /etc/passwd
 
 ![[Pasted image 20230619152240.png]]
 
+```
+grep [yf] /etc/passwd
+```
+
+![[Pasted image 20230619152442.png]]
+
+
+##### Wildcards:
+
+* use `.` for a single character match.
+```
+grep '\<c...h\>' /usr/share/dict/words
+
+catch
+clash
+cloth
+coach
+couch
+cough
+crash
+crush
+```
+
