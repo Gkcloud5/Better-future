@@ -13,4 +13,9 @@ modification date: Monday 19th June 2023 10:02:20
 #### Explanation about it:
 
 * Here we are going to discuss about following things
-	* Editing shell init
+	* Editing shell initialization files.
+	* Using variables
+	* Using different quote styles
+	* Perform arithmetic calculations
+	* Assigning aliases
+	* Using expansion and substitution
