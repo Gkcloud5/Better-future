@@ -12,4 +12,17 @@ modification date: Monday 19th June 2023 11:44:28
 
 #### Explanation about it:
 
-* 
+* Quoting is used to remove the special meaning of characters or words.
+
+###### Escape characters:
+
+* Escape character are used to remove the special meaning from a single character.
+* `\` is used as an escape character
+
+```
+date=10121988
+echo $date
+echo \$date
+```
+
+![[Pasted image 20230619125136.png]]
