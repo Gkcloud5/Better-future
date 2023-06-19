@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:Learning/Linux",
+  "collapse-filter": false,
+  "search": "path:Learning/Programming/Bash",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 12.2916666666667,
   "linkStrength": 0.489583333333333,
   "linkDistance": 272,
-  "scale": 0.39892246854460484,
+  "scale": 0.21935820856225668,
   "close": false
 }
