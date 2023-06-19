@@ -12,4 +12,13 @@ modification date: Monday 19th June 2023 13:18:03
 
 #### Explanation about it:
 
-* 
+* We discuss
+	* Using regular expression
+	* Regular expression metacharacters
+	* Finding pattern in files or output
+	* Character ranges and classes in Bash
+
+#### Topic:
+
+1. [[Regular expressions1 -Bash]]
+2. 

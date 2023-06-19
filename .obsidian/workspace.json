@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "216914bfde417b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Bash/Basics/Regular expression/Regular expressions1 -Bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
+                "file": "Learning/Programming/Bash/Basics/Regular expression/Regular expressions1 -Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
+                "file": "Learning/Programming/Bash/Basics/Regular expression/Regular expressions1 -Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md"
+                "file": "Learning/Programming/Bash/Basics/Regular expression/Regular expressions1 -Bash.md"
               }
             }
           }
@@ -170,11 +182,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "216914bfde417b13",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
+    "Learning/Programming/Bash/Basics/Regular expression/Regular expressions1 -Bash.md",
     "Learning/Programming/Bash/Basics/Regular expression",
     "Learning/Programming/Bash/Bash.md",
-    "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Basics/Environment/Bash Environment.md",
     "Learning/Programming/Bash/Basics/Environment/Aliases.md",
     "Learning/Programming/Bash/Basics/Environment/Shell Expansion.md",
@@ -218,7 +231,6 @@
     "Learning/Programming/Python/Images/Pasted image 20230617014551.png",
     "Learning/Programming/Python/Images/Pasted image 20230617014543.png",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Icon/Simple Grace Medical .png",
-    "Development/Projects/HTML + CSS Practise/HTML-CSS-1/Images/Favicon/favicon.ico",
     "Development/Projects/HTML + CSS Practise/HTML-CSS-1/image_260.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas"
   ]
