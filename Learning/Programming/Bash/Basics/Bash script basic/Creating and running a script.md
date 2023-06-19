@@ -23,5 +23,27 @@ locate scriptname
 ```
 
 ```
+#script content
+#!/bin/bash
+clear
+
+echo "script start now"
+
+echo "Hi, $USER"
+
+Color="Blue"
+Value="5"
+
+echo "Color is $Color and value is $Value"
+
+
+#Permission
+chmod +x *scriptname*
+
+#Execution
+bash *scriptname* 
+or
+source *scriptname* --> it does not need execute permission
+
 
 ```
