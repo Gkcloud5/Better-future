@@ -28,4 +28,3 @@ modification date: Monday 19th June 2023 10:02:20
 3. [[Quoting characters]]
 4. [[Shell Expansion]]
 5. [[Aliases]]
-6. 
