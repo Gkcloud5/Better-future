@@ -24,3 +24,6 @@ modification date: Monday 19th June 2023 14:16:29
 
 ![[Pasted image 20230619142040.png]]
 
+
+![[Pasted image 20230619142212.png]]
+
