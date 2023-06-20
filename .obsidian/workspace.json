@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
+                "file": "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
+                "file": "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md"
+                "file": "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md"
               }
             }
           }
@@ -181,8 +182,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "071dff25255878b5",
+  "active": "8e1f8627fd32a713",
   "lastOpenFiles": [
+    "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md",
     "Learning/Programming/Bash/Sed editor/GNU sed stream editor.md",
     "Learning/Programming/Bash/Sed editor/Interactive editing - sed.md",
@@ -191,7 +193,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230620174059.png",
     "Learning/Programming/Bash/Images/Pasted image 20230620173640.png",
     "Learning/Programming/Bash/Images/Pasted image 20230620165736.png",
-    "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Sed editor",
     "Learning/Programming/Bash/Images/Pasted image 20230619154723.png",
