@@ -34,3 +34,14 @@ sed '/errors/d' example.txt
 
 
 ##### Range of lines:
+
+* remove specific range from file
+
+```
+sed '2,4d' filename
+
+#it remove a line from 2 to 4 in file
+```
+
+![[Pasted image 20230620165736.png]]
+
