@@ -80,3 +80,6 @@ sed 's/$/end/' example
 ```
 sed -e 's/error/mistake/g' -e 's/apologize/sorry/g' example
 ```
+
+![[Pasted image 20230620175101.png]]
+
