@@ -13,3 +13,11 @@ modification date: Tuesday 20th June 2023 17:54:38
 #### Explanation about it:
 
 ##### Reading sed commands from a file
+
+* Multiple `sed` commands can be put in a file and executed using the `-f` option.
+	* No trailing white spaces exist at the end of lines
+	* No quotes are used
+	* When entering text to add or replace, all except the last line end in a backslash
+
+
+##### Writing output files:

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Sed editor/Untitled.md",
+                "file": "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Sed editor/Untitled.md",
+                "file": "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Sed editor/Untitled.md",
+                "file": "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Sed editor/Untitled.md"
+                "file": "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md"
               }
             }
           }
@@ -167,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +185,8 @@
   },
   "active": "8e1f8627fd32a713",
   "lastOpenFiles": [
-    "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md",
     "Learning/Programming/Bash/Sed editor/Untitled.md",
+    "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md",
     "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Sed editor/GNU sed stream editor.md",
     "Learning/Programming/Bash/Sed editor/Interactive editing - sed.md",
