@@ -55,6 +55,22 @@ sed -n '/It was/,/and I/p' example
 #### Find and replace with sed:
 
 ```
-sed 's/apologize/sorry/' example
+sed 's/error/mistake/' example
+```
+
+![[Pasted image 20230620174059.png]]
+
+* To insert a string in beginning
+
+```
+sed 's/^/* /' example
+```
+
+![[Pasted image 20230620174308.png]]
+
+* Insert a string in end
+
+```
+sed 's/$/end/' example
 ```
 
