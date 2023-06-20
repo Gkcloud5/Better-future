@@ -74,3 +74,9 @@ sed 's/^/* /' example
 sed 's/$/end/' example
 ```
 
+
+##### Multiple find and replace string in file:
+
+```
+sed -e 's/error/mistake/g' -e 's/apologize/sorry/g' example
+```
