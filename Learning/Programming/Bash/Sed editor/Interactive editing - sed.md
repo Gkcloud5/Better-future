@@ -45,3 +45,16 @@ sed '2,4d' filename
 
 ![[Pasted image 20230620165736.png]]
 
+```
+sed -n '/It was/,/and I/p' example
+```
+
+![[Pasted image 20230620173640.png]]
+
+
+#### Find and replace with sed:
+
+```
+sed 's/apologize/sorry/' example
+```
+
