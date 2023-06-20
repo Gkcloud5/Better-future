@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -181,9 +182,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "956dbb3c8a1af137",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230620165736.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230620165736.png",
     "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Sed editor/Interactive editing - sed.md",
     "Learning/Programming/Bash/Bash.md",
