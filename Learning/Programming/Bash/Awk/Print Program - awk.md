@@ -26,3 +26,11 @@ ls -la | awk '{print "size is  " $5 " file name is " $9 }'
 
 ![[Pasted image 20230621170120.png]]
 
+##### Print command and regular expressions:
+
+```
+df -h | awk '/dev\/xv/ { print $6 "\t: " $5 }'
+```
+
+![[Pasted image 20230621171330.png]]
+
