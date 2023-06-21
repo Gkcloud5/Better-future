@@ -47,4 +47,3 @@ awk '{ print $1,$2}' test
 ![[Pasted image 20230621181846.png]]
 
 
-
