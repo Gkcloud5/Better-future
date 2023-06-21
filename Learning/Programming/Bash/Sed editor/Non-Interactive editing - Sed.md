@@ -59,10 +59,31 @@ echo "done."
 
 
 ```
-cat test.txt
+cat test
 
 Gk1
 Gk2
 Gk3
 ```
+
+#### Output:
+
+```
+root@root:~/bash_script/sed_example# cat test
+<html>
+<head><title>sed generated html</title></head>
+<body bgcolor="#ffffff">
+<pre>
+Gk1
+Gk2
+Gk3
+</pre>
+</body>
+</html>
+
+```
+
+
+
+![[Pasted image 20230621163100.png]]
 
