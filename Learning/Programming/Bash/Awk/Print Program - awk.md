@@ -18,3 +18,11 @@ modification date: Wednesday 21st June 2023 16:49:55
 ls -l | awk '{print $5}'
 ```
 
+##### Formatting fields:
+
+```
+ls -la | awk '{print "size is  " $5 " file name is " $9 }'
+```
+
+![[Pasted image 20230621170120.png]]
+
