@@ -36,3 +36,15 @@ BEGIN { FS=":"}
 
 ![[Pasted image 20230621181603.png]]
 
+##### Output filed separators:
+
+```
+awk '{ print $1 $2}' test
+
+awk '{ print $1,$2}' test
+```
+
+![[Pasted image 20230621181846.png]]
+
+
+
