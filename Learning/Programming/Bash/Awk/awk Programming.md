@@ -17,4 +17,12 @@ modification date: Wednesday 21st June 2023 16:39:45
 * It is another popular stream editor.
 * Basic function of awk is to search files for lines or other text units containing one or more patterns.
 	* When a line matches one of the patterns then special action will be performed
-* 
+
+```
+awk PROGRAM inputfile(s)
+```
+
+#### Topic:
+
+1. [[Print Program - awk]]
+2. 
