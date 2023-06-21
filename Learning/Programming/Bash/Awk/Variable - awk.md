@@ -21,3 +21,18 @@ modification date: Wednesday 21st June 2023 17:33:15
 awk 'BEGIN {FS=":" } { print $1 "\t" $5}' /etc/passwd
 ```
 
+![[Pasted image 20230621181229.png]]
+
+
+##### Create awk script:
+
+```
+vi printnames.awk
+
+BEGIN { FS=":"}
+{ print $1 "\t" $5}
+
+```
+
+![[Pasted image 20230621181603.png]]
+
