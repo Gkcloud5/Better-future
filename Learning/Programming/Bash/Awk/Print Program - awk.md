@@ -12,3 +12,9 @@ modification date: Wednesday 21st June 2023 16:49:55
 
 #### Explanation about it:
 
+* print command in awk outputs selected data from the input file
+
+```
+ls -l | awk '{print $5}'
+```
+
