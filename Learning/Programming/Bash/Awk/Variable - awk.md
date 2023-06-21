@@ -12,3 +12,11 @@ modification date: Wednesday 21st June 2023 17:33:15
 
 #### Explanation about it:
 
+##### Field separator:
+
+* It is either a single character or a regular expression.
+* Field separator is represented by the built-in variable `FS`.
+
+```
+awk 'BEGIN {FS=":" } { print $1 "\t" $5}' /etc/passwd
+```
