@@ -22,3 +22,40 @@ modification date: Tuesday 20th June 2023 17:54:38
 
 ##### Writing output files:
 
+```
+cat script.sed
+
+1i\
+<html>\
+<head><title>sed generated html</title></head>\
+<body bgcolor="#ffffff">\
+<pre>
+$a\
+</pre>\
+</body>\
+</html>
+```
+
+
+```
+cat txt2html.sh
+
+#!/bin/bash
+
+# This is a simple script that you can use for converting text into HTML.
+# First we take out all newline characters, so that the appending only happens
+# once, then we replace the newlines.
+
+echo "converting $1..."
+
+SCRIPT="/home/sandy/scripts/script.sed"
+NAME="$1"
+TEMPFILE="/var/tmp/sed.$PID.tmp"
+sed "s/\n/^M/" $1 | sed -f $SCRIPT | sed "s/^M/\n/" > $TEMPFILE
+mv $TEMPFILE $NAME
+
+echo "done."
+```
+
+
+
