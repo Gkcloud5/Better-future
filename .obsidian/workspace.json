@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "de4be04c6c189202",
+            "id": "d686ba975abc63fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/Print Program - awk.md",
+                "file": "Learning/Programming/Bash/Awk/Variable - awk.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/Print Program - awk.md",
+                "file": "Learning/Programming/Bash/Awk/Variable - awk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/Print Program - awk.md",
+                "file": "Learning/Programming/Bash/Awk/Variable - awk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/Print Program - awk.md"
+                "file": "Learning/Programming/Bash/Awk/Variable - awk.md"
               }
             }
           }
@@ -195,12 +195,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de4be04c6c189202",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Awk/awk Programming.md",
+    "Learning/Programming/Bash/Awk/Variable - awk.md",
+    "Learning/Programming/Bash/Awk/Print Program - awk.md",
     "Learning/Pasted image 20230621171330.png",
     "Learning/Pasted image 20230621170120.png",
-    "Learning/Programming/Bash/Awk/awk Programming.md",
-    "Learning/Programming/Bash/Awk/Print Program - awk.md",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Sed editor/GNU sed stream editor.md",
     "Learning/Programming/Bash/Awk",
@@ -217,7 +218,6 @@
     "Learning/Programming/Bash/Sed editor",
     "Learning/Programming/Bash/Images/Pasted image 20230619154723.png",
     "Learning/Programming/Bash/Images/Pasted image 20230619154606.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230619154455.png",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Basics/Regular expression/Pattern matching using BASH.md",
     "Learning/Programming/Bash/Basics/Regular expression/Examples using grep.md",
