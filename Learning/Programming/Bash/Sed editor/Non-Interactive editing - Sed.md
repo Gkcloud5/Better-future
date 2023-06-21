@@ -87,3 +87,4 @@ Gk3
 
 ![[Pasted image 20230621163100.png]]
 
+

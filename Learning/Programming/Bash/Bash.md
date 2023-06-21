@@ -15,4 +15,5 @@
 3. [[Bash Environment]]
 4. [[Regular expressions - Bash]]
 5. [[GNU sed stream editor]]
-6. 
+6. [[awk Programming]]
+7. 
