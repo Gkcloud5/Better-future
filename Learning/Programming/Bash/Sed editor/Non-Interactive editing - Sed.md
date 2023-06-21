@@ -48,7 +48,7 @@ cat txt2html.sh
 
 echo "converting $1..."
 
-SCRIPT="/home/sandy/scripts/script.sed"
+SCRIPT="/root/bash_script/sed_example/script.sed"
 NAME="$1"
 TEMPFILE="/var/tmp/sed.$PID.tmp"
 sed "s/\n/^M/" $1 | sed -f $SCRIPT | sed "s/^M/\n/" > $TEMPFILE
@@ -58,4 +58,11 @@ echo "done."
 ```
 
 
+```
+cat test.txt
+
+Gk1
+Gk2
+Gk3
+```
 
