@@ -20,3 +20,4 @@ modification date: Wednesday 21st June 2023 17:33:15
 ```
 awk 'BEGIN {FS=":" } { print $1 "\t" $5}' /etc/passwd
 ```
+
