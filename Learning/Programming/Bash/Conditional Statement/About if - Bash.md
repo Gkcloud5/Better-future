@@ -66,3 +66,14 @@ else
    exit 1;
 fi
 ```
+
+![[Pasted image 20230622181316.png]]
+
+```
+gender="female"
+
+if [[ "$gender" == f* ]]
+then
+    echo "Nice to meet you madam"
+fi
+```
