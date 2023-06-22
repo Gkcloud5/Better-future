@@ -47,3 +47,10 @@ fi
 echo
 echo "..done"
 ```
+
+##### Testing exist status:
+
+* ? --> it holds the exit status of the previously executed command
+
+![[Pasted image 20230622180126.png]]
+
