@@ -54,3 +54,13 @@ echo "..done"
 
 ![[Pasted image 20230622180126.png]]
 
+
+##### String Comparison:
+
+```
+if [ "$(whoami)" != 'root' ];then
+    echo "this is not root user"
+    exit 1;
+else
+   echo
+```
