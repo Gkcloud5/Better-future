@@ -20,5 +20,21 @@ COMMAND-LIST;;esac
 ```
 #!/bin/bash
 
-space=`df -h | awk '{print $5} | grep % | grep -v use'`
+space=`df -h | awk '{print $5}' | grep % | grep -v Use | sort -n | tail -1 | cut -d "%" -f1 -`
+```
+
+![[Pasted image 20230622204220.png]]
+
+
+```
+#!/bin/bash
+
+space=`df -h | awk '{print $5}' | grep % | grep -v Use | sort -n | tail -1 | cut -d "%" -f1 -`
+
+case $space in
+[1-6]*)
+    Message="All is quiet."
+    ;;
+[7-8]*)
+    
 ```

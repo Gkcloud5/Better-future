@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Case Statement - Bash.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Statement - Bash.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Statement - Bash.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Statement - Bash.md"
+                "file": "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md"
               }
             }
           }
@@ -195,10 +195,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cb4bffe7e856d39",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Images/Pasted image 20230622204220.png",
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
-    "Case Statement - Bash.md",
+    "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230622190628.png",
     "Learning/Programming/Bash/Images/Pasted image 20230622190452.png",
@@ -238,7 +239,6 @@
     "Learning/Programming/Bash/Basics/Environment/Variable - Bash.md",
     "Learning/Programming/Bash/Basics/Environment/Shell initialization files.md",
     "Learning/Programming/Bash/Basics/Environment",
-    "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Bash/Images",
