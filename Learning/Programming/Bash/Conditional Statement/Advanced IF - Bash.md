@@ -30,10 +30,15 @@ fi
 ```
 #!/bin/bash
 
-if [[ "$1" = "f*" ]]
+if [[ "$1" = fish ]]
 then
 	echo "This is fish"
 else
 	echo "This is not fish"
 fi
 ```
+
+![[Pasted image 20230622190452.png]]
+
+![[Pasted image 20230622190628.png]]
+

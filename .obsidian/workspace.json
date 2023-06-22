@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -197,6 +196,8 @@
   },
   "active": "8a05e2b606c5f0f3",
   "lastOpenFiles": [
+    "Learning/Pasted image 20230622190628.png",
+    "Learning/Pasted image 20230622190452.png",
     "Learning/Pasted image 20230622185148.png",
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
     "Advanced IF - Bash.md",
@@ -217,12 +218,10 @@
     "Learning/Programming/Bash/Awk/awk Programming.md",
     "Learning/Programming/Bash/Awk/Print Program - awk.md",
     "Learning/Programming/Bash/Images/Pasted image 20230621171330.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230621170120.png",
     "Learning/Programming/Bash/Sed editor/GNU sed stream editor.md",
     "Learning/Programming/Bash/Awk",
     "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230621163100.png",
     "Learning/Programming/Bash/Sed editor/Untitled.md",
     "Learning/Programming/Bash/Sed editor/Interactive editing - sed.md",
     "Learning/Programming/Bash/Sed editor",
