@@ -77,3 +77,6 @@ then
     echo "Nice to meet you madam"
 fi
 ```
+
+![[Pasted image 20230622181639.png]]
+
