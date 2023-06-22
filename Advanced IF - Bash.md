@@ -21,3 +21,12 @@ else
 	echo "Hello Man!.."
 fi
 ```
+
+![[Pasted image 20230622185148.png]]
+
+
+#### Command line arguments:
+
+```
+
+```
