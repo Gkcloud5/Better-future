@@ -30,3 +30,20 @@ if TEST-COMMANDS; then CONSEQUENT-COMMANDS;fi
 .... please check website
 ```
 
+##### Checking files:
+
+```
+cat filecheck.sh
+
+#!/bin/bash
+
+echo "This scripts check file"
+echo "Checking"
+
+if [ -f /var/log/messages ]
+    then
+        echo "file exists"
+fi
+echo
+echo "..done"
+```
