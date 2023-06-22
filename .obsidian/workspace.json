@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "8a05e2b606c5f0f3",
+            "id": "5cb4bffe7e856d39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
+                "file": "Case Statement - Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
+                "file": "Case Statement - Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
+                "file": "Case Statement - Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md"
+                "file": "Case Statement - Bash.md"
               }
             }
           }
@@ -195,9 +195,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a05e2b606c5f0f3",
+  "active": "5cb4bffe7e856d39",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
+    "Case Statement - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230622190628.png",
     "Learning/Programming/Bash/Images/Pasted image 20230622190452.png",
