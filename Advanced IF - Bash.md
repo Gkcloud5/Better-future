@@ -15,4 +15,9 @@ modification date: Thursday 22nd June 2023 18:45:44
 ```
 gender="male"
 if [[ "$gender" == "f*" ]]
+then
+   echo "Please sit mam"
+else
+	echo "Hello Man!.."
+fi
 ```
