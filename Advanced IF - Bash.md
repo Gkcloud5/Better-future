@@ -28,5 +28,12 @@ fi
 #### Command line arguments:
 
 ```
+#!/bin/bash
 
+if [[ "$1" = "f*" ]]
+then
+	echo "This is fish"
+else
+	echo "This is not fish"
+fi
 ```
