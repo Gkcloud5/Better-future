@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced IF - Bash.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced IF - Bash.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced IF - Bash.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced IF - Bash.md"
+                "file": "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md"
               }
             }
           }
@@ -194,13 +195,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a05e2b606c5f0f3",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230622190628.png",
-    "Learning/Pasted image 20230622190452.png",
-    "Learning/Pasted image 20230622185148.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230622190628.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230622190452.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230622185148.png",
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
-    "Advanced IF - Bash.md",
+    "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
     "Web Development/HTML/HTML.md",
     "Web Development/HTML/Image/Pasted image 20230622183312.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
