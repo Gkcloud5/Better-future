@@ -36,5 +36,14 @@ case $space in
     Message="All is quiet."
     ;;
 [7-8]*)
-    
+    Message="Start thinking about cleaning out some stuff, $space"
+    ;;
+9[1-8])
+    Message="Space going to full, $space"
+    ;;
+99)
+    Message="Emergency, please clean space, $space"
+    ;;
+
+echo $Message
 ```
