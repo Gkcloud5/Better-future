@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "98d4dbffd74e5edc",
+            "id": "140db5b2979541dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/awk Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d686ba975abc63fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Awk/Variable - awk.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/Variable - awk.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/Variable - awk.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/Variable - awk.md"
+                "file": "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md"
               }
             }
           }
@@ -195,17 +183,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d686ba975abc63fe",
+  "active": "140db5b2979541dc",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Conditional Statement",
+    "Learning/Programming/Bash/Bash.md",
+    "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
+    "Learning/Programming/Bash/Awk/Variable - awk.md",
     "Learning/Programming/Bash/Images/Pasted image 20230621181846.png",
     "Learning/Programming/Bash/Images/Pasted image 20230621181603.png",
     "Learning/Programming/Bash/Images/Pasted image 20230621181229.png",
     "Learning/Programming/Bash/Awk/awk Programming.md",
-    "Learning/Programming/Bash/Awk/Variable - awk.md",
     "Learning/Programming/Bash/Awk/Print Program - awk.md",
     "Learning/Programming/Bash/Images/Pasted image 20230621171330.png",
     "Learning/Programming/Bash/Images/Pasted image 20230621170120.png",
-    "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Sed editor/GNU sed stream editor.md",
     "Learning/Programming/Bash/Awk",
     "Dashboard of my better future/My Journey.md",
@@ -217,7 +207,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230620174308.png",
     "Learning/Programming/Bash/Images/Pasted image 20230620174059.png",
     "Learning/Programming/Bash/Images/Pasted image 20230620173640.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230620165736.png",
     "Learning/Programming/Bash/Sed editor",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Basics/Regular expression/Pattern matching using BASH.md",
@@ -237,7 +226,6 @@
     "Learning/Programming/Bash/Basics/Bash script basic/Creating and running a script.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Learning/Programming/Bash/Basics/Bash script basic/Developing good scripts.md",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Bash/Images",
     "Learning/Programming/Bash/Basics/Bash script basic",

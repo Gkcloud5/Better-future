@@ -16,4 +16,5 @@
 4. [[Regular expressions - Bash]]
 5. [[GNU sed stream editor]]
 6. [[awk Programming]]
-7. 
+7. [[Conditional Statement - Bash]]
+8. 
