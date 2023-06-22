@@ -23,5 +23,7 @@ if TEST-COMMANDS; then CONSEQUENT-COMMANDS;fi
 
 ```
 [ -a FILE] --> TRUE if FILE exists
-[ -b ]
+[ -b FILE] --> TRUE if FILE exists and is a block-special file
+[ -c FILE] --> TRUE if FILE exists and is a character special file
+[ -e FILE] --> TRUE if FILE exists
 ```
