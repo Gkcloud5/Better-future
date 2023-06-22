@@ -44,6 +44,9 @@ case $space in
 99)
     Message="Emergency, please clean space, $space"
     ;;
+esac
 
 echo $Message
 ```
+
+![[Pasted image 20230622205400.png]]
