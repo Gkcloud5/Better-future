@@ -62,5 +62,7 @@ if [ "$(whoami)" != 'root' ];then
     echo "this is not root user"
     exit 1;
 else
-   echo
+   echo "this is root user"
+   exit 1;
+fi
 ```
