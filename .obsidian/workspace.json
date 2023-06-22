@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -195,9 +194,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cb4bffe7e856d39",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230622205400.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230622205400.png",
     "Learning/Programming/Bash/Images/Pasted image 20230622204220.png",
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
