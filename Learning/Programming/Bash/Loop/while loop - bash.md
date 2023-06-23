@@ -13,3 +13,27 @@ modification date: Friday 23rd June 2023 16:24:39
 #### Explanation about it:
 
 * While construct allows for repetitive execution of a list of commands
+
+```
+while CONTROL-COMMAND;
+do
+  CONSEQUENT-COMMANDS;
+done
+```
+
+```
+#!/bin/bash
+
+i="0"
+
+while [ $i -lt 4 ]
+do
+xterm &
+i=$[$i+1]
+echo $i
+done
+```
+
+![[Pasted image 20230623165329.png]]
+
+
