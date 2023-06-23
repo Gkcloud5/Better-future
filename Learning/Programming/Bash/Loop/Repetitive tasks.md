@@ -22,4 +22,5 @@ modification date: Friday 23rd June 2023 16:14:46
 3. [[until loop - bash]]
 4. [[IO redirection and loops]]
 5. [[Break and continue - Bash]]
-6. 
+6. [[Making menu with select]]
+7. 
