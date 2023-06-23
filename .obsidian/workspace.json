@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
+                "file": "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md"
+                "file": "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md"
               }
             }
           }
@@ -195,8 +195,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "5cb4bffe7e856d39",
   "lastOpenFiles": [
+    "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Images/Pasted image 20230622205400.png",
     "Learning/Programming/Bash/Images/Pasted image 20230622204220.png",
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
@@ -217,12 +218,10 @@
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Awk/Variable - awk.md",
     "Learning/Programming/Bash/Images/Pasted image 20230621181846.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230621181603.png",
     "Learning/Programming/Bash/Awk/awk Programming.md",
     "Learning/Programming/Bash/Awk/Print Program - awk.md",
     "Learning/Programming/Bash/Sed editor/GNU sed stream editor.md",
     "Learning/Programming/Bash/Awk",
-    "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Sed editor/Non-Interactive editing - Sed.md",
     "Learning/Programming/Bash/Sed editor/Untitled.md",
     "Learning/Programming/Bash/Sed editor/Interactive editing - sed.md",
