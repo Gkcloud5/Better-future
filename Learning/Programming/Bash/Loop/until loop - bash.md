@@ -21,6 +21,17 @@ do
 done
 ```
 
-```#!/bin/bash
+```bash
+#!/bin/bash
 
+i="0"
+until [ $i == 4 ]
+do
+  echo "$i"
+  i=$[$i+1]
+done
+echo "outisde, $i"
 ```
+
+
+![[Pasted image 20230623170352.png]]
