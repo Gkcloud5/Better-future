@@ -19,4 +19,5 @@ modification date: Friday 23rd June 2023 16:14:46
 
 1. [[for loop - bash]]
 2. [[while loop - bash]]
-3. 
+3. [[until loop - bash]]
+4. 
