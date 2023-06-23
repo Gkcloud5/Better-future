@@ -73,5 +73,12 @@ case "$1" in
         ;;
 
     *)
-    echo $"Usage: $0"
+    echo $"Usage: $0 {start|stop|status|restart}"
+    exit 1
+
+esac
 ```
+
+
+![[Pasted image 20230623140535.png]]
+
