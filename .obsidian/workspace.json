@@ -32,36 +32,24 @@
             }
           },
           {
-            "id": "e8b697405645e43c",
+            "id": "bfdcad6b9cfaa08f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Interactive scripts/Writing Interactive scripts.md",
+                "file": "Learning/Programming/Bash/Loop/Repetitive tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b3aa16a907851aa0",
+            "id": "3cd95366739f5b56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Interactive scripts/Catching user input - Bash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e4b9b25cc8112af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Interactive scripts/Displaying user messages - Bash.md",
+                "file": "for loop - bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Interactive scripts/Catching user input - Bash.md",
+                "file": "for loop - bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Interactive scripts/Catching user input - Bash.md",
+                "file": "for loop - bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Interactive scripts/Catching user input - Bash.md"
+                "file": "for loop - bash.md"
               }
             }
           }
@@ -202,20 +190,23 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templater-obsidian:Templater": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b3aa16a907851aa0",
+  "active": "3cd95366739f5b56",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230623152104.png",
-    "Learning/Programming/Bash/Interactive scripts/Writing Interactive scripts.md",
+    "Learning/Programming/Bash/Loop/Repetitive tasks.md",
+    "for loop - bash.md",
+    "Learning/Programming/Bash/Loop",
+    "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Interactive scripts/Catching user input - Bash.md",
+    "Learning/Programming/Bash/Interactive scripts/Writing Interactive scripts.md",
+    "Learning/Programming/Bash/Images/Pasted image 20230623152104.png",
     "Learning/Programming/Bash/Interactive scripts/Displaying user messages - Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230623151325.png",
     "Learning/Programming/Bash/Interactive scripts",
-    "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230623140535.png",
@@ -231,7 +222,6 @@
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Programming/Bash/Conditional Statement/About if - Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230622181639.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230622181316.png",
     "Learning/Programming/Bash/Basics/Bash script basic/Debugging bash scripts.md",
     "Learning/Programming/Bash/Conditional Statement",
     "Learning/Programming/Bash/Awk/Variable - awk.md",
@@ -250,13 +240,11 @@
     "Learning/Programming/Bash/Basics/Regular expression",
     "Learning/Programming/Bash/Basics/Environment/Bash Environment.md",
     "Learning/Programming/Bash/Basics/Environment/Aliases.md",
-    "Learning/Programming/Bash/Basics/Environment/Shell Expansion.md",
     "Learning/Programming/Bash/Basics/Environment",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas",
     "Learning/Programming/Bash/Images",
     "Learning/Programming/Bash/Basics/Bash script basic",
-    "Learning/Programming/Bash/Basics",
-    "Dashboard of my better future/Images"
+    "Learning/Programming/Bash/Basics"
   ]
 }

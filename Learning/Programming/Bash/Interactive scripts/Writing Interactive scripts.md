@@ -16,4 +16,3 @@ modification date: Friday 23rd June 2023 14:06:59
 
 1. [[Displaying user messages - Bash]]
 2. [[Catching user input - Bash]]
-3. 
