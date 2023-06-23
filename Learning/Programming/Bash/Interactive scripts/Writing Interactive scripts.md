@@ -12,3 +12,7 @@ modification date: Friday 23rd June 2023 14:06:59
 
 #### Explanation about it:
 
+* Here we are going to see how to interact with the users of our scripts
+
+1. [[Displaying user messages - Bash]]
+2. 
