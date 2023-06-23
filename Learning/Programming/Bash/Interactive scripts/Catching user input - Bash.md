@@ -12,3 +12,18 @@ modification date: Friday 23rd June 2023 15:13:48
 
 #### Explanation about it:
 
+* `read` built-in command is used to get input from 
+
+```
+read [options] NAME1 NAME2 ... NAMEN
+```
+
+```
+#!/bin/bash
+
+echo "Provide your birth year"
+
+read year
+
+echo "This is your birth year $year"
+```
