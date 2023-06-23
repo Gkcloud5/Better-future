@@ -17,4 +17,8 @@ modification date: Friday 23rd June 2023 14:11:20
 * Some scripts run without any interaction from the user at all.
 	* Script runs in a predictable way every time.
 	* Script can run in the background.
-* Some scripts require
+* Some scripts required user input
+	* More flexible scripts can be built
+	* Users can customize the script as it runs or make it behave in different ways
+	* Script can report its progress as it runs
+* 
