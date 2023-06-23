@@ -51,3 +51,27 @@ echo $Message
 
 ![[Pasted image 20230622205400.png]]
 
+
+##### Example 2:
+
+```
+case "$1" in
+    start)
+        echo "start"
+        ;;
+
+    stop)
+        echo "stop"
+        ;;
+
+    status)
+        echo "status"
+        ;;
+
+    restart)
+        echo "restart"
+        ;;
+
+    *)
+    echo $"Usage: $0"
+```
