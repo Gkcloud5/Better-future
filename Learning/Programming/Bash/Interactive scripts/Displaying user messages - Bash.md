@@ -21,4 +21,6 @@ modification date: Friday 23rd June 2023 14:11:20
 	* More flexible scripts can be built
 	* Users can customize the script as it runs or make it behave in different ways
 	* Script can report its progress as it runs
-* 
+
+##### Using "echo" built-in command:
+
