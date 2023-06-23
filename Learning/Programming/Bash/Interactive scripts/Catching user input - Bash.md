@@ -27,3 +27,6 @@ read year
 
 echo "This is your birth year $year"
 ```
+
+![[Pasted image 20230623152104.png]]
+
