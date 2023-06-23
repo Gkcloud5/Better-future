@@ -14,4 +14,4 @@ modification date: Friday 23rd June 2023 14:11:20
 
 ##### Interactive or not?
 
-* 
+* Some scripts run without any interaction from the user at all
