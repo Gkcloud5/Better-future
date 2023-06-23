@@ -12,3 +12,6 @@ modification date: Friday 23rd June 2023 17:23:44
 
 #### Explanation about it:
 
+```
+select
+```

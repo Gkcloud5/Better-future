@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Making menu with select.md",
+                "file": "Learning/Programming/Bash/Loop/Making menu with select.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Making menu with select.md",
+                "file": "Learning/Programming/Bash/Loop/Making menu with select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Making menu with select.md",
+                "file": "Learning/Programming/Bash/Loop/Making menu with select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Making menu with select.md"
+                "file": "Learning/Programming/Bash/Loop/Making menu with select.md"
               }
             }
           }
@@ -195,10 +195,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28f2c4f5594c040b",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Loop/Repetitive tasks.md",
-    "Making menu with select.md",
+    "Learning/Programming/Bash/Loop/Making menu with select.md",
     "Learning/Programming/Bash/Loop/Break and continue - Bash.md",
     "Learning/Programming/Bash/Loop/IO redirection and loops.md",
     "Learning/Programming/Bash/Loop/while loop - bash.md",
