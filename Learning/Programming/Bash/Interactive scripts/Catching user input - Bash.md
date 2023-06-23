@@ -33,4 +33,11 @@ echo "This is your birth year $year"
 
 ##### Redirection and file descriptors:
 
-* 
+* Best file descriptors
+	* stdin   --> 0
+	* stdout --> 1
+	* stderr  --> 2
+
+```
+ls -l * 2 > /var/tmp/redirect.txt
+```
