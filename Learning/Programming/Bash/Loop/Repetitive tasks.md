@@ -18,4 +18,5 @@ modification date: Friday 23rd June 2023 16:14:46
 	* write scripts using the *select* statement
 
 1. [[for loop - bash]]
-2. 
+2. [[while loop - bash]]
+3. 
