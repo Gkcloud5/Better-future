@@ -21,4 +21,5 @@ modification date: Friday 23rd June 2023 16:14:46
 2. [[while loop - bash]]
 3. [[until loop - bash]]
 4. [[IO redirection and loops]]
-5. 
+5. [[Break and continue - Bash]]
+6. 

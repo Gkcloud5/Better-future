@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "e951bb25dea0cb5e",
+            "id": "e7b0710ca71536ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IO redirection and loops.md",
+                "file": "Learning/Programming/Bash/Loop/Break and continue - Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IO redirection and loops.md",
+                "file": "Learning/Programming/Bash/Loop/Break and continue - Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IO redirection and loops.md",
+                "file": "Learning/Programming/Bash/Loop/Break and continue - Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IO redirection and loops.md"
+                "file": "Learning/Programming/Bash/Loop/Break and continue - Bash.md"
               }
             }
           }
@@ -195,10 +195,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e951bb25dea0cb5e",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Loop/Repetitive tasks.md",
-    "IO redirection and loops.md",
+    "Learning/Programming/Bash/Loop/Break and continue - Bash.md",
+    "Learning/Programming/Bash/Loop/IO redirection and loops.md",
     "Learning/Programming/Bash/Loop/while loop - bash.md",
     "Learning/Programming/Bash/Loop/until loop - bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230623170352.png",
@@ -238,7 +239,6 @@
     "Learning/Programming/Bash/Sed editor",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Basics/Regular expression/Pattern matching using BASH.md",
-    "Learning/Programming/Bash/Basics/Regular expression/Examples using grep.md",
     "Learning/Programming/Bash/Basics/Regular expression",
     "Learning/Programming/Bash/Basics/Environment",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
