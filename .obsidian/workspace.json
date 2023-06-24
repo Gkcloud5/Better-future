@@ -11,14 +11,11 @@
             "id": "071dff25255878b5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -84.80992229805958,
-                  "y": -52.380155403880906,
-                  "zoom": -0.3211842506672172
-                }
+                "file": "Communication/Basic words/80% using words.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Communication/Basic words/80% using words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Communication/Basic words/80% using words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Communication/Basic words/80% using words.md"
               }
             }
           }
@@ -163,8 +160,10 @@
   },
   "active": "071dff25255878b5",
   "lastOpenFiles": [
-    "DevOps & Cloud Plans/RoadMap/Resources.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "Communication/Basic words/80% using words.md",
+    "Communication/Basic words",
+    "DevOps & Cloud Plans/RoadMap/Resources.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/Untitled.md",
     "Dashboard of my better future/My Journey.md",
@@ -205,12 +204,9 @@
     "Learning/Programming/Bash/Images/Pasted image 20230623151325.png",
     "Learning/Programming/Bash/Interactive scripts",
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
-    "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
-    "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
     "Learning/Programming/Bash/Conditional Statement",
     "Learning/Programming/Bash/Awk",
     "Learning/Programming/Bash/Sed editor",
-    "Learning/Programming/Bash/Basics/Regular expression",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
