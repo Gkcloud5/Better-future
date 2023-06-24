@@ -36,5 +36,21 @@ done
 
 PS3="Your Choice:"
 QUIT="Quit this program - I feel safe now"
-touch "$"
+touch "$QUIT"
+
+select FILENAME in *;
+do 
+   case $FILENAME in
+          "$QUIT")
+              echo "Existing"
+              break
+              ;;
+           *)
+            echo "You picked $FILENAME ($REPLY)"
+            chmod go-rwx "$FILENAME"
+            ;;
+    esac
+done
+rm "$QUIT"
+
 ```
