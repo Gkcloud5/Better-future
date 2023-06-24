@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8db9d9d7b1380a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Bash.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md"
               }
             }
           }
@@ -169,13 +158,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "071dff25255878b5",
   "lastOpenFiles": [
-    "Learning/Programming/Bash/Example scripts and explanation/Untitled",
+    "Dashboard of my better future/My Journey.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+    "Learning/Programming/Bash/Example scripts and explanation/2ndsection",
     "Learning/Programming/Bash/Example scripts and explanation",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Functions/Functions - Bash.md",
-    "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Functions/About functions - bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230624180851.png",
     "Learning/Programming/Bash/Functions",
@@ -217,7 +207,6 @@
     "Learning/Programming/Bash/Awk",
     "Learning/Programming/Bash/Sed editor",
     "Learning/Programming/Bash/Basics/Regular expression",
-    "Learning/Programming/Bash/Basics/Environment",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
