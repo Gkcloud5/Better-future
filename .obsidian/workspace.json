@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Basic words/80% using words.md",
+                "file": "Communication/Improving communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Basic words/80% using words.md",
+                "file": "Communication/Improving communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Basic words/80% using words.md",
+                "file": "Communication/Improving communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Basic words/80% using words.md"
+                "file": "Communication/Improving communication.md"
               }
             }
           }
@@ -160,8 +159,10 @@
   },
   "active": "071dff25255878b5",
   "lastOpenFiles": [
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Basic words/80% using words.md",
+    "Communication/Improving communication.md",
+    "Communication/Untitled",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Basic words",
     "DevOps & Cloud Plans/RoadMap/Resources.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
@@ -206,7 +207,6 @@
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
     "Learning/Programming/Bash/Conditional Statement",
     "Learning/Programming/Bash/Awk",
-    "Learning/Programming/Bash/Sed editor",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
