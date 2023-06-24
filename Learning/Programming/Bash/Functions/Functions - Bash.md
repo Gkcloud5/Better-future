@@ -13,4 +13,3 @@ modification date: Saturday 24th June 2023 17:53:53
 #### Explanation about it:
 
 1. [[About functions - bash]]
-2. 

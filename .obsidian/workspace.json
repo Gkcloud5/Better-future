@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "fe1046a187c643af",
+            "id": "8db9d9d7b1380a50",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c6bcd2dc4352bd7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Functions/Functions - Bash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a7bcf5cee601529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Functions/About functions - bash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -131,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Functions/About functions - bash.md",
+                "file": "Dashboard of my better future/My Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Functions/About functions - bash.md",
+                "file": "Dashboard of my better future/My Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Functions/About functions - bash.md"
+                "file": "Dashboard of my better future/My Journey.md"
               }
             }
           }
@@ -197,11 +171,14 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Programming/Bash/Images/Pasted image 20230624180851.png",
-    "Learning/Programming/Bash/Functions/Functions - Bash.md",
-    "Learning/Programming/Bash/Functions/About functions - bash.md",
-    "Learning/Programming/Bash/Functions",
+    "Learning/Programming/Bash/Example scripts and explanation/Untitled",
+    "Learning/Programming/Bash/Example scripts and explanation",
     "Learning/Programming/Bash/Bash.md",
+    "Learning/Programming/Bash/Functions/Functions - Bash.md",
+    "Dashboard of my better future/My Journey.md",
+    "Learning/Programming/Bash/Functions/About functions - bash.md",
+    "Learning/Programming/Bash/Images/Pasted image 20230624180851.png",
+    "Learning/Programming/Bash/Functions",
     "Learning/Programming/Bash/Variables/Variables advanced - bash.md",
     "Learning/Programming/Bash/Variables/Array Variables.md",
     "Learning/Programming/Bash/Variables/Types of variables.md",
@@ -212,7 +189,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230624172242.png",
     "Learning/Programming/Bash/Loop/Making menu with select.md",
     "Learning/Programming/Bash/Images/Pasted image 20230624165848.png",
-    "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Python/Exercise/Exercise Topics.md",
     "Web Development/HTML/HTML.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
@@ -234,7 +210,6 @@
     "Learning/Programming/Bash/Interactive scripts",
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230623140535.png",
     "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/About if - Bash.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Debugging bash scripts.md",
@@ -244,7 +219,6 @@
     "Learning/Programming/Bash/Basics/Regular expression",
     "Learning/Programming/Bash/Basics/Environment",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Learning/Programming/Program learning Steps/Programe learn.canvas",
-    "Learning/Programming/Bash/Images"
+    "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
