@@ -31,3 +31,10 @@ done
 
 ![[Pasted image 20230624165848.png]]
 
+```
+#!/bin/bash
+
+PS3="Your Choice:"
+QUIT="Quit this program - I feel safe now"
+touch "$"
+```
