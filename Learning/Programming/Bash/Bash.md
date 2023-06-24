@@ -20,4 +20,5 @@
 8. [[Writing Interactive scripts]]
 9. [[Repetitive tasks]]
 10. [[Variables advanced - bash]]
-11. 
+11. [[Functions - Bash]]
+12. 
