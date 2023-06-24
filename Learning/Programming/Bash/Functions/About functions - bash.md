@@ -15,4 +15,25 @@ modification date: Saturday 24th June 2023 17:55:30
 ##### What are functions:
 
 * Functions are group of commands for later execution, using single name for this group or routine.
-* 
+* When calling on a function as a simple command name, the list of commands associated with that function name is executed.
+
+```
+function FUNCTION{
+COMMANDS
+}
+
+FUNCTION(){
+COMMANDS
+}
+```
+
+
+```bash
+#!/bin/bash
+
+echo "Function example"
+
+test(){
+echo "Postitional parameter 1 in the function is $1"
+}
+```
