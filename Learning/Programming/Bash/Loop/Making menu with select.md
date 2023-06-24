@@ -19,5 +19,15 @@ select WORD [in LIST]; do RESPECTIVE-COMMANDS; done
 ```
 #!/bin/bash
 
-echo "This script can make any of the files in this d"
+echo "This script can make any of the files in this directory"
+echo "Enter the number of the file you want to protect:"
+
+select FILENAME in *;
+do
+   echo "You picked $FILENAME ($REPLY), it is now only accessible to you."
+   chmod go-rwx "$FILENAME"
+done
 ```
+
+![[Pasted image 20230624165848.png]]
+
