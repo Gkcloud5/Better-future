@@ -22,5 +22,28 @@ echo $VARIABLE
 ##### Using the declare built-in:
 
 ```
+declare OPTIONS VARIABLE=value
+```
+
+![[Pasted image 20230624173809.png]]
 
 ```
+declare -i var=12
+var=string
+echo $var
+0
+```
+
+
+##### Constants:
+
+```
+readonly OPTION VARIABLE(s)
+```
+
+```
+readonly var=12
+var=15
+bash: var: readonly variable
+```
+

@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "af5938992220fac6",
+            "id": "405fa4bdc621211d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Variables/Types of variables.md",
+                "file": "Array Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Variables/Types of variables.md",
+                "file": "Array Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Variables/Types of variables.md",
+                "file": "Array Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Variables/Types of variables.md"
+                "file": "Array Variables.md"
               }
             }
           }
@@ -195,10 +195,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af5938992220fac6",
+  "active": "405fa4bdc621211d",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Variables/Variables advanced - bash.md",
+    "Array Variables.md",
     "Learning/Programming/Bash/Variables/Types of variables.md",
+    "Learning/Programming/Bash/Images/Pasted image 20230624173809.png",
     "Learning/Programming/Bash/Variables",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Loop/Repetitive tasks.md",
@@ -229,7 +231,6 @@
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230623140535.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230622205400.png",
     "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/About if - Bash.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Debugging bash scripts.md",
@@ -237,7 +238,6 @@
     "Learning/Programming/Bash/Awk/Variable - awk.md",
     "Learning/Programming/Bash/Awk/awk Programming.md",
     "Learning/Programming/Bash/Awk/Print Program - awk.md",
-    "Learning/Programming/Bash/Sed editor/GNU sed stream editor.md",
     "Learning/Programming/Bash/Awk",
     "Learning/Programming/Bash/Sed editor",
     "Learning/Programming/Bash/Basics/Regular expression",

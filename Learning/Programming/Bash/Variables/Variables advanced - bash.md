@@ -15,4 +15,5 @@ modification date: Saturday 24th June 2023 17:26:30
 * Here we are going to learn about variables and arguments
 
 1. [[Types of variables]]
-2. 
+2. [[Array Variables]]
+3. 
