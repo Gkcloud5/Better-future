@@ -21,7 +21,7 @@ modification date: Saturday 24th June 2023 17:12:23
 function print_arguments() {
     echo "Arguments"
     echo "........."
-    while [ $# -gt 0];do
+    while [ $# -gt 0 ];do
         echo "$1"
         shift
     done
@@ -29,3 +29,6 @@ function print_arguments() {
 
 print_arguments "apple" "banana" "cherry" "date"
 ```
+
+![[Pasted image 20230624172242.png]]
+

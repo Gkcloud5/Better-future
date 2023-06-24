@@ -19,4 +19,5 @@
 7. [[Conditional Statement - Bash]]
 8. [[Writing Interactive scripts]]
 9. [[Repetitive tasks]]
-10. 
+10. [[Variables advanced - bash]]
+11. 
