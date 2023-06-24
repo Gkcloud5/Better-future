@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Untitled.md"
               }
             }
           }
@@ -158,11 +157,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "071dff25255878b5",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Learning/Programming/Bash/Example scripts and explanation/2ndsection",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/Untitled.md",
+    "Dashboard of my better future/My Journey.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example",
     "Learning/Programming/Bash/Example scripts and explanation",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Functions/Functions - Bash.md",
@@ -202,7 +202,6 @@
     "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/About if - Bash.md",
-    "Learning/Programming/Bash/Basics/Bash script basic/Debugging bash scripts.md",
     "Learning/Programming/Bash/Conditional Statement",
     "Learning/Programming/Bash/Awk",
     "Learning/Programming/Bash/Sed editor",
