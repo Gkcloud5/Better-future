@@ -33,7 +33,16 @@ COMMANDS
 
 echo "Function example"
 
+echo "Postitional parameter 1 in the function is $1"
+
 test(){
 echo "Postitional parameter 1 in the function is $1"
+return_value=$?
+echo "exit code of this function is $return_value"
 }
+
+test other_param
 ```
+
+![[Pasted image 20230624180851.png]]
+
