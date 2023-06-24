@@ -14,4 +14,5 @@ modification date: Saturday 24th June 2023 17:55:30
 
 ##### What are functions:
 
-* Functions are group of commands for later execution, using single na
+* Functions are group of commands for later execution, using single name for this group or routine.
+* 

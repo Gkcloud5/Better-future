@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About functions - bash.md",
+                "file": "Learning/Programming/Bash/Functions/About functions - bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About functions - bash.md",
+                "file": "Learning/Programming/Bash/Functions/About functions - bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About functions - bash.md",
+                "file": "Learning/Programming/Bash/Functions/About functions - bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About functions - bash.md"
+                "file": "Learning/Programming/Bash/Functions/About functions - bash.md"
               }
             }
           }
@@ -198,7 +198,7 @@
   "active": "6a7bcf5cee601529",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Functions/Functions - Bash.md",
-    "About functions - bash.md",
+    "Learning/Programming/Bash/Functions/About functions - bash.md",
     "Learning/Programming/Bash/Functions",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Variables/Variables advanced - bash.md",
