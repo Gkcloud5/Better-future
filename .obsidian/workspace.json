@@ -11,8 +11,15 @@
             "id": "071dff25255878b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "viewState": {
+                  "x": -84.80992229805958,
+                  "y": -52.380155403880906,
+                  "zoom": -0.3211842506672172
+                }
+              }
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+              }
             }
           }
         ],
@@ -152,6 +163,8 @@
   },
   "active": "071dff25255878b5",
   "lastOpenFiles": [
+    "DevOps & Cloud Plans/RoadMap/Resources.md",
+    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/Untitled.md",
     "Dashboard of my better future/My Journey.md",
@@ -194,12 +207,10 @@
     "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/Case Statement - Bash.md",
     "Learning/Programming/Bash/Conditional Statement/Advanced IF - Bash.md",
-    "Learning/Programming/Bash/Conditional Statement/About if - Bash.md",
     "Learning/Programming/Bash/Conditional Statement",
     "Learning/Programming/Bash/Awk",
     "Learning/Programming/Bash/Sed editor",
     "Learning/Programming/Bash/Basics/Regular expression",
-    "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
