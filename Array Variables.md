@@ -12,3 +12,32 @@ modification date: Saturday 24th June 2023 17:41:35
 
 #### Explanation about it:
 
+* An array is a variable containing multiple values.
+
+##### Creating Arrays:
+
+```
+ARRAY[INDEXNR]=value
+
+declare -a ARRAYNAME
+
+ARRAY=(value1 value2 .... valueN)
+
+```
+
+
+```
+ARRAY=(one two three)
+echo ${ARRAY[*]}
+one two three
+
+echo $ARRAY[*]
+one[*]
+
+echo ${ARRAY[2]}
+three
+
+ARRAY[3]=four
+one two three four
+```
+
