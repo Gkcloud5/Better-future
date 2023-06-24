@@ -12,3 +12,15 @@ modification date: Saturday 24th June 2023 17:29:15
 
 #### Explanation about it:
 
+##### Assignment of values:
+
+```
+VARIABLE=12
+echo $VARIABLE
+```
+
+##### Using the declare built-in:
+
+```
+
+```
