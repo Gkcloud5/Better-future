@@ -21,7 +21,24 @@ then
    exit $E_NOTROOT
 fi
 
+if [ -n "$1"]
+then
+   lines=$1
+   echo "lines,"
+else
+   lines=$LINES #default, if not specified on command-line
+fi
 
+cd $LOG_DIR
+
+if [ `pwd` != "$LOG_DIR" ]
+then
+   echo "Can't change to $LOG_DIR"
+   exit $E_XCD
+fi
+
+tail -n $lines messages > mesg.temp
+mv mesg.temp messages
 ```
 
 ### Output:
