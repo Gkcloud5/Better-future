@@ -37,10 +37,10 @@ then
    exit $E_XCD
 fi
 
-tail -n $lines messages > mesg.temp
-mv mesg.temp messages
+#tail -n $lines messages > mesg.temp
+#mv mesg.temp messages
 
-#cat /dev/null >  messages
+cat /dev/null >  messages
 
 cat /dev/null >  wtmp
 echo "Log files cleaned up"
@@ -51,10 +51,11 @@ exit 0
 
 ### Output:
 
-
+![[Pasted image 20230626005006.png]]
 
 ### Explanation:
 
+* I
 
 
 ### Things know:
