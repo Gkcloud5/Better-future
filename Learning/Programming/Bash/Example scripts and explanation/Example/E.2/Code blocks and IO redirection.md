@@ -37,4 +37,5 @@ exit 0
 
 ### Things know:
 
-* We can use `<` to redirect a file
+* We can use `<` to redirect and read file line by line
+* If we want to take specific line then we need to use cat + tail.

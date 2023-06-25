@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b56e0b512b53b150",
+            "id": "afc6c36719743125",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code blocks and IO redirection.md",
+                "file": "Saving the output of a code block to a file.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code blocks and IO redirection.md",
+                "file": "Saving the output of a code block to a file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code blocks and IO redirection.md",
+                "file": "Saving the output of a code block to a file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code blocks and IO redirection.md"
+                "file": "Saving the output of a code block to a file.md"
               }
             }
           }
@@ -171,16 +171,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b56e0b512b53b150",
+  "active": "afc6c36719743125",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230626012457.png",
-    "Learning/Pasted image 20230626010825.png",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Code blocks and IO redirection.md",
+    "Saving the output of a code block to a file.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Code blocks and IO redirection.md",
+    "Learning/Programming/Bash/Images/Pasted image 20230626012457.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230626010825.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Enhanced and generalized version of log clear script.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.1",
-    "Learning/Pasted image 20230626005006.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230626005006.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Improved clean-up script.md",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
@@ -218,7 +219,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230624165848.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Programming/Bash/Images/Pasted image 20230623170352.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230623165329.png",
     "Learning/Programming/Bash/Loop",
     "Learning/Programming/Bash/Interactive scripts",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"

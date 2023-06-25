@@ -18,4 +18,5 @@ modification date: Saturday 24th June 2023 18:22:25
 
 2. Special Characters
 	1. [[Code blocks and IO redirection]]
-	2. 
+	2. [[Saving the output of a code block to a file]]
+	3. 
