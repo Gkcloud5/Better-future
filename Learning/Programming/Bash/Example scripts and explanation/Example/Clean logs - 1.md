@@ -16,10 +16,10 @@ echo "log files cleaned up"
 
 ### Output:
 
-
+![[Pasted image 20230625170359.png]]
 
 ### Explanation:
 
-
+* It went to folder and clear logs
 
 ### Things know:
