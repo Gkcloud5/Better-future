@@ -26,6 +26,8 @@ exit
 
 ### Explanation:
 
-* Created a special variable for 
+* Created a special variable for location
 
 ### Things know:
+
+* we can use location as variable
