@@ -28,7 +28,6 @@ exit 0
 
 ![[Pasted image 20230626010825.png]]
 
-
 ### Explanation:
 
 
