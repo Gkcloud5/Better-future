@@ -24,7 +24,7 @@ fi
 if [ -n "$1"]
 then
    lines=$1
-   echo "lines,"
+   echo "lines, $1"
 else
    lines=$LINES #default, if not specified on command-line
 fi
@@ -39,6 +39,14 @@ fi
 
 tail -n $lines messages > mesg.temp
 mv mesg.temp messages
+
+#cat /dev/null >  messages
+
+cat /dev/null >  wtmp
+echo "Log files cleaned up"
+
+exit 0
+
 ```
 
 ### Output:
