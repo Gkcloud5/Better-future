@@ -32,6 +32,9 @@ exit 0
 
 ### Explanation:
 
-* In above example we are reading a file
+* In above example we are reading a file by using `<`
+	* It redirect file to variable
 
 ### Things know:
+
+* We can use `<` to redirect a file
