@@ -66,3 +66,4 @@ exit 0
 
 * `[ -n "$1"]` --> This is true when $1 is empty does not contain any value
 * `$UID` --> Linux built-in user id checking command
+* We can use special error code it will help us to find where we face issue easily.
