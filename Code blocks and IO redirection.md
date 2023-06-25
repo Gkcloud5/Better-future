@@ -28,8 +28,10 @@ exit 0
 
 ![[Pasted image 20230626010825.png]]
 
+![[Pasted image 20230626012457.png]]
+
 ### Explanation:
 
-
+* In above example we are reading a file
 
 ### Things know:
