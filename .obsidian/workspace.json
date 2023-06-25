@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clean logs - 1.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Clean logs - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clean logs - 1.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Clean logs - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clean logs - 1.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Clean logs - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clean logs - 1.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Clean logs - 1.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "b27ffb47c3753a69",
   "lastOpenFiles": [
+    "Template/Bash script template.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/Clean logs - 1.md",
+    "Template/Theory template.md",
+    "Template/Simple explain template.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Clean logs - 1.md",
     "Learning/Programming/Bash/Bash.md",
     "Communication/Improvement/Grammar related stufs.md",
     "Communication/Improving communication.md",
@@ -210,12 +213,9 @@
     "Learning/Programming/Bash/Loop/until loop - bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230623170352.png",
     "Learning/Programming/Bash/Images/Pasted image 20230623165329.png",
-    "Learning/Programming/Bash/Loop/for loop - bash.md",
     "Learning/Programming/Bash/Loop/Pasted image 20230623162411.png",
     "Learning/Programming/Bash/Images/Pasted image 20230623162300.png",
     "Learning/Programming/Bash/Loop",
-    "Learning/Programming/Bash/Interactive scripts/Catching user input - Bash.md",
-    "Learning/Programming/Bash/Interactive scripts/Writing Interactive scripts.md",
     "Learning/Programming/Bash/Images/Pasted image 20230623152104.png",
     "Learning/Programming/Bash/Images/Pasted image 20230623151325.png",
     "Learning/Programming/Bash/Interactive scripts",
