@@ -55,7 +55,14 @@ exit 0
 
 ### Explanation:
 
-* I
+* In above script we gave special error code
+	* This will help us to know where we get error
+		* we can get error code --> $?
+* Here we specially check root user is accessing script 
+* Here we specially double confirm the directory
 
 
 ### Things know:
+
+* `[ -n "$1"]` --> This is true when $1 is empty does not contain any value
+* `$UID` --> Linux built-in user id checking command

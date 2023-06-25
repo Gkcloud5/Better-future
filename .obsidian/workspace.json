@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Enhanced and generalized version of log clear script.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Enhanced and generalized version of log clear script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Enhanced and generalized version of log clear script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Enhanced and generalized version of log clear script.md"
               }
             }
           }
@@ -173,9 +173,12 @@
   },
   "active": "4a1ae53950006a3b",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Enhanced and generalized version of log clear script.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.2",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.1",
     "Learning/Pasted image 20230626005006.png",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/Improved clean-up script.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Improved clean-up script.md",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
@@ -191,9 +194,8 @@
     "Learning/Programming/Bash/Basics/Environment/Shell initialization files.md",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions1 -Bash.md",
     "Learning/Programming/Bash/Interactive scripts/Writing Interactive scripts.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Learning/Programming/Bash/Images/Pasted image 20230625171725.png",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/Clean logs - 1.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Clean logs - 1.md",
     "Learning/Programming/Bash/Images/Pasted image 20230625170359.png",
     "Template/Bash script template.md",
     "Template/Theory template.md",
@@ -216,11 +218,8 @@
     "Learning/Programming/Bash/Images/Pasted image 20230623170352.png",
     "Learning/Programming/Bash/Images/Pasted image 20230623165329.png",
     "Learning/Programming/Bash/Loop/Pasted image 20230623162411.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230623162300.png",
     "Learning/Programming/Bash/Loop",
     "Learning/Programming/Bash/Interactive scripts",
-    "Learning/Programming/Bash/Conditional Statement",
-    "Learning/Programming/Bash/Awk",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
