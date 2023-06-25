@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ec4d131d34ae2019",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Bash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bd92275903878ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Improved clean-up script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Bash.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Bash.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Bash.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md"
               }
             }
           }
@@ -195,10 +171,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec4d131d34ae2019",
+  "active": "4a1ae53950006a3b",
   "lastOpenFiles": [
-    "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/Improved clean-up script.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md",
     "Learning/Programming/Bash/Bash.md",
+    "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Script Basics.md",
@@ -212,9 +190,7 @@
     "Learning/Programming/Bash/Basics/Environment/Shell initialization files.md",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions1 -Bash.md",
     "Learning/Programming/Bash/Interactive scripts/Writing Interactive scripts.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/Improved clean-up script.md",
     "Learning/Programming/Bash/Images/Pasted image 20230625171725.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/Clean logs - 1.md",
     "Learning/Programming/Bash/Images/Pasted image 20230625170359.png",
