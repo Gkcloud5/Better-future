@@ -26,4 +26,3 @@ awk PROGRAM inputfile(s)
 
 1. [[Print Program - awk]]
 2. [[Variable - awk]]
-3. 

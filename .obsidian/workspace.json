@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/awk Programming.md",
+                "file": "Learning/Programming/Bash/Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/awk Programming.md",
+                "file": "Learning/Programming/Bash/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/awk Programming.md",
+                "file": "Learning/Programming/Bash/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Awk/awk Programming.md"
+                "file": "Learning/Programming/Bash/Bash.md"
               }
             }
           }
@@ -197,15 +197,20 @@
   },
   "active": "ec4d131d34ae2019",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Bash.md",
+    "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
+    "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
+    "Learning/Programming/Bash/Basics/Bash script basic/Script Basics.md",
+    "Learning/Programming/Bash/Loop/Repetitive tasks.md",
+    "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
+    "Learning/Programming/Bash/Awk/awk Programming.md",
     "Learning/Programming/Bash/Basics/Environment/Bash Environment.md",
     "Learning/Programming/Bash/Basics/Environment/Shell Expansion.md",
     "Learning/Programming/Bash/Basics/Environment/Quoting characters.md",
     "Learning/Programming/Bash/Basics/Environment/Variable - Bash.md",
     "Learning/Programming/Bash/Basics/Environment/Shell initialization files.md",
-    "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions1 -Bash.md",
-    "Learning/Programming/Bash/Conditional Statement/Conditional Statement - Bash.md",
     "Learning/Programming/Bash/Interactive scripts/Writing Interactive scripts.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/Enhanced and generalized version of log clear script.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
@@ -223,15 +228,10 @@
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Communication/Improvement",
     "DevOps & Cloud Plans/RoadMap/Resources.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/Untitled.md",
-    "Dashboard of my better future/My Journey.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example",
     "Learning/Programming/Bash/Example scripts and explanation",
-    "Learning/Programming/Bash/Functions/Functions - Bash.md",
-    "Learning/Programming/Bash/Functions/About functions - bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230624180851.png",
     "Learning/Programming/Bash/Functions",
-    "Learning/Programming/Bash/Variables/Variables advanced - bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230624173809.png",
     "Learning/Programming/Bash/Variables",
     "Learning/Programming/Bash/Images/Pasted image 20230624172242.png",

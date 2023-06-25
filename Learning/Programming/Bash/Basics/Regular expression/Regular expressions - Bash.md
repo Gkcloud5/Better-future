@@ -23,4 +23,3 @@ modification date: Monday 19th June 2023 13:18:03
 1. [[Regular expressions1 -Bash]]
 2. [[Examples using grep]]
 3. [[Pattern matching using BASH]]
-4. 
