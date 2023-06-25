@@ -23,3 +23,7 @@ echo "log files cleaned up"
 * It went to folder and clear logs
 
 ### Things know:
+
+* /dev/null --> It is linux null device file. this will discard anything written to it
+	* [dev/null](https://www.digitalocean.com/community/tutorials/dev-null-in-linux)
+* 
