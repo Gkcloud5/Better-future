@@ -12,4 +12,5 @@ modification date: Saturday 24th June 2023 18:22:25
 
 #### Example Scripts:
 
-1. []
+1. [[Clean logs - 1]]
+2. 
