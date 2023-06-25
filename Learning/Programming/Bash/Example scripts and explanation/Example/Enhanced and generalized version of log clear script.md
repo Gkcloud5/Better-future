@@ -17,7 +17,11 @@ E_NOTROOT=87 #non-root exit error
 #Run as root
 if [ "$UID" -ne "$ROOT_UID" ]
 then
-   echo "Must be root to run this s"
+   echo "Must be root to run this script"
+   exit $E_NOTROOT
+fi
+
+
 ```
 
 ### Output:
