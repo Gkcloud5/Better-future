@@ -13,6 +13,26 @@ hello=$a
 
 #No space between `=`
 
+echo hello
+
+echo $hello   #assign_var1
+
+echo ${hello} #assign_var2
+
+echo
+
+hello="A B  C   D"
+echo $hello
+echo "$hello"
+
+echo
+
+mixed_bag=2\ --- \ Whatever
+
+echo "$mixed_bag"
+
+echo; echo
+
 
 ```
 
