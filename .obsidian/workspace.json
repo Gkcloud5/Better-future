@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -171,7 +170,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "afc6c36719743125",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Code blocks and IO redirection.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
