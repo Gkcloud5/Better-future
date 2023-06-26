@@ -41,4 +41,3 @@ exit 0
 ### Things know:
 
 * If want to execute bash script background, we can use `&` operator
-* 
