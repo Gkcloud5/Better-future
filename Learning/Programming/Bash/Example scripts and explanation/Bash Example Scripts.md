@@ -24,4 +24,5 @@ modification date: Saturday 24th June 2023 18:22:25
 
 3. Variable Substitution
 	1. [[Variable assignment and substitution]]
-	2. 
+	2. [[Plain Variable Assignment]]
+	3. 
