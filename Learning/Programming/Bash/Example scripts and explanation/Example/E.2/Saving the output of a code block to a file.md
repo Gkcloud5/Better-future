@@ -22,7 +22,9 @@ fi
 #Begin code block
 echo
 echo "Archieve description:"
-rpm -qpi $1 #query description
+rpm1=`rpm -qpi $1` #query description
+
+echo "$rpm1"
 
 echo "Archieve listing:"
 rpm -i --test $1  #query whether rpm file can be installed.
