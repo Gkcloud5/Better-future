@@ -50,6 +50,9 @@ exit 0
 ### Explanation:
 
 * Above program is showing what are the ways we have to assign variable and difficulties on it.
-* 
 
 ### Things know:
+
+* while assigning variable no need to give space between =.
+* If you need to give space while assigning address then we can use `\` 
+* `unset` command will remove value that assigned to variable.
