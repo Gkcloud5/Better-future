@@ -25,6 +25,6 @@ exit 0
 
 ### Explanation:
 
-* Archive  
+* Archive files that 
 
 ### Things know:
