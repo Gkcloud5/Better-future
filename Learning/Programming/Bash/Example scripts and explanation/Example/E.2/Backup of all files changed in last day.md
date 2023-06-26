@@ -30,4 +30,5 @@ exit 0
 
 ### Things know:
 
-* 
+* `find` command is sued to search for files and directories in a give directory.
+* `find -type f` --> 
