@@ -13,6 +13,11 @@ SUCCESS=0
 E_NOARGS=65
 
 if [ -z "$1" ]
+then
+   echo "Usage: `basename $0` rpm-file"
+   exit $E_NOARGS
+fi
+
 
 
 ```
