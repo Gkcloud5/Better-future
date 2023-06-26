@@ -37,10 +37,13 @@ exit 0
 
 ### Output:
 
+![[Pasted image 20230627023913.png]]
 
 
 ### Explanation:
 
-
+* This is simple explanation for assigning variable
 
 ### Things know:
+
+* 
