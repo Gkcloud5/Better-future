@@ -21,3 +21,7 @@ modification date: Saturday 24th June 2023 18:22:25
 	2. [[Saving the output of a code block to a file]]
 	3. [[Running a loop in the background]]
 	4. [[Backup of all files changed in last day]]
+
+3. Variable Substitution
+	1. [[Variable assignment and substitution]]
+	2. 

@@ -33,4 +33,4 @@ exit 0
 * `find` command is sued to search for files and directories in a give directory.
 * `find -type f`   --> It finds all regular files within the specified directory
 * `find -mtime 1` --> This will used to get files that modified within 1 days.
-* `-print` it used to print the path of the file to the ter
+* `-print` it used to print the path of the file to the terminal.
