@@ -26,6 +26,8 @@ exit 0
 ### Explanation:
 
 * Archive files that is in that location.
-* 
+* Here it used `tar` tool to archive files in location and `gzip` tool to zip a archived file.
 
 ### Things know:
+
+* 
