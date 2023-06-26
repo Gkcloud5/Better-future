@@ -56,4 +56,6 @@ exit 0
 
 ### Things know:
 
-* `-z` it check the variable and return **true** 
+* `-z` it check the variable and return **true** if variables is empty.
+	* `-z` is unary operator that takes one argument
+* `$?` it is exit status of the last executed command.
