@@ -27,15 +27,16 @@ echo "$hello"
 
 echo
 
-mixed_bag=2\ --- \ Whatever
+mixed_bag=2\ ---\ Whatever
 
 echo "$mixed_bag"
 
 echo; echo
 
 unlitialized_variable=23
-unset uninitialized_variable
-echo "uninitialized_variable = $uninitialized_variable"
+echo "uninitialized_variable = $unlitialized_variable"
+unset unlitialized_variable
+echo "uninitialized_variable = $unlitialized_variable"
 
 echo
 
@@ -44,10 +45,10 @@ exit 0
 
 ### Output:
 
-
+![[Pasted image 20230627015516.png]]
 
 ### Explanation:
 
-
+* Above program
 
 ### Things know:
