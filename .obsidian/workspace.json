@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backup of all files changed in last day.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Backup of all files changed in last day.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backup of all files changed in last day.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Backup of all files changed in last day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backup of all files changed in last day.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Backup of all files changed in last day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backup of all files changed in last day.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Backup of all files changed in last day.md"
               }
             }
           }
@@ -195,16 +195,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e2619d7c188bd448",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Backup of all files changed in last day.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Backup of all files changed in last day.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Running a loop in the background.md",
-    "Learning/Pasted image 20230626184146.png",
-    "Learning/Pasted image 20230626184125.png",
-    "Learning/Pasted image 20230626183547.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230626184146.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230626184125.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230626183547.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
-    "Learning/Pasted image 20230626180948.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230626180948.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Code blocks and IO redirection.md",
     "Learning/Programming/Bash/Images/Pasted image 20230626012457.png",
     "Learning/Programming/Bash/Images/Pasted image 20230626010825.png",
