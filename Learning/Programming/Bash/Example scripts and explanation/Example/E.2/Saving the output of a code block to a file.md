@@ -18,8 +18,28 @@ then
    exit $E_NOARGS
 fi
 
+{
+#Begin code block
+echo
+echo "Archieve description:"
+rpm -qpi $1 #query description
 
+echo "Archieve listing:"
+rpm -i --test $1  #query whether rpm file can be installed.
 
+if [ "$?" -eq $SUCCESS ]
+then
+   echo "$1 can be installed."
+else
+   echo "$1 cannot be installed."
+fi
+echo
+
+}  > "$1.test" #redirect output of everything in block to file
+
+echo "Results of rpm test in file $1.test"
+
+exit 0
 ```
 
 ### Output:
