@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md"
               }
             }
           }
@@ -171,11 +170,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afc6c36719743125",
+  "active": "b5c6ff8388b31b0c",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
     "Learning/Pasted image 20230626180948.png",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Code blocks and IO redirection.md",
     "Learning/Programming/Bash/Images/Pasted image 20230626012457.png",
     "Learning/Programming/Bash/Images/Pasted image 20230626010825.png",
@@ -218,7 +217,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230624172242.png",
     "Learning/Programming/Bash/Images/Pasted image 20230624165848.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
-    "Learning/Programming/Bash/Images/Pasted image 20230623170352.png",
     "Learning/Programming/Bash/Loop",
     "Learning/Programming/Bash/Interactive scripts",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
