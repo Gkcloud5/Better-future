@@ -14,10 +14,22 @@ do
   echo -n "$i "
 done & #Run this loop in background
        # Will sometimes execute after second loop
+
+echo 
+
+for i in 11 12 13 14 15 16 17 18 19 20
+do
+  echo -n "$i "
+done
+
+echo
+
+exit 0
 ```
 
 ### Output:
 
+![[Pasted image 20230626183547.png]]
 
 
 ### Explanation:
