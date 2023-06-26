@@ -50,6 +50,10 @@ exit 0
 
 ### Explanation:
 
-* 
+* It something related to rpm
+	* RPM is package manager, originally called the red-hat package manager.
+	* It is open source program for installing, uninstalling and managing software packages
 
 ### Things know:
+
+* `-z` it check the variable and return **true** 
