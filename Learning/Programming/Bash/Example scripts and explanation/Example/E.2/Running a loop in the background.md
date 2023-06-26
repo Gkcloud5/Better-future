@@ -34,6 +34,9 @@ exit 0
 
 ### Explanation:
 
+* To solve this non sorted value we can use `&&`
+
+![[Pasted image 20230626184146.png]]
 
 
 ### Things know:
