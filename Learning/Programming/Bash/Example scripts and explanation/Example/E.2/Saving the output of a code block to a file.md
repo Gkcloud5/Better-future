@@ -46,10 +46,10 @@ exit 0
 
 ### Output:
 
-
+![[Pasted image 20230626180948.png]]
 
 ### Explanation:
 
-
+* 
 
 ### Things know:
