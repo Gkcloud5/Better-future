@@ -38,5 +38,7 @@ exit 0
 
 ![[Pasted image 20230626184146.png]]
 
-
 ### Things know:
+
+* If want to execute bash script background, we can use `&` operator
+* 
