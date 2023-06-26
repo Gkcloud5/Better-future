@@ -49,6 +49,6 @@ exit 0
 
 ### Explanation:
 
-* Above program
+* Above program is showing what are the
 
 ### Things know:
