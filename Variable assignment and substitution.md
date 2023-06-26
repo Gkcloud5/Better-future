@@ -49,6 +49,7 @@ exit 0
 
 ### Explanation:
 
-* Above program is showing what are the
+* Above program is showing what are the ways we have to assign variable and difficulties on it.
+* 
 
 ### Things know:
