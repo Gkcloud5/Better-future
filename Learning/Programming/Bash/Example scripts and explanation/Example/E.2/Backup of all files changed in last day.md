@@ -9,6 +9,13 @@ modification date: Monday 26th June 2023 18:57:30
 #!/bin/bash
 
 BACKUPFILE=backup-$(date +%m-%d-%Y)
+
+archive=${1:-$BACKUPFILE}
+
+tar cvf - `find . -mtime -1 -type f -print` > $archive.tar
+gzip $archive.tar
+echo ""
+
 ```
 
 ### Output:
