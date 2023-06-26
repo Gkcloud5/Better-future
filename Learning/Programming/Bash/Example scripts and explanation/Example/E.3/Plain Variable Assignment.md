@@ -46,4 +46,4 @@ exit 0
 
 ### Things know:
 
-* 
+* `echo -n` --> print output on same line instead of new line
