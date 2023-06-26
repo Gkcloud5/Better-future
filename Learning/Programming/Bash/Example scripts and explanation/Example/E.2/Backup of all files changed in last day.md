@@ -21,7 +21,7 @@ exit 0
 
 ### Output:
 
-
+![[Pasted image 20230627002807.png]]
 
 ### Explanation:
 
