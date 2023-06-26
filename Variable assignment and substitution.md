@@ -33,7 +33,13 @@ echo "$mixed_bag"
 
 echo; echo
 
+unlitialized_variable=23
+unset uninitialized_variable
+echo "uninitialized_variable = $uninitialized_variable"
 
+echo
+
+exit 0
 ```
 
 ### Output:
