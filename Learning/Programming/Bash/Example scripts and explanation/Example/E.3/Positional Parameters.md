@@ -25,14 +25,25 @@ if [-n "$1"]
 then
    echo "Parameter #1 is $1"
 fi
+
+if [ -n "${9}" ]
+then
+   echo "Parameter #10 is ${10}"
+fi
+
+echo
+
+exit 0
 ```
 
 ### Output:
 
-
+![[Pasted image 20230627152152.png]]
 
 ### Explanation:
 
-
+* Here we declare variable with argument that passed with script 
 
 ### Things know:
+
+* We can get arguments by using `$position number` inside program.
