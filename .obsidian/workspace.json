@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "daa0f79e6791876f",
+            "id": "3c8be955b4f2163b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integer or string.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Positional Parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integer or string.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Positional Parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integer or string.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Positional Parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integer or string.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Positional Parameters.md"
               }
             }
           }
@@ -171,11 +171,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "daa0f79e6791876f",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230627150431.png",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Integer or string.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Positional Parameters.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Integer or string.md",
+    "Learning/Programming/Bash/Images/Pasted image 20230627150431.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Variable Assignment, plain and fancy.md",
     "Learning/Programming/Bash/Images/Pasted image 20230627131300.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Plain Variable Assignment.md",
@@ -193,7 +194,6 @@
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
     "Learning/Programming/Bash/Images/Pasted image 20230626180948.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Code blocks and IO redirection.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230626012457.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Enhanced and generalized version of log clear script.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.1",

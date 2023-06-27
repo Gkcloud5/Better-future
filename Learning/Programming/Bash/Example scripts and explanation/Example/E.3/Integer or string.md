@@ -48,3 +48,4 @@ exit $?
 
 ### Things know:
 
+* `variablename/replaceablething/wordtobereplaced` by using `/` we can replace a word easily.
