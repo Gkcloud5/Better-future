@@ -40,10 +40,11 @@ exit $?
 
 ### Output:
 
-
+![[Pasted image 20230627150431.png]]
 
 ### Explanation:
 
-
+* Here we simply assigned value and replace with another value and added it
 
 ### Things know:
+
