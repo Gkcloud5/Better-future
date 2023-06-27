@@ -23,10 +23,13 @@ exit
 
 ### Output:
 
-
+![[Pasted image 20230627162111.png]]
 
 ### Explanation:
 
-
+* In this example we are used `shift` command to move arguments.
+	* By doing this it change position of parameters
 
 ### Things know:
+
+* `shift` will used to change position of arguments
