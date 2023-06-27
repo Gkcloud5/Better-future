@@ -35,7 +35,7 @@ let "e += 1"
 echo "e = $e"
 echo
 
-
+exit $?
 ```
 
 ### Output:
