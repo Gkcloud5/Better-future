@@ -9,7 +9,14 @@ modification date: Tuesday 27th June 2023 13:15:56
 #!/bin/bash
 #NAME:int-or-string.sh
 
+a=2334
+let "a += 1"
+echo "a = $a"
+echo
 
+b=${a/23/BB}
+echo "b = $b"
+declare -i 
 ```
 
 ### Output:
