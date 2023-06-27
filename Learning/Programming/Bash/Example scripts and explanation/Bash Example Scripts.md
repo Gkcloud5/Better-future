@@ -26,4 +26,5 @@ modification date: Saturday 24th June 2023 18:22:25
 	1. [[Variable assignment and substitution]]
 	2. [[Plain Variable Assignment]]
 	3. [[Variable Assignment, plain and fancy]]
-	4. 
+	4. [[Integer or string]]
+	5. 

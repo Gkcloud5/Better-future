@@ -33,6 +33,9 @@ exit 0
 
 ### Explanation:
 
-* Here we are asigned some simple variables
+* Here we are assigned some simple variables
 
 ### Things know:
+
+* `ls -l` we can assign command output to one variable
+* if we use `"$a"`  double quotes then output will be print in new line.
