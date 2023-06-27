@@ -31,5 +31,6 @@ modification date: Saturday 24th June 2023 18:22:25
 	4. [[Integer or string]]
 	5. [[Positional Parameters]]
 	6. [[wh,whois domain name lookup]]
+	7. [[Using shift]]
 
 5. 
