@@ -21,3 +21,7 @@
 9. [[Repetitive tasks]]
 10. [[Variables advanced - bash]]
 11. [[Functions - Bash]]
+
+### Examples:
+
+1. [[Bash Example Scripts]]
