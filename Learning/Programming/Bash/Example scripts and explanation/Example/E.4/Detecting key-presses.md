@@ -21,7 +21,15 @@ while true; do
     echo "    q = quit"
     echo "================"
     echo
-    
+
+#Convert separate home-key to home-key_num_7
+if [ "$key" = $'\x1b\x4f\x48' ];then
+   key=$'\x1b\x5b\x31\x7e'
+fi
+
+#Convert the separate end-key to end-key_num_1.
+if [ "$key" = $'\x1b\x4f\x46']
+
 ```
 
 ### Output:
