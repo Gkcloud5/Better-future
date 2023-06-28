@@ -39,9 +39,61 @@ case "$key" in
   $'\x1b\x5b\x33\x7e')
       echo Delete key
   ;;
-  $'\x1b\x5b\x34\x7e')
+  $'\x1b\x5b\x31\x7e')
       echo Home key
+  ;;
+  $'\x1b\x5b\x34\x7e')
+      echo End key
+  ;;
+  $'\x1b\x5b\x35\x7e')  # Page_Up
+   echo Page_Up
+  ;;
+  $'\x1b\x5b\x36\x7e')  # Page_Down
+   echo Page_Down
+  ;;
+  $'\x1b\x5b\x41')  # Up_arrow
+   echo Up arrow
+  ;;
+  $'\x1b\x5b\x42')  # Down_arrow
+   echo Down arrow
+  ;;
+  $'\x1b\x5b\x43')  # Right_arrow
+   echo Right arrow
+  ;;
+  $'\x1b\x5b\x44')  # Left_arrow
+   echo Left arrow
+  ;;
+  $'\x09')  # Tab
+   echo Tab Key
+  ;;
+  $'\x0a')  # Enter
+   echo Enter Key
+  ;;
+  $'\x1b')  # Escape
+   echo Escape Key
+  ;;
+  $'\x20')  # Space
+   echo Space Key
+  ;;
+  d)
+    date
+   ;;
+  q)
+    echo Time to quit
+    echo
+    exit 0
+    ;;
+  *)
+    echo You Pressed: \'"$key"\'
+    ;;
+esac
 
+echo
+echo "=========="
+
+unset K1 K2 K3
+read -s -N1 -p "Press a key: "
+K1="$REPLY"
 ```
 
 ### Output:
