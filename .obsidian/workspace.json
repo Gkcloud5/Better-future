@@ -47,8 +47,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Programming/Bash/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Programming/Bash/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Programming/Bash/Bash.md"
+              }
             }
           }
         ],
@@ -182,7 +185,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd80aa998f780750",
+  "active": "b5c6ff8388b31b0c",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
