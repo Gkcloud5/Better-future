@@ -2,17 +2,17 @@
 	"nodes":[
 		{"type":"text","text":"## DevOps & Cloud","id":"7cd31c0b2fa36a60","x":-818,"y":97,"width":250,"height":60,"color":"1"},
 		{"type":"text","text":"#### Infrastructure Code","id":"2c9caa5b5d1bd1de","x":-252,"y":199,"width":250,"height":60},
-		{"type":"text","text":"#### DevOps","id":"4167007e8dc5c4e2","x":-252,"y":67,"width":250,"height":60},
-		{"type":"text","text":"#### Database","id":"354f381348cae3fa","x":-252,"y":-108,"width":250,"height":60},
+		{"type":"text","text":"#### DevOps","id":"4167007e8dc5c4e2","x":-252,"y":67,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"#### Database","id":"354f381348cae3fa","x":-252,"y":-108,"width":250,"height":60,"color":"2"},
 		{"type":"text","text":"#### Monitoring","id":"a707e63825819e25","x":-252,"y":764,"width":250,"height":60},
 		{"type":"text","text":"##### Container Orchestration","id":"57fb384da60aa2cc","x":134,"y":97,"width":250,"height":60},
 		{"type":"text","text":"#### Configuration Management","id":"f3e447c8c3d5e2a9","x":-252,"y":959,"width":250,"height":81},
 		{"type":"text","text":"#### CI/CD Tools","id":"50ea4f5c521eac19","x":-252,"y":328,"width":250,"height":60},
 		{"type":"text","text":"#### WebServer","id":"25dd7f6ce6288e85","x":-252,"y":456,"width":250,"height":60},
 		{"type":"text","text":"#### Cloud Providers","id":"80b914a479ffc660","x":-252,"y":581,"width":250,"height":60},
-		{"type":"text","text":"##### [[Bash]]","id":"b69415b8104df46b","x":134,"y":-243,"width":250,"height":60},
-		{"type":"text","text":"##### Relational","id":"8074ddc6ebb2b958","x":131,"y":-160,"width":250,"height":60},
-		{"type":"text","text":"##### Non-Relational","id":"485676cc9106c7e7","x":131,"y":-78,"width":250,"height":60},
+		{"type":"text","text":"##### [[Bash]]","id":"b69415b8104df46b","x":134,"y":-243,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"##### Relational","id":"8074ddc6ebb2b958","x":131,"y":-160,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"##### Non-Relational","id":"485676cc9106c7e7","x":131,"y":-78,"width":250,"height":60,"color":"2"},
 		{"type":"text","text":"##### Container","id":"1e01c4bb7b43ebe9","x":134,"y":7,"width":250,"height":60},
 		{"type":"text","text":"Docker","id":"fff0c2c06555daef","x":528,"y":7,"width":250,"height":60},
 		{"type":"text","text":"Kubernetes","id":"2f44db0ead3af74f","x":528,"y":97,"width":250,"height":60},
@@ -31,7 +31,7 @@
 		{"type":"text","text":"##### [[ Index of Python | Python]]","id":"27460b1e343aa414","x":134,"y":-435,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"##### GO","id":"609bd183bfde1c72","x":131,"y":-333,"width":250,"height":60},
 		{"type":"text","text":"#### Scripting Programme","id":"39f4be99baf83c58","x":-252,"y":-333,"width":250,"height":60},
-		{"type":"text","text":"#### Networking","id":"5538dc4701101ec8","x":-252,"y":-435,"width":250,"height":60}
+		{"type":"text","text":"#### [[Networking]]","id":"5538dc4701101ec8","x":-252,"y":-435,"width":250,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
@@ -55,7 +55,6 @@
 		{"id":"aee129aff3186847","fromNode":"a707e63825819e25","fromSide":"right","toNode":"6ccef542b4318982","toSide":"left"},
 		{"id":"3d17c7fddb302571","fromNode":"396c8063b1823198","fromSide":"right","toNode":"ea2aeea29db013e8","toSide":"left"},
 		{"id":"c361755095942a20","fromNode":"39f4be99baf83c58","fromSide":"right","toNode":"27460b1e343aa414","toSide":"left"},
-		{"id":"3cbcfddc4e6c15c4","fromNode":"39f4be99baf83c58","fromSide":"right","toNode":"b69415b8104df46b","toSide":"left"},
 		{"id":"22949003c9553df6","fromNode":"354f381348cae3fa","fromSide":"right","toNode":"8074ddc6ebb2b958","toSide":"left"},
 		{"id":"cc45b9f039fe3e24","fromNode":"354f381348cae3fa","fromSide":"right","toNode":"485676cc9106c7e7","toSide":"left"},
 		{"id":"2046ea7810666ecf","fromNode":"25dd7f6ce6288e85","fromSide":"right","toNode":"fc525892ca9e7793","toSide":"left"},
@@ -63,6 +62,7 @@
 		{"id":"fd1bc057891f1f5c","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"f3e447c8c3d5e2a9","toSide":"left"},
 		{"id":"d010cff7a07340f9","fromNode":"f3e447c8c3d5e2a9","fromSide":"right","toNode":"3f929d0d721fa9d0","toSide":"left"},
 		{"id":"acc523b65919f0e5","fromNode":"7cd31c0b2fa36a60","fromSide":"left","toNode":"e690bf16ec5ccc40","toSide":"right"},
-		{"id":"9698b5f0dc61c26a","fromNode":"39f4be99baf83c58","fromSide":"right","toNode":"609bd183bfde1c72","toSide":"left"}
+		{"id":"9698b5f0dc61c26a","fromNode":"39f4be99baf83c58","fromSide":"right","toNode":"609bd183bfde1c72","toSide":"left"},
+		{"id":"3cbcfddc4e6c15c4","fromNode":"39f4be99baf83c58","fromSide":"right","toNode":"b69415b8104df46b","toSide":"left"}
 	]
 }
