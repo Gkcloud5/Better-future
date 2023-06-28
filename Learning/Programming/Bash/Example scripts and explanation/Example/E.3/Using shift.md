@@ -33,3 +33,4 @@ exit
 ### Things know:
 
 * `shift` will used to change position of arguments.
+* `-z` it's true when there is empty.

@@ -33,4 +33,6 @@ modification date: Saturday 24th June 2023 18:22:25
 	6. [[wh,whois domain name lookup]]
 	7. [[Using shift]]
 
-5. 
+5. Quoting Variables
+	1. [[Echoing weird variables]]
+	2. 
