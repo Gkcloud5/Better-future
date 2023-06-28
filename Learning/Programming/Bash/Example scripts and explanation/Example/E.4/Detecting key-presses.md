@@ -106,10 +106,21 @@ exit $?
 
 ### Output:
 
+![[Pasted image 20230628175448.png]]
+
+![[Pasted image 20230628175506.png]]
+
+![[Pasted image 20230628175515.png]]
 
 
 ### Explanation:
 
-
+* Here we are displaying output what key we press in keyboard
 
 ### Things know:
+
+* `read -s -N2 -t 0.001`
+	* read --> Get input from client
+	* `-s`   --> silent, it means while getting input it does not show in kernel
+	* `-N2` --> limit of getting input, here limit is 2 so we can get 2character at same time
+	* 
