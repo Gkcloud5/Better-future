@@ -32,4 +32,4 @@ exit
 
 ### Things know:
 
-* `shift` will used to change position of arguments
+* `shift` will used to change position of arguments.
