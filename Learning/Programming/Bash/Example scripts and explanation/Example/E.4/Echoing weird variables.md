@@ -14,6 +14,23 @@ var="'(]\\{}\$\""
 echo $var
 echo "$var"
 
+echo
+
+IFS='\'
+echo $var
+echo "$var"
+
+echo
+
+var2="\\\\\""
+echo $var2
+echo "$var"
+
+echo
+
+var3='\\\\'
+echo "$var3"
+
 ```
 
 ### Output:
@@ -25,3 +42,6 @@ echo "$var"
 
 
 ### Things know:
+
+* `IFS` --> Internal field separator
+	* 
