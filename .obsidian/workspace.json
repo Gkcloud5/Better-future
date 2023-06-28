@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -171,11 +170,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e920acdf0352f6d",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230628175515.png",
-    "Learning/Pasted image 20230628175506.png",
-    "Learning/Pasted image 20230628175448.png",
+    "Learning/Network",
+    "Learning/Programming/Bash/Images/Pasted image 20230628175515.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230628175506.png",
+    "Learning/Programming/Bash/Images/Pasted image 20230628175448.png",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Escaped Characters.md",
@@ -203,7 +203,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230627131300.png",
     "Learning/Programming/Bash/Images/Pasted image 20230627023913.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3",
-    "Learning/Programming/Bash/Images/Pasted image 20230627015516.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.1",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Improved clean-up script.md",
