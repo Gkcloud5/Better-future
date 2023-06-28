@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detecting key-presses.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Detecting key-presses.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Detecting key-presses.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Detecting key-presses.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e920acdf0352f6d",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Detecting key-presses.md",
-    "Escaped Characters.md",
-    "Learning/Pasted image 20230628170155.png",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Escaped Characters.md",
+    "Learning/Programming/Bash/Images/Pasted image 20230628170155.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Echoing weird variables.md",
     "Learning/Programming/Bash/Images/Pasted image 20230628164926.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4",
