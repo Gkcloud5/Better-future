@@ -28,7 +28,19 @@ if [ "$key" = $'\x1b\x4f\x48' ];then
 fi
 
 #Convert the separate end-key to end-key_num_1.
-if [ "$key" = $'\x1b\x4f\x46']
+if [ "$key" = $'\x1b\x4f\x46' ];then
+   key=$'\x1b\x5b\x34\x7e'
+fi
+
+case "$key" in
+  $'\x1b\x5b\x32\x7e')
+      echo Insert Key
+  ;;
+  $'\x1b\x5b\x33\x7e')
+      echo Delete key
+  ;;
+  $'\x1b\x5b\x34\x7e')
+      echo Home key
 
 ```
 
