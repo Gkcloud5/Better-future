@@ -30,16 +30,26 @@ echo; echo "NEWLINE and BEEP"
 echo $'\n'
 echo $'\a'
 echo $'\t \042 \t'
-echo $'\t \x22'
+echo $'\t \x22 \t'
+echo 
+quote=$'\042'
+echo "$quote Quoted string $quote and the lies outside"
+echo "---------"
+ABD=$'\101\102\103\010'
+echo $ABC
+echo
+exit 0
 ```
 
 
 ### Output:
 
-
+![[Pasted image 20230628170155.png]]
 
 ### Explanation:
 
-
+* Here is example while echo a escaped character how will get results
 
 ### Things know:
+
+* 
