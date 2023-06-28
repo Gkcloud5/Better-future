@@ -52,4 +52,6 @@ exit 0
 
 ### Things know:
 
-* 
+* `\n` --> new line
+* end of line `\` will make next line to same line
+* `echo -e ..` --> it will read escape character value and make result as per that
