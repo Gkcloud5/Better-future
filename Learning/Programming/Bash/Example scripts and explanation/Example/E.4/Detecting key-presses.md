@@ -94,7 +94,14 @@ echo "=========="
 unset K1 K2 K3
 read -s -N1 -p "Press a key: "
 K1="$REPLY"
-read -s -N@ -t 0.001
+read -s -N2 -t 0.001
+K2="$REPLY"
+read -s -N1 -t 0.001
+K3="$REPLY"
+key="$K1$K2$K3"
+
+done
+exit $?
 ```
 
 ### Output:
