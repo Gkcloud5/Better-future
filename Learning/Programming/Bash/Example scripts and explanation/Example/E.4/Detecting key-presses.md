@@ -124,4 +124,3 @@ exit $?
 	* `-s`   --> silent, it means while getting input it does not show in kernel
 	* `-N2` --> limit of getting input, here limit is 2 so we can get 2character at same time
 	* `0.001` --> this time limit between getting next character input
-* 
