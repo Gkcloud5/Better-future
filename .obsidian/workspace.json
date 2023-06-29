@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2efe7429775f3fd4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9753923a6040ac69",
             "type": "leaf",
             "state": {
@@ -33,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01-What is computer network.md",
+                "file": "Template/Network template.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -115,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/Networking.md",
+                "file": "Template/Network template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/Networking.md",
+                "file": "Template/Network template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/Networking.md"
+                "file": "Template/Network template.md"
               }
             }
           }
@@ -179,7 +170,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9753923a6040ac69",
+  "active": "3c626c60398ee4ff",
   "lastOpenFiles": [
     "Learning/Network/01-Fundamentals/01-What is computer network.md",
     "Learning/Network/Networking.md",

@@ -5,7 +5,7 @@
 3. [Bogs network](https://www.networkinglearning.com/)
 4. [aws](https://aws.amazon.com/what-is/computer-networking/)
 5. [JT](https://www.javatpoint.com/computer-network-tutorial)
-6. [GFG]()
+6. [GFG](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
 #### Topics:
 

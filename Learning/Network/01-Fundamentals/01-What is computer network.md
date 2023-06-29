@@ -27,3 +27,8 @@ modification date: Thursday 29th June 2023 13:49:11
 		* Modem, router, etc
 	* `Link` in computer networks can be defined as wires or cables or wireless network.
 * The aim of the computer network is sharing of resources among various devices
+
+#### Purpose of computer network:
+
+* Exchange data and share resources with each other.
+* 
