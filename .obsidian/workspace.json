@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01-What is computer network.md",
+                "file": "Learning/Network/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01-What is computer network.md",
+                "file": "Learning/Network/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01-What is computer network.md"
+                "file": "Learning/Network/Networking.md"
               }
             }
           }
@@ -179,10 +179,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c626c60398ee4ff",
+  "active": "9753923a6040ac69",
   "lastOpenFiles": [
-    "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/01-What is computer network.md",
+    "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals",
     "Template/Network template.md",
     "Template/Simple explain template.md",

@@ -9,6 +9,7 @@ modification date: Thursday 29th June 2023 13:49:11
 
 * [Basic](https://www.ibm.com/topics/networking)
 * [Basic-2](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/2-network-types-topologies)
+* [Basic-3](https://aws.amazon.com/what-is/computer-networking/)
 
 --------------------------------------
 
@@ -24,4 +25,5 @@ modification date: Thursday 29th June 2023 13:49:11
 * Building blocks of a computer network are `Nodes` and `Links`.
 	* A network `node` can be illustrated as equipment for data communication like
 		* Modem, router, etc
-	* 
+	* `Link` in computer networks can be defined as wires or cables or wireless network.
+* The aim of the computer network is sharing of resources among various devices
