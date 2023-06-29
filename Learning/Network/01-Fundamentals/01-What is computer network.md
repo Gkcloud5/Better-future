@@ -14,4 +14,10 @@ modification date: Thursday 29th June 2023 13:49:11
 
 #### Explanation about it:
 
-* 
+* A computer network comprises two or more computers that are connected
+	* either by cable(wired) or wifi(wireless)
+		* with the purpose of transmitting, exchanging or sharing data and resources.
+* We can build computer network using 
+	* Hardware(routers, switches, access points and cables)
+	* Software(OS or business applications)
+* Computer network enable communication for every business, entertainment and research purpose. the internet, online search, audio and video.
