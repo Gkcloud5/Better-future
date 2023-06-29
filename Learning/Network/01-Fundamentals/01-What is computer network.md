@@ -21,3 +21,7 @@ modification date: Thursday 29th June 2023 13:49:11
 	* Hardware(routers, switches, access points and cables)
 	* Software(OS or business applications)
 * Computer network enable communication for every business, entertainment and research purpose. the internet, online search, audio and video.
+* Building blocks of a computer network are `Nodes` and `Links`.
+	* A network `node` can be illustrated as equipment for data communication like
+		* Modem, router, etc
+	* 
