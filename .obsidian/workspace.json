@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -194,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "4342ff5dfbfc478c",
   "lastOpenFiles": [
     "Learning/Network/01-Fundamentals/01/Nodes in networking.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
