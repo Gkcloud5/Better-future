@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exit status.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.6/exit status.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exit status.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exit status.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exit status.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md"
               }
             }
           }
@@ -183,11 +183,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7092d3fe7bd27ad8",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230629125141.png",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.6",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.6/exit status.md",
+    "Learning/Programming/Bash/Images/Pasted image 20230629125141.png",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "exit status.md",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Network/Networking.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
@@ -219,7 +220,6 @@
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Integer or string.md",
     "Learning/Programming/Bash/Images/Pasted image 20230627150431.png",
     "Learning/Programming/Bash/Images/Pasted image 20230627131300.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230627023913.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.1",

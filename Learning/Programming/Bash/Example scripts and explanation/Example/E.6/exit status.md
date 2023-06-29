@@ -21,6 +21,8 @@ exit 113
 
 ### Explanation:
 
-* Once script executed 
+* Once script executed we will know status of script by using exit value
 
 ### Things know:
+
+* we can use specific value in exit to understand where the script having issue.
