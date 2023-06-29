@@ -19,4 +19,7 @@ modification date: Thursday 29th June 2023 17:25:41
 ### Why use packets?
 
 * Without doing packets we can transfer data between devices but there is some limitations like
-	* We can transfer data between two devices without any issue if one more device came to network then it will be little hard soo 
+	* We can transfer data between two devices without any issue if one more device came to network then it will be little hard
+		* So on that time packet will play major role.
+* Internet is [[Packet Switching]] network.
+* 
