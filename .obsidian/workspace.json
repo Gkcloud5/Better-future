@@ -26,9 +26,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9753923a6040ac69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Network/Networking.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -167,14 +171,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9273dd854640fa3f",
+  "active": "9753923a6040ac69",
   "lastOpenFiles": [
+    "Learning/Network/Networking.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.6/exit status.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.6",
     "Learning/Programming/Bash/Images/Pasted image 20230629125141.png",
-    "Learning/Network/Networking.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
     "Learning/Network",
