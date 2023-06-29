@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c18aa73ae0900b",
+        "id": "1108ac0e727a6bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "b5c6ff8388b31b0c",
+            "id": "2efe7429775f3fd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Bash.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "b86a0862b8dabc65",
+            "id": "9273dd854640fa3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7092d3fe7bd27ad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.6/exit status.md",
+                "file": "Learning/Network/Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+                "file": "Learning/Network/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+                "file": "Learning/Network/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md"
+                "file": "Learning/Network/Networking.md"
               }
             }
           }
@@ -183,13 +167,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "9273dd854640fa3f",
   "lastOpenFiles": [
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.6",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.6/exit status.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230629125141.png",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Learning/Programming/Bash/Bash.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.6",
+    "Learning/Programming/Bash/Images/Pasted image 20230629125141.png",
     "Learning/Network/Networking.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
@@ -231,7 +215,6 @@
     "Communication/Improvement",
     "Learning/Programming/Bash/Example scripts and explanation/Example",
     "Learning/Programming/Bash/Example scripts and explanation",
-    "Learning/Programming/Bash/Functions",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
