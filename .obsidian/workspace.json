@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodes in networking.md",
+                "file": "Learning/Network/01-Fundamentals/Nodes in networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodes in networking.md",
+                "file": "Learning/Network/01-Fundamentals/Nodes in networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodes in networking.md",
+                "file": "Learning/Network/01-Fundamentals/Nodes in networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodes in networking.md"
+                "file": "Learning/Network/01-Fundamentals/Nodes in networking.md"
               }
             }
           }
@@ -195,10 +195,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92c41253fa3f4822",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Network/01-Fundamentals/01-What is computer network.md",
-    "Nodes in networking.md",
+    "Learning/Network/01-Fundamentals/Nodes in networking.md",
     "Learning/Network/Networking.md",
     "Template/Network template.md",
     "Learning/Network/01-Fundamentals",
