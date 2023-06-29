@@ -7,5 +7,5 @@
 
 #### Topics:
 
-1. [[01-What is computer network?]]
+1. [[01-What is computer network]]
 2. 
