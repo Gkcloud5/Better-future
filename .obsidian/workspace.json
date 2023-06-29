@@ -20,22 +20,31 @@
             }
           },
           {
-            "id": "4e920acdf0352f6d",
+            "id": "b86a0862b8dabc65",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -201,
-                  "y": 364.44025157232704,
-                  "zoom": -0.9878509173338839
-                }
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7092d3fe7bd27ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exit status.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -109,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Bash/Bash.md",
+                "file": "exit status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Bash/Bash.md",
+                "file": "exit status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Bash/Bash.md"
+                "file": "exit status.md"
               }
             }
           }
@@ -173,11 +183,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "7092d3fe7bd27ad8",
   "lastOpenFiles": [
-    "Learning/Network/Networking.md",
-    "Learning/Programming/Bash/Bash.md",
+    "Learning/Pasted image 20230629125141.png",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+    "exit status.md",
+    "Learning/Programming/Bash/Bash.md",
+    "Learning/Network/Networking.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
     "Learning/Network",
@@ -215,7 +227,6 @@
     "Learning/Programming/Bash/Basics/Regular expression/Regular expressions - Bash.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Bash and Bash scripts.md",
     "Learning/Programming/Bash/Basics/Bash script basic/Writing and debugging scripts.md",
-    "Learning/Programming/Bash/Basics/Bash script basic/Script Basics.md",
     "Communication/Untitled",
     "Communication/Improvement",
     "Learning/Programming/Bash/Example scripts and explanation/Example",
