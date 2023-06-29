@@ -26,5 +26,5 @@ modification date: Thursday 29th June 2023 17:12:17
 ### What it do:
 
 * **Data transmission:** Nodes are responsible for sending data over the network to other nodes.
-	* They package data into small units called [[data packets]] and transmit them to the intended destination
+	* They package data into small units called [[Data packets]] and transmit them to the intended destination
 * **Routing:** it's are specific type of network node that specializes in forwarding data packets between different networks.

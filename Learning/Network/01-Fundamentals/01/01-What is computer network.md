@@ -30,7 +30,10 @@ modification date: Thursday 29th June 2023 13:49:11
 
 #### How does computer network work?
 
-* [[Nodes in networking |Nodes]] and [[Links in network |Links]] are basic building blocks in computer networking. 
+* [[Nodes in networking|Nodes]] and [[Links in network |Links]] are basic building blocks in computer networking. 
+* In a working computer network, nodes follow a set of rules or protocols that define how to send and receive electronic data via the links.
+* [[Computer network architecture]] defines the design of these physical and logical components.
+
 #### Purpose of computer network:
 
 * Exchange data and share resources with each other.
