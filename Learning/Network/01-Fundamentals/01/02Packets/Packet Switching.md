@@ -35,6 +35,9 @@ modification date: Thursday 29th June 2023 17:40:24
 1. [[Connectionless Packet Switching]]
 2. [[Connection oriented Packet Switching]]
 
+
 ### Circuit Switching Vs Packet Switching:
 
-* 
+* Packet switching and circuit switching are the primary models for facilitating enterprise network connections. Each mode has its place, depending on the facts and user needs
+* **Circuit Switching:** It is most often used for voice and video calling systems
+	* It require that users establish a dedicated circuit or channel before they can connect.
