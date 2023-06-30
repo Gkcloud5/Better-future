@@ -27,3 +27,10 @@ modification date: Thursday 29th June 2023 17:40:24
 		* the number of packets in the entire data file 
 		* the sequence number
 
+![[Pasted image 20230630163506.png]]
+
+
+### Types of Packet Switching:
+
+1. [[Connectionless Packet Switching]]
+2. [[Connection oriented Packet Switching]]

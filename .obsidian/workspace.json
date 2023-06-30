@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "4f004629f2ba57ff",
+            "id": "1b472e622a2ed9f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "663e8ede49dce43b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Connectionless Packet Switching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Connectionless Packet Switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "Connectionless Packet Switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "Connectionless Packet Switching.md"
               }
             }
           }
@@ -241,16 +254,18 @@
       }
     ]
   },
-  "active": "42f53cf4ee07316b",
+  "active": "663e8ede49dce43b",
   "lastOpenFiles": [
     "Learning/Network/01-Fundamentals/01/Packet Switching.md",
+    "Template/Network template.md",
+    "Connectionless Packet Switching.md",
     "Learning/Network/01-Fundamentals/01/Data packets.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "Learning/Network/Images/Pasted image 20230630163506.png",
     "Learning/Network/Images/Pasted image 20230630162833.png",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "Learning/Network/01-Fundamentals/01/Nodes in networking.md",
     "Learning/Network/01-Fundamentals/01",
-    "Template/Network template.md",
     "Learning/Network/01-Fundamentals/Devices",
     "Learning/Network/Images",
     "Learning/Network/Networking.md",
@@ -285,8 +300,6 @@
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Running a loop in the background.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Backup of all files changed in last day.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Variable assignment and substitution.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Plain Variable Assignment.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230627150431.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.1",
