@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Packet Switching.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connectionless Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Connectionless Packet Switching.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connectionless Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Connectionless Packet Switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connectionless Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Connectionless Packet Switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connectionless Packet Switching.md"
+                "file": "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Connectionless Packet Switching.md"
               }
             }
           }
@@ -254,11 +254,13 @@
       }
     ]
   },
-  "active": "663e8ede49dce43b",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Network/01-Fundamentals/01/01Packet Switching/Untitled",
+    "Learning/Network/01-Fundamentals/01/01-01Packet Switching",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Connectionless Packet Switching.md",
-    "Learning/Network/01-Fundamentals/01/Packet Switching.md",
+    "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Connectionless Packet Switching.md",
+    "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Packet Switching.md",
     "Template/Network template.md",
     "Learning/Network/01-Fundamentals/01/Data packets.md",
     "Learning/Network/Images/Pasted image 20230630163506.png",
@@ -299,10 +301,8 @@
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Running a loop in the background.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Backup of all files changed in last day.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Variable assignment and substitution.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.1",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
