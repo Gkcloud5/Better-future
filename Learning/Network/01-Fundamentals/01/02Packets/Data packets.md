@@ -27,4 +27,14 @@ modification date: Thursday 29th June 2023 17:25:41
 
 * **What is hop count?**[](https://hopzero.com/what-does-hop-count-mean/)
 	* Hop counter refers to the number of devices, usually routers, that a piece of data travels through.
-	* Each time that a packet of data moves from one router to another
+	* Each time that a packet of data moves from one router to another then hop count will be counted as one.
+	* Each count hop value will be reduced.
+	* ttl is hop count.
+
+* **Why HOP count is important?**
+	* Some time packet will be not reached destination at that time packet is wasted on network, we can solve this issue by hop count.
+	* If hop count hit 0 then packet will be destroyed
+		* So user data will be safe
+		* And packet switching process also stopped
+
+* Occasionally, packets might bounce from router to router many times before reaching their destination IP address.
