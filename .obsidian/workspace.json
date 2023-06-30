@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02-Packets/IP address.md",
+                "file": "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02-Packets/IP address.md",
+                "file": "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02-Packets/IP address.md",
+                "file": "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02-Packets/IP address.md"
+                "file": "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md"
               }
             }
           }
@@ -280,8 +279,9 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Network/01-Fundamentals/01/03-Internet",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
-    "Learning/Network/01-Fundamentals/01/02-Packets/IP address.md",
+    "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/01-Fundamentals/01/Nodes in networking.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "Learning/Network/Networking.md",
@@ -326,7 +326,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230627152152.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Code blocks and IO redirection.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Running a loop in the background.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
