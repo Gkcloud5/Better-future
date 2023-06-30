@@ -25,4 +25,6 @@ modification date: Thursday 29th June 2023 17:25:41
 
 ### What is packet loss?
 
-* 
+* **What is hop count?**[](https://hopzero.com/what-does-hop-count-mean/)
+	* Hop counter refers to the number of devices, usually routers, that a piece of data travels through.
+	* Each time that a packet of data moves from one router to another

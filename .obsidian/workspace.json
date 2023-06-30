@@ -249,21 +249,21 @@
         "y": 166,
         "width": 1404,
         "height": 851,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "4342ff5dfbfc478c",
   "lastOpenFiles": [
-    "Learning/Network/01-Fundamentals/01/02Packets/Packet Switching.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Network/01-Fundamentals/01/02Packets/Data packets.md",
+    "Learning/Network/01-Fundamentals/01/02Packets/Packet Switching.md",
     "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching/Connection oriented Packet Switching.md",
     "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching",
     "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching/Connectionless Packet Switching.md",
     "Learning/Network/01-Fundamentals/01/01Packet Switching/Untitled",
     "Learning/Network/01-Fundamentals/01/02Packets",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Template/Network template.md",
     "Learning/Network/Images/Pasted image 20230630163506.png",
     "Learning/Network/Images/Pasted image 20230630162833.png",
