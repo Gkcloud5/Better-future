@@ -33,4 +33,4 @@ echo $?
 
 ### Things know:
 
-* 
+* Exit code depends on condition we have in script
