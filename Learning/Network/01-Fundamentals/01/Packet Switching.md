@@ -19,5 +19,11 @@ modification date: Thursday 29th June 2023 17:40:24
 
 ### What it do:
 
-* Packet switching is the transfer of small pieces of data across various network
+* Packet switching is the transfer of small pieces of data across various network, these data chunks or packets allow for faster, more efficient data transfer.
+* Each packet have
+	* Packet header
+		* It includes the origin IP address,
+		* the destination IP address, 
+		* the number of packets in the entire data file 
+		* the sequence number
 
