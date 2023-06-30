@@ -45,4 +45,8 @@ modification date: Thursday 29th June 2023 17:25:41
 ### What is a packet header?
 
 * A packet header is a "label" of sorts, which provides information about the packet's contents, origin and destination.
-* 
+* Packet consist of two portions
+	* Header
+		* It contains information about the packet, such as its origin and destination [[IP address]]
+	* Payload
+		* It is actual data.
