@@ -66,42 +66,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eb0e135cfdbbb95d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02-Packets/Packet Switching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b472e622a2ed9f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02-Packets/Packet Switching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ce759f5aa9b32fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02-Packets/01Packet Switching/Connection oriented Packet Switching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 4
@@ -154,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -279,9 +244,11 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Network/01-Fundamentals/01/04-Domain",
+    "Learning/Pasted image 20230630181410.png",
+    "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/01-Fundamentals/01/03-Internet",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
-    "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/01-Fundamentals/01/Nodes in networking.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "Learning/Network/Networking.md",
@@ -315,7 +282,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230628170155.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Echoing weird variables.md",
     "Learning/Programming/Bash/Images/Pasted image 20230628164926.png",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.4",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Using shift.md",
     "Learning/Programming/Bash/Images/Pasted image 20230627162111.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/wh,whois domain name lookup.md",
@@ -323,7 +289,6 @@
     "Dashboard of my better future/Dashboard template.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.1/Enhanced and generalized version of log clear script.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.3/Positional Parameters.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230627152152.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Code blocks and IO redirection.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
