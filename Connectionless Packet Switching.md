@@ -12,6 +12,6 @@ modification date: Friday 30th June 2023 16:36:52
 
 ### What it is:
 
-* This classic type of
+* This classic type of packet switching includes multiple packets
 ### What it do:
 
