@@ -10,7 +10,16 @@ true
 echo "exit status of \"true\" = $?"
 
 ! true
-echo "exit status of \"true
+echo "exit status of \"! true\" =$?"
+
+true
+!true
+
+ls | bogus_command
+echo $?
+
+! ls | bougus_command
+echo $?
 ```
 
 ### Output:
