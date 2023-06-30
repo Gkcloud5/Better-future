@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/Data packets.md",
+                "file": "Learning/Network/01-Fundamentals/01/02Packets/Data packets.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,26 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/02Packets/Packet Switching.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "663e8ede49dce43b",
+            "id": "5ce759f5aa9b32fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Connectionless Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching/Connection oriented Packet Switching.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Connectionless Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/02Packets/Data packets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Connectionless Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/02Packets/Data packets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Connectionless Packet Switching.md"
+                "file": "Learning/Network/01-Fundamentals/01/02Packets/Data packets.md"
               }
             }
           }
@@ -254,15 +254,17 @@
       }
     ]
   },
-  "active": "cf5ef259f82812a2",
+  "active": "4342ff5dfbfc478c",
   "lastOpenFiles": [
+    "Learning/Network/01-Fundamentals/01/02Packets/Packet Switching.md",
+    "Learning/Network/01-Fundamentals/01/02Packets/Data packets.md",
+    "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching/Connection oriented Packet Switching.md",
+    "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching",
+    "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching/Connectionless Packet Switching.md",
     "Learning/Network/01-Fundamentals/01/01Packet Switching/Untitled",
-    "Learning/Network/01-Fundamentals/01/01-01Packet Switching",
+    "Learning/Network/01-Fundamentals/01/02Packets",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Connectionless Packet Switching.md",
-    "Learning/Network/01-Fundamentals/01/01-01Packet Switching/Packet Switching.md",
     "Template/Network template.md",
-    "Learning/Network/01-Fundamentals/01/Data packets.md",
     "Learning/Network/Images/Pasted image 20230630163506.png",
     "Learning/Network/Images/Pasted image 20230630162833.png",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
@@ -300,9 +302,6 @@
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Code blocks and IO redirection.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Saving the output of a code block to a file.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Running a loop in the background.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.2/Backup of all files changed in last day.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.3",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.2",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]

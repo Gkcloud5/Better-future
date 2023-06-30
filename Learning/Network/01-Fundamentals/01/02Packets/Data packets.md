@@ -22,4 +22,7 @@ modification date: Thursday 29th June 2023 17:25:41
 	* We can transfer data between two devices without any issue if one more device came to network then it will be little hard
 		* So on that time packet will play major role.
 * Internet is [[Packet Switching]] network.
+
+### What is packet loss?
+
 * 
