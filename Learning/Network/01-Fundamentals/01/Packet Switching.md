@@ -1,0 +1,23 @@
+---
+creation date: 2023-06-29 17:40
+modification date: Thursday 29th June 2023 17:40:24
+---
+
+**Tags:** #network #packets 
+
+#### Source:
+[PS](https://avinetworks.com/glossary/packet-switching/)
+
+--------------------------------------
+
+### What it is:
+
+* Packet Switching transmits data across digital networks by breaking down into blocks or packets for more efficient transfer using various network devices.
+
+![[Pasted image 20230630162833.png]]
+
+
+### What it do:
+
+* Packet switching is the transfer of small pieces of data across various network
+
