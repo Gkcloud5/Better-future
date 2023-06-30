@@ -25,10 +25,12 @@ echo $?
 
 ### Output:
 
-
+![[Pasted image 20230630220105.png]]
 
 ### Explanation:
 
-
+* Here we know how error code
 
 ### Things know:
+
+* 
