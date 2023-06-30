@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02Packets/Data packets.md",
+                "file": "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02Packets/Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/02-Packets/Packet Switching.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02Packets/Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/02-Packets/Packet Switching.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching/Connection oriented Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/02-Packets/01Packet Switching/Connection oriented Packet Switching.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02Packets/Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02Packets/Packet Switching.md",
+                "file": "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/02Packets/Packet Switching.md"
+                "file": "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md"
               }
             }
           }
@@ -266,16 +266,16 @@
       }
     ]
   },
-  "active": "eb0e135cfdbbb95d",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Network/01-Fundamentals/01/02Packets/Data packets.md",
+    "Learning/Network/01-Fundamentals/01/02-Packets/Packet Switching.md",
+    "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "Learning/Network/01-Fundamentals/01/02Packets/Packet Switching.md",
-    "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching/Connection oriented Packet Switching.md",
-    "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching",
-    "Learning/Network/01-Fundamentals/01/02Packets/01Packet Switching/Connectionless Packet Switching.md",
+    "Learning/Network/01-Fundamentals/01/02-Packets/01Packet Switching/Connection oriented Packet Switching.md",
+    "Learning/Network/01-Fundamentals/01/02-Packets/01Packet Switching",
+    "Learning/Network/01-Fundamentals/01/02-Packets/01Packet Switching/Connectionless Packet Switching.md",
     "Learning/Network/01-Fundamentals/01/01Packet Switching/Untitled",
-    "Learning/Network/01-Fundamentals/01/02Packets",
+    "Learning/Network/01-Fundamentals/01/02-Packets",
     "Template/Network template.md",
     "Learning/Network/Images/Pasted image 20230630163506.png",
     "Learning/Network/Images/Pasted image 20230630162833.png",

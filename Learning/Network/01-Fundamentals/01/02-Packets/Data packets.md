@@ -41,3 +41,7 @@ modification date: Thursday 29th June 2023 17:25:41
 	* Enough of these kinds of lost data packets in the network can congest it, leading to poor performance.
 	* Data packets that bounce around in the network too many times may get lost.
 	* Hop count addresses this problem.
+
+### What is a packet header?
+
+* 
