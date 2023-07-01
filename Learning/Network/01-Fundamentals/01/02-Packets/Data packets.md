@@ -69,3 +69,4 @@ modification date: Thursday 29th June 2023 17:25:41
 ### What is network traffic?
 
 * Network traffic is a term that refers to the packets that pass through a network, in the same way that automobile traffic refers to the cars and trucks that travel on roads.
+* However, not all packets are good or useful, and not all network traffic is safe.
