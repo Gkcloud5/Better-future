@@ -56,3 +56,10 @@ modification date: Thursday 29th June 2023 17:25:41
 * In practice, packets actually have more than one header, and each header is used by different part of the networking process. packet headers are attached by certain types of networking protocols.
 * A protocol is a standardized way of formatting data so that any computer can interpret the data.
 * Many different protocols make the internet work.
+	* TCP/IP
+	* OSI layer
+
+### What is an IP packet?
+
+* IP is a network layer protocol that has to do with routing. it is used to make sure packets arrive at the correct destination.
+* 
