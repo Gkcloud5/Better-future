@@ -50,3 +50,7 @@ modification date: Thursday 29th June 2023 17:25:41
 		* It contains information about the packet, such as its origin and destination [[IP address]]
 	* Payload
 		* It is actual data.
+
+### Where do packet headers come from?
+
+* In practise, packets

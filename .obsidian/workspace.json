@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "cb265ede25146430",
+            "id": "8e0e5ea1e39f1b7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,7 @@
             }
           },
           {
-            "id": "92c41253fa3f4822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/01/Nodes in networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4342ff5dfbfc478c",
+            "id": "5df15aae67586248",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "240a886e3040810b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,20 +230,20 @@
       }
     ]
   },
-  "active": "4342ff5dfbfc478c",
+  "active": "5df15aae67586248",
   "lastOpenFiles": [
-    "Negating a condition using !.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Learning/Programming/Bash/Bash.md",
-    "Learning/Pasted image 20230630220105.png",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
-    "Learning/Network/01-Fundamentals/01/04-Domain",
-    "Learning/Network/Images/Pasted image 20230630181410.png",
-    "Learning/Network/01-Fundamentals/01/03-Internet",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
     "Learning/Network/01-Fundamentals/01/Nodes in networking.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "Learning/Network/Networking.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.6/Negating a condition using !.md",
+    "Learning/Programming/Bash/Images/Pasted image 20230630220105.png",
+    "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+    "Learning/Programming/Bash/Bash.md",
+    "Learning/Network/01-Fundamentals/01/04-Domain",
+    "Learning/Network/Images/Pasted image 20230630181410.png",
+    "Learning/Network/01-Fundamentals/01/03-Internet",
     "Learning/Network/01-Fundamentals/01/02-Packets/Packet Switching.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/01Packet Switching/Connection oriented Packet Switching.md",
