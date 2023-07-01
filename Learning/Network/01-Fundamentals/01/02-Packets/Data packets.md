@@ -62,4 +62,10 @@ modification date: Thursday 29th June 2023 17:25:41
 ### What is an IP packet?
 
 * IP is a network layer protocol that has to do with routing. it is used to make sure packets arrive at the correct destination.
-* 
+* Packets are sometimes defined by the protocol they are using.
+* A packet with an IP header can be referred to as an IP Packet.
+
+
+### What is network traffic?
+
+* Network traffic is a term that refers to the packets that pass through a network, in the same way that automobile traffic refers to the cars and trucks that travel on roads.
