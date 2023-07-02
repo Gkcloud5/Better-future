@@ -70,3 +70,5 @@ modification date: Thursday 29th June 2023 17:25:41
 
 * Network traffic is a term that refers to the packets that pass through a network, in the same way that automobile traffic refers to the cars and trucks that travel on roads.
 * However, not all packets are good or useful, and not all network traffic is safe.
+* Attackers can generate malicious network traffic data packets designed to compromise or overwhelm a network.
+	* This can take the form of a [[DDoS Attack]] , a [[Vulnerability exploitation]] or several other forms of cyber attack.
