@@ -20,5 +20,7 @@ modification date: Sunday 2nd July 2023 18:41:35
 ### How does a DDoS attack work?
 
 * DDoS attacks are carried out with networks of internet-connected machines.
-* These network consist of computers and other devices which have been infected with malware, allowing them to be c
+* These network consist of computers and other devices which have been infected with malware, allowing them to be controlled remotely by an attacker. these individual devices are referred to as bots and a group of bots is called botnet.
+* Once a botnet has been established , the attacker is able to direct an attack by sending remote instructions to each bot.
+* When a victim's server or network is targeted by the botnet, each bot sends requests to the target's IP address, potentially causing the server or network to become overwhelmed, resulting in a DDoS to normal traffic.
 
