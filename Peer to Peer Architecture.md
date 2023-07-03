@@ -26,6 +26,8 @@ modification date: Monday 3rd July 2023 10:20:46
 			* Distributed hash tables
 			* Peer discovery protocols
 		* The above mechanisms allow peers to locate and establish connections with other peers.
-* 
+* **Resource sharing:**
+	* Peers in a P2P network can share various types of resources, such as files, processing power or bandwidth.
+	* 
 
 
