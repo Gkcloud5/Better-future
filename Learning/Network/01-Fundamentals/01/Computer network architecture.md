@@ -14,6 +14,6 @@ modification date: Monday 3rd July 2023 08:15:01
 
 * Computer network architecture refers to the design and structure of a computer network
 	* Which enables the communication and exchange of data between different devices, systems or networks
-
+* It encompasses the layout, protocols, hardware components and software applications that define how data
 ### What it do:
 
