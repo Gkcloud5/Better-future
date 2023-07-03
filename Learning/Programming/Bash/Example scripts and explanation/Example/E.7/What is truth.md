@@ -60,6 +60,9 @@ exit 0
 
 ### Explanation:
 
-
+* Here we just checked some if condition 
+	* How it works with different conditions.
 
 ### Things know:
+
+* `-n` --> 
