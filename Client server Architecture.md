@@ -15,5 +15,6 @@ modification date: Monday 3rd July 2023 09:47:44
 * In this type of architecture nodes may be servers or clients.
 * Server nodes provides resources like memory, processing power or data to client nodes.
 * Server nodes may also manage client node behavior. clients may communicate with each other, but they do not share resources.
+* In a 
 
 
