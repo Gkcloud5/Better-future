@@ -38,4 +38,10 @@ modification date: Thursday 29th June 2023 13:49:11
 
 * Exchange data and share resources with each other.
 * They were initially used to transmit data over telephone lines and had limited commercial and scientific applications.
-* Modern-day networ
+* Modern-day network solutions deliver more than connectivity. they are critical for the digital transformation and success of businesses today.
+* Modern computer networks can:
+	* ##### Operate virtually:
+		* The underlying physical network infrastructure can be logically partitioned to create multiple "overlay" networks. in an overlay computer network.
+		* Nodes are virtually linked and data can be transmitted between them through multiple physical paths.
+	* ##### Integrate on a large scale:
+		* Modern networking services connect physically distributed computer networks.
