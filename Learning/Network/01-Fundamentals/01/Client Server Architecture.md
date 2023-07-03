@@ -7,6 +7,7 @@ modification date: Monday 3rd July 2023 09:47:44
 
 #### Source:
 [CSA](https://aws.amazon.com/what-is/computer-networking/)
+[CG](https://chat.openai.com/share/c8989248-f462-41b9-a0b0-1fc2d31bb10c)
 
 --------------------------------------
 
@@ -42,4 +43,5 @@ modification date: Monday 3rd July 2023 09:47:44
 	1. Once the server has processed the request, it generates a response containing the requested information or the result of the requested action.
 	2. The response is then sent back to the client device over the network.
 4. **Client receives the response:**
-	1. The client device receives the response from the server and processes it accordingly
+	1. The client device receives the response from the server and processes it accordingly.
+	2. It may display the requested information, utilize the received data, or take further action based on the server's response.
