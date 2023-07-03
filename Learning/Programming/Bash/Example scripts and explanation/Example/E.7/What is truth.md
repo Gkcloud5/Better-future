@@ -37,6 +37,7 @@ then
    echo "-1 is true"
 else
    echo "-1 is false"
+fi
 echo
 
 xyz=
@@ -55,7 +56,7 @@ exit 0
 
 ### Output:
 
-
+![[Pasted image 20230703205043.png]]
 
 ### Explanation:
 
