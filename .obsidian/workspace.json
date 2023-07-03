@@ -32,6 +32,14 @@
             }
           },
           {
+            "id": "74d2ed044cfc65b1",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          },
+          {
             "id": "5df15aae67586248",
             "type": "leaf",
             "state": {
@@ -56,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -131,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
+                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
+                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md"
+                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md"
               }
             }
           }
@@ -192,7 +199,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "card-board:CardBoard": false
     }
   },
   "floating": {
@@ -230,11 +238,11 @@
       }
     ]
   },
-  "active": "240a886e3040810b",
+  "active": "74d2ed044cfc65b1",
   "lastOpenFiles": [
+    "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
-    "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/Vulnerability exploitation.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/DDoS Attack.md",
     "Learning/Network/Images/Pasted image 20230702184415.png",
