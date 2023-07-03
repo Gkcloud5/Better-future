@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:Learning/Programming/Bash",
+  "search": "path:Learning/Network",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -27,11 +27,11 @@
   "textFadeMultiplier": -2.6,
   "nodeSizeMultiplier": 0.916666666666667,
   "lineSizeMultiplier": 1.22291666666667,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.15625,
-  "repelStrength": 6.45833333333333,
-  "linkStrength": 0.223958333333333,
-  "linkDistance": 128,
-  "scale": 0.4311608530039617,
+  "repelStrength": 4.47916666666667,
+  "linkStrength": 0.416666666666667,
+  "linkDistance": 368,
+  "scale": 0.431160853003962,
   "close": false
 }

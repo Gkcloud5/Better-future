@@ -89,4 +89,7 @@ modification date: Thursday 29th June 2023 13:49:11
 
 
 ##### Mesh topology:
-* Every node is connected
+* Every node is connected to many other nodes.
+* In a full mesh topology, every node is connected to every other node in the network.
+
+![[Pasted image 20230703202844.png]]

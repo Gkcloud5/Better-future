@@ -33,12 +33,8 @@
             "id": "142828cc598e6ab6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -104,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -129,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -230,17 +221,18 @@
   },
   "active": "142828cc598e6ab6",
   "lastOpenFiles": [
-    "Learning/Pasted image 20230703202559.png",
-    "Learning/Pasted image 20230703202404.png",
-    "Learning/Pasted image 20230703191043.png",
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
+    "Learning/Network/Networking.md",
+    "Learning/Network/Images/Pasted image 20230703202844.png",
+    "Learning/Network/Images/Pasted image 20230703202559.png",
+    "Learning/Network/Images/Pasted image 20230703202404.png",
+    "Learning/Network/Images/Pasted image 20230703191043.png",
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/01/Computer network architecture.md",
     "Learning/Network/01-Fundamentals/01/Peer to Peer Architecture.md",
     "Learning/Network/01-Fundamentals/01/Client Server Architecture.md",
     "Learning/Network/Images/Pasted image 20230703100718.png",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
-    "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/To-do",
     "Untitled.canvas",
@@ -272,10 +264,8 @@
     "Learning/Network/01-Fundamentals",
     "Template/Simple explain template.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.6/exit status.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230629125141.png",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230628175515.png",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Escaped Characters.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Echoing weird variables.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
