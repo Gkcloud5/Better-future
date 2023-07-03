@@ -28,6 +28,11 @@ modification date: Monday 3rd July 2023 10:20:46
 		* The above mechanisms allow peers to locate and establish connections with other peers.
 * **Resource sharing:**
 	* Peers in a P2P network can share various types of resources, such as files, processing power or bandwidth.
-* **Pee
+* **Peer coordination:**
+	* Peers in a P2P network need to coordinate their activities to ensure smooth communication and resource sharing.
+	* Coordination involves protocols for routing, data replication and maintaining network stability.
+* **Network maintenance:**
+	* P2P networks need mechanisms to handle node churn and ensure remains robust and stable.
+	* When node leaves the network, other nodes need to update their routing tables or redistribute resources that were hosted by the departing node.
 
 
