@@ -20,3 +20,9 @@ modification date: Monday 3rd July 2023 08:15:01
 ### What it do:
 
 * It outline the rules, standards and procedures for data transfer, addressing, routing, security and other aspects of network communication.
+
+### Two categories:
+
+1. [[Client server Architecture]]
+2. [[Peer to Peer Architecture]]
+
