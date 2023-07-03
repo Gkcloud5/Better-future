@@ -59,11 +59,18 @@ modification date: Thursday 29th June 2023 13:49:11
 
 	The arrangement of nodes and links is called network topology. they can be configured in different ways to get different outcomes. some types of network topologies are
 
-**Bus topology:**
+##### Bus topology:
 * Each node is linked to one other node only.
 * Date transmission over the network connections occurs in one direction.
 * Here every computer and network device is connected to a single cable.
 * It is bi-directional
 	* Communication typically occurs in one direction, from one end of the bus to the other.
-* It is a multi point connection and a non-robust t
+* It is a multi point connection and a non-robust topology because if the backbone fails the topology crashes.
 
+
+
+![[Pasted image 20230703191043.png]]
+
+
+##### Ring Topology:
+* 
