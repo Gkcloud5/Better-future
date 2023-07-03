@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is truth.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is truth.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is truth.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is truth.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md"
               }
             }
           }
@@ -215,11 +216,11 @@
       }
     ]
   },
-  "active": "cf5ef259f82812a2",
+  "active": "01a6f7a18d6a1521",
   "lastOpenFiles": [
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "What is truth.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
