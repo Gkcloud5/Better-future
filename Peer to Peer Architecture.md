@@ -12,6 +12,6 @@ modification date: Monday 3rd July 2023 10:20:46
 
 ### What it is:
 
-
-### What it do:
-
+* It connected computer have equal powers and privileges. there is no central server for coordination.
+* Each device in the computer network can be act as either client or servers.
+* Each peer may share some of its resources, like memory and processing power with the entire computer network.
