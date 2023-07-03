@@ -13,7 +13,7 @@ modification date: Thursday 29th June 2023 13:49:11
 
 --------------------------------------
 
-#### Explanation about it:
+### Explanation about it:
 
 * A computer network comprises two or more computers that are connected
 	* either by cable(wired) or wifi(wireless)
@@ -28,13 +28,14 @@ modification date: Thursday 29th June 2023 13:49:11
 	* `Link` in computer networks can be defined as wires or cables or wireless network.
 * The aim of the computer network is sharing of resources among various devices
 
-#### How does computer network work?
+### How does computer network work?
 
 * [[Nodes in networking|Nodes]] and [[Links in network |Links]] are basic building blocks in computer networking. 
 * In a working computer network, nodes follow a set of rules or protocols that define how to send and receive electronic data via the links.
 * [[Computer network architecture]] defines the design of these physical and logical components.
 
-#### Purpose of computer network:
+### Purpose of computer network:
 
 * Exchange data and share resources with each other.
-* 
+* They were initially used to transmit data over telephone lines and had limited commercial and scientific applications.
+* Modern-day networ
