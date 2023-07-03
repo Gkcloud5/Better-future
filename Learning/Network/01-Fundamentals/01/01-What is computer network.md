@@ -75,4 +75,18 @@ modification date: Thursday 29th June 2023 13:49:11
 ##### Ring Topology:
 * Each node is linked to two other nodes, forming a ring.
 * Data can flow bi-directionally.
-* However, single node f
+* However, single node failure can bring down the entire network.
+
+![[Pasted image 20230703202404.png]]
+
+
+##### Star topology:
+* A central server node is linked to multiple client network devices. this topology performs better as data does not have to go through each node.
+* It is also more reliable
+
+
+![[Pasted image 20230703202559.png]]
+
+
+##### Mesh topology:
+* Every node is connected
