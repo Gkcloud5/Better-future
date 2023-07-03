@@ -29,3 +29,11 @@ modification date: Monday 3rd July 2023 09:47:44
 
 
 ### Example:
+
+* **Web Browsing:** When you visit a website, your computer requests a web page from the web server. the web server then sends the web page to your computer.
+
+### How it works:
+
+1. **Clients sends a request:**
+	1. The clients devices sends a request for a particular service or resource to the server. the request could be for accessing a web page, retrieving a file, submitting data or performing a specific action.
+2. 
