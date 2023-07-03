@@ -23,6 +23,6 @@ modification date: Monday 3rd July 2023 08:15:01
 
 ### Two categories:
 
-1. [[Client server Architecture]]
+1. [[Client Server Architecture]]
 2. [[Peer to Peer Architecture]]
 

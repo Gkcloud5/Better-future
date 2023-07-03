@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Client server Architecture.md",
+                "file": "Client Server Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Client server Architecture.md",
+                "file": "Client Server Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Client server Architecture.md",
+                "file": "Client Server Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Client server Architecture.md"
+                "file": "Client Server Architecture.md"
               }
             }
           }
@@ -242,12 +242,12 @@
   },
   "active": "05229702d016a93c",
   "lastOpenFiles": [
+    "Learning/Network/To-do/Need to read.md",
+    "Client Server Architecture.md",
     "Learning/Network/01-Fundamentals/01/Computer network architecture.md",
-    "Client server Architecture.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "Learning/Network/Networking.md",
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/To-do",
     "Untitled.canvas",

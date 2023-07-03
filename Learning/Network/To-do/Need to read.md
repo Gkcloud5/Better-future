@@ -11,11 +11,11 @@ kanban-plugin: basic
 - [ ] Domain name
 - [ ] DNS
 - [ ] Links
-- [ ] Computer network architecture
 
 
 ## Reading
 
+- [ ] Computer network architecture
 
 
 ## Readed
