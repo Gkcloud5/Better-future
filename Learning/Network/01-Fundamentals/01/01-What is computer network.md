@@ -53,3 +53,13 @@ modification date: Thursday 29th June 2023 13:49:11
 		* These computer networks support virtual traffic management.
 	* ##### Provide data security:
 		* All networking solutions come with in-built security features like encryption and access control.
+
+
+### What is network topology?
+
+	The arrangement of nodes and links is called network topology. they can be configured in different ways to get different outcomes. some types of network topologies are
+
+**Bus topology:**
+* Each node is linked to one other node only.
+* Date transmission over the network connections occurs in one direction.
+

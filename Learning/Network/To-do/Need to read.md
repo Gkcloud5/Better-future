@@ -15,11 +15,11 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] Computer network architecture
 
 
 ## Readed
 
+- [ ] Computer network architecture
 
 
 
