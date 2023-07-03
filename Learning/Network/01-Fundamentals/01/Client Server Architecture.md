@@ -22,6 +22,10 @@ modification date: Monday 3rd July 2023 09:47:44
 	* Clients are the computers that request services from the server.
 	* They typically have less powerful hardware and software than servers.
 * **Servers:**
-	* Servers are the computers that provides services to the cl
+	* Servers are the computers that provides services to the clients. 
+	* they typically have more powerful hardware and software and are dedicated to providing services to the hardware and software and are dedicated to providing services to the network.
+
+![[Pasted image 20230703100718.png]]
 
 
+### Example:
