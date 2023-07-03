@@ -73,4 +73,6 @@ modification date: Thursday 29th June 2023 13:49:11
 
 
 ##### Ring Topology:
-* 
+* Each node is linked to two other nodes, forming a ring.
+* Data can flow bi-directionally.
+* However, single node f
