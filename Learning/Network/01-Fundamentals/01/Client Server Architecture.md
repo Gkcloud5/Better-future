@@ -36,4 +36,10 @@ modification date: Monday 3rd July 2023 09:47:44
 
 1. **Clients sends a request:**
 	1. The clients devices sends a request for a particular service or resource to the server. the request could be for accessing a web page, retrieving a file, submitting data or performing a specific action.
-2. 
+2. **Server processes the request:**
+	1. Upon receiving the client's request, the server processes it by executing the required actions or retrieving the requested data.
+3. **Server sends a response:**
+	1. Once the server has processed the request, it generates a response containing the requested information or the result of the requested action.
+	2. The response is then sent back to the client device over the network.
+4. **Client receives the response:**
+	1. The client device receives the response from the server and processes it accordingly
