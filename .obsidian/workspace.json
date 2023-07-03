@@ -18,32 +18,24 @@
             }
           },
           {
-            "id": "9753923a6040ac69",
+            "id": "f947e30941987324",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/Networking.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "142828cc598e6ab6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4aa1a3e56b207586",
+            "id": "01a6f7a18d6a1521",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/Computer network architecture.md",
+                "file": "What is truth.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "What is truth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "What is truth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "What is truth.md"
+              }
             }
           }
         ],
@@ -219,10 +215,14 @@
       }
     ]
   },
-  "active": "142828cc598e6ab6",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.7",
+    "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+    "What is truth.md",
+    "Learning/Programming/Bash/Bash.md",
     "Learning/Network/Networking.md",
+    "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "Learning/Network/Images/Pasted image 20230703202844.png",
     "Learning/Network/Images/Pasted image 20230703202559.png",
     "Learning/Network/Images/Pasted image 20230703202404.png",
@@ -243,8 +243,6 @@
     "Learning/Network/01-Fundamentals/01/Nodes in networking.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.6/Negating a condition using !.md",
     "Learning/Programming/Bash/Images/Pasted image 20230630220105.png",
-    "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Learning/Programming/Bash/Bash.md",
     "Learning/Network/01-Fundamentals/01/04-Domain",
     "Learning/Network/Images/Pasted image 20230630181410.png",
     "Learning/Network/01-Fundamentals/01/03-Internet",
@@ -267,7 +265,6 @@
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Escaped Characters.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Echoing weird variables.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]

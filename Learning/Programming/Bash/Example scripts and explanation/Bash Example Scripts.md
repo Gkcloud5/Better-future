@@ -41,4 +41,7 @@ modification date: Saturday 24th June 2023 18:22:25
 6.  Exit and Exit Status
 	1. [[exit status]]
 	2. [[Negating a condition using !]]
-	3. 
+
+7.  Test Constructs
+	1. [[What is truth]]
+	2. 
