@@ -45,3 +45,11 @@ modification date: Thursday 29th June 2023 13:49:11
 		* Nodes are virtually linked and data can be transmitted between them through multiple physical paths.
 	* ##### Integrate on a large scale:
 		* Modern networking services connect physically distributed computer networks.
+		* These services can optimize network functions through automation and monitoring to create one large-scale, high performance network.
+		* Network services can be scaled up or down based on demand.
+	* ##### Respond quickly to changing conditions:
+		* Many computer networks are software-defined.
+		* Traffic can be routed and controlled centrally using a digital interface.
+		* These computer networks support virtual traffic management.
+	* ##### Provide data security:
+		* All networking solutions come with in-built security features like encryption and access control.
