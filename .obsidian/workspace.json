@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peer to Peer Architecture.md",
+                "file": "Learning/Network/01-Fundamentals/01/Peer to Peer Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peer to Peer Architecture.md",
+                "file": "Learning/Network/01-Fundamentals/01/Peer to Peer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peer to Peer Architecture.md",
+                "file": "Learning/Network/01-Fundamentals/01/Peer to Peer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peer to Peer Architecture.md"
+                "file": "Learning/Network/01-Fundamentals/01/Peer to Peer Architecture.md"
               }
             }
           }
@@ -231,7 +231,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 1008,
+        "x": 516,
         "y": 166,
         "width": 1404,
         "height": 851,
@@ -240,11 +240,11 @@
       }
     ]
   },
-  "active": "87e8762d49814904",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Network/01-Fundamentals/01/Computer network architecture.md",
     "Learning/Network/01-Fundamentals/01/Client Server Architecture.md",
-    "Peer to Peer Architecture.md",
+    "Learning/Network/01-Fundamentals/01/Peer to Peer Architecture.md",
     "Learning/Network/Images/Pasted image 20230703100718.png",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
