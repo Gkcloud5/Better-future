@@ -28,6 +28,29 @@ then
 else
    echo "1 is false"
 fi
+
+echo 
+
+echo "Testing \"-1\""
+if [ -1 ]
+then
+   echo "-1 is true"
+else
+   echo "-1 is false"
+echo
+
+xyz=
+echo "Testing \"-n \$xyz\""
+if [ -n "$xyz" ]
+then
+   echo "Null variable is true"
+else
+   echo "Null variable is false"
+fi
+
+echo
+
+exit 0
 ```
 
 ### Output:
