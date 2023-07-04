@@ -21,5 +21,5 @@ modification date: Tuesday 4th July 2023 15:25:40
 ##### LAN:
 
 * Local area network
-* 
-
+* LAN is an interconnected system limited in size and geography.
+* It typically connects computers and devices 
