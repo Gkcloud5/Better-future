@@ -25,6 +25,18 @@ modification date: Tuesday 4th July 2023 15:25:40
 * It typically connects computers and devices within a single office or building.
 * It is used by small companies or as a test network for small scale prototyping.
 
-##### WAN:
+##### WAN:[](https://aws.amazon.com/what-is/wan/)
 
-* An enterprise network spanning building, cities and even
+* Wide area network
+* An enterprise network spanning building, cities and even countries, is called a wide area network (WAN). 
+* While local area networks are used to transmit data at higher speeds within close proximity, WAN's are set up for long distance communication that is secure and dependable
+* WAN purpose
+	* Communicate using voice and video
+	* Share resource between employees and customers
+	* Access data storage and remotely backup data
+	* Connect to applications running in the cloud.
+	* Run and host internal applications.
+
+##### Service provider networks:
+
+* It allows 
