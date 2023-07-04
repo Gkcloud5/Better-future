@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/Networking.md",
+                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/Networking.md",
+                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/Networking.md"
+                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md"
               }
             }
           }
@@ -170,11 +171,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e0e5ea1e39f1b7a",
+  "active": "226079f3c7bbe36a",
   "lastOpenFiles": [
+    "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md",
-    "Learning/Network/Networking.md",
     "02-How does computer network work.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
