@@ -28,7 +28,7 @@ modification date: Thursday 29th June 2023 13:49:11
 	* `Link` in computer networks can be defined as wires or cables or wireless network.
 * The aim of the computer network is sharing of resources among various devices
 
-### How does computer network work?
+### How does computer network work
 
 * [[Nodes in networking|Nodes]] and [[Links in network |Links]] are basic building blocks in computer networking. 
 * In a working computer network, nodes follow a set of rules or protocols that define how to send and receive electronic data via the links.

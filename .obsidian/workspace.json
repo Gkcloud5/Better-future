@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ed5d548faf4e9fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md",
+                "file": "Learning/Network/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md",
+                "file": "Learning/Network/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md"
+                "file": "Learning/Network/Networking.md"
               }
             }
           }
@@ -183,11 +170,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed5d548faf4e9fe5",
+  "active": "8e0e5ea1e39f1b7a",
   "lastOpenFiles": [
-    "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md",
+    "Learning/Network/Networking.md",
+    "02-How does computer network work.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
@@ -232,7 +220,6 @@
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.6/exit status.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Escaped Characters.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
