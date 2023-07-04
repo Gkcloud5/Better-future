@@ -37,6 +37,9 @@ modification date: Tuesday 4th July 2023 15:25:40
 	* Connect to applications running in the cloud.
 	* Run and host internal applications.
 
-##### Service provider networks:
+##### Service provider networks: [](https://www.techtarget.com/searchnetworking/definition/network-service-provider#:~:text=A%20network%20service%20provider%20(NSP,access%20to%20businesses%20and%20consumers.)
 
-* It allows 
+* It allows customer to lease network capacity and functionality from the provider. 
+* Network service provider may consist of telecommunications companies, data carriers, wireless communication providers, internet service providers.
+* It is a company that owns, operates and sells access to internet backbone infrastructure and services.
+* Primary customers of NSP's are other service providers, including internet service providers

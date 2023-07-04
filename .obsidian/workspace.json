@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Enterprise Computer Network.md",
+                "file": "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Enterprise Computer Network.md",
+                "file": "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Enterprise Computer Network.md",
+                "file": "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Enterprise Computer Network.md"
+                "file": "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md"
               }
             }
           }
@@ -183,11 +183,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed5d548faf4e9fe5",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
-    "Types of Enterprise Computer Network.md",
     "Learning/Network/Networking.md",
+    "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
+    "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
