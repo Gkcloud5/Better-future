@@ -22,4 +22,9 @@ modification date: Tuesday 4th July 2023 15:25:40
 
 * Local area network
 * LAN is an interconnected system limited in size and geography.
-* It typically connects computers and devices 
+* It typically connects computers and devices within a single office or building.
+* It is used by small companies or as a test network for small scale prototyping.
+
+##### WAN:
+
+* An enterprise network spanning building, cities and even
