@@ -46,4 +46,12 @@ modification date: Tuesday 4th July 2023 15:25:40
 	* other service providers
 	* internet service providers
 		* Sell internet access to businesses and consumers.
-* 
+* An ISP purchase wholesale bandwidth from an NSP.
+	* Tata
+	* Cogent
+	* AT&T
+
+##### Cloud networks:
+
+* A cloud network can be seen as a WAN with its infrastructure delivered by a cloud based service.
+* Some or all of an organization's network capabilities and resource are hosted in a public or private cloud platform and made available on demand.
