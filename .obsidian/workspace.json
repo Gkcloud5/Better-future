@@ -4,31 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "1108ac0e727a6bd6",
+        "id": "662a090b95dc35ef",
         "type": "tabs",
         "children": [
           {
-            "id": "8e0e5ea1e39f1b7a",
+            "id": "b49a3ae74b9188d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Learning/Network/Networking.md",
-                "mode": "source",
-                "source": false
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               }
             }
           },
           {
-            "id": "226079f3c7bbe36a",
+            "id": "4287f3ffc568c381",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -106,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/01/01-What is computer network.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,10 +184,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "226079f3c7bbe36a",
+  "active": "4287f3ffc568c381",
   "lastOpenFiles": [
-    "Learning/Network/Networking.md",
+    "Web Development/CSS/CSS.md",
+    "Web Development/HTML/HTML.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
+    "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/01/Types of Enterprise Computer Network.md",
     "02-How does computer network work.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
@@ -217,9 +233,7 @@
     "Learning/Network/01-Fundamentals/Devices",
     "Learning/Network/Images",
     "Template/Simple explain template.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.6/exit status.md",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.4/Detecting key-presses.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
