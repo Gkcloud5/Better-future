@@ -42,4 +42,8 @@ modification date: Tuesday 4th July 2023 15:25:40
 * It allows customer to lease network capacity and functionality from the provider. 
 * Network service provider may consist of telecommunications companies, data carriers, wireless communication providers, internet service providers.
 * It is a company that owns, operates and sells access to internet backbone infrastructure and services.
-* Primary customers of NSP's are other service providers, including internet service providers
+* Primary customers of NSP's are 
+	* other service providers
+	* internet service providers
+		* Sell internet access to businesses and consumers.
+* 
