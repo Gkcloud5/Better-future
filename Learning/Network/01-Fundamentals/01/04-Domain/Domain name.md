@@ -23,7 +23,21 @@ modification date: Wednesday 5th July 2023 18:30:55
 
 ### Who manages domain names?
 
-* Domain names are all managed by [[domain registries]].
-* 
+* Domain names are all managed by [[Domain Registries]].
+* Anyone who wants to create a website can register a domain name with a registrar, and there are currently over 300million registered domain names.
 
+### What is the difference between a domain name and URL?
 
+* URL --> **Uniform resource locator**, sometime called a web address.
+	* It contain domain name of  site as well as other information, including
+		* Protocol
+		* Path
+* Example:
+	* `https://cloudfare.com/learning/` 
+		* `cloudfare.com` is a domain name
+		* [[https]] is a protocol
+		* `learning` is a specific path
+
+### What are the parts of a domain name?
+
+* Domain name typically broken up into two or three parts, each sparated by a dot
