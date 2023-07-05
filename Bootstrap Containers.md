@@ -24,3 +24,16 @@ modification date: Wednesday 5th July 2023 22:55:31
 
 ![[Pasted image 20230705230632.png]]
 
+
+##### Fluid Container:
+
+![[Pasted image 20230705230805.png]]
+
+
+##### Container Padding:
+
+```
+<div class="container pt-3">
+<p>Content</p>
+</div>
+```
