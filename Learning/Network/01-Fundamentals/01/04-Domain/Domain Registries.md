@@ -19,4 +19,9 @@ modification date: Wednesday 5th July 2023 18:47:48
 * Registries are organizations that manage Top level domains
 	* .com
 	* .net
-* These registries are management by the
+* These registries are management by the **Internet Assigned Authority**(IANA).
+	* A department of the **Internet corporation for assigned name and numbers**(ICANN)
+* A global organization that coordinates several processes and databases that supports the internet basic functionality.
+* Registries delegate the commercial sales of domain name registrations to registrars.
+	* When a registrar sells a `.com`  domain registration to an end user, the registrar must notify VeriSign - the registry for `.com` domains.
+	* 
