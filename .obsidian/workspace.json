@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain Registries.md",
+                "file": "Learning/Network/01-Fundamentals/01/04-Domain/Domain Registries.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain Registries.md",
+                "file": "Learning/Network/01-Fundamentals/01/04-Domain/Domain Registries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain Registries.md",
+                "file": "Learning/Network/01-Fundamentals/01/04-Domain/Domain Registries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain Registries.md"
+                "file": "Learning/Network/01-Fundamentals/01/04-Domain/Domain Registries.md"
               }
             }
           }
@@ -219,12 +219,12 @@
   },
   "active": "c5357715609966b1",
   "lastOpenFiles": [
-    "Learning/Network/01-Fundamentals/01/04-Domain/Domain name.md",
-    "Domain Registries.md",
     "Learning/Network/To-do/Need to read.md",
+    "Learning/Network/01-Fundamentals/01/04-Domain/Domain name.md",
+    "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
-    "Learning/Network/Networking.md",
+    "Learning/Network/01-Fundamentals/01/04-Domain/Domain Registries.md",
     "Learning/Network/01-Fundamentals/01/06-Others",
     "Learning/Network/01-Fundamentals/01/05-Architecture",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",

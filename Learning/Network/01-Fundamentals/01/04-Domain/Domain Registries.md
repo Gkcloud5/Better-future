@@ -12,6 +12,8 @@ modification date: Wednesday 5th July 2023 18:47:48
 
 ### What it is:
 
-* A domain name registrar is a b
-### What it do:
+* A domain name registrar is a business that handles the reservation of domain names as well as the assignment of IP address for those domain names.
 
+### What is the difference between a registrar and a registry?
+
+* 

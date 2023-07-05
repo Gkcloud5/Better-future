@@ -10,6 +10,8 @@ kanban-plugin: basic
 - [ ] Internet protocol
 - [ ] DNS
 - [ ] HTTPS
+- [ ] IPv4 and IPv6
+- [ ] TLD
 
 
 ## Reading
