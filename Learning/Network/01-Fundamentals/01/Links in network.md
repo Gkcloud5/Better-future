@@ -7,6 +7,7 @@ modification date: Wednesday 5th July 2023 16:12:07
 
 #### Source:
 [Links](https://www.freetimelearning.com/software-interview-questions-and-answers.php?What-are-nodes-and-links?&id=5743)
+[CG](https://chat.openai.com/share/92ea2fc9-0635-4f8d-8f3b-27d0e4944f74)
 
 --------------------------------------
 
@@ -24,5 +25,8 @@ modification date: Wednesday 5th July 2023 16:12:07
 
 ### Purpose of links:
 
-* 
+* Purpose of links in a network is to enable the exchange of information between devices.
+* They facilitate the transmission of data packets from one node to another, allowing devices to communicate and share resources.
+
+
 
