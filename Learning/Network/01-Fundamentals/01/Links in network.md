@@ -28,5 +28,12 @@ modification date: Wednesday 5th July 2023 16:12:07
 * Purpose of links in a network is to enable the exchange of information between devices.
 * They facilitate the transmission of data packets from one node to another, allowing devices to communicate and share resources.
 
+### Characteristics and functionalities of links:
 
+##### Point-to-point links:
+* This links connect two devices directly, establishing a dedicated communication channel between them.
 
+##### Multipoint links:
+* These links enable communication between multiple devices connected to a single link.
+* Example
+	* Ethernets
