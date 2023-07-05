@@ -10,11 +10,11 @@ kanban-plugin: basic
 - [ ] Internet protocol
 - [ ] Domain name
 - [ ] DNS
-- [ ] Links
 
 
 ## Reading
 
+- [ ] Links
 
 
 ## Readed
