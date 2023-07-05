@@ -23,4 +23,3 @@
 - `replace()`: This method replaces a substring in a string with a new substring.
 - `splitlines()`: This method splits a string into a list of lines.
 - `join()`: This method joins a list of strings into a single string using a delimiter.
-- 

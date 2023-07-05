@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:\"Web Development\"",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -27,11 +27,11 @@
   "textFadeMultiplier": -2.6,
   "nodeSizeMultiplier": 0.916666666666667,
   "lineSizeMultiplier": 1.22291666666667,
-  "collapse-forces": true,
-  "centerStrength": 0.145833333333333,
-  "repelStrength": 5.9375,
-  "linkStrength": 0.28125,
-  "linkDistance": 221,
-  "scale": 0.6044801421021105,
+  "collapse-forces": false,
+  "centerStrength": 0.239583333333333,
+  "repelStrength": 8.54166666666667,
+  "linkStrength": 0.270833333333333,
+  "linkDistance": 321,
+  "scale": 0.431160853003963,
   "close": false
 }
