@@ -18,3 +18,9 @@ modification date: Wednesday 5th July 2023 22:55:31
 
 ![[Pasted image 20230705230130.png]]
 
+##### Fixed Container
+
+* Use the `.container` class to create a responsive, fixed-width container.
+
+![[Pasted image 20230705230632.png]]
+
