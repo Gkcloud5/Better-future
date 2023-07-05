@@ -36,4 +36,14 @@ modification date: Wednesday 5th July 2023 16:12:07
 ##### Multipoint links:
 * These links enable communication between multiple devices connected to a single link.
 * Example
-	* Ethernets
+	* Ethernet
+		* Ethernet is the traditional technology for connecting devices in a wired local area network.
+
+##### Physical links:
+* These links use physical cables or transmission media to establish connections.
+	* Ethernet cables
+	* Optic cables
+	* Coaxial cables
+
+##### Logical links:
+* These links are established virtually over a physical link and are used to faciliate communication
