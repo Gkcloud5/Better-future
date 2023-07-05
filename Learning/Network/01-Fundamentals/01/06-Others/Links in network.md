@@ -46,4 +46,10 @@ modification date: Wednesday 5th July 2023 16:12:07
 	* Coaxial cables
 
 ##### Logical links:
-* These links are established virtually over a physical link and are used to faciliate communication
+* These links are established virtually over a physical link and are used to facilitate communication between devices
+	* VLAN
+	* VPN
+
+##### Wireless links:
+* These links utilize wireless transmission technologies, such as WiFi or cellular network.
+* To establish connections between devices without the need for physical cables.

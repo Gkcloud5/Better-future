@@ -8,18 +8,18 @@ kanban-plugin: basic
 
 - [ ] Internet
 - [ ] Internet protocol
-- [ ] Domain name
 - [ ] DNS
 
 
 ## Reading
 
-- [ ] Links
+- [ ] Domain name
 
 
 ## Readed
 
 - [ ] Computer network architecture
+- [ ] Links
 
 
 
