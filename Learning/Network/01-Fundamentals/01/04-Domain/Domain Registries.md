@@ -32,4 +32,11 @@ modification date: Wednesday 5th July 2023 18:47:48
 ### What does it mean to `own` a domain name?
 
 * Registries own all of the domain names and registrars simply offer customers the opportunity to reserve those domain names for a limited amount of time.
-* Maximum reservation period for a domain name is 
+* Maximum reservation period for a domain name is ten years.
+
+
+### Are registrars only ones who can sell domain name registrations?
+
+* Resellers are another type of organization that sells domain name registrations.
+* ICANN has a published list of every accredited and active domain name registrar on their website.
+
