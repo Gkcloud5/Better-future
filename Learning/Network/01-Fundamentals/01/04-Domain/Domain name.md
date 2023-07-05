@@ -40,4 +40,17 @@ modification date: Wednesday 5th July 2023 18:30:55
 
 ### What are the parts of a domain name?
 
-* Domain name typically broken up into two or three parts, each sparated by a dot
+* Domain name typically broken up into two or three parts, each separated by a dot. when right to left 
+	* [[Top level domain]]
+		* .com
+		* .net
+		* .org
+	* 2nd thing from left of the TLD
+		* .co
+		* google
+		* Example:
+			* google.co.uk
+			* here `.co` is a 2LD(2nd level domain)
+	* On left from 2LD is called 3LD
+		* from above example `google` is a 3LD
+

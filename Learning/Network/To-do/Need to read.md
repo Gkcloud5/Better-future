@@ -9,19 +9,19 @@ kanban-plugin: basic
 - [ ] Internet
 - [ ] Internet protocol
 - [ ] DNS
-- [ ] domain registries
 - [ ] HTTPS
 
 
 ## Reading
 
-- [ ] Domain name
+- [ ] domain registries
 
 
 ## Readed
 
 - [ ] Computer network architecture
 - [ ] Links
+- [ ] Domain name
 
 
 
