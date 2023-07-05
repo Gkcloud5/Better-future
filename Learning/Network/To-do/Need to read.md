@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] Internet
 - [ ] Internet protocol
 - [ ] DNS
+- [ ] domain registries
 
 
 ## Reading
