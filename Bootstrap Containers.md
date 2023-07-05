@@ -6,9 +6,15 @@ modification date: Wednesday 5th July 2023 22:55:31
 **Tags:** #bootstrap 
 
 #### Source:
-[BC](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-containers.php)
+[BC](https://www.w3schools.com/bootstrap4/bootstrap_containers.asp)
 
 --------------------------------------
 
 #### Explanation about it:
+
+* Containers are the most basic layout element in bootstrap and are required when using the grid system.
+* `.container` class provides a responsive fixed width container.
+* `.container-fluid` class provides a full width container, spanning the entire width of the viewport
+
+![[Pasted image 20230705230130.png]]
 
