@@ -16,4 +16,7 @@ modification date: Wednesday 5th July 2023 18:47:48
 
 ### What is the difference between a registrar and a registry?
 
-* 
+* Registries are organizations that manage Top level domains
+	* .com
+	* .net
+* These registries are management by the
