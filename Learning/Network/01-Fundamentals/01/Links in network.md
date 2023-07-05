@@ -17,6 +17,12 @@ modification date: Wednesday 5th July 2023 16:12:07
 	* Wired
 	* Wireless
 * Protocols used for one node to be able to communicate with the other.
+	
+	`In computer networking, a link refers to a physical or logical connection between two devices or nodes in a network.`
 
-### What it do:
+* It establishes the communication path for data transmission between the connected devices.
+
+### Purpose of links:
+
+* 
 
