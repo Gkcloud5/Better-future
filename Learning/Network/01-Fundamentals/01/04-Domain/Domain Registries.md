@@ -31,4 +31,5 @@ modification date: Wednesday 5th July 2023 18:47:48
 
 ### What does it mean to `own` a domain name?
 
-* 
+* Registries own all of the domain names and registrars simply offer customers the opportunity to reserve those domain names for a limited amount of time.
+* Maximum reservation period for a domain name is 
