@@ -11,4 +11,5 @@
 2. [[Bootstrap Containers]]
 3. [[Grid system]]
 4. [[Text and typography]]
-5. 
+5. [[Colors in bootstrap]]
+6. 
