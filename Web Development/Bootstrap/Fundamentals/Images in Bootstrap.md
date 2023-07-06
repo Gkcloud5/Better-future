@@ -14,4 +14,9 @@ modification date: Thursday 6th July 2023 23:20:42
 
 ```
 <img src="cinqueterre.jpg" class="rounded" alt="Cinque Terre">
+<img src="cinqueterre.jpg" class="img-thumbnail" alt="Cinque Terre">
+<img src="cinqueterre.jpg" class="rounded-circle" alt="Cinque Terre">
 ```
+
+
+![[Pasted image 20230706233933.png]]
