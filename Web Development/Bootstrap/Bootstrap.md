@@ -10,4 +10,5 @@
 1. [[Bootstrap introduction]]
 2. [[Bootstrap Containers]]
 3. [[Grid system]]
-4. 
+4. [[Text and typography]]
+5. 

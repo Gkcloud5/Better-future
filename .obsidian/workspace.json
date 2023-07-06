@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c113dcfcd820398c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Bootstrap/Fundamentals/Text and typography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Bootstrap/Bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Text and typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Bootstrap/Bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Text and typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Bootstrap/Bootstrap.md"
+                "file": "Web Development/Bootstrap/Fundamentals/Text and typography.md"
               }
             }
           }
@@ -171,11 +183,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50a6218143001a15",
+  "active": "c113dcfcd820398c",
   "lastOpenFiles": [
+    "Web Development/Bootstrap/Images/Pasted image 20230706230837.png",
+    "Web Development/Bootstrap/Bootstrap.md",
+    "Web Development/Bootstrap/Fundamentals/Text and typography.md",
     "Web Development/Bootstrap/Fundamentals/Grid system.md",
     "Web Development/Bootstrap/Images/Pasted image 20230706225017.png",
-    "Web Development/Bootstrap/Bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
     "Learning/Network/Images/Pasted image 20230706165804.png",
     "Web Development/Bootstrap/Images/Pasted image 20230706222942.png",
@@ -217,7 +231,6 @@
     "Learning/Network/01-Fundamentals/01/05-Architecture/Computer network architecture.md",
     "Learning/Network/01-Fundamentals/01/05-Architecture/Peer to Peer Architecture.md",
     "Learning/Network/01-Fundamentals/01/05-Architecture/Client Server Architecture.md",
-    "Learning/Network/01-Fundamentals/01/06-Others/Links in network.md",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
