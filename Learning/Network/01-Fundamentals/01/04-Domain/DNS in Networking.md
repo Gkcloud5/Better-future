@@ -32,3 +32,13 @@ modification date: Wednesday 5th July 2023 21:38:33
 
 ##### DNS recursor:
 
+* The DNS recursor is a server designed to receive queries from client machines through application such as web browsers.
+* Typically the recursor is then responsible for making additional requests in order to satisfy the client's DNS query.
+
+
+##### Root nameserver:
+
+* The root server is the first step in translating human readable host names into IP address.
+
+![[Pasted image 20230706165328.png]]
+
