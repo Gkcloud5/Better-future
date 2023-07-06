@@ -42,3 +42,6 @@ modification date: Thursday 6th July 2023 23:14:24
 
 ![[Pasted image 20230706231836.png]]
 
+![[Pasted image 20230706231956.png]]
+
+![[Pasted image 20230706232000.png]]

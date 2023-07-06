@@ -13,4 +13,5 @@
 4. [[Text and typography]]
 5. [[Colors in bootstrap]]
 6. [[Table in Bootstrap]]
-7. 
+7. [[Images in Bootstrap]]
+8. 
