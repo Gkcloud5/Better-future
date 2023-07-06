@@ -9,12 +9,11 @@ kanban-plugin: basic
 - [ ] Internet
 - [ ] Internet protocol
 - [ ] HTTPS
-- [ ] IPv4 and IPv6
 
 
 ## Reading
 
-- [ ] TLD
+- [ ] IPv4 and IPv6
 
 
 ## Readed
@@ -22,6 +21,7 @@ kanban-plugin: basic
 - [ ] Computer network architecture
 - [ ] Links
 - [ ] Domain name
+- [ ] TLD
 - [ ] DNS
 - [ ] domain registries
 

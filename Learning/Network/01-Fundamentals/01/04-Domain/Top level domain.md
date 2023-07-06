@@ -21,7 +21,5 @@ modification date: Thursday 6th July 2023 18:04:11
 		* .edu
 * `.com` is intended for commercial businesses
 * `.gov` is for government
-* 
 
-### What it do:
 

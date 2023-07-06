@@ -27,5 +27,5 @@ modification date: Friday 30th June 2023 17:39:28
 
 ### Different type of IP address:
 
-* IPv4
-* IPv6
+* [[IPv4 in networking]]
+* [[IPv6 in networking]]
