@@ -36,9 +36,19 @@ modification date: Wednesday 5th July 2023 21:38:33
 * Typically the recursor is then responsible for making additional requests in order to satisfy the client's DNS query.
 
 
-##### Root nameserver:
+##### Root nameserver:[](https://www.cloudflare.com/learning/dns/glossary/dns-root-server/)
 
 * The root server is the first step in translating human readable host names into IP address.
 
 ![[Pasted image 20230706165328.png]]
 
+
+##### TLD nameserver:
+
+* Top level domain server can be thought of as a specific rack of books in library.
+* This nameserver is the next step in the search for a specific IP address, and it hosts the last portion of a host name.
+
+##### Authoritative nameserver:
+
+* The final nameserver can be thought of as a dictionary on a rack of books, 
+![[Pasted image 20230706165804.png]]
