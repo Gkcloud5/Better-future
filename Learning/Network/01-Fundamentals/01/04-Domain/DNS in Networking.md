@@ -13,5 +13,12 @@ modification date: Wednesday 5th July 2023 21:38:33
 ### What it is:
 
 * **Domain Name System**
+* It is the phonebook of the internet.
+* DNS translates domain names to IP addresses so browsers can load internet resources.
+
+### How does DNS work?
+
+* The process of DNS resolution involves converting a hostname into a computer friendly IP address.
+* 4 DNS servers involved in loading a webpage
 * 
 
