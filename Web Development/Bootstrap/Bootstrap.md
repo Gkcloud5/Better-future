@@ -12,4 +12,5 @@
 3. [[Grid system]]
 4. [[Text and typography]]
 5. [[Colors in bootstrap]]
-6. 
+6. [[Table in Bootstrap]]
+7. 
