@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "50a6218143001a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grid system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea6008e7e30c8784",
             "type": "leaf",
             "state": {
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
+                "file": "Grid system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
+                "file": "Grid system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md"
+                "file": "Grid system.md"
               }
             }
           }
@@ -171,9 +183,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea6008e7e30c8784",
+  "active": "50a6218143001a15",
   "lastOpenFiles": [
+    "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
+    "Grid system.md",
     "Web Development/Bootstrap/Bootstrap.md",
+    "Images/Pasted image 20230706222942.png",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/Networking.md",
@@ -189,7 +204,6 @@
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
     "Learning/Network/01-Fundamentals/01/06-Others/Nodes in networking.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
-    "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
     "Images",
     "Web Development/Bootstrap/Images/Pasted image 20230705230805.png",
     "Web Development/Bootstrap/Images/Pasted image 20230705230632.png",
@@ -217,7 +231,6 @@
     "Learning/Network/01-Fundamentals/01/05-Architecture/Client Server Architecture.md",
     "Learning/Network/01-Fundamentals/01/06-Others/Links in network.md",
     "Learning/Programming/Python/Problem solving/Python methods.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230703205043.png",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",

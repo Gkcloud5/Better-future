@@ -39,3 +39,8 @@ modification date: Wednesday 5th July 2023 22:55:31
 ```
 
 ##### Responsive Containers:
+
+* `.cotainer-sm|md|lg|xl` classes to create responsive containers.
+
+![[Pasted image 20230706222942.png]]
+
