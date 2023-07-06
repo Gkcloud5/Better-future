@@ -50,5 +50,9 @@ modification date: Wednesday 5th July 2023 21:38:33
 
 ##### Authoritative nameserver:
 
-* The final nameserver can be thought of as a dictionary on a rack of books, 
+* The final nameserver can be thought of as a dictionary on a rack of books, in which a specific name can be translated into its definition.
+* The authoritative nameserver is a last stop in the nameserver query.
+* If the authoritative nameserver has access to the requested record, it will return the IP address for the requested hostname back to DNS recursor that made initial request.
+
+
 ![[Pasted image 20230706165804.png]]
