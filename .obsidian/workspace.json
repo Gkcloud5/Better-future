@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Top level domain.md",
+                "file": "Learning/Network/01-Fundamentals/01/04-Domain/Top level domain.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Top level domain.md",
+                "file": "Learning/Network/01-Fundamentals/01/04-Domain/Top level domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Top level domain.md",
+                "file": "Learning/Network/01-Fundamentals/01/04-Domain/Top level domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Top level domain.md"
+                "file": "Learning/Network/01-Fundamentals/01/04-Domain/Top level domain.md"
               }
             }
           }
@@ -205,10 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "228d98c4cf49d55c",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Learning/Network/01-Fundamentals/01/04-Domain/DNS in Networking.md",
-    "Top level domain.md",
+    "Learning/Network/01-Fundamentals/01/04-Domain/Top level domain.md",
     "Learning/Network/01-Fundamentals/01/04-Domain/Domain name.md",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/To-do/Need to read.md",
