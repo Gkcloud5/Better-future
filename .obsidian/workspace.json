@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grid system.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grid system.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grid system.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grid system.md"
+                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md"
               }
             }
           }
@@ -187,7 +187,7 @@
   "lastOpenFiles": [
     "Images/Pasted image 20230706223403.png",
     "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
-    "Grid system.md",
+    "Web Development/Bootstrap/Fundamentals/Grid system.md",
     "Web Development/Bootstrap/Bootstrap.md",
     "Images/Pasted image 20230706222942.png",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",

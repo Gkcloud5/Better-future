@@ -16,3 +16,9 @@ modification date: Thursday 6th July 2023 22:31:12
 
 ![[Pasted image 20230706223403.png]]
 
+##### Grid Classes:
+
+	It has 5 classes
+
+* `.col-` Extra small devices - screen width less than 576px.
+* `.col-sm-` Small devices - Screen width equal to or grater than 577px
