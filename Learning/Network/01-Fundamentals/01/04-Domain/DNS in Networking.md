@@ -20,5 +20,15 @@ modification date: Wednesday 5th July 2023 21:38:33
 
 * The process of DNS resolution involves converting a hostname into a computer friendly IP address.
 * 4 DNS servers involved in loading a webpage
-* 
+	* DNS recursor
+	* Root nameserver
+	* TLD nameserver
+	* Authoritative nameserver
+
+
+
+![[Pasted image 20230706164847.png]]
+
+
+##### DNS recursor:
 
