@@ -22,3 +22,7 @@ modification date: Thursday 6th July 2023 22:31:12
 
 * `.col-` Extra small devices - screen width less than 576px.
 * `.col-sm-` Small devices - Screen width equal to or grater than 577px
+* `.col-md-` Medium devices - screen width equal to or greater than 768px
+* `.col-lg-` Large devices - screen width equal to or greater than 992px
+* `.col-xl-` Xlarge devices - screen width equal to or greater than 1200px
+
