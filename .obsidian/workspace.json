@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea6008e7e30c8784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
+                "file": "Web Development/Bootstrap/Bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
+                "file": "Web Development/Bootstrap/Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
+                "file": "Web Development/Bootstrap/Bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md"
+                "file": "Web Development/Bootstrap/Bootstrap.md"
               }
             }
           }
@@ -185,11 +173,16 @@
   },
   "active": "50a6218143001a15",
   "lastOpenFiles": [
-    "Images/Pasted image 20230706223403.png",
-    "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
     "Web Development/Bootstrap/Fundamentals/Grid system.md",
+    "Web Development/Bootstrap/Images/Pasted image 20230706225017.png",
     "Web Development/Bootstrap/Bootstrap.md",
-    "Images/Pasted image 20230706222942.png",
+    "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
+    "Learning/Network/Images/Pasted image 20230706165804.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230706222942.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230706223403.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230706224732.png",
+    "Learning/Network/Images/Pasted image 20230706165328.png",
+    "Learning/Network/Images/Pasted image 20230706164847.png",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/Networking.md",
@@ -199,9 +192,6 @@
     "Learning/Network/01-Fundamentals/01/04-Domain/Domain name.md",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/01/04-Domain/DNS in Networking.md",
-    "Images/Pasted image 20230706165804.png",
-    "Images/Pasted image 20230706165328.png",
-    "Images/Pasted image 20230706164847.png",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
     "Learning/Network/01-Fundamentals/01/06-Others/Nodes in networking.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
@@ -210,8 +200,6 @@
     "Web Development/Bootstrap/Images/Pasted image 20230705230632.png",
     "Web Development/Bootstrap/Images/Pasted image 20230705230130.png",
     "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
-    "Web Development/Bootstrap/Images/Pasted image 20230705225224.png",
-    "Web Development/Bootstrap/Images/Pasted image 20230705225152.png",
     "Development Practice/Bootstrap/Images",
     "Development Practice/Bootstrap/New folder",
     "Development Practice/Bootstrap/Practise/index.css",
@@ -224,7 +212,6 @@
     "Template/Network template.md",
     "Template/Bash script template.md",
     "Learning/Network/01-Fundamentals/01/04-Domain/Domain Registries.md",
-    "Learning/Network/Images/Pasted image 20230705190343.png",
     "Learning/Network/01-Fundamentals/01/06-Others",
     "Learning/Network/01-Fundamentals/01/05-Architecture",
     "Learning/Network/01-Fundamentals/01/05-Architecture/Computer network architecture.md",

@@ -26,3 +26,15 @@ modification date: Thursday 6th July 2023 22:31:12
 * `.col-lg-` Large devices - screen width equal to or greater than 992px
 * `.col-xl-` Xlarge devices - screen width equal to or greater than 1200px
 
+```html
+<div class="row">  
+  <div class="col-sm-3">.col-sm-3</div>  
+  <div class="col-sm-3">.col-sm-3</div>  
+  <div class="col-sm-3">.col-sm-3</div>  
+  <div class="col-sm-3">.col-sm-3</div>  
+</div>
+```
+
+![[Pasted image 20230706224732.png]]
+
+![[Pasted image 20230706225017.png]]
