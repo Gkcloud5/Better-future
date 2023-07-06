@@ -12,4 +12,7 @@ modification date: Thursday 6th July 2023 22:31:12
 
 #### Explanation about it:
 
-* 
+* Bootstrap grid system is built with flexbox and allows up to 12 columns across the page.
+
+![[Pasted image 20230706223403.png]]
+
