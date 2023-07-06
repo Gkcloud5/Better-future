@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
+                "file": "Learning/Network/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
+                "file": "Learning/Network/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md"
+                "file": "Learning/Network/Networking.md"
               }
             }
           }
@@ -183,11 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "d8d7b58532bace77",
   "lastOpenFiles": [
+    "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
-    "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Linux/Subnetting/IPv4.md",
     "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/01/04-Domain/Top level domain.md",
@@ -230,7 +229,6 @@
     "Learning/Network/01-Fundamentals/01/06-Others/Links in network.md",
     "Learning/Programming/Python/Problem solving/Python methods.md",
     "Learning/Programming/Bash/Images/Pasted image 20230703205043.png",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.7",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
