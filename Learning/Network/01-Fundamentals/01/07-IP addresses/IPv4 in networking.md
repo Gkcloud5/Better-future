@@ -25,4 +25,14 @@ modification date: Thursday 6th July 2023 19:26:58
 * The host part uniquely identifies the machine on your network. this part of the IPv4 address is assigned to every host.
 * For each host on the network, the network part is the same, however, the host half must vary.
 
+##### Subnet number:
+* This is the nonobligatory part of the IPv4.
+* Local networks that have massive numbers of hosts are divided into subnets and subnet numbers are appointed to that.
+
+
+### Characteristics of IPv4:
+* IPv4 could be a 32-bit IP address.
+* IPv4 could be a numeric address, and its bits are separated by a dot.
+* 
+
 
