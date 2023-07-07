@@ -22,6 +22,7 @@ modification date: Thursday 6th July 2023 19:26:58
 * The network part conjointly identifies the category of the network that's assigned.
 
 ##### Host part:
-* The host part uniquely
+* The host part uniquely identifies the machine on your network. this part of the IPv4 address is assigned to every host.
+* For each host on the network, the network part is the same, however, the host half must vary.
 
 
