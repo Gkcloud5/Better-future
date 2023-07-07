@@ -21,4 +21,6 @@ modification date: Friday 7th July 2023 19:12:11
 
 * IPv6 stands for Internet protocol version 6.
 * IPv6 is a **Network layer** protocol that allows communication and data transfer between two different hosts.
-* 
+	* It sets specific rules that help identify the separate hosts and track their location
+	* When two corresponding IP addresses are identified.
+* IPv6 address is a 128
