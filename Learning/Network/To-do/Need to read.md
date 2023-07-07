@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] MAC addresses
 - [ ] DHCP
 - [ ] Gateway works
+- [ ] IPSec
 
 
 ## Reading
