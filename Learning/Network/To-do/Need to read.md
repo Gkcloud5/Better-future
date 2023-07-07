@@ -12,6 +12,8 @@ kanban-plugin: basic
 - [ ] Unicast, broadcast, multicast
 - [ ] VLSM
 - [ ] PARP
+- [ ] NAT
+- [ ] IP class and CIDR
 
 
 ## Reading

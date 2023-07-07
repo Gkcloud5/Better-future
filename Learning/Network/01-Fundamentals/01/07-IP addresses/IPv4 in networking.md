@@ -15,6 +15,7 @@ modification date: Thursday 6th July 2023 19:26:58
 * IP stands for **Internet protocol** and v4 stands for **version 4.**
 * It is are **32-bit** integers which will be expressed in decimal notation.
 * IPv4 address is typically represented as four sets of decimal numbers, separated by periods.
+	* Each number in the address represents 8 bits, allowing for values from 0 to 255.
 
 ### Parts of IPv4:
 
