@@ -12,3 +12,10 @@ modification date: Friday 7th July 2023 23:39:58
 
 #### Explanation about it:
 
+```
+<div class="spinner-border text-muted"></div>
+<div class="spineer-grow text-info"></div>
+```
+
+![[Pasted image 20230707234323.png]]
+

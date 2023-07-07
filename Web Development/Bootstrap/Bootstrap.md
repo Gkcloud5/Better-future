@@ -20,4 +20,5 @@
 11. [[Buttons group]]
 12. [[Progress Bar]]
 13. [[Spinners]]
-14. 
+14. [[Pagination]]
+15. 
