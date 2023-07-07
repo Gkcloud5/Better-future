@@ -26,4 +26,9 @@ modification date: Friday 7th July 2023 19:12:11
 * IPv6 address is a 128-bit alphanumeric value that identifies an endpoint device.
 * Example:
 	* FE80:CD00:0000:0CDE:1257:0000:211E:729C
+* IPv6 address is split into two parts
+	* Network
+		* The `network` component is the first 64 bits of the address and is used for routing
+	* Node
+		* It is the later 64bits and is used to identify the address of the interface.
 * 
