@@ -45,3 +45,8 @@ modification date: Friday 7th July 2023 23:13:52
 
 ![[Pasted image 20230707232246.png]]
 
+```
+<span class="badge badge-pill badge-primary">Primary</span>
+<span class="badge badge-pill badge-secondry">Secondary</span>
+<button type="button" class="btn btn-primary"
+```
