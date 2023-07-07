@@ -13,4 +13,12 @@ modification date: Friday 7th July 2023 19:12:11
 
 #### Explanation about it:
 
-* IPv6 is the newer gener
+* IPv6 is the newer generation of technology and development.
+* IPv4 have shortage issue so that only IPv6 introduced.
+
+
+### What is IPv6?
+
+* IPv6 stands for Internet protocol version 6.
+* IPv6 is a **Network layer** protocol that allows communication and data transfer between two different hosts.
+* 
