@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "6cfa89a3d6d12732",
+            "id": "deb10d34bcf89a67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alerts in bootstrap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2b213347b82568e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Jumbotron.md",
+                "file": "Buttons in bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alerts in bootstrap.md",
+                "file": "Buttons in bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alerts in bootstrap.md",
+                "file": "Buttons in bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alerts in bootstrap.md"
+                "file": "Buttons in bootstrap.md"
               }
             }
           }
@@ -183,10 +171,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6cfa89a3d6d12732",
+  "active": "deb10d34bcf89a67",
   "lastOpenFiles": [
     "Web Development/Bootstrap/Bootstrap.md",
-    "Alerts in bootstrap.md",
+    "Buttons in bootstrap.md",
+    "Web Development/Bootstrap/Fundamentals/Alerts in bootstrap.md",
+    "Web Development/Bootstrap/Images/Pasted image 20230707230457.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230707230214.png",
     "Web Development/Bootstrap/Fundamentals/Jumbotron.md",
     "Web Development/Bootstrap/Images/Pasted image 20230707225918.png",
     "Learning/Network/To-do/Need to read.md",
@@ -208,9 +199,7 @@
     "Web Development/Bootstrap/Images/Pasted image 20230706231956.png",
     "Web Development/Bootstrap/Images/Pasted image 20230706231836.png",
     "Web Development/Bootstrap/Fundamentals/Colors in bootstrap.md",
-    "Web Development/Bootstrap/Images/Pasted image 20230706231323.png",
     "Web Development/Bootstrap/Fundamentals/Text and typography.md",
-    "Web Development/Bootstrap/Images/Pasted image 20230706230925.png",
     "Web Development/Bootstrap/Fundamentals/Grid system.md",
     "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses",
@@ -229,7 +218,6 @@
     "Web Development/CSS/CSS.md",
     "Template/Simple explain template.md",
     "Template/Theory template.md",
-    "Template/Network template.md",
     "Learning/Network/01-Fundamentals/01/06-Others",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",

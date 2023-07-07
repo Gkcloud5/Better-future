@@ -17,3 +17,15 @@ modification date: Friday 7th July 2023 22:59:40
   <strong>Success!</strong>
 </div>
 ```
+
+![[Pasted image 20230707230214.png]]
+
+
+```
+<div class="alert alert-warning alert-dismissible">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <strong>Warning</strong>
+</div>
+```
+
+![[Pasted image 20230707230457.png]]
