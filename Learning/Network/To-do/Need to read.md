@@ -9,6 +9,9 @@ kanban-plugin: basic
 - [ ] Internet
 - [ ] Internet protocol
 - [ ] HTTPS
+- [ ] Unicast, broadcast, multicast
+- [ ] VLSM
+- [ ] PARP
 
 
 ## Reading

@@ -33,6 +33,13 @@ modification date: Thursday 6th July 2023 19:26:58
 ### Characteristics of IPv4:
 * IPv4 could be a 32-bit IP address.
 * IPv4 could be a numeric address, and its bits are separated by a dot.
-* 
-
+* It has
+	* [[Unicast in networking]]
+	* [[Broadcast in networking]]
+	* [[Multicast in networking]]
+* IPv4 supports [[Virtual length subnet mask|VLSM]]
+* It uses the [[Post address resolution protocol]] to map to the MAC address.
+* [[RIP in network|RIP]] may be a routing protocol supported by the routed daemon.
+* Networks ought to be designed either manually or [[DHCP]]
+ 
 
