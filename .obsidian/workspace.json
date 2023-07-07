@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pagination.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Pagination.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pagination.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Pagination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pagination.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Pagination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pagination.md"
+                "file": "Web Development/Bootstrap/Fundamentals/Pagination.md"
               }
             }
           }
@@ -171,13 +171,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99a290f9bceb31f7",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Images/Pasted image 20230707234749.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230707234749.png",
     "Web Development/Bootstrap/Bootstrap.md",
-    "Pagination.md",
-    "Spinners.md",
-    "Images/Pasted image 20230707234323.png",
+    "Web Development/Bootstrap/Fundamentals/Pagination.md",
+    "Web Development/Bootstrap/Fundamentals/Spinners.md",
+    "Web Development/Bootstrap/Images/Pasted image 20230707234323.png",
     "Web Development/Bootstrap/Fundamentals/Progress Bar.md",
     "Web Development/Bootstrap/Images/Pasted image 20230707233654.png",
     "Web Development/Bootstrap/Fundamentals/Buttons in bootstrap.md",
