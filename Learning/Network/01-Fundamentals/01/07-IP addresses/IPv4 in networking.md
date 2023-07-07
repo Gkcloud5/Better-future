@@ -6,11 +6,20 @@ modification date: Thursday 6th July 2023 19:26:58
 **Tags:** #network 
 
 #### Source:
-[]()
+[IPv4](https://www.geeksforgeeks.org/what-is-ipv4/)
 
 --------------------------------------
 
 ### What it is:
+
+* IP stands for **Internet protocol** and v4 stands for **version 4.**
+* It is are **32-bit** integers which will be expressed in decimal notation.
+
+### Parts of IPv4:
+
+##### Network part:
+* The network part indicates the distinctive variety that's appointed to the network.
+* The network part conjointly identifies the category of the network that's assigned.
 
 
 
