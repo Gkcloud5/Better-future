@@ -15,4 +15,5 @@
 6. [[Table in Bootstrap]]
 7. [[Images in Bootstrap]]
 8. [[Jumbotron]]
-9. 
+9. [[Alerts in bootstrap]]
+10. 

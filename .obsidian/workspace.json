@@ -4,57 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "9c9c3d759c5af32e",
+        "id": "282abbe22148de64",
         "type": "tabs",
         "children": [
           {
-            "id": "cc12f2bec81a0fd9",
+            "id": "cb11112f50488142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/Networking.md",
+                "file": "Web Development/Bootstrap/Bootstrap.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5796d500a72d4605",
+            "id": "6cfa89a3d6d12732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
+                "file": "Alerts in bootstrap.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a159e0e33efcda0b",
+            "id": "b2b213347b82568e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPv6 in networking.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Jumbotron.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fd0a4eb3084662c8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Learning/Network/To-do/Need to read.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/To-do/Need to read.md",
+                "file": "Alerts in bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/To-do/Need to read.md",
+                "file": "Alerts in bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/To-do/Need to read.md"
+                "file": "Alerts in bootstrap.md"
               }
             }
           }
@@ -193,18 +183,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd0a4eb3084662c8",
+  "active": "6cfa89a3d6d12732",
   "lastOpenFiles": [
-    "Learning/Network/Networking.md",
-    "IPv6 in networking.md",
+    "Web Development/Bootstrap/Bootstrap.md",
+    "Alerts in bootstrap.md",
+    "Web Development/Bootstrap/Fundamentals/Jumbotron.md",
+    "Web Development/Bootstrap/Images/Pasted image 20230707225918.png",
     "Learning/Network/To-do/Need to read.md",
+    "Learning/Network/Networking.md",
+    "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv6 in networking.md",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
     "Learning/Network/01-Fundamentals/01/06-Others/Nodes in networking.md",
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
-    "Web Development/Bootstrap/Fundamentals/Jumbotron.md",
-    "Web Development/Bootstrap/Bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Images in Bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230706233933.png",
     "Development Practice/Bootstrap/Practise/Images/Studyroom.jpg",
@@ -219,7 +211,6 @@
     "Web Development/Bootstrap/Images/Pasted image 20230706231323.png",
     "Web Development/Bootstrap/Fundamentals/Text and typography.md",
     "Web Development/Bootstrap/Images/Pasted image 20230706230925.png",
-    "Web Development/Bootstrap/Images/Pasted image 20230706230837.png",
     "Web Development/Bootstrap/Fundamentals/Grid system.md",
     "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses",
@@ -239,7 +230,6 @@
     "Template/Simple explain template.md",
     "Template/Theory template.md",
     "Template/Network template.md",
-    "Template/Bash script template.md",
     "Learning/Network/01-Fundamentals/01/06-Others",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
