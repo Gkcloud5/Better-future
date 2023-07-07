@@ -15,4 +15,7 @@ modification date: Friday 7th July 2023 23:34:47
 ```
 <div class="progress">
 <div class="progress-bar progress-bar-striped progress-bar-animated" style="width:40%">40%</div>
+</div>
 ```
+
+![[Pasted image 20230707233654.png]]

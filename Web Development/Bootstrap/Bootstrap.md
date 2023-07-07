@@ -19,4 +19,5 @@
 10. [[Buttons in bootstrap]]
 11. [[Buttons group]]
 12. [[Progress Bar]]
-13. 
+13. [[Spinners]]
+14. 
