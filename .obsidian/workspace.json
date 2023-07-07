@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/Networking.md",
+                "file": "Learning/Network/To-do/Need to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/Networking.md",
+                "file": "Learning/Network/To-do/Need to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/Networking.md"
+                "file": "Learning/Network/To-do/Need to read.md"
               }
             }
           }
@@ -192,12 +193,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc12f2bec81a0fd9",
+  "active": "fd0a4eb3084662c8",
   "lastOpenFiles": [
     "IPv6 in networking.md",
-    "Learning/Network/To-do/Need to read.md",
-    "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
+    "Learning/Network/Networking.md",
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
     "Learning/Network/01-Fundamentals/01/06-Others/Nodes in networking.md",
