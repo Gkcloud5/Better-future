@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buttons in bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Buttons in bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buttons in bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Buttons in bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buttons in bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Buttons in bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buttons in bootstrap.md"
+                "file": "Web Development/Bootstrap/Fundamentals/Buttons in bootstrap.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "deb10d34bcf89a67",
   "lastOpenFiles": [
+    "Web Development/Bootstrap/Images/Pasted image 20230707231027.png",
     "Web Development/Bootstrap/Bootstrap.md",
-    "Buttons in bootstrap.md",
+    "Web Development/Bootstrap/Fundamentals/Buttons in bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Alerts in bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230707230457.png",
     "Web Development/Bootstrap/Images/Pasted image 20230707230214.png",
@@ -217,7 +218,6 @@
     "Development Practice/Bootstrap",
     "Web Development/CSS/CSS.md",
     "Template/Simple explain template.md",
-    "Template/Theory template.md",
     "Learning/Network/01-Fundamentals/01/06-Others",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
