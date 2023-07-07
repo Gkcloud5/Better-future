@@ -14,11 +14,13 @@ kanban-plugin: basic
 - [ ] PARP
 - [ ] NAT
 - [ ] IP class and CIDR
+- [ ] MAC addresses
+- [ ] DHCP
+- [ ] Gateway works
 
 
 ## Reading
 
-- [ ] IPv4 and IPv6
 
 
 ## Readed
@@ -28,6 +30,7 @@ kanban-plugin: basic
 - [ ] Domain name
 - [ ] TLD
 - [ ] DNS
+- [ ] IPv4 and IPv6
 - [ ] domain registries
 
 

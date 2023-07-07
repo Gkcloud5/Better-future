@@ -31,4 +31,3 @@ modification date: Friday 7th July 2023 19:12:11
 		* The `network` component is the first 64 bits of the address and is used for routing
 	* Node
 		* It is the later 64bits and is used to identify the address of the interface.
-* 
