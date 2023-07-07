@@ -22,5 +22,9 @@ modification date: Friday 7th July 2023 23:05:31
 
 
 ```
-<button class="btn btn-pri"
+<button class="btn btn-primary">
+   <span class="spinner-border spinner-border-sm"></span>Loading..
+</button>
 ```
+
+![[Pasted image 20230707231258.png]]
