@@ -18,4 +18,5 @@
 9. [[Alerts in bootstrap]]
 10. [[Buttons in bootstrap]]
 11. [[Buttons group]]
-12. 
+12. [[Progress Bar]]
+13. 

@@ -48,5 +48,10 @@ modification date: Friday 7th July 2023 23:13:52
 ```
 <span class="badge badge-pill badge-primary">Primary</span>
 <span class="badge badge-pill badge-secondry">Secondary</span>
-<button type="button" class="btn btn-primary"
+<button type="button" class="btn btn-primary">
+  Messages <span class="badge badge-light">4</span>
+</button>
 ```
+
+![[Pasted image 20230707233357.png]]
+
