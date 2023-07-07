@@ -36,4 +36,12 @@ modification date: Friday 7th July 2023 23:13:52
    <div class="btn-group">
        <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown">GK3</button>
        <div class="dropdown-menu">
-        
+          <a class="dropdown-item" href="#">Gk3.1</a>
+          <a class="dropdown-item" href="#">GK3.2</a>
+       </div>
+</div>
+```
+
+
+![[Pasted image 20230707232246.png]]
+
