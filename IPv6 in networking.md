@@ -13,4 +13,4 @@ modification date: Friday 7th July 2023 19:12:11
 
 #### Explanation about it:
 
-* 
+* IPv6 is the newer gener
