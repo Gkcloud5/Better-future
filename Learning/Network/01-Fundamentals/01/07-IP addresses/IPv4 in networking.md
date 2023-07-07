@@ -21,6 +21,7 @@ modification date: Thursday 6th July 2023 19:26:58
 * The network part indicates the distinctive variety that's appointed to the network.
 * The network part conjointly identifies the category of the network that's assigned.
 
-
+##### Host part:
+* The host part uniquely
 
 
