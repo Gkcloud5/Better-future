@@ -14,4 +14,6 @@ modification date: Saturday 8th July 2023 18:53:03
 
 * **Classless Inter-Domain Routing.
 * It is an IP address allocation method that improves data routing efficiency on the internet.
+* Organizations use CIDR to allocate IP addresses flexibly and efficiently in their networks.
+* Organization purchase three [[Class in IP address|classes]] of IPv4 address
 
