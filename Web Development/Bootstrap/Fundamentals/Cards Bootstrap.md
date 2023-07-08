@@ -26,6 +26,14 @@ modification date: Saturday 8th July 2023 21:27:10
 
 ```
 <div class="container">
-
+  <h2>Image card</h2>
+  <div class="card" style="width:400px">
+      <img class="card-img-top" src="" alt="card image" style="width:100%">
+      <div class="card-body">
+         <h4 class="card-title">Gk-HOPE</h4>
+         <p class="card-text">Some example text</p>
+         <a href="#" class="btn btn-primary">See profile</a>
+      </div>
+  </div>
 </div>
 ```
