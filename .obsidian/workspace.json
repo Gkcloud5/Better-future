@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "02e7032928373687",
+            "id": "f33dd4426b924877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Collapse bootstrap.md",
+                "file": "Navbar bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Collapse bootstrap.md",
+                "file": "Navbar bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Collapse bootstrap.md",
+                "file": "Navbar bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Collapse bootstrap.md"
+                "file": "Navbar bootstrap.md"
               }
             }
           }
@@ -171,11 +171,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02e7032928373687",
+  "active": "f33dd4426b924877",
   "lastOpenFiles": [
-    "Images/Pasted image 20230708224350.png",
     "Web Development/Bootstrap/Bootstrap.md",
+    "Navbar bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Collapse bootstrap.md",
+    "Web Development/Bootstrap/Images/Pasted image 20230708224350.png",
     "Web Development/Bootstrap/Fundamentals/Dropdown bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230708222628.png",
     "Web Development/Bootstrap/Images/Pasted image 20230708222121.png",
@@ -197,7 +198,6 @@
     "Learning/Network/Images/Pasted image 20230708175236.png",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/Broadcast in networking.md",
     "Learning/Network/Images/Pasted image 20230708173524.png",
-    "Learning/Network/Images/Pasted image 20230708173321.png",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/Unicast in networking.md",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
