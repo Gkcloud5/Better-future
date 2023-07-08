@@ -21,3 +21,6 @@ modification date: Saturday 8th July 2023 17:28:58
 
 ![[Pasted image 20230708173321.png]]
 
+
+![[Pasted image 20230708173524.png]]
+
