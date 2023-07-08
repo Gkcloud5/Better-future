@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navbar bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navbar bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navbar bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navbar bootstrap.md"
+                "file": "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md"
               }
             }
           }
@@ -171,10 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f33dd4426b924877",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Web Development/Bootstrap/Bootstrap.md",
-    "Navbar bootstrap.md",
+    "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Collapse bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230708224350.png",
     "Web Development/Bootstrap/Fundamentals/Dropdown bootstrap.md",
