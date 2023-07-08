@@ -12,7 +12,6 @@ kanban-plugin: basic
 - [ ] VLSM
 - [ ] PARP
 - [ ] NAT
-- [ ] IP class and CIDR
 - [ ] MAC addresses
 - [ ] DHCP
 - [ ] Gateway works
@@ -21,6 +20,7 @@ kanban-plugin: basic
 
 ## Reading
 
+- [ ] IP class and CIDR
 
 
 ## Readed
