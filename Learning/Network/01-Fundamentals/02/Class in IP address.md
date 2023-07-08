@@ -13,4 +13,29 @@ modification date: Saturday 8th July 2023 19:22:52
 #### Explanation about it:
 
 * IPv4 is 32-bit address
-* IPv4 address is divided into two pa
+* IPv4 address is divided into two parts:
+	* Network ID
+	* Host ID
+* 32bit IP address is divided into 5 sub-classes
+	* Class A
+	* Class B
+	* Class C
+	* Class D
+	* Class E
+
+![[Pasted image 20230708192615.png]]
+
+#### Class A:
+
+* It contains large number of hosts.
+	* Network ID is 8 bits long.
+	* Host ID is 24bits long.
+* IP addresses belongs to class A ranges from 1.x.x.x - 126.x.x.x
+
+
+#### Class B:
+
+* Class B is assigned to networks that range from medium-sized to large-sized networks
+	* Network ID is 16 bits long
+	* Host ID is 16 bits long
+* IP addresses belongs to Class B ranges from
