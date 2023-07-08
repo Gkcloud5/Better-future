@@ -42,3 +42,12 @@ modification date: Saturday 8th July 2023 19:22:52
 
 ![[Pasted image 20230708205635.png]]
 
+
+#### Class C:
+
+* IP addresses belonging to class C are assigned to small-sized networks
+	* Network ID is 24 bits long
+	* Host ID is 8 bits long
+
+![[Pasted image 20230708210146.png]]
+
