@@ -21,7 +21,6 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] Unicast, broadcast, multicast
 
 
 ## Readed
@@ -31,6 +30,7 @@ kanban-plugin: basic
 - [ ] Domain name
 - [ ] TLD
 - [ ] DNS
+- [ ] Unicast, broadcast, multicast
 - [ ] IPv4 and IPv6
 - [ ] domain registries
 
