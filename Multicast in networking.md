@@ -19,4 +19,5 @@ modification date: Saturday 8th July 2023 17:47:22
 
 * Multicast refers to a communication mechanism in which data packets are sent from a source device to a group of destination devices that have expressed interest in receiving the data.
 * Here single sender can transmit data to multiple recipients simultaneously.
-* 
+* In a multicast transmission, a single packet is addressed to a group of devices, rather than to a single device like in unicast.
+	* The packet is then replicated and sent to all devices in the group, which allows for more efficient use of network resources.
