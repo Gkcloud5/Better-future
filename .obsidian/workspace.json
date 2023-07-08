@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dropdown bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Dropdown bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dropdown bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Dropdown bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dropdown bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Dropdown bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dropdown bootstrap.md"
+                "file": "Web Development/Bootstrap/Fundamentals/Dropdown bootstrap.md"
               }
             }
           }
@@ -197,7 +198,7 @@
   "active": "1900456fdc9442e7",
   "lastOpenFiles": [
     "Web Development/Bootstrap/Bootstrap.md",
-    "Dropdown bootstrap.md",
+    "Web Development/Bootstrap/Fundamentals/Dropdown bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Cards Bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230708213636.png",
     "Web Development/Bootstrap/Images/Pasted image 20230708212852.png",
