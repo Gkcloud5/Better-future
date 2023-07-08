@@ -17,4 +17,6 @@ modification date: Saturday 8th July 2023 17:47:22
 
 ![[Pasted image 20230708175236.png]]
 
+* Multicast refers to a communication mechanism in which data packets are sent from a source device to a group of destination devices that have expressed interest in receiving the data.
+* Here single sender can transmit data to multiple recipients simultaneously.
 * 
