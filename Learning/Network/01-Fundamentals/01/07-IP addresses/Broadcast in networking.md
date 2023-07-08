@@ -26,4 +26,3 @@ modification date: Saturday 8th July 2023 17:28:58
 
 
 * Broadcast address is typically highest address in the network subnet.
-* 

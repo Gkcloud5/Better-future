@@ -12,5 +12,9 @@ modification date: Saturday 8th July 2023 17:47:22
 
 ### What it is:
 
-* 
+* One to Many
+* When the data is transmitted from a single source host to a specific group of hosts having the interest to receive the data, it is known as multicast transmission.
 
+![[Pasted image 20230708175236.png]]
+
+* 
