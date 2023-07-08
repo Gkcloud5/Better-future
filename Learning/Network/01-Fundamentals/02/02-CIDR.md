@@ -13,5 +13,5 @@ modification date: Saturday 8th July 2023 18:53:03
 ### What it is:
 
 * **Classless Inter-Domain Routing.
-* It is an IP address allocation met
+* It is an IP address allocation method that improves data routing efficiency on the internet.
 
