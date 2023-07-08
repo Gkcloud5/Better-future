@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/02/Class in IP address.md",
+                "file": "Learning/Network/01-Fundamentals/02/01Class/Class in IP address.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/02/Class in IP address.md",
+                "file": "Learning/Network/01-Fundamentals/02/01Class/Class in IP address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/02/Class in IP address.md",
+                "file": "Learning/Network/01-Fundamentals/02/01Class/Class in IP address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/02/Class in IP address.md"
+                "file": "Learning/Network/01-Fundamentals/02/01Class/Class in IP address.md"
               }
             }
           }
@@ -193,11 +193,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "016b5327d3789c1d",
   "lastOpenFiles": [
+    "Learning/Network/01-Fundamentals/02/01Class",
+    "Learning/Network/Images/Pasted image 20230708205635.png",
     "Learning/Network/Images/Pasted image 20230708192615.png",
     "Learning/Network/01-Fundamentals/02/02-CIDR.md",
-    "Learning/Network/01-Fundamentals/02/Class in IP address.md",
+    "Learning/Network/01-Fundamentals/02/01Class/Class in IP address.md",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Network/Networking.md",
@@ -223,8 +225,6 @@
     "Web Development/Bootstrap/Fundamentals/Buttons in bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Buttons group.md",
     "Web Development/Bootstrap/Images/Pasted image 20230707233357.png",
-    "Web Development/Bootstrap/Images/Pasted image 20230707232246.png",
-    "Web Development/Bootstrap/Images/Pasted image 20230707231559.png",
     "Web Development/Bootstrap/Fundamentals/Alerts in bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Jumbotron.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv6 in networking.md",

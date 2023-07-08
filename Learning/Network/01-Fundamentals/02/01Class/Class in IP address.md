@@ -39,3 +39,6 @@ modification date: Saturday 8th July 2023 19:22:52
 	* Network ID is 16 bits long
 	* Host ID is 16 bits long
 * IP addresses belongs to Class B ranges from 128.0.x.x - 191.255.x.x
+
+![[Pasted image 20230708205635.png]]
+
