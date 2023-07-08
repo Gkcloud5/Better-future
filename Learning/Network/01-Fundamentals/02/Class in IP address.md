@@ -38,4 +38,4 @@ modification date: Saturday 8th July 2023 19:22:52
 * Class B is assigned to networks that range from medium-sized to large-sized networks
 	* Network ID is 16 bits long
 	* Host ID is 16 bits long
-* IP addresses belongs to Class B ranges from
+* IP addresses belongs to Class B ranges from 128.0.x.x - 191.255.x.x
