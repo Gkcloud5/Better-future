@@ -8,6 +8,7 @@
 4. [aws](https://aws.amazon.com/what-is/computer-networking/)
 5. [JT](https://www.javatpoint.com/computer-network-tutorial)
 6. [GFG](https://www.geeksforgeeks.org/computer-network-tutorials/)
+7. [SG](https://thestudygenius.com/unicast-broadcast-multicast/)
 
 #### Topics:
 
