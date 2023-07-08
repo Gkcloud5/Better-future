@@ -42,12 +42,24 @@
             }
           },
           {
-            "id": "92e7f187b9d55725",
+            "id": "3312304e8d4f96eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Learning/Network/01-Fundamentals/01/07-IP addresses/Broadcast in networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7f81b8cbc3568d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multicast in networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,13 +205,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "3312304e8d4f96eb",
   "lastOpenFiles": [
+    "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
+    "Multicast in networking.md",
+    "Learning/Network/01-Fundamentals/01/07-IP addresses/Broadcast in networking.md",
     "Learning/Network/Images/Pasted image 20230708173524.png",
     "Learning/Network/Images/Pasted image 20230708173321.png",
     "Learning/Network/To-do/Need to read.md",
-    "Learning/Network/01-Fundamentals/01/07-IP addresses/Broadcast in networking.md",
-    "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/Unicast in networking.md",
     "Learning/Network/Networking.md",
     "Learning/Network/Images/Pasted image 20230708164528.png",
@@ -220,7 +233,6 @@
     "Web Development/Bootstrap/Images/Pasted image 20230707232246.png",
     "Web Development/Bootstrap/Images/Pasted image 20230707231559.png",
     "Web Development/Bootstrap/Images/Pasted image 20230707231258.png",
-    "Web Development/Bootstrap/Images/Pasted image 20230707231027.png",
     "Web Development/Bootstrap/Fundamentals/Alerts in bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Jumbotron.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv6 in networking.md",
