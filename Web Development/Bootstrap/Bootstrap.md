@@ -23,4 +23,5 @@
 14. [[Pagination]]
 15. [[Cards Bootstrap]]
 16. [[Dropdown bootstrap]]
-17. 
+17. [[Collapse bootstrap]]
+18. 

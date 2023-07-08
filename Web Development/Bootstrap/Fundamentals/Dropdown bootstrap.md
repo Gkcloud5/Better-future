@@ -31,7 +31,15 @@ modification date: Saturday 8th July 2023 22:11:40
 ```html
 <div class="container">
    <div class="dropdown">
-       <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Dropdown menu</
+       <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Dropdown menu</button>
+       <div class="dropdown-menu">
+          <h5 class="dropdown-header">Header 1</h5>
+          <a class="dropdown-item" href="#">Link 1</a>
+          <a clsss="dropdown-item" href="#">Link 2</a>  
+          <h5 class="dropdown-header">Header 2</h5>
+          <a class="dropdown-item" href="#">Link 3</a>
    </div>
 </div>
 ```
+
+![[Pasted image 20230708222628.png]]
