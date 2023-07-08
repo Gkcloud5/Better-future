@@ -19,4 +19,5 @@ modification date: Saturday 8th July 2023 16:43:07
 
 * The network switches hear the MAC addresses of the devices on the network to which they are connected.
 	* They can forward packets only onto those networks containing device with the connected MAC addresses.
-* Unicast gradually becomes less efficient as more receivers to s
+* Unicast gradually becomes less efficient as more receivers to see identical data.
+* Unicast refers to a communication mechanism in which data packets are sent from a single source device to a specific destination device.
