@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "path:Learning/Network/",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -27,11 +27,11 @@
   "textFadeMultiplier": -2.6,
   "nodeSizeMultiplier": 0.916666666666667,
   "lineSizeMultiplier": 1.22291666666667,
-  "collapse-forces": false,
-  "centerStrength": 0.239583333333333,
-  "repelStrength": 8.54166666666667,
-  "linkStrength": 0.270833333333333,
-  "linkDistance": 321,
-  "scale": 0.431160853003963,
+  "collapse-forces": true,
+  "centerStrength": 0.369791666666667,
+  "repelStrength": 9.0625,
+  "linkStrength": 0.625,
+  "linkDistance": 214,
+  "scale": 0.4311608530039637,
   "close": false
 }
