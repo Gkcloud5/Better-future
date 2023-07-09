@@ -17,4 +17,6 @@ modification date: Sunday 9th July 2023 15:51:50
 * It is a technique used in computer networking to allocate IP addresses to subnets with different sizes.
 * VLSM allows network administrators to divide an IP address space into subnets of various sizes.
 	* Which can help optimize the use of IP addresses and improve network efficiency.
-* 
+
+#### VLSM fundamentals:
+
