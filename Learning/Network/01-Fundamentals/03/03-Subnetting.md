@@ -15,4 +15,6 @@ modification date: Monday 10th July 2023 16:54:04
 
 ### 1. What is subnet?
 
-* A subnet, or subnetwork, is a network
+* A subnet, or subnetwork, is a network inside a network.
+* Subnets make networks more efficient.
+* Through subnetting, network traffic can travel a shorter distance without passing through unnecessary [[Routers in network]] to reach its destination.
