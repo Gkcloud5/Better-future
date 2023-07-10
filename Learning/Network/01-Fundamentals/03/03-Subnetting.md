@@ -28,4 +28,5 @@ modification date: Monday 10th July 2023 16:54:04
 
 ### 2. Why is subnetting necessary?
 
+* As the previous example illustrates, the way IP addresses are constructed makes it relatively simple for internet routers to find the right network to route data into.
 * 
