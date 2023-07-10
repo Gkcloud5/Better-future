@@ -29,4 +29,9 @@ modification date: Monday 10th July 2023 16:54:04
 ### 2. Why is subnetting necessary?
 
 * As the previous example illustrates, the way IP addresses are constructed makes it relatively simple for internet routers to find the right network to route data into.
+* However, in a class A network, there could be millions of connected devices, and it could take some time for the data to find the right device.
+	* This is why subnetting comes in handy: subnetting narrows down the IP address to usage within a range of devices.
+
+### 3. What is a subnet mask?
+
 * 
