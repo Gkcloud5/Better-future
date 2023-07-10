@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grid system2 - bootstrap.md",
+                "file": "Web Development/Bootstrap/Grid/Grid system2 - bootstrap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
+                "file": "Web Development/Bootstrap/Grid/Grid system2 - bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
+                "file": "Web Development/Bootstrap/Grid/Grid system2 - bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md"
+                "file": "Web Development/Bootstrap/Grid/Grid system2 - bootstrap.md"
               }
             }
           }
@@ -183,12 +183,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85281a110481a931",
+  "active": "d0445fa6d1bf6a80",
   "lastOpenFiles": [
+    "Web Development/Bootstrap/Grid",
+    "Web Development/Bootstrap/Images/Pasted image 20230710224440.png",
+    "Web Development/Bootstrap/Fundamentals/Grid system.md",
     "Web Development/Bootstrap/Bootstrap.md",
-    "Grid system2 - bootstrap.md",
+    "Web Development/Bootstrap/Grid/Grid system2 - bootstrap.md",
     "Forms bootstrap.md",
-    "Images/Pasted image 20230710223713.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230710223713.png",
     "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230710220352.png",
     "Web Development/Bootstrap/Images/Pasted image 20230710220319.png",
@@ -208,7 +211,6 @@
     "Web Development/Bootstrap/Images/Pasted image 20230708222121.png",
     "Web Development/Bootstrap/Fundamentals/Cards Bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230708213636.png",
-    "Web Development/Bootstrap/Images/Pasted image 20230708212852.png",
     "Web Development/Bootstrap/Fundamentals/Pagination.md",
     "Learning/Network/01-Fundamentals/02/01Class",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
@@ -222,8 +224,6 @@
     "Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "Web Development/Bootstrap/Fundamentals/Spinners.md",
     "Web Development/Bootstrap/Fundamentals/Progress Bar.md",
-    "Web Development/Bootstrap/Fundamentals/Buttons in bootstrap.md",
-    "Web Development/Bootstrap/Fundamentals/Buttons group.md",
     "Development Practice/Bootstrap/Practise/Images",
     "Learning/Network/01-Fundamentals/01/07-IP addresses",
     "Images",

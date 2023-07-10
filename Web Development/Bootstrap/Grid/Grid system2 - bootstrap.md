@@ -12,4 +12,7 @@ modification date: Monday 10th July 2023 22:40:10
 
 #### Explanation about it:
 
-* 
+* It have 12 columns.
+
+![[Pasted image 20230710224440.png]]
+
