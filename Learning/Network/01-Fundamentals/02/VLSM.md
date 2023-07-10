@@ -28,3 +28,7 @@ modification date: Sunday 9th July 2023 15:51:50
 	* And the network bits are set to 1.
 	* So the subnet mask consist of a sequence of 1s followed by a block of 0s.
 		* Where the 1s represent the network prefix and the 0s mark the host identifier.
+
+##### Subnetting:
+* In subnetting, a large network is logically or physically divided into multiple small networks or subnets. the reason for subnetting a large network is to address network congestion and its negative impact on speed and productivity.
+* Subne
