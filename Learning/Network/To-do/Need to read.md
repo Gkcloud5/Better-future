@@ -21,7 +21,7 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] IP class and CIDR
+- [ ] Subnetting
 
 
 ## Readed
@@ -32,6 +32,7 @@ kanban-plugin: basic
 - [ ] TLD
 - [ ] DNS
 - [ ] Unicast, broadcast, multicast
+- [ ] IP class and CIDR
 - [ ] IPv4 and IPv6
 - [ ] domain registries
 
