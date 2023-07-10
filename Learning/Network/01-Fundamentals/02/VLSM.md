@@ -20,3 +20,5 @@ modification date: Sunday 9th July 2023 15:51:50
 
 #### VLSM fundamentals:
 
+##### Subnet mask:
+* 
