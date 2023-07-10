@@ -10,7 +10,7 @@ modification date: Saturday 8th July 2023 18:53:03
 
 --------------------------------------
 
-### What it is:
+### 1.1 What it is:
 
 * **Classless Inter-Domain Routing.
 * It is an IP address allocation method that improves data routing efficiency on the internet.
@@ -22,17 +22,21 @@ modification date: Saturday 8th July 2023 18:53:03
 	* EXAMPLE: 192.0.2.0/24 is an IPv4 CIDR address.
 
 
-### Benefits of CIDR:
-##### Reduce IP address wastage:
+### 1.2 Benefits of CIDR:
+##### 1.2.1 Reduce IP address wastage:
 * CIDR provides flexibility when you determine the network and host identifier assignments on an IP address.
 * You can use CIDR to provision the required number of IP addresses for a particular network and reduce wastage.
 * CIDR reduces routing table entries and simplifies data packet routing.
 
-##### Transmit data quickly:
+##### 1.2.2 Transmit data quickly:
 * CIDR allows routers to organize IP addresses into multiple subnets more efficiently.
 * A subnet is a smaller network that exist within in a network.
 	* All device connected to a router are on the same subnet and have the same IP address prefix.
 
-##### Create a Virtual private cloud:
+##### 1.2.3 Create a Virtual private cloud:
 * A VPC is a private digital space hosted within the cloud.
-* It allows your organization to provision workload
+* It allows your organization to provision workloads in an isolated and secure environment.
+
+
+### How does CIDR work?
+* 
