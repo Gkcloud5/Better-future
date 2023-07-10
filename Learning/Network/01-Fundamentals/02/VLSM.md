@@ -37,4 +37,5 @@ modification date: Sunday 9th July 2023 15:51:50
 
 ##### Supernetting:
 * In supernetting, multiple contiguous networks are combined into a single large network know as a supernet.
+* Supernetting advertises many routes in one summarized advertisement or routing entry, instead of individually. this routing entry encompasses all the network in the supernet, and provides route updates very efficiently.
 * 
