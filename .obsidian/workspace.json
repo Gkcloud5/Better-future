@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "e879e554776b14d4",
+            "id": "85281a110481a931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forms bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0445fa6d1bf6a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grid system2 - bootstrap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Bootstrap/Bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Bootstrap/Bootstrap.md",
+                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Bootstrap/Bootstrap.md"
+                "file": "Web Development/Bootstrap/Fundamentals/Grid system.md"
               }
             }
           }
@@ -170,12 +183,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b39783ee6e676f2",
+  "active": "85281a110481a931",
   "lastOpenFiles": [
+    "Web Development/Bootstrap/Bootstrap.md",
+    "Grid system2 - bootstrap.md",
     "Forms bootstrap.md",
     "Images/Pasted image 20230710223713.png",
     "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
-    "Web Development/Bootstrap/Bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230710220352.png",
     "Web Development/Bootstrap/Images/Pasted image 20230710220319.png",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
