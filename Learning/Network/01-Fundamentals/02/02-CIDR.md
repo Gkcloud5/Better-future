@@ -31,3 +31,8 @@ modification date: Saturday 8th July 2023 18:53:03
 ##### Transmit data quickly:
 * CIDR allows routers to organize IP addresses into multiple subnets more efficiently.
 * A subnet is a smaller network that exist within in a network.
+	* All device connected to a router are on the same subnet and have the same IP address prefix.
+
+##### Create a Virtual private cloud:
+* A VPC is a private digital space hosted within the cloud.
+* It allows your organization to provision workload
