@@ -31,4 +31,10 @@ modification date: Sunday 9th July 2023 15:51:50
 
 ##### Subnetting:
 * In subnetting, a large network is logically or physically divided into multiple small networks or subnets. the reason for subnetting a large network is to address network congestion and its negative impact on speed and productivity.
-* Subne
+* Subnetting also improves efficiency due to the way an address space is utilized in a small network.
+* Finally, the division between subnets allow organizations to enforce access controls, which improves network security and helps contain security incidents.
+
+
+##### Supernetting:
+* In supernetting, multiple contiguous networks are combined into a single large network know as a supernet.
+* 
