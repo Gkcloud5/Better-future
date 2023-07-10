@@ -18,7 +18,21 @@ modification date: Saturday 8th July 2023 22:44:33
    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsiblenavbar">
    <span class="navbar-toggler-icon"></span>
    </button>
-   <div class="col"
-
+   <div class="collapse navbar-collapse" id="collapsiblenavbar">
+        <ul class="navbar-nav">
+           <li class="navbar-item">
+               <a class="nav-link" href="#">Link1</a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="#">Link2</a>
+             </li>
+             <li class="nav-item">
+                <a class="nav-link" href="#">Link3</a>
+             </li>
+        </ul>
+   </div>
 </nav>
 ```
+
+![[Pasted image 20230710220319.png]]
+
