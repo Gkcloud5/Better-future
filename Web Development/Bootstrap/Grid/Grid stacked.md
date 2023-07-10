@@ -13,7 +13,7 @@ modification date: Monday 10th July 2023 23:31:28
 #### Explanation about it:
 
 ```
-<div class="container">
+<div class="container-fluid">
    <div class="row">
       <div class="col-sm-6 bg-success">
          <p>Lorem Ipsum1..</p>
@@ -24,3 +24,7 @@ modification date: Monday 10th July 2023 23:31:28
    </div>
 </div>
 ```
+
+![[Pasted image 20230710233852.png]]
+
+![[Pasted image 20230710233903.png]]
