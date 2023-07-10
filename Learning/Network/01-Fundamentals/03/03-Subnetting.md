@@ -25,4 +25,7 @@ modification date: Monday 10th July 2023 16:54:04
 * When a network receives data packets from another network.
 	* It will sort and route those packets by subnet so that the packets do no take an inefficient route to their destination.
 
-### 2. Why is subnetting nec
+
+### 2. Why is subnetting necessary?
+
+* 
