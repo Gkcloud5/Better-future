@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "c38b74fb08b72c04",
+            "id": "e879e554776b14d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
+                "file": "Forms bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
+                "file": "Forms bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
+                "file": "Forms bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md"
+                "file": "Forms bootstrap.md"
               }
             }
           }
@@ -171,11 +171,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "e879e554776b14d4",
   "lastOpenFiles": [
+    "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
+    "Forms bootstrap.md",
+    "Web Development/Bootstrap/Bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230710220352.png",
     "Web Development/Bootstrap/Images/Pasted image 20230710220319.png",
-    "Web Development/Bootstrap/Bootstrap.md",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Networking.md",
@@ -185,7 +187,6 @@
     "Learning/Network/01-Fundamentals/02/02-CIDR.md",
     "Learning/Network/01-Fundamentals/02/01Class/Class in IP address.md",
     "Learning/Network/01-Fundamentals/02/VLSM.md",
-    "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Collapse bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230708224350.png",
     "Web Development/Bootstrap/Fundamentals/Dropdown bootstrap.md",
@@ -197,7 +198,6 @@
     "Web Development/Bootstrap/Fundamentals/Pagination.md",
     "Learning/Network/Images/Pasted image 20230708210146.png",
     "Learning/Network/01-Fundamentals/02/01Class",
-    "Learning/Network/Images/Pasted image 20230708205635.png",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Network/01-Fundamentals/02",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/Multicast in networking.md",
