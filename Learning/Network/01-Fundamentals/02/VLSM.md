@@ -21,4 +21,9 @@ modification date: Sunday 9th July 2023 15:51:50
 #### VLSM fundamentals:
 
 ##### Subnet mask:
-* 
+* Every device on a network has an IP address.
+* A subnet mask splits this IP address into the host and network addresses.
+	* This helps define which part of the IP address belongs to the network and which part belongs to the device
+* A subnet mask is a 32-bit number, where all the host bits are set to 0
+	* And the network bits are set to 1.
+	* So the subnet mask consist of a sequence of 1s
