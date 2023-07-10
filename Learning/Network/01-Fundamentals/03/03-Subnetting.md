@@ -7,8 +7,12 @@ modification date: Monday 10th July 2023 16:54:04
 
 #### Source:
 [YT](https://www.youtube.com/watch?v=c6ENgy21hyI)
+[CF](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/)
 
 --------------------------------------
 
 #### Explanation about it:
 
+### 1. What is subnet?
+
+* A subnet, or subnetwork, is a network
