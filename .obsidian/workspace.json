@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "a1a128965873bc15",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Learning/Network/To-do/Need to read.md"
+              }
+            }
+          },
+          {
             "id": "8b39783ee6e676f2",
             "type": "leaf",
             "state": {
@@ -32,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,9 +183,11 @@
   },
   "active": "8b39783ee6e676f2",
   "lastOpenFiles": [
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Networking.md",
-    "Learning/Network/Images/Pasted image 20230710164915.png",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
+    "Images/Pasted image 20230710171929.png",
+    "Learning/Network/Images/Pasted image 20230710164915.png",
     "Learning/Network/01-Fundamentals/03",
     "Learning/Network/01-Fundamentals/02/02-CIDR.md",
     "Learning/Network/01-Fundamentals/02/01Class/Class in IP address.md",
@@ -191,7 +203,6 @@
     "Web Development/Bootstrap/Images/Pasted image 20230708213636.png",
     "Web Development/Bootstrap/Images/Pasted image 20230708212852.png",
     "Web Development/Bootstrap/Fundamentals/Pagination.md",
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Images/Pasted image 20230708210146.png",
     "Learning/Network/01-Fundamentals/02/01Class",
     "Learning/Network/Images/Pasted image 20230708205635.png",
@@ -199,7 +210,6 @@
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Network/01-Fundamentals/02",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/Multicast in networking.md",
-    "Learning/Network/Images/Pasted image 20230708175236.png",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/Broadcast in networking.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/Unicast in networking.md",
     "Learning/Network/01-Fundamentals/01/03-Internet/IP address.md",

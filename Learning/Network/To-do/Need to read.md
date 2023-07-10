@@ -16,6 +16,7 @@ kanban-plugin: basic
 - [ ] DHCP
 - [ ] Gateway works
 - [ ] IPSec
+- [ ] Routers
 
 
 ## Reading
