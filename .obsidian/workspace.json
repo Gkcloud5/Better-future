@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -170,9 +171,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c38b74fb08b72c04",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Images/Pasted image 20230710220319.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230710220352.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230710220319.png",
     "Web Development/Bootstrap/Bootstrap.md",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
     "Learning/Network/To-do/Need to read.md",
@@ -196,7 +198,6 @@
     "Learning/Network/Images/Pasted image 20230708210146.png",
     "Learning/Network/01-Fundamentals/02/01Class",
     "Learning/Network/Images/Pasted image 20230708205635.png",
-    "Learning/Network/Images/Pasted image 20230708192615.png",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/IPv4 in networking.md",
     "Learning/Network/01-Fundamentals/02",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/Multicast in networking.md",
