@@ -38,5 +38,9 @@ modification date: Saturday 8th July 2023 18:53:03
 * It allows your organization to provision workloads in an isolated and secure environment.
 
 
-### How does CIDR work?
-* 
+### 1.3 How does CIDR work?
+
+* It allows routers to route data packets to the respective device based on the indicated subnet.
+
+##### 1.3.1 CIDR Blocks:
+* CIDR block is a collection of IP addresses that same network prefix and number of bits, A large block consis
