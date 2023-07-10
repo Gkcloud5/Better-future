@@ -43,4 +43,14 @@ modification date: Saturday 8th July 2023 18:53:03
 * It allows routers to route data packets to the respective device based on the indicated subnet.
 
 ##### 1.3.1 CIDR Blocks:
-* CIDR block is a collection of IP addresses that same network prefix and number of bits, A large block consis
+* CIDR block is a collection of IP addresses that same network prefix and number of bits, A large block consists of more IP addresses and a small suffix.
+
+![[Pasted image 20230710164915.png]]
+
+* The internet assigned numbers authority assigns large CIDR blocks to regional internet registries. then the RIR assigns smaller blocks to local internet registries(LIR).
+	* Which then assign them to organizations.
+
+##### 1.3.2 CIDR notation:
+* CIDR notation represents an IP address and suffix that indicates network.
+* format: 192.168.1.0/22
+
