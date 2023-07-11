@@ -11,11 +11,38 @@
             "id": "ffd65aeb3e6f0b8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ecd2c1526474349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdccbe0688134bf9",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Learning/Network/To-do/Need to read.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Network/01-Fundamentals/03/03-Subnetting.md"
+              }
             }
           }
         ],
@@ -150,8 +181,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffd65aeb3e6f0b8e",
+  "active": "0ecd2c1526474349",
   "lastOpenFiles": [
+    "Learning/Network/To-do/Need to read.md",
+    "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
+    "Learning/Network/Networking.md",
     "Web Development/Bootstrap/Grid/Grid stacked.md",
     "Web Development/Bootstrap/Images/Pasted image 20230710233903.png",
     "Web Development/Bootstrap/Images/Pasted image 20230710233852.png",
@@ -165,9 +199,6 @@
     "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
     "Web Development/Bootstrap/Images/Pasted image 20230710220352.png",
     "Web Development/Bootstrap/Images/Pasted image 20230710220319.png",
-    "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
-    "Learning/Network/To-do/Need to read.md",
-    "Learning/Network/Networking.md",
     "Learning/Network/Images/Pasted image 20230710171929.png",
     "Learning/Network/Images/Pasted image 20230710164915.png",
     "Learning/Network/01-Fundamentals/03",
