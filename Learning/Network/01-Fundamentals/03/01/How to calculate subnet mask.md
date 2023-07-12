@@ -22,4 +22,9 @@ Class E: 240 - 254
 ##### Private Addresses:
 
 Class A: 10.0.0.0 through 10.255.255.255
-Cla
+Class B: 172.16.0.0 through 172.31.255.255
+Class C: 192.168.0.0 through 192.168.255.255
+
+
+![[Pasted image 20230712161842.png]]
+
