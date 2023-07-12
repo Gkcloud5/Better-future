@@ -24,4 +24,12 @@ modification date: Wednesday 12th July 2023 14:43:45
 
 ### Why use subnetting?
 
-* Subnetting enables assigned network addresses to be
+* Subnetting enables assigned network addresses to be broken into smaller.
+* Subnetting and route summarization work together to make routers more efficient by reducing the size of routing tables.
+
+##### Some steps:
+
+* IP addresses must be unique on the internet when using public IP addresses.
+* IPv4 addresses are 32bits made up of 4 octets of 8 bits each.
+	* To calculate the subnet mask, convert an IP address to binary, perform the calculation and then convert back to the IPv4 decimal number.
+* Subnet mask tells the computer what part of the IP address is the network portion 
