@@ -16,4 +16,6 @@ modification date: Wednesday 12th July 2023 14:43:45
 
 ### What is subnetting?
 
+* Network can be need to divide as per the organizations require.
+* Organization subdivides the allocated address space into smaller allocations for each subnetwork within the organization, using a process called subnetting.
 * 

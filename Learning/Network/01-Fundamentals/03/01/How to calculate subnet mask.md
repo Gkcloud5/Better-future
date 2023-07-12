@@ -28,7 +28,3 @@ Class C: 192.168.0.0 through 192.168.255.255
 
 ![[Pasted image 20230712161842.png]]
 
-
-##### Sorting out IP subnetting networks and hosts:
-
-* 
