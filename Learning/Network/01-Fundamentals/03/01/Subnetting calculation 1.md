@@ -14,7 +14,7 @@ modification date: Wednesday 12th July 2023 14:43:45
 
 ### [[How to calculate subnet mask]]
 
-### What is subnetting?
+### 1. What is subnetting?
 
 * Network can be need to divide as per the organizations require.
 * Organization subdivides the allocated address space into smaller allocations for each subnetwork within the organization, using a process called subnetting.
@@ -22,12 +22,12 @@ modification date: Wednesday 12th July 2023 14:43:45
 		* Each subnetwork is known as an IP subnet.
 
 
-### Why use subnetting?
+### 2. Why use subnetting?
 
 * Subnetting enables assigned network addresses to be broken into smaller.
 * Subnetting and route summarization work together to make routers more efficient by reducing the size of routing tables.
 
-##### Some steps:
+##### 2.1 Some steps:
 
 * IP addresses must be unique on the internet when using public IP addresses.
 * IPv4 addresses are 32bits made up of 4 octets of 8 bits each.
@@ -35,4 +35,14 @@ modification date: Wednesday 12th July 2023 14:43:45
 * Subnet mask tells the computer what part of the IP address is the network portion of the address and what part identifies the host address range, which are addresses that are assigned to host computers on the network.
 * Subnetting breaks a large network into smaller networks by extending the length of the subnet mask.
 	* This increase the number of subnet mask
-	* 
+* Recent days classless IP address with VLSM are used almost exclusively to subnet a network.
+* Default gateway is a device, typically router, where hosts sends packets that are destined for a device not on the local LAN.
+
+### 3. Using the host's formula:
+
+* it used to decide what subnet mask need to to in network
+* **2^h - 2
+	* h --> the number of 0s in subnet mask
+
+##### 3.1 Find host range:
+* 
