@@ -32,4 +32,7 @@ modification date: Wednesday 12th July 2023 14:43:45
 * IP addresses must be unique on the internet when using public IP addresses.
 * IPv4 addresses are 32bits made up of 4 octets of 8 bits each.
 	* To calculate the subnet mask, convert an IP address to binary, perform the calculation and then convert back to the IPv4 decimal number.
-* Subnet mask tells the computer what part of the IP address is the network portion 
+* Subnet mask tells the computer what part of the IP address is the network portion of the address and what part identifies the host address range, which are addresses that are assigned to host computers on the network.
+* Subnetting breaks a large network into smaller networks by extending the length of the subnet mask.
+	* This increase the number of subnet mask
+	* 
