@@ -60,3 +60,11 @@ modification date: Wednesday 12th July 2023 23:21:42
 ![[Pasted image 20230712233303.png]]
 
 
+##### SMALL:
+
+![[Pasted image 20230712233436.png]]
+
+##### Normal:
+
+![[Pasted image 20230712233457.png]]
+

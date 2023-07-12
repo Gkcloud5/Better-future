@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -183,11 +182,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80e9318144e3538a",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Images/Pasted image 20230712233303.png",
-    "Images/Pasted image 20230712233230.png",
-    "Images/Pasted image 20230712233159.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230712233457.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230712233436.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230712233303.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230712233230.png",
+    "Web Development/Bootstrap/Images/Pasted image 20230712233159.png",
     "Web Development/Bootstrap/Images/Pasted image 20230712232727.png",
     "Web Development/Bootstrap/Images/Pasted image 20230712232205.png",
     "Web Development/Bootstrap/Bootstrap.md",
@@ -207,9 +208,7 @@
     "Web Development/Bootstrap/Grid",
     "Web Development/Bootstrap/Images/Pasted image 20230710224440.png",
     "Web Development/Bootstrap/Fundamentals/Forms bootstrap.md",
-    "Web Development/Bootstrap/Images/Pasted image 20230710223713.png",
     "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
-    "Web Development/Bootstrap/Images/Pasted image 20230710220352.png",
     "Learning/Network/01-Fundamentals/03",
     "Learning/Network/01-Fundamentals/02/02-CIDR.md",
     "Learning/Network/01-Fundamentals/02/01Class/Class in IP address.md",
