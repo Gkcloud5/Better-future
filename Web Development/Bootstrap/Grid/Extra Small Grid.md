@@ -1,3 +1,4 @@
+
 ---
 creation date: 2023-07-12 23:21
 modification date: Wednesday 12th July 2023 23:21:42
@@ -33,5 +34,29 @@ modification date: Wednesday 12th July 2023 23:21:42
 
 
 ```html
-
+<div class="container-fluid">
+<h1>Example grid</h1>
+<div class="row">
+   <div class="col-sm-3 col-md-6 col-lg-4 col-xl-2 bg-success">
+       Sucess Box
+   </div>
+   <div class="col-sm-9 col-md-6 col-lg-8 col-xl-10 bg-warning">
+       warning Box
+   </div> 
+</div>
+</div>
 ```
+
+##### XL:
+
+![[Pasted image 20230712233159.png]]
+
+##### LG:
+
+![[Pasted image 20230712233230.png]]
+
+##### MD:
+
+![[Pasted image 20230712233303.png]]
+
+
