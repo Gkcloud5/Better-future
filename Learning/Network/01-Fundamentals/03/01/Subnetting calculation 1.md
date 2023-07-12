@@ -45,4 +45,10 @@ modification date: Wednesday 12th July 2023 14:43:45
 	* h --> the number of 0s in subnet mask
 
 ##### 3.1 Find host range:
+* Let consider we have 20 hosts in network, simplest thing to do would be to use `255.255.255.0` as your subnet mask.
+	* This would mean you would have `192.168.0.1` through `192.168.0.254` for your hosts.
+	* Address space reserved for subnet identifier `192.168.0.0`
+	* Broadcast address `192.168.0.255`
+
+##### 3.2 Convert to binary:
 * 
