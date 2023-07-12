@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ba27706a90b2a539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subnetting calculation 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cdccbe0688134bf9",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
+                "file": "Subnetting calculation 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
+                "file": "Subnetting calculation 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/03/03-Subnetting.md"
+                "file": "Subnetting calculation 1.md"
               }
             }
           }
@@ -181,10 +193,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ecd2c1526474349",
+  "active": "ba27706a90b2a539",
   "lastOpenFiles": [
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
+    "Subnetting calculation 1.md",
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Networking.md",
     "Web Development/Bootstrap/Grid/Grid stacked.md",
     "Web Development/Bootstrap/Images/Pasted image 20230710233903.png",

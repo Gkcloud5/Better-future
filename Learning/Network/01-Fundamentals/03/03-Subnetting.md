@@ -37,3 +37,5 @@ modification date: Monday 10th July 2023 16:54:04
 * A subnet mask is like an IP address, but for only internal usage within a network.
 * Routers use subnet masks to route data packets to the right place.
 * Subnet masks are not indicated within data packets traversing the internet those packets only indicate the destination IP address, which a router will match with a subnet.
+
+[[Subnetting calculation 1]]
