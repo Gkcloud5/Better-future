@@ -7,20 +7,20 @@ kanban-plugin: basic
 ## To read
 
 - [ ] Internet
-- [ ] Internet protocol
 - [ ] HTTPS
 - [ ] VLSM
 - [ ] PARP
 - [ ] NAT
-- [ ] MAC addresses
 - [ ] DHCP
 - [ ] Gateway works
+- [ ] MAC addresses
 - [ ] IPSec
 
 
 ## Reading
 
 - [ ] Routers
+- [ ] Internet protocol
 
 
 ## Readed

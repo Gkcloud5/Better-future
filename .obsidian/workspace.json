@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6ee514abef514133",
+        "id": "60f4e6ad0e2cb676",
         "type": "tabs",
         "children": [
           {
-            "id": "347697f84da4f065",
+            "id": "e515ee999c03ba14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/Networking.md",
+                "file": "Web Development/Bootstrap/Bootstrap.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7b2f62c99edc007e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9684a626a8f40a12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/Devices/Routers in network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7b60284905bced9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Routing Protocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd0beea0cc8c3b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/03/01/Subnetting calculation 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d87eb08a2a16e3cc",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Learning/Network/To-do/Need to read.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Routing Protocols.md",
+                "file": "Web Development/Bootstrap/Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Routing Protocols.md",
+                "file": "Web Development/Bootstrap/Bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Routing Protocols.md"
+                "file": "Web Development/Bootstrap/Bootstrap.md"
               }
             }
           }
@@ -217,16 +158,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7b60284905bced9",
+  "active": "e515ee999c03ba14",
   "lastOpenFiles": [
-    "Learning/Network/Devices/Routers in network.md",
-    "Main Routing Protocols.md",
-    "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
-    "Learning/Network/Devices/Network switch.md",
-    "Learning/Network/Images/Pasted image 20230713191624.png",
     "Learning/Network/To-do/Need to read.md",
-    "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/03/01/Subnetting calculation 1.md",
+    "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
+    "Learning/Network/Devices/Routers in network.md",
+    "Learning/Network/Devices/Network switch.md",
+    "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
+    "Learning/Network/Images/Pasted image 20230713191624.png",
+    "Learning/Network/Networking.md",
     "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
     "Web Development/Bootstrap/Bootstrap.md",
     "Web Development/Bootstrap/Grid/Extra Small Grid.md",
