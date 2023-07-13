@@ -51,4 +51,10 @@ modification date: Wednesday 12th July 2023 14:43:45
 	* Broadcast address `192.168.0.255`
 
 ##### 3.2 Convert to binary:
+* 255.255.255.0 convert to binary 111111111 11111111 11111111 00000000
+	* Here 0 count is 8
+	* 2^8 - 2 = 256-2 = 254
+		* We will get 254 usable hosts
+
+##### 3.3 Calculate the total number of hosts per subnet:
 * 
