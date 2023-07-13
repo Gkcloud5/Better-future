@@ -37,4 +37,9 @@ modification date: Thursday 13th July 2023 19:12:16
 * An unmanaged switch simply creates more ethernet ports on a LAN.
 	* So that more local devices can access the internet.
 	* Unmanaged switches pass data back and forth based on device MAC addresses.
-* Managed switch fulfills the same function for much larger networks, and offers network administrators much 
+* Managed switch fulfills the same function for much larger networks, and offers network administrators much more control over how traffic is prioritized.
+	* They also enable administrators to setup VLANs to further subdivide a local network into smaller chunks.
+
+### What is the difference between a MAC address and an IP address?
+
+* 
