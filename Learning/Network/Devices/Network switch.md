@@ -51,4 +51,5 @@ modification date: Thursday 13th July 2023 19:12:16
 		* MAC addresses are used at layer 2, not layer 3
 			* Which means they are not included in IP packet headers.
 
-**
+**Layer 2 network switches maintain a table in memory that matches MAC addresses to the switch's ethernet ports. this table is called a content addressable memory table.**
+

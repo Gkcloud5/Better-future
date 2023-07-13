@@ -21,4 +21,11 @@ modification date: Thursday 13th July 2023 19:00:36
 * It server two primary functions
 	* Forwarding data packets to their intended IP address
 	* Allow multiple devices to use the same internet connection.
-* [[Network switch]] forwards data packets between groups of devices in the same network, where a router forwards data between different networks
+* [[Network switch]] forwards data packets between groups of devices in the same network, where a router forwards data between different networks.
+
+### How does a router work?
+
+* Think of a router as an air traffic controller and data packets as aircraft headed to different airports(network).
+	* Each plan has a unique destination and follows a unique route, each packet needs to be guided to its destination as efficiently as possible.
+		* In the same way that an air traffic controller ensures that planes reach their destinations without getting lost or suffering a major disruption along the way, a router helps direct data packets to their destination IP address.
+	* 
