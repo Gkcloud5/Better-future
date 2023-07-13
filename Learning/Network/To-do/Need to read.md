@@ -16,12 +16,11 @@ kanban-plugin: basic
 - [ ] DHCP
 - [ ] Gateway works
 - [ ] IPSec
-- [ ] Routers
 
 
 ## Reading
 
-- [ ] Subnetting
+- [ ] Routers
 
 
 ## Readed
@@ -32,6 +31,7 @@ kanban-plugin: basic
 - [ ] TLD
 - [ ] DNS
 - [ ] Unicast, broadcast, multicast
+- [ ] Subnetting
 - [ ] IP class and CIDR
 - [ ] IPv4 and IPv6
 - [ ] domain registries
