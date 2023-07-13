@@ -42,4 +42,13 @@ modification date: Thursday 13th July 2023 19:12:16
 
 ### What is the difference between a MAC address and an IP address?
 
-* 
+* Network switches refer to MAC addresses in order to send internet traffic to the right devices, not IP addresses.
+* Every device that connects to the internet has 
+	* IP address
+		* IP address are used at layer 3, which means computers and devices all over the internet use IP addresses for sending and receiving data.
+	* MAC address
+		* It is a permanent identifier for each piece of hardware, somewhat like a serial number.
+		* MAC addresses are used at layer 2, not layer 3
+			* Which means they are not included in IP packet headers.
+
+**
