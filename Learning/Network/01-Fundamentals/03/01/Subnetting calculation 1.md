@@ -68,4 +68,7 @@ modification date: Wednesday 12th July 2023 14:43:45
 ##### 3.4 Calculate the number of subnets:
 * 2^s
 	* s --> number of 1s added.
-* 
+
+##### 3.5 Verify the total number of subnets:
+* Let consider we need network with 100 hosts
+* So in 2^7
