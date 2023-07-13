@@ -28,4 +28,13 @@ modification date: Thursday 13th July 2023 19:12:16
 
 ### What is a layer 2 switch? what is layer 3 switch?
 
-*  
+*  Network switches can operate at either OSI layer 2 or layer 3.
+* Layer 2 switches forwarded data based on the destination MAC address, while layer 3 switches forward data based on the destination IP address. 
+	* Some switches can do both.
+
+### What is an unmanaged switch? what is a managed switch?
+
+* An unmanaged switch simply creates more ethernet ports on a LAN.
+	* So that more local devices can access the internet.
+	* Unmanaged switches pass data back and forth based on device MAC addresses.
+* 
