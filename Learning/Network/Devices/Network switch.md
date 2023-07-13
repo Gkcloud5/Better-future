@@ -22,3 +22,10 @@ modification date: Thursday 13th July 2023 19:12:16
 ### What is the difference between a switch and a router?
 
 * Routers are necessary for an internet connection
+	* Routers select paths for data packets to cross networks and reach their destinations.
+* Switches are only used for interconnecting devices.
+	* Homes and small offices need routers for internet access.
+
+### What is a layer 2 switch? what is layer 3 switch?
+
+*  
