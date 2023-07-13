@@ -71,4 +71,6 @@ modification date: Wednesday 12th July 2023 14:43:45
 
 ##### 3.5 Verify the total number of subnets:
 * Let consider we need network with 100 hosts
-* So in 2^7
+	* 11111111 11111111 11111111 10000000
+	* `2^7` = 128 host 
+		* So we can use 100network easily.
