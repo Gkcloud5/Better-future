@@ -28,4 +28,9 @@ modification date: Thursday 13th July 2023 19:00:36
 * Think of a router as an air traffic controller and data packets as aircraft headed to different airports(network).
 	* Each plan has a unique destination and follows a unique route, each packet needs to be guided to its destination as efficiently as possible.
 		* In the same way that an air traffic controller ensures that planes reach their destinations without getting lost or suffering a major disruption along the way, a router helps direct data packets to their destination IP address.
-	* 
+* Router uses **Internal routing table** a list of paths to various network destinations.
+	* The router reads a packet's header to determine where it is going, then consults the routing table to figure out the most efficient path to that destination.
+
+### How does routing work?
+
+* Router refers to internal routing tables to make decisions about how to route
