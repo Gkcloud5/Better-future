@@ -21,4 +21,4 @@ modification date: Thursday 13th July 2023 19:12:16
 
 ### What is the difference between a switch and a router?
 
-* 
+* Routers are necessary for an internet connection
