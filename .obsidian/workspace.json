@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/Devices/Routers in network.md",
+                "file": "Learning/Network/Devices/Routers in network.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network switch.md",
+                "file": "Learning/Network/Devices/Network switch.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network switch.md",
+                "file": "Learning/Network/Devices/Network switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network switch.md",
+                "file": "Learning/Network/Devices/Network switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network switch.md"
+                "file": "Learning/Network/Devices/Network switch.md"
               }
             }
           }
@@ -219,8 +219,9 @@
   },
   "active": "7204577503459df1",
   "lastOpenFiles": [
-    "Learning/Network/01-Fundamentals/Devices/Routers in network.md",
-    "Network switch.md",
+    "Learning/Network/Images/Pasted image 20230713191624.png",
+    "Learning/Network/Devices/Routers in network.md",
+    "Learning/Network/Devices/Network switch.md",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
@@ -259,7 +260,6 @@
     "Learning/Network/01-Fundamentals/02",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/Multicast in networking.md",
     "Learning/Network/01-Fundamentals/01/07-IP addresses/Broadcast in networking.md",
-    "Learning/Network/01-Fundamentals/01/07-IP addresses/Unicast in networking.md",
     "Development Practice/Bootstrap/Practise/Images",
     "Learning/Network/01-Fundamentals/01/07-IP addresses",
     "Images",
