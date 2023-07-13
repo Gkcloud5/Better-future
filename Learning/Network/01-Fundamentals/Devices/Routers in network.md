@@ -15,7 +15,10 @@ modification date: Thursday 13th July 2023 19:00:36
 * Network routing is the process of selecting a path across one or more networks.
 * The internet routing decisions are made by specialized pieces of network hardware called routers.
 
-### What is a router?
+### What is a router? [](https://www.cloudflare.com/learning/network-layer/what-is-a-router/)
 
 * A router is a device that connects two or more packet-switched networks or subnetworks.
-* It server two primary fu
+* It server two primary functions
+	* Forwarding data packets to their intended IP address
+	* Allow multiple devices to use the same internet connection.
+* [[Network switch]] forwards data packets between groups of devices in the same network, where a router forwards data between different networks
