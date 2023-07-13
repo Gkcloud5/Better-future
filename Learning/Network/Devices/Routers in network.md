@@ -33,4 +33,12 @@ modification date: Thursday 13th July 2023 19:00:36
 
 ### How does routing work?
 
-* Router refers to internal routing tables to make decisions about how to route
+* Router refers to internal routing tables to make decisions about how to route packets along network paths.
+* A routing table records the paths that packets should take to reach every destinations that the router is responsible for.
+* Router working way:
+	* When router receives a packet, it reads the headers and get info about destination, then it determines where to route the packet based on information in its routing table.
+	* Some times packets routed several times by different routers.
+* Routing table may be static or dynamic.
+	* Dynamic routing table update automatically.
+
+### [[Main Routing Protocols]]
