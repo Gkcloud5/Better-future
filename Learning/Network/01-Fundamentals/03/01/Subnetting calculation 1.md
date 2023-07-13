@@ -57,4 +57,15 @@ modification date: Wednesday 12th July 2023 14:43:45
 		* We will get 254 usable hosts
 
 ##### 3.3 Calculate the total number of hosts per subnet:
+* If you remove 1 from above example then i will get more hosts
+* 11111111 11111111 11111110 00000000
+	* 255.255.254.0
+	* 2^9 - 2=512-2=510
+	* Range
+		* 192.168.0.1 to 192.168.0.255
+		* 192.168.1.0 to 192.168.1.254
+
+##### 3.4 Calculate the number of subnets:
+* 2^s
+	* s --> number of 1s added.
 * 
