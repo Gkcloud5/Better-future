@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d513511526c821",
+        "id": "6ee514abef514133",
         "type": "tabs",
         "children": [
           {
-            "id": "3d02604448715369",
+            "id": "347697f84da4f065",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,8 +149,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d02604448715369",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
     "Web Development/Bootstrap/Bootstrap.md",
     "Web Development/Bootstrap/Grid/Extra Small Grid.md",
     "Web Development/Bootstrap/Images/Pasted image 20230712233457.png",
