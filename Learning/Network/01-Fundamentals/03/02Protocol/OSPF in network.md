@@ -20,3 +20,4 @@ modification date: Friday 14th July 2023 16:28:09
 
 #### OSPF terms:
 
+##### Router id:
