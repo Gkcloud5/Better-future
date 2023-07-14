@@ -16,3 +16,8 @@ modification date: Friday 14th July 2023 15:17:59
 	* Someone submits data via the internet, BGP is responsible for looking at all of the available paths that data could travel and picking the best route
 		* which usually means hopping between  [[Autonomous systems in network|AS]]
 * BGP is the protocol that makes the internet work by enabling data routing.
+
+### Difference between external BGP and internal BGP?
+
+* Routers are exchanged and traffic is transmitted over the internet using the BGP.
+* 

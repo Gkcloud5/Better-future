@@ -30,4 +30,14 @@ modification date: Friday 14th July 2023 15:39:28
 
 ### What is an AS routing policy?
 
-* An AS ro
+* An AS routing policy is a list of the IP address space that the AS controls.
+	* Plus a list of other ASes to which it connects.
+		* This information is necessary for routing packets to the correct networks.
+		* Ases announce this information to the internet using the BGP.
+
+
+### What is an autonomous system number?
+
+* Each AS is assigned an official number, or an autonomous system number.
+* Example:
+	* AS13335
