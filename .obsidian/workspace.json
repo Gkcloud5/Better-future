@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -206,11 +207,11 @@
   },
   "active": "a505afeff7bad346",
   "lastOpenFiles": [
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
     "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
-    "Learning/Network/01-Fundamentals/03/02Protocol",
     "Learning/Network/Devices/Routers in network.md",
+    "Learning/Network/To-do/Need to read.md",
+    "Learning/Network/01-Fundamentals/03/02Protocol",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
     "Learning/Network/Networking.md",
     "Web Development/CSS/CSS.md",
