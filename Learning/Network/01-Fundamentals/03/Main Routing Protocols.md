@@ -22,3 +22,7 @@ In networking, a protocol is a standardized way of formatting data so that any c
 
 ##### [[Border Gateway Protocol in network|BGP]]
 
+#### Below protocols route packets within an AS:
+
+##### [[OSPF in network|OSPF]]
+

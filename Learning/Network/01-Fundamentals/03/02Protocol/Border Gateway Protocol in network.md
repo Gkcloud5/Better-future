@@ -30,4 +30,6 @@ modification date: Friday 14th July 2023 15:17:59
 * BGP assigns attributes to each path, 
 	* And these attributes help routers select a path when there are multiple options. 
 * Some example BGP attributes:
-	* **Weight:** A cisco-proprietary
+	* **Weight:** A cisco-proprietary attribute, this tells a router which local paths are preferred.
+	* **Local preference:** This tells a router which outbound path to select.
+	* **Originate:** This tells a router to choose router it added to BGP itself.
