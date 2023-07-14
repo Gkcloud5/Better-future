@@ -26,4 +26,8 @@ modification date: Friday 14th July 2023 15:17:59
 
 ### BGP attributes?
 
-* 
+* BGP tries to find most efficient path for network traffic.
+* BGP assigns attributes to each path, 
+	* And these attributes help routers select a path when there are multiple options. 
+* Some example BGP attributes:
+	* **Weight:** A cisco-proprietary
