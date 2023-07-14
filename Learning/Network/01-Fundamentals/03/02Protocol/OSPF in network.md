@@ -14,4 +14,6 @@ modification date: Friday 14th July 2023 16:28:09
 #### Explanation about it:
 
 * OSPF protocol is one of family of IP routing protocols.
-* It is used to find the best path between source and the destination router using its ow
+* It is used to find the best path between source and the destination router using its own shortest path first.
+* The protocol which aims at moving the packet within a large autonomous system or routing domain.
+* 
