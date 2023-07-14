@@ -15,11 +15,11 @@ kanban-plugin: basic
 - [ ] Gateway works
 - [ ] MAC addresses
 - [ ] IPSec
+- [ ] TCP
 
 
 ## Reading
 
-- [ ] Routers
 - [ ] Internet protocol
 
 
@@ -31,6 +31,7 @@ kanban-plugin: basic
 - [ ] TLD
 - [ ] DNS
 - [ ] Unicast, broadcast, multicast
+- [ ] Routers
 - [ ] Subnetting
 - [ ] IP class and CIDR
 - [ ] IPv4 and IPv6

@@ -11,8 +11,10 @@
             "id": "2304c9ef191b73b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Learning/Network/To-do/Need to read.md"
+              }
             }
           },
           {
@@ -64,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
+                "file": "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
+                "file": "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md"
+                "file": "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md"
               }
             }
           }
@@ -203,10 +204,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "553b8b94736db16d",
+  "active": "a505afeff7bad346",
   "lastOpenFiles": [
-    "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
+    "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
     "Learning/Network/01-Fundamentals/03/02Protocol",
     "Learning/Network/Devices/Routers in network.md",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
@@ -214,7 +216,6 @@
     "Web Development/CSS/CSS.md",
     "Web Development/Bootstrap/Fundamentals/Navbar bootstrap.md",
     "Web Development/Bootstrap/Bootstrap.md",
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/03/01/Subnetting calculation 1.md",
     "Learning/Network/Devices/Network switch.md",
     "Learning/Network/Images/Pasted image 20230713191624.png",
