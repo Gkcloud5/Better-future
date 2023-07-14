@@ -20,4 +20,10 @@ modification date: Friday 14th July 2023 15:17:59
 ### Difference between external BGP and internal BGP?
 
 * Routers are exchanged and traffic is transmitted over the internet using the BGP.
+* AS can also use an internal version of BGP to route through their internal networks, which is known as internal BGP.
+* External BGP is like international shipping. there are certain standards and guidelines that need to be followed when shipping a piece of mail internationally.
+	* Once that piece of mail reaches its destination country, it has to go through the destination country's local mail service to reach its final destination.
+
+### BGP attributes?
+
 * 
