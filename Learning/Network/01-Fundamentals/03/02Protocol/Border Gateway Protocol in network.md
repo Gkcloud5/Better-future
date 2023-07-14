@@ -13,3 +13,6 @@ modification date: Friday 14th July 2023 15:17:59
 ### What is BGP?
 
 * Border gateway protocol is the postal service of the internet.
+	* Someone submits data via the internet, BGP is responsible for looking at all of the available paths that data could travel and picking the best route
+		* which usually means hopping between  [[Autonomous systems in network|AS]]
+* BGP is the protocol

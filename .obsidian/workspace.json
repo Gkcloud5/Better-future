@@ -64,18 +64,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "553b8b94736db16d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 4
@@ -219,11 +207,11 @@
   },
   "active": "6a26db5fd5ff86cc",
   "lastOpenFiles": [
-    "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
-    "Learning/Network/01-Fundamentals/03/02Protocol/Border Gateway Protocol in network.md",
     "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
-    "Learning/Network/Devices/Routers in network.md",
     "Learning/Network/To-do/Need to read.md",
+    "Learning/Network/01-Fundamentals/03/02Protocol/Border Gateway Protocol in network.md",
+    "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
+    "Learning/Network/Devices/Routers in network.md",
     "Learning/Network/01-Fundamentals/03/02Protocol",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
     "Learning/Network/Networking.md",

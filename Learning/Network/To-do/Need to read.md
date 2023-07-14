@@ -16,6 +16,7 @@ kanban-plugin: basic
 - [ ] MAC addresses
 - [ ] IPSec
 - [ ] TCP
+- [ ] AS
 
 
 ## Reading
