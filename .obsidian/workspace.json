@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autonomous systems in network.md",
+                "file": "Learning/Network/01-Fundamentals/03/02Protocol/Autonomous systems in network.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous systems in network.md",
+                "file": "Learning/Network/01-Fundamentals/03/02Protocol/Autonomous systems in network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous systems in network.md",
+                "file": "Learning/Network/01-Fundamentals/03/02Protocol/Autonomous systems in network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous systems in network.md"
+                "file": "Learning/Network/01-Fundamentals/03/02Protocol/Autonomous systems in network.md"
               }
             }
           }
@@ -219,7 +220,7 @@
   "active": "188b11871432fd91",
   "lastOpenFiles": [
     "Learning/Network/01-Fundamentals/03/02Protocol/Border Gateway Protocol in network.md",
-    "Autonomous systems in network.md",
+    "Learning/Network/01-Fundamentals/03/02Protocol/Autonomous systems in network.md",
     "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
