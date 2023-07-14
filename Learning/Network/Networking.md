@@ -9,6 +9,7 @@
 5. [JT](https://www.javatpoint.com/computer-network-tutorial)
 6. [GFG](https://www.geeksforgeeks.org/computer-network-tutorials/)
 7. [SG](https://thestudygenius.com/unicast-broadcast-multicast/)
+8. [NL](https://networklessons.com/ospf)
 
 #### Topics:
 

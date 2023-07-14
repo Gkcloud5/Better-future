@@ -8,6 +8,7 @@ modification date: Friday 14th July 2023 16:28:09
 #### Source:
 [OSPF](https://www.cloudflare.com/learning/network-layer/what-is-routing/)
 [GG](https://www.geeksforgeeks.org/open-shortest-path-first-ospf-protocol-states/)
+[SR](https://www.scaler.com/topics/ospf-protocol/)
 
 --------------------------------------
 
@@ -17,7 +18,7 @@ modification date: Friday 14th July 2023 16:28:09
 * It is used to find the best path between source and the destination router using its own shortest path first.
 * The protocol which aims at moving the packet within a large autonomous system or routing domain.
 * It is a network layer protocols.
+* OSPF is one of the intradomain protocols.
+	* Intradomain protocol means that his protocol is used within the network or an area.
+* OSPF protocol is the protocol that works based on the link [[State routing algorithm]] in which ea
 
-#### OSPF terms:
-
-##### Router id:
