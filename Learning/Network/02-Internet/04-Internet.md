@@ -14,4 +14,7 @@ modification date: Saturday 15th July 2023 18:36:17
 
 ### What is the internet?
 
-* 
+* **About network:**
+	* A network is a group of connected computers that are able to send data to each other.
+
+* The internet is a vast, sprawling 
