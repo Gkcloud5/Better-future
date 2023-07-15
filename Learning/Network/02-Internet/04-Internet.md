@@ -28,4 +28,10 @@ modification date: Saturday 15th July 2023 18:36:17
 
 * There is no control center for the internet.
 	* It is distributed networking system.
+* The internet's distributed nature makes it resilient.
+	* Computers, servers and other pieces of networking hardware connect and disconnect from the internet all the time without impacting how the internet functions.
+
+
+### How does the internet work?
+
 * 
