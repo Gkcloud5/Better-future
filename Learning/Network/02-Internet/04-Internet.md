@@ -34,4 +34,10 @@ modification date: Saturday 15th July 2023 18:36:17
 
 ### How does the internet work?
 
+* Two main concepts that are fundamentals way the internet functions
+	* Packets
+	* Protocols
+
+##### Packets:
+
 * 
