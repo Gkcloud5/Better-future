@@ -37,3 +37,11 @@ modification date: Saturday 15th July 2023 13:36:12
 ##### Updating and propagating information:
 * As the network state changes, nodes update their link-state databases accordingly.
 	* They then recalculated the shortest paths and update their routing tables.
+	* These updates are propagated to neighboring nodes using LSA exchanges, ensuring that all nodes have an up to date view of the network.
+
+##### Forwarding packets:
+* When a node receives a data packet destined for a specific destination, it consults its routing table to determine the next hop and outgoing interface.
+* The packet is then forwarded to the next node along the calculated path, eventually reaching its destination.
+
+
+**By using the link state routing algorithm, networks can dynamically adapt to changes in the network topology, provide fault tolerance and optimize the path selection based on various metrics.**

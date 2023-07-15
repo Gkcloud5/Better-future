@@ -16,12 +16,11 @@ kanban-plugin: basic
 - [ ] MAC addresses
 - [ ] IPSec
 - [ ] TCP
-- [ ] link state routing
-- [ ] Distance vector algorithm
 
 
 ## Reading
 
+- [ ] Distance vector algorithm
 
 
 ## Readed
@@ -35,6 +34,7 @@ kanban-plugin: basic
 - [ ] Routers
 - [ ] Subnetting
 - [ ] IP class and CIDR
+- [ ] link state routing
 - [ ] IPv4 and IPv6
 - [ ] Internet protocol
 - [ ] AS
