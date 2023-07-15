@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f06393d7e8c929c0",
+        "id": "058f40d6ee394317",
         "type": "tabs",
         "children": [
           {
-            "id": "9ab19969abf94fa8",
+            "id": "29e89d49d540adfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73b887ef94ff23e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/02-Internet/04-Internet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9202190055db6cad",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Learning/Network/To-do/Need to read.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -117,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/02-Internet/04-Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/02-Internet/04-Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Network/02-Internet/04-Internet.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -181,11 +149,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73b887ef94ff23e2",
+  "active": "29e89d49d540adfc",
   "lastOpenFiles": [
-    "Learning/Network/Networking.md",
-    "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/To-do/Need to read.md",
+    "Learning/Network/02-Internet/04-Internet.md",
+    "Learning/Network/Networking.md",
     "Learning/Network/02-Internet",
     "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
     "Learning/Network/Devices/Routers in network.md",

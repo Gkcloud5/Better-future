@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:Learning/Network/",
+  "search": "path:\"Web Development/Bootstrap\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 9.0625,
   "linkStrength": 0.625,
   "linkDistance": 214,
-  "scale": 0.4311608530039637,
+  "scale": 0.8474708212724298,
   "close": false
 }
