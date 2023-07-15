@@ -17,4 +17,7 @@ modification date: Saturday 15th July 2023 18:36:17
 * **About network:**
 	* A network is a group of connected computers that are able to send data to each other.
 
-* The internet is a vast, sprawling 
+* The internet is a vast, sprawling collection of networks that connect to each other.
+	* Interconnected networks.
+
+* Since computers connect to each other within networks and these networks also all connect with each other, one computer can talk to another computer in a faraway
