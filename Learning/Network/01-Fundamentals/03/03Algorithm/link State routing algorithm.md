@@ -23,4 +23,10 @@ modification date: Saturday 15th July 2023 13:36:12
 	* This information is typically obtained through a process called link state advertisement exchange.
 
 ##### Building a link state database:
-* Each node collects the LSAs received from neighboring nodes and builds a comprehensive database that represents the cur
+* Each node collects the LSAs received from neighboring nodes and builds a comprehensive database that represents the current state of network.
+* This database includes information about the nodes, links and their associated costs.
+
+##### Computing the shortest path:
+* Using the link state database, each node independently calculates the shortest path to every other node in the network.
+* The shortest path calculation takes into account the link costs and uses a metric, such as the total cost or hop count, to determine the optimal route.
+
