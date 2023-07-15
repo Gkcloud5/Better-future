@@ -17,11 +17,11 @@ kanban-plugin: basic
 - [ ] IPSec
 - [ ] TCP
 - [ ] link state routing
+- [ ] Distance vector algorithm
 
 
 ## Reading
 
-- [ ] Internet protocol
 
 
 ## Readed
@@ -36,6 +36,7 @@ kanban-plugin: basic
 - [ ] Subnetting
 - [ ] IP class and CIDR
 - [ ] IPv4 and IPv6
+- [ ] Internet protocol
 - [ ] AS
 - [ ] domain registries
 
