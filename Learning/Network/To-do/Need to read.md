@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## To read
 
-- [ ] Internet
 - [ ] HTTPS
 - [ ] VLSM
 - [ ] PARP
@@ -20,7 +19,7 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] Distance vector algorithm
+- [ ] Internet
 
 
 ## Readed
@@ -36,6 +35,7 @@ kanban-plugin: basic
 - [ ] IP class and CIDR
 - [ ] link state routing
 - [ ] IPv4 and IPv6
+- [ ] Distance vector algorithm
 - [ ] Internet protocol
 - [ ] AS
 - [ ] domain registries

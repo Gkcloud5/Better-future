@@ -30,3 +30,5 @@ modification date: Saturday 15th July 2023 14:18:45
 
 ##### Data sharing:
 * The nodes share the information with the neighboring node from time to time as there is a change in network topology.
+
+![[Pasted image 20230715183532.png]]
