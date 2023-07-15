@@ -20,7 +20,7 @@ modification date: Friday 14th July 2023 16:28:09
 * It is a network layer protocols.
 * OSPF is one of the intradomain protocols.
 	* Intradomain protocol means that his protocol is used within the network or an area.
-* OSPF protocol is the protocol that works based on the link [[State routing algorithm]] in which each router has the information about each domain and uses this information to determine the shortest path.
+* OSPF protocol is the protocol that works based on the [[link State routing algorithm]] in which each router has the information about each domain and uses this information to determine the shortest path.
 
 ![[Pasted image 20230714192516.png]]
 

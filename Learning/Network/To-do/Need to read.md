@@ -16,7 +16,7 @@ kanban-plugin: basic
 - [ ] MAC addresses
 - [ ] IPSec
 - [ ] TCP
-- [ ] AS
+- [ ] link state routing
 
 
 ## Reading
@@ -36,6 +36,7 @@ kanban-plugin: basic
 - [ ] Subnetting
 - [ ] IP class and CIDR
 - [ ] IPv4 and IPv6
+- [ ] AS
 - [ ] domain registries
 
 
