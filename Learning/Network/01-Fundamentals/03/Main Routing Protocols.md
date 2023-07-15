@@ -26,3 +26,6 @@ In networking, a protocol is a standardized way of formatting data so that any c
 
 ##### [[OSPF in network|OSPF]]
 
+###### [[Routing information protocol |RIP]]
+
+
