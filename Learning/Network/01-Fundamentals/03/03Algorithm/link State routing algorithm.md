@@ -30,3 +30,10 @@ modification date: Saturday 15th July 2023 13:36:12
 * Using the link state database, each node independently calculates the shortest path to every other node in the network.
 * The shortest path calculation takes into account the link costs and uses a metric, such as the total cost or hop count, to determine the optimal route.
 
+##### Generating the routing table:
+* Once the shortest path to all nodes in the network is determined, each node constructs its own routing table based on this information.
+	* Routing table contains entries specifying the next hop and outgoing interface for each destination in the network.
+
+##### Updating and propagating information:
+* As the network state changes, nodes update their link-state databases accordingly.
+	* They then recalculated the shortest paths and update their routing tables.
