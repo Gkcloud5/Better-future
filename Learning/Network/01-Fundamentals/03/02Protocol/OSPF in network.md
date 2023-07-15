@@ -24,3 +24,11 @@ modification date: Friday 14th July 2023 16:28:09
 
 ![[Pasted image 20230714192516.png]]
 
+### Working of OSPF:
+
+* First step in the working of OSPF protocol is to become the OSPF neighbors.
+	* Two routers that are running on the same link and are connected establishes the neighbors relationship between them.
+* Next step is to exchange the database information between the routers.
+	* When the router establishes the neighbor relationship they exchange the link state database with each other.
+* Third step in the working of the OSPF protocol is to select the best route.
+	* After an exchange of LSDB information, the router find the best route for adding to the routing table.
