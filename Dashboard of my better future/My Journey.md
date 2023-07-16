@@ -20,10 +20,12 @@ banner_y: 0.22667
 
 # ✍️Development
 
-* #### 🖥️Front-end development
+* #### 🖥️Basic Front-end Skills
 	* [[HTML]]
 	* [[CSS]]
 	* [[Bootstrap]]
+* #### 🖥️Interactive language
+	* [[Javascript]]
 
 
 # 👨‍💻Project:

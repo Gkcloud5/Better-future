@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "058f40d6ee394317",
+        "id": "a85e678a222ff630",
         "type": "tabs",
         "children": [
           {
-            "id": "29e89d49d540adfc",
+            "id": "b95c837d9c289470",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard of my better future/My Journey.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard of my better future/My Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dashboard of my better future/My Journey.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,8 +150,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29e89d49d540adfc",
+  "active": "b95c837d9c289470",
   "lastOpenFiles": [
+    "Web Development/RoadMap/Web App developer roadmap.canvas",
+    "Dashboard of my better future/My Journey.md",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/Networking.md",
@@ -197,7 +192,6 @@
     "Learning/Network/01-Fundamentals/03/01/How to calculate subnet mask.md",
     "Learning/Network/01-Fundamentals/03/01",
     "Web Development/Bootstrap/Grid/Grid system2 - bootstrap.md",
-    "Web Development/Bootstrap/Fundamentals/Grid system.md",
     "Web Development/Bootstrap/Grid",
     "Learning/Network/01-Fundamentals/03",
     "Learning/Network/01-Fundamentals/02/01Class",
@@ -206,7 +200,6 @@
     "Learning/Network/01-Fundamentals/01/07-IP addresses",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
