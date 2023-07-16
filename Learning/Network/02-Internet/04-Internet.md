@@ -32,15 +32,21 @@ modification date: Saturday 15th July 2023 18:36:17
 	* Computers, servers and other pieces of networking hardware connect and disconnect from the internet all the time without impacting how the internet functions.
 
 
-### How does the internet work?
+### 3. How does the internet work?
 
 * Two main concepts that are fundamentals way the internet functions
 	* Packets
 	* Protocols
 
-##### Packets:
+##### 3.1 Packets:
 
 * A packet is a small segment of a larger message.
 	* Each packet contains both data information about that data.
 * [[Data packets]]
-* 
+* Packets are sent across the internet using technique called [[Packet Switching]]
+
+##### 3.2 Protocol:
+
+* Generally, computers are have different type configuration so we are using some protocol to communicate a device that connected in network.
+* In networking, a protocol is a standardized way of doing certain actions and formatting data so that two or more devices are able to communicate with and understand each other.
+* These are the protoco
