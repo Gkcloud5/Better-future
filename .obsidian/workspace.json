@@ -44,36 +44,12 @@
             }
           },
           {
-            "id": "bee8a331a741602a",
+            "id": "2cac6d4904d7d8fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Simple explain template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "514996495e327080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Grammar template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c7dcf889fb63295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/Improvement/Grammar related stuff's.md",
+                "file": "Communication/Improvement/till 50 words/01-Be word.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Grammar template.md",
+                "file": "Communication/Improvement/till 50 words/01-Be word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Grammar template.md",
+                "file": "Communication/Improvement/till 50 words/01-Be word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Grammar template.md"
+                "file": "Communication/Improvement/till 50 words/01-Be word.md"
               }
             }
           }
@@ -231,17 +207,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "2cac6d4904d7d8fc",
   "lastOpenFiles": [
+    "Communication/Improvement/80% using words.md",
     "Template/Simple explain template.md",
     "Template/Grammar template.md",
+    "Communication/Improvement/Grammar related stuff's.md",
     "Template/Theory template.md",
     "Communication/Improvement/till 50 words/01-Be word.md",
-    "Communication/Improvement/80% using words.md",
     "Communication/Improvement/till 50 words",
     "Communication/Improving communication.md",
     "Learning/Network/Networking.md",
-    "Communication/Improvement/Grammar related stuff's.md",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
