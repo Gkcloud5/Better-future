@@ -11,11 +11,64 @@
             "id": "b95c837d9c289470",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8be76b7d80976d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/02-Internet/04-Internet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6ca450403a90566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5256b666426a0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equivalence of test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e38d8eb04da573c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equivalence of test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equivalence of test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Equivalence of test.md"
+              }
             }
           }
         ],
@@ -150,13 +207,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b95c837d9c289470",
+  "active": "f5256b666426a0e3",
   "lastOpenFiles": [
+    "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+    "Equivalence of test.md",
+    "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
+    "Learning/Network/02-Internet/04-Internet.md",
+    "Learning/Network/Networking.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Dashboard of my better future/My Journey.md",
     "Learning/Network/To-do/Need to read.md",
-    "Learning/Network/02-Internet/04-Internet.md",
-    "Learning/Network/Networking.md",
     "Learning/Network/02-Internet",
     "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
     "Learning/Network/Devices/Routers in network.md",
@@ -189,9 +249,7 @@
     "Web Development/Bootstrap/Images/Pasted image 20230712233230.png",
     "Web Development/Bootstrap/Images/Pasted image 20230712233159.png",
     "Web Development/Bootstrap/Grid/Grid stacked.md",
-    "Learning/Network/01-Fundamentals/03/01/How to calculate subnet mask.md",
     "Learning/Network/01-Fundamentals/03/01",
-    "Web Development/Bootstrap/Grid/Grid system2 - bootstrap.md",
     "Web Development/Bootstrap/Grid",
     "Learning/Network/01-Fundamentals/03",
     "Learning/Network/01-Fundamentals/02/01Class",
