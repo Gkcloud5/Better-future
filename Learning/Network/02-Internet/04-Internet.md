@@ -49,4 +49,15 @@ modification date: Saturday 15th July 2023 18:36:17
 
 * Generally, computers are have different type configuration so we are using some protocol to communicate a device that connected in network.
 * In networking, a protocol is a standardized way of doing certain actions and formatting data so that two or more devices are able to communicate with and understand each other.
-* These are the protoco
+* These are the protocol sending packets between devices on the same network
+	* For sending packets from network to network [[Internet protocol in networking|IP]]
+	* For ensuring those packets successfully arrive in order [[TCP in network |TCP]]
+	* And for formatting data for websites and applications are [[HTTPS in network|HTTPS]]
+	* In addition to these foundational protocols, these are
+		* Protocols for routing
+		* Testing
+		* encryption
+	* Some alternative protocol we have, like for streaming video often we use [[UDP in network|UDP]] instead of TCP.
+
+
+### 4. What Physical infrastructure makes the internet
