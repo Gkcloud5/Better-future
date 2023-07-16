@@ -60,4 +60,4 @@ modification date: Saturday 15th July 2023 18:36:17
 	* Some alternative protocol we have, like for streaming video often we use [[UDP in network|UDP]] instead of TCP.
 
 
-### 4. What Physical infrastructure makes the internet
+### 4. What Physical infrastructure makes the internet work?
