@@ -17,7 +17,7 @@ modification date: Sunday 16th July 2023 18:44:03
 
 ### What is that mean?
 
-* `be`
+* `be` is a verb
 ### Why we are using it?
 
 
