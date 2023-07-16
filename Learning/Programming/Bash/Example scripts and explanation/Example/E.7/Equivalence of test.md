@@ -3,7 +3,7 @@ creation date: 2023-07-16 18:13
 modification date: Sunday 16th July 2023 18:13:15
 ---
 
-### Script:[](https://tldp.org/LDP/abs/html/testconstructs.html#EX11)
+### Script 1:[](https://tldp.org/LDP/abs/html/testconstructs.html#EX11)
 
 ```
 #!bin/bash
@@ -52,8 +52,29 @@ exit 0
 
 ![[Pasted image 20230716181942.png]]
 
+
+### Script 2:
+
+```
+#!/bin/bash
+file=/etc/passwd
+
+if [[ -e $file ]]
+then
+   echo "File exists"
+fi
+
+```
+
+### Output2:
+
+![[Pasted image 20230716182253.png]]
+
 ### Explanation:
 
-
+* `-e` used to check file is exist or not
+* `-z` command used to check string is empty or not
 
 ### Things know:
+
+* Use case of `-e and -z`

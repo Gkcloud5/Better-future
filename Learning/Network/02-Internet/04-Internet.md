@@ -42,4 +42,5 @@ modification date: Saturday 15th July 2023 18:36:17
 
 * A packet is a small segment of a larger message.
 	* Each packet contains both data information about that data.
+* [[Data packets]]
 * 
