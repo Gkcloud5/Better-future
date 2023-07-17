@@ -28,3 +28,15 @@ modification date: Monday 17th July 2023 22:23:57
 
 
 #### 2. Scopes in JS:
+##### Front-end developer:
+* Angular
+* React
+* Vue
+
+##### Back-end developer:
+* Node
+
+##### Mobile application developer:
+* React
+* Ionic
+
