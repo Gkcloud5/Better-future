@@ -71,4 +71,7 @@ modification date: Saturday 15th July 2023 18:36:17
 		* Connect devices that share a single network. they use packet switching to forward packets to the correct devices.
 
         * [[Web servers in network | Web server]]
-	        * 
+	        * It store and serve content to users.
+
+
+### 5. 
