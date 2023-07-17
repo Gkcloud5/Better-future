@@ -9,9 +9,19 @@ modification date: Monday 17th July 2023 17:41:36
 #!/bin/bash
 
 (( 0 ))
-echo "Exit status of \"(( 0 ))" is $?." # 1
+echo "Exit status of \"(( 0 ))\" is $?." #1
 
+(( 1 ))
+echo "Exit status of \" (( 1 ))\" is $?." #0
 
+(( 5 > 4 ))
+echo "Exit status of \"(( 5 > 4 ))\" is #?." #true #0
+
+(( 5 > 9 ))
+echo "Exit status of \"(( 5 > 9 ))\" is $?." #false #1
+
+(( 5 == 5 ))
+echo "Exit status of \"(( 5 == 5 ))\" is $?." #true #0
  ```
 
 ### Output:
