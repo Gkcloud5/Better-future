@@ -21,7 +21,6 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] Internet
 
 
 ## Readed
@@ -38,6 +37,7 @@ kanban-plugin: basic
 - [ ] link state routing
 - [ ] IPv4 and IPv6
 - [ ] Distance vector algorithm
+- [ ] Internet
 - [ ] Internet protocol
 - [ ] AS
 - [ ] domain registries
