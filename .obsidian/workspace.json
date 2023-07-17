@@ -32,6 +32,28 @@
             }
           },
           {
+            "id": "e92da30b262b3f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/02-Internet/Web servers in network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f940ec7d3d9cdec",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Learning/Network/To-do/Need to read.md"
+              }
+            }
+          },
+          {
             "id": "16bfdd4c642a2987",
             "type": "leaf",
             "state": {
@@ -197,8 +219,10 @@
   },
   "active": "c35272e51137915a",
   "lastOpenFiles": [
+    "Learning/Network/02-Internet/Web servers in network.md",
     "Learning/Network/Devices/Network switch.md",
     "Learning/Network/Devices/Routers in network.md",
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/Networking.md",
     "Learning/Network/01-Fundamentals/02/02-CIDR.md",
@@ -223,12 +247,10 @@
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/What is truth.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Dashboard of my better future/My Journey.md",
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet",
     "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
     "Learning/Network/01-Fundamentals/03/03Algorithm/Distance Vector Algorithm.md",
-    "Learning/Network/01-Fundamentals/03/02Protocol/Routing information protocol.md",
     "Learning/Network/Images/Pasted image 20230715183532.png",
     "Learning/Network/01-Fundamentals/03/03Algorithm",
     "Learning/Network/Images/Pasted image 20230715132821.png",
