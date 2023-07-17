@@ -6,7 +6,7 @@ modification date: Sunday 16th July 2023 18:44:03
 **Tags:** 
 
 #### Useful Resource:
-1. []()
+1. [YT](https://www.youtube.com/watch?v=e_AItIo9S1I)
 
 --------------------------------------
 
@@ -14,14 +14,21 @@ modification date: Sunday 16th July 2023 18:44:03
 
 **Be** -- Will you **be** my friend?
 
+### Tamil Meaning:
+
+* Be - இரு
 
 ### What is that mean?
 
 * `be` is a verb.
-* 
+	* Verb going to happen.
+
 ### Why we are using it?
 
+#### In simple present tense:
 
-### Some Examples:
-
+* Be safe
+* Be ready
+* Be Careful
+* Exam is to **be** conducted
 
