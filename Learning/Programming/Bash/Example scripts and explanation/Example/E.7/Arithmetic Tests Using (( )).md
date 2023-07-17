@@ -22,6 +22,16 @@ echo "Exit status of \"(( 5 > 9 ))\" is $?." #false #1
 
 (( 5 == 5 ))
 echo "Exit status of \"(( 5 == 5 ))\" is $?." #true #0
+
+var1=5
+var2=4
+
+if (( var1 > var2 ))
+then
+   echo "$var1 is greater than $var2"
+fi
+
+exit 0
  ```
 
 ### Output:
@@ -34,4 +44,4 @@ echo "Exit status of \"(( 5 == 5 ))\" is $?." #true #0
 	* If the expression evaluates as zero --> It returns an exit status of 1 or false.
 	* If  non-zero expression returns an exit status of 0, or true.
 
-### Things know:
+ 
