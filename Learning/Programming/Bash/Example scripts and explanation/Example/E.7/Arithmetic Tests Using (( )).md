@@ -36,6 +36,7 @@ exit 0
 
 ### Output:
 
+![[Pasted image 20230717182148.png]]
 
 
 ### Explanation:
