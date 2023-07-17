@@ -77,4 +77,11 @@ modification date: Saturday 15th July 2023 18:36:17
 ### 5. How do these concepts relate to website and application users access over the internet?
 
 * Packets are traveled over cables and radio waves and through routers and switches from our web server to your computer or device.
-* 
+* Your computer or smartphone received those packets and passed them to your device's browser, and your browser interpreted the data within the packets in order to display the text you are reading now.
+
+##### 5.1 Specific steps involved in this process:
+
+###### 5.1 [[DNS in Networking |DNS query]]: 
+* When your browser started to load this webpage, it likely first made a DNS query to find out the IP address.
+
+###### 5.
