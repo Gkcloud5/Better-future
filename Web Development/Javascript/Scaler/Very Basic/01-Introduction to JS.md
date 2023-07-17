@@ -26,3 +26,5 @@ modification date: Monday 17th July 2023 22:23:57
 * It used to create web pages and web applications work dynamically
 	* Code will do things as per the logic.
 
+
+#### 2. Scopes in JS:
