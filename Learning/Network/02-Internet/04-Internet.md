@@ -84,4 +84,11 @@ modification date: Saturday 15th July 2023 18:36:17
 ###### 5.1 [[DNS in Networking |DNS query]]: 
 * When your browser started to load this webpage, it likely first made a DNS query to find out the IP address.
 
-###### 5.
+###### 5.2 [[TCP Handshake]]
+* Your browser opened a connection with that IP address.
+
+###### 5.3 [[TLS Handshake]]
+* Your browser also set up encryption between a  web server and your device so that attackers cannot read the data packets that travel between those two endpoints.
+
+###### 5.4 HTTP request:
+* Your browser requested the content that ap
