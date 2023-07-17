@@ -16,6 +16,7 @@ kanban-plugin: basic
 - [ ] IPSec
 - [ ] TCP
 - [ ] Web servers
+- [ ] TLS
 
 
 ## Reading
