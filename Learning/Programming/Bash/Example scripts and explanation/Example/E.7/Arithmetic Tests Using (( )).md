@@ -30,6 +30,8 @@ echo "Exit status of \"(( 5 == 5 ))\" is $?." #true #0
 
 ### Explanation:
 
-
+* `(( ))` expands and evaluates an arithmetic expression.
+	* If the expression evaluates as zero --> It returns an exit status of 1 or false.
+	* If  non-zero expression returns an exit status of 0, or true.
 
 ### Things know:
