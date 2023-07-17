@@ -30,6 +30,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16bfdd4c642a2987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/Devices/Routers in network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b37bbd8d8f354c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/Devices/Network switch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -173,7 +197,11 @@
   },
   "active": "c35272e51137915a",
   "lastOpenFiles": [
+    "Learning/Network/Devices/Network switch.md",
+    "Learning/Network/Devices/Routers in network.md",
+    "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/Networking.md",
+    "Learning/Network/01-Fundamentals/02/02-CIDR.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Arithmetic Tests Using (( )).md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Learning/Programming/Bash/Bash.md",
@@ -188,7 +216,6 @@
     "Communication/Improvement/Grammar related stuff's.md",
     "Template/Theory template.md",
     "Communication/Improvement/till 50 words",
-    "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Equivalence of test.md",
     "Learning/Programming/Bash/Images/Pasted image 20230716182253.png",
@@ -199,12 +226,10 @@
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet",
     "Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
-    "Learning/Network/Devices/Routers in network.md",
     "Learning/Network/01-Fundamentals/03/03-Subnetting.md",
     "Learning/Network/01-Fundamentals/03/03Algorithm/Distance Vector Algorithm.md",
     "Learning/Network/01-Fundamentals/03/02Protocol/Routing information protocol.md",
     "Learning/Network/Images/Pasted image 20230715183532.png",
-    "Learning/Network/01-Fundamentals/03/02Protocol/OSPF in network.md",
     "Learning/Network/01-Fundamentals/03/03Algorithm",
     "Learning/Network/Images/Pasted image 20230715132821.png",
     "Learning/Network/Images/Pasted image 20230714192516.png",

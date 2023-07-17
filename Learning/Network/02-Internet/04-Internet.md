@@ -62,4 +62,9 @@ modification date: Saturday 15th July 2023 18:36:17
 
 ### 4. What Physical infrastructure makes the internet work?
 
-* 
+* A lot of different kinds of hardware and infrastructure go into making the internet work for everyone.
+	* [[Routers in network |Router]]
+		* Forward packets to different computer network based on their destination.
+		* Routers are like the traffic cops of the internet, making sure that internet traffic goes to the right networks
+
+	* [[Network switch |Switch]]
