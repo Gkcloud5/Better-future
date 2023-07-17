@@ -24,7 +24,7 @@ modification date: Sunday 16th July 2023 18:44:03
 	* Verb going to happen.
 * Some times it used in simple past.
 
-### Why we are using it?
+### Some examples:
 
 #### In simple present tense:
 * Be safe

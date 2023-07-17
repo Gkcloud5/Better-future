@@ -14,12 +14,9 @@ modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 
 **Word**
 
-### What is that mean?
+
+### Tamil Meaning:
 
 
-### Why we are using it?
-
-
-### Some Examples:
 
 

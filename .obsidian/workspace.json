@@ -4,71 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a85e678a222ff630",
+        "id": "7b2d76a20992b5bf",
         "type": "tabs",
         "children": [
           {
-            "id": "b95c837d9c289470",
+            "id": "bd0d16b47784cff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/Networking.md",
+                "file": "Learning/Programming/Bash/Bash.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8be76b7d80976d0d",
+            "id": "140423d24bc39345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Improving communication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f2a74442389ee3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/Improvement/80% using words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cac6d4904d7d8fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/Improvement/till 50 words/01-Be word.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3f2d608d33a7006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -143,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Improvement/till 50 words/01-Be word.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Improvement/till 50 words/01-Be word.md",
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Improvement/till 50 words/01-Be word.md"
+                "file": "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md"
               }
             }
           }
@@ -207,19 +170,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cac6d4904d7d8fc",
+  "active": "140423d24bc39345",
   "lastOpenFiles": [
-    "Communication/Improvement/80% using words.md",
-    "Template/Simple explain template.md",
+    "Learning/Programming/Bash/Bash.md",
+    "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
     "Template/Grammar template.md",
-    "Communication/Improvement/Grammar related stuff's.md",
-    "Template/Theory template.md",
     "Communication/Improvement/till 50 words/01-Be word.md",
-    "Communication/Improvement/till 50 words",
+    "Communication/Improvement/till 50 words/02- Being Word.md",
+    "Communication/Improvement/80% using words.md",
     "Communication/Improving communication.md",
     "Learning/Network/Networking.md",
+    "Template/Simple explain template.md",
+    "Communication/Improvement/Grammar related stuff's.md",
+    "Template/Theory template.md",
+    "Communication/Improvement/till 50 words",
     "Learning/Network/02-Internet/04-Internet.md",
-    "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
     "Learning/Network/01-Fundamentals/01/02-Packets/Data packets.md",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Equivalence of test.md",
@@ -241,9 +206,7 @@
     "Learning/Network/01-Fundamentals/03/03Algorithm",
     "Learning/Network/Images/Pasted image 20230715132821.png",
     "Web Development/Bootstrap/Fundamentals/Images in Bootstrap.md",
-    "Web Development/Bootstrap/Bootstrap.md",
     "Learning/Network/Images/Pasted image 20230714192516.png",
-    "Learning/Network/01-Fundamentals/03/02Protocol/Border Gateway Protocol in network.md",
     "Learning/Network/Images/Pasted image 20230714155952.png",
     "Learning/Network/01-Fundamentals/03/02Protocol",
     "Learning/Network/Images/Pasted image 20230713191624.png",
