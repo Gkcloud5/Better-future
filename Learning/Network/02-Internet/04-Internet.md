@@ -97,4 +97,9 @@ modification date: Saturday 15th July 2023 18:36:17
 * Web server transmitted the content in the form of HTML, CSS and Javascript code, 
 	* Broken up into a series of data packets.
 	* Once your device received the packets and verified it had received all of them
-	* Then your browser interpreted the HTML, CSS and Javascript code contained in the packets to render the content about the internet works
+	* Then your browser interpreted the HTML, CSS and Javascript code contained in the packets to render the content about the internet works.
+
+##### 5.2 Some different processes and protocols are involved in loading webpage:
+
+* [[DNS in Networking |DNS]]
+* [[TCP in network]]
