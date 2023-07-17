@@ -90,5 +90,10 @@ modification date: Saturday 15th July 2023 18:36:17
 ###### 5.3 [[TLS Handshake]]
 * Your browser also set up encryption between a  web server and your device so that attackers cannot read the data packets that travel between those two endpoints.
 
-###### 5.4 HTTP request:
-* Your browser requested the content that ap
+###### 5.4 [[HTTPS in network |HTTP]] request:
+* Your browser requested the content that appears on this webpage.
+
+###### 5.6 [[HTTPS in network |HTTPS]] response:
+* Web server transmitted the content in the form of HTML, CSS and Javascript code, 
+	* Broken up into a series of data packets.
+	* 
