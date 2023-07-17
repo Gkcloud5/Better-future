@@ -19,3 +19,10 @@ modification date: Monday 17th July 2023 22:23:57
 		* JS will take care Memory management.
 	* multi-paradigm --> JS Support procedural, functional and all type of programming
 	* Object-oriented --> JS can create object.
+* It also **Synchronous**
+	* Program executed line by line
+* Also it single threaded in behavior
+* JS also do **Asynchronous** behavior
+* It used to create web pages and web applications work dynamically
+	* Code will do things as per the logic.
+
