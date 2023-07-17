@@ -9,8 +9,10 @@ modification date: Monday 17th July 2023 17:41:36
 #!/bin/bash
 
 (( 0 ))
-echo "Exit status of"
-```
+echo "Exit status of \"(( 0 ))" is $?." # 1
+
+
+ ```
 
 ### Output:
 
