@@ -68,3 +68,4 @@ modification date: Saturday 15th July 2023 18:36:17
 		* Routers are like the traffic cops of the internet, making sure that internet traffic goes to the right networks
 
 	* [[Network switch |Switch]]
+		* Connect devices that share a single network. they use packet switching to forward packets to the correct devices.
