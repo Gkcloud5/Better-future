@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3dbc0641f053267b",
+        "id": "9ca979edc5e9a152",
         "type": "tabs",
         "children": [
           {
-            "id": "11cbea7d6080511b",
+            "id": "469969ddf758650c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Communication/Improving communication.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc33d55cd53bd7ea",
+            "id": "265a6628cbe70e53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Very Basic/02-JS in the browser.md",
+                "file": "Communication/Improvement/80% using words.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ebcca4b5d429e6d",
+            "id": "2ecd368c3c3814fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Very Basic/01-Introduction to JS.md",
+                "file": "Communication/Improvement/till 50 words/02- Being Word.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Communication/Improvement/till 50 words/02- Being Word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Communication/Improvement/till 50 words/02- Being Word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "Communication/Improvement/till 50 words/02- Being Word.md"
               }
             }
           }
@@ -182,8 +182,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "2ecd368c3c3814fc",
   "lastOpenFiles": [
+    "Communication/Improvement/80% using words.md",
+    "Communication/Improving communication.md",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Scaler/Very Basic/02-JS in the browser.md",
     "Web Development/Javascript/Scaler/Very Basic/01-Introduction to JS.md",
@@ -209,8 +211,6 @@
     "Template/Grammar template.md",
     "Communication/Improvement/till 50 words/01-Be word.md",
     "Communication/Improvement/till 50 words/02- Being Word.md",
-    "Communication/Improvement/80% using words.md",
-    "Communication/Improving communication.md",
     "Template/Simple explain template.md",
     "Communication/Improvement/Grammar related stuff's.md",
     "Template/Theory template.md",
