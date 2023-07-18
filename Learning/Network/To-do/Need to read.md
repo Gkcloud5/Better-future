@@ -14,13 +14,13 @@ kanban-plugin: basic
 - [ ] Gateway works
 - [ ] MAC addresses
 - [ ] IPSec
-- [ ] TCP
 - [ ] Web servers
 - [ ] TLS
 
 
 ## Reading
 
+- [ ] TCP
 
 
 ## Readed

@@ -32,10 +32,12 @@ exit $?
 
 ### Output:
 
-
+![[Pasted image 20230718163242.png]]
 
 ### Explanation:
 
-
+* Here we used test expression and perform some condition
 
 ### Things know:
+
+* https://tldp.org/LDP/abs/html/fto.html#BROKENLINK
