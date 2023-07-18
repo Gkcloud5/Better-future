@@ -54,33 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0607058a222dd2ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/01Program Important topics/In Python/String/Strip() - DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77fe952114f95657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/01Program Important topics/In Python/String/Strip() - DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -154,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/01Program Important topics/In Python/String/Strip() - DSA.md",
+                "file": "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/01Program Important topics/In Python/String/Strip() - DSA.md",
+                "file": "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/01Program Important topics/In Python/String/Strip() - DSA.md"
+                "file": "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md"
               }
             }
           }
@@ -218,12 +195,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "5fb5445003fcaaea",
   "lastOpenFiles": [
+    "DSA/01Program Important topics/In Python/String/04-Find() - DSA.md",
+    "Images/Pasted image 20230718224022.png",
+    "DSA/01Program Important topics/In Python/Images/Pasted image 20230718223857.png",
+    "DSA/01Program Important topics/In Python/String/03-Strip() - DSA.md",
     "DSA/01Program Important topics/In Python/String/02-Split() - DSA.md",
     "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
-    "DSA/01Program Important topics/In Python/String/Strip() - DSA.md",
-    "DSA/01Program Important topics/In Python/String/Find() - DSA.md",
     "DSA/01Program Important topics/In Python",
     "DSA/01Program Important topics",
     "DSA",
@@ -263,9 +242,6 @@
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Communication/Improvement/till 50 words/02- Being Word.md",
     "Communication/Improvement/80% using words.md",
-    "Communication/Improvement/till 50 words/03-Been word.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230717182148.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230716182253.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",

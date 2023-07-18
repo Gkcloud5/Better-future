@@ -16,10 +16,10 @@ modification date: Tuesday 18th July 2023 22:25:39
 
 #### [[02-Split() - DSA|Split()]]
 
-#### [[Strip() - DSA |Strip()]]
+#### [[03-Strip() - DSA|Strip()]]
 
-#### [[Find() - DSA |find()]]
+#### [[04-Find() - DSA|find()]]
 
-
+[[isFunction - DSA |is function]]
 
 
