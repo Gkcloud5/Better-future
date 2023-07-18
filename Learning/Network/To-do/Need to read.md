@@ -20,7 +20,6 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] TCP
 
 
 ## Readed
@@ -30,6 +29,7 @@ kanban-plugin: basic
 - [ ] Domain name
 - [ ] TLD
 - [ ] DNS
+- [ ] TCP
 - [ ] Unicast, broadcast, multicast
 - [ ] Routers
 - [ ] Subnetting

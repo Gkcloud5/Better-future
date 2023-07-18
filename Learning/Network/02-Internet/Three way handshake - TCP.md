@@ -25,4 +25,4 @@ modification date: Tuesday 18th July 2023 17:10:48
 * ACK(Acknowledgement) signifies the response of the segment it received and SYN signifies with what sequence it is likely to start the segments with.
 
 #### Step 3 (ACK):
-* In the final part client acknowledges the response of the server and they both establish a rel
+* In the final part client acknowledges the response of the server and they both establish a reliable connection with which they will start the actual data transfer.
