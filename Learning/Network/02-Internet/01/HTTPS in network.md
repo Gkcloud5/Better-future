@@ -68,7 +68,7 @@ modification date: Tuesday 18th July 2023 17:21:49
 	* HTTP response headers
 	* optional HTTP body.
 
-##### 2.5 What's an HTTP status code?
+##### 2.4.1 What's an HTTP status code?
 
 * It's 3 digit code most often used to indicate HTTP request has been successfully completed.
 	* 1xx informational
@@ -77,3 +77,7 @@ modification date: Tuesday 18th July 2023 17:21:49
 	* 4xx Client error
 	* 5xx Server Error
 	* xx refers to different numbers between 00 and 99
+
+##### 2.4.2 What are HTTP response headers?
+
+* HTTP response comes with headers that convey important information such as the language and format of the data being sent in the response body
