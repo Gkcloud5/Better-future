@@ -20,6 +20,7 @@ modification date: Tuesday 18th July 2023 22:25:39
 
 #### [[04-Find() - DSA|find()]]
 
-[[isFunction - DSA |is function]]
+#### [[05-isFunction - DSA|isfunction]]
+
 
 

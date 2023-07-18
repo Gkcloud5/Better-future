@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/01Program Important topics/In Python/Important topics in python.md",
+                "file": "DSA/01-Program Basics/01-In Python/Important topics in python.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
+                "file": "DSA/01-Program Basics/01-In Python/01-String/01-Strings Function - DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
+                "file": "DSA/01-Program Basics/01-In Python/01-String/01-Strings Function - DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d39f96962c2b933e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
+                "file": "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
+                "file": "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md"
+                "file": "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md"
               }
             }
           }
@@ -195,22 +206,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fb5445003fcaaea",
+  "active": "d39f96962c2b933e",
   "lastOpenFiles": [
-    "DSA/01Program Important topics/In Python/String/04-Find() - DSA.md",
-    "Images/Pasted image 20230718224022.png",
-    "DSA/01Program Important topics/In Python/Images/Pasted image 20230718223857.png",
-    "DSA/01Program Important topics/In Python/String/03-Strip() - DSA.md",
-    "DSA/01Program Important topics/In Python/String/02-Split() - DSA.md",
-    "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
-    "DSA/01Program Important topics/In Python",
-    "DSA/01Program Important topics",
+    "Images/Pasted image 20230718224437.png",
+    "DSA/01-Program Basics/01-In Python/Important topics in python.md",
+    "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md",
+    "DSA/01-Program Basics/01-In Python/01-String/01-Strings Function - DSA.md",
+    "DSA/01-Program Basics/01-In Python/01-String/04-Find() - DSA.md",
+    "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230718224022.png",
+    "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230718223857.png",
+    "DSA/01-Program Basics/01-In Python/01-String/03-Strip() - DSA.md",
+    "DSA/01-Program Basics/01-In Python/01-String/02-Split() - DSA.md",
+    "DSA/01-Program Basics/01-In Python",
+    "DSA/01-Program Basics",
     "DSA",
-    "DSA/01Program Important topics/In Python/Images/Pasted image 20230718223218.png",
-    "DSA/01Program Important topics/In Python/Important topics in python.md",
-    "DSA/01Program Important topics/In Python/Images/Pasted image 20230718222846.png",
-    "DSA/01Program Important topics/In Python/Images",
-    "DSA/01Program Important topics/In Python/String",
+    "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230718223218.png",
+    "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230718222846.png",
+    "DSA/01-Program Basics/01-In Python/00-Images",
+    "DSA/01-Program Basics/01-In Python/01-String",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/For DSA",
     "Learning/Programming/Python/To-do--PYTHON.md",
@@ -241,7 +254,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230718163242.png",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Communication/Improvement/till 50 words/02- Being Word.md",
-    "Communication/Improvement/80% using words.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
