@@ -63,5 +63,17 @@ modification date: Tuesday 18th July 2023 17:21:49
 ##### 2.4 What is in an HTTP response?
 
 * An HTTP response is what web clients receive from an internet server in answer to an HTTP request.
-* Typical HTTP res
+* Typical HTTP response contains
+	* HTTP status code
+	* HTTP response headers
+	* optional HTTP body.
 
+##### 2.5 What's an HTTP status code?
+
+* It's 3 digit code most often used to indicate HTTP request has been successfully completed.
+	* 1xx informational
+	* 2xx success
+	* 3xx Redirection
+	* 4xx Client error
+	* 5xx Server Error
+	* xx refers to different numbers between 00 and 99
