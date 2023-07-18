@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "c8c18ad26bb1afea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-First example program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c64b9e5d1049ca8b",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "03-First example program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "03-First example program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "03-First example program.md"
               }
             }
           }
@@ -179,14 +191,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "078b856803655356",
+  "active": "c8c18ad26bb1afea",
   "lastOpenFiles": [
+    "Images/Pasted image 20230718205444.png",
+    "Web Development/Javascript/Scaler/Very Basic/02-JS in the browser.md",
+    "03-First example program.md",
+    "Web Development/Javascript/JavaScript.md",
     "Development Practice/Javascript/Practises/Basic/style.css",
     "Development Practice/Javascript/Practises/Basic/index.js",
     "Development Practice/Javascript/Practises/Basic/index.html",
     "Development Practice/Javascript/Practises/Basic",
-    "Web Development/Javascript/Scaler/Very Basic/02-JS in the browser.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Image/Pasted image 20230718203958.png",
     "Development Practice/Javascript/Practises/index.js",
     "Development Practice/Javascript/Practises/style.css",
@@ -194,7 +208,6 @@
     "Development Practice/Javascript/Practises",
     "Development Practice/Javascript/Practise",
     "Development Practice/Javascript",
-    "Development Practice/New folder",
     "Learning/Network/02-Internet/01/TCP in network.md",
     "Learning/Network/02-Internet/01/HTTPS in network.md",
     "Learning/Network/Images/Pasted image 20230718191547.png",
@@ -221,7 +234,6 @@
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230717182148.png",
     "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
-    "Communication/Improvement/till 50 words/01-Be word.md",
     "Learning/Programming/Bash/Images/Pasted image 20230716182253.png",
     "Learning/Programming/Bash/Images/Pasted image 20230716181942.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",

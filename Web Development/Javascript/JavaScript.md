@@ -9,4 +9,5 @@
 #### 1. Basics
 * [[01-Introduction to JS]]
 * [[02-JS in the browser]]
+* [[03-First example program]]
 * 
