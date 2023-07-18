@@ -14,9 +14,11 @@ modification date: Tuesday 18th July 2023 22:25:39
 
 * String have some function, that's are
 
-#### [[Split() - DSA |Split()]]
+#### [[02-Split() - DSA|Split()]]
 
 #### [[Strip() - DSA |Strip()]]
+
+#### [[Find() - DSA |find()]]
 
 
 

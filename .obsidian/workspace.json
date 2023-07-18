@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/For DSA/Important topics in python.md",
+                "file": "DSA/01Program Important topics/In Python/Important topics in python.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/For DSA/String/Strings Function - DSA.md",
+                "file": "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/For DSA/String/Strings Function - DSA.md",
+                "file": "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0607058a222dd2ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/01Program Important topics/In Python/String/Strip() - DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Programming/Python/For DSA/String/Strip() - DSA.md",
+                "file": "DSA/01Program Important topics/In Python/String/Strip() - DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/For DSA/String/Strip() - DSA.md",
+                "file": "DSA/01Program Important topics/In Python/String/Strip() - DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/For DSA/String/Strip() - DSA.md",
+                "file": "DSA/01Program Important topics/In Python/String/Strip() - DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/For DSA/String/Strip() - DSA.md"
+                "file": "DSA/01Program Important topics/In Python/String/Strip() - DSA.md"
               }
             }
           }
@@ -208,13 +220,18 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Learning/Programming/Python/For DSA/String/Strings Function - DSA.md",
-    "Learning/Programming/Python/For DSA/String/Strip() - DSA.md",
-    "Learning/Programming/Python/For DSA/Important topics in python.md",
-    "Learning/Programming/Python/For DSA/String/Split() - DSA.md",
-    "Learning/Programming/Python/For DSA/Images/Pasted image 20230718222846.png",
-    "Learning/Programming/Python/For DSA/Images",
-    "Learning/Programming/Python/For DSA/String",
+    "DSA/01Program Important topics/In Python/String/02-Split() - DSA.md",
+    "DSA/01Program Important topics/In Python/String/01-Strings Function - DSA.md",
+    "DSA/01Program Important topics/In Python/String/Strip() - DSA.md",
+    "DSA/01Program Important topics/In Python/String/Find() - DSA.md",
+    "DSA/01Program Important topics/In Python",
+    "DSA/01Program Important topics",
+    "DSA",
+    "DSA/01Program Important topics/In Python/Images/Pasted image 20230718223218.png",
+    "DSA/01Program Important topics/In Python/Important topics in python.md",
+    "DSA/01Program Important topics/In Python/Images/Pasted image 20230718222846.png",
+    "DSA/01Program Important topics/In Python/Images",
+    "DSA/01Program Important topics/In Python/String",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/For DSA",
     "Learning/Programming/Python/To-do--PYTHON.md",
@@ -232,10 +249,7 @@
     "Development Practice/Javascript/Practises/Basic/style.css",
     "Development Practice/Javascript/Practises/Basic/index.js",
     "Development Practice/Javascript/Practises/Basic/index.html",
-    "Development Practice/Javascript/Practises/Basic",
     "Web Development/Javascript/Image/Pasted image 20230718203958.png",
-    "Development Practice/Javascript/Practises/index.js",
-    "Development Practice/Javascript/Practises/style.css",
     "Learning/Network/02-Internet/01/TCP in network.md",
     "Learning/Network/02-Internet/01/HTTPS in network.md",
     "Learning/Network/Images/Pasted image 20230718191547.png",
@@ -250,10 +264,8 @@
     "Communication/Improvement/till 50 words/02- Being Word.md",
     "Communication/Improvement/80% using words.md",
     "Communication/Improvement/till 50 words/03-Been word.md",
-    "Template/Grammar template.md",
     "Learning/Programming/Bash/Images/Pasted image 20230717182148.png",
     "Learning/Programming/Bash/Images/Pasted image 20230716182253.png",
-    "Learning/Programming/Bash/Images/Pasted image 20230716181942.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
