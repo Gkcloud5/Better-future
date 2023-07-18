@@ -5,10 +5,19 @@ modification date: Tuesday 18th July 2023 22:25:39
 
 **Tags:** #DSA 
 
-#### Source:
-[](https://www.youtube.com/watch?v=QyM6bq5JzmU)
+### Source:
+[YT](https://www.youtube.com/watch?v=QyM6bq5JzmU)
 
 --------------------------------------
 
-#### Explanation about it:
+### Explanation about it:
+
+* String have some function, that's are
+
+#### [[Split() - DSA |Split()]]
+
+#### [[Strip() - DSA |Strip()]]
+
+
+
 

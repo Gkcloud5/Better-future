@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fb5445003fcaaea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/For DSA/String/Strings Function - DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77fe952114f95657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/For DSA/String/Strip() - DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Programming/Python/For DSA/String/Strings Function - DSA.md",
+                "file": "Learning/Programming/Python/For DSA/String/Strip() - DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Programming/Python/For DSA/String/Strings Function - DSA.md",
+                "file": "Learning/Programming/Python/For DSA/String/Strip() - DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Programming/Python/For DSA/String/Strings Function - DSA.md"
+                "file": "Learning/Programming/Python/For DSA/String/Strip() - DSA.md"
               }
             }
           }
@@ -184,10 +208,13 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Programming/Python/For DSA/String/Strings Function - DSA.md",
+    "Learning/Programming/Python/For DSA/String/Strip() - DSA.md",
+    "Learning/Programming/Python/For DSA/Important topics in python.md",
+    "Learning/Programming/Python/For DSA/String/Split() - DSA.md",
+    "Learning/Programming/Python/For DSA/Images/Pasted image 20230718222846.png",
     "Learning/Programming/Python/For DSA/Images",
     "Learning/Programming/Python/For DSA/String",
-    "Learning/Programming/Python/For DSA/Important topics in python.md",
-    "Learning/Programming/Python/For DSA/String/Strings Function - DSA.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Programming/Python/For DSA",
     "Learning/Programming/Python/To-do--PYTHON.md",
@@ -209,7 +236,6 @@
     "Web Development/Javascript/Image/Pasted image 20230718203958.png",
     "Development Practice/Javascript/Practises/index.js",
     "Development Practice/Javascript/Practises/style.css",
-    "Development Practice/Javascript/Practises/index.html",
     "Learning/Network/02-Internet/01/TCP in network.md",
     "Learning/Network/02-Internet/01/HTTPS in network.md",
     "Learning/Network/Images/Pasted image 20230718191547.png",
@@ -225,12 +251,10 @@
     "Communication/Improvement/80% using words.md",
     "Communication/Improvement/till 50 words/03-Been word.md",
     "Template/Grammar template.md",
-    "Communication/Improving communication.md",
     "Learning/Programming/Bash/Images/Pasted image 20230717182148.png",
     "Learning/Programming/Bash/Images/Pasted image 20230716182253.png",
     "Learning/Programming/Bash/Images/Pasted image 20230716181942.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
-    "Learning/Network/Images/Pasted image 20230715183532.png",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"
