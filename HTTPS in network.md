@@ -17,4 +17,6 @@ modification date: Tuesday 18th July 2023 17:21:49
 * Hypertext Transfer Protocol
 * It is the foundation of the WWW, and is used to load webpages using hypertext links.
 * HTTP is an **Application Layer** protocol
-	* Designed to transfer 
+	* Designed to transfer information between networked devices 
+		* And runs top of other layers of the network protocol stack.
+		* 
