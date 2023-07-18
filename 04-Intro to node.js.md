@@ -14,4 +14,5 @@ modification date: Tuesday 18th July 2023 21:00:50
 
 #### What is node JS:
 
-* It is an open source
+* It is an open source, back-end js runtime environment that runs on the V8 engine and executes JS code.
+* 
