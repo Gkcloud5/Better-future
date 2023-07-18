@@ -50,4 +50,11 @@ modification date: Tuesday 18th July 2023 17:21:49
 * HTTP headers contain text information stored in key value pair
 * They are included in every HTTP request (and response).
 * This headers communicate core information, such as what browser the client is using and what data is being requested.
-* 
+* Example
+
+![[Pasted image 20230718191547.png]]
+
+
+##### 2.3 What is in an HTTP request body?
+
+* Body of the request is the part that contains the body of informati
