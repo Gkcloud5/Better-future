@@ -24,3 +24,6 @@ modification date: Monday 17th July 2023 21:37:30
 * IP is a connectionless protocol, which means that each unit of data is individually addressed and routed from the source device to target device.
 	* Target does not send an acknowledgement back to the source, that's where protocol such as TCP come in.
 		* TCP is used in conjunction with IP in order to maintain a connection between the sender and the target and to ensure packet order.
+
+
+#### [[Three way handshake - TCP]]
