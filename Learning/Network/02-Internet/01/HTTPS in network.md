@@ -12,7 +12,7 @@ modification date: Tuesday 18th July 2023 17:21:49
 
 ### Explanation about it:
 
-### What is HTTP:
+### 1. What is HTTP:
 
 * Hypertext Transfer Protocol
 * It is the foundation of the WWW, and is used to load webpages using hypertext links.
@@ -22,6 +22,17 @@ modification date: Tuesday 18th July 2023 17:21:49
 *  A typical flow over HTTP involves a client machine making a request to a server, which then sends a response message.
 
 
-### What is in an HTTP request?
+### 2. What is in an HTTP request?
 
-* An HTTP request is the way internet communication platforms such as web browsers ask for the information they need to load website
+* An HTTP request is the way internet communication platforms such as web browsers ask for the information they need to load website.
+* Each HTTP request made across the internet carries with it a series of encoded data that carries different types of information.
+* HTTP request contains
+	* HTTP version type
+	* a URL
+	* an HTTP method
+	* HTTP request headers
+	* Optional HTTP body.
+
+##### 2.1 What is an HTTP method?
+
+* 
