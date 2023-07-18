@@ -35,4 +35,10 @@ modification date: Tuesday 18th July 2023 17:21:49
 
 ##### 2.1 What is an HTTP method?
 
-* An HTTP method, sometimes referred to as an 
+* An HTTP method, sometimes referred to as an HTTP verb
+	* Indicates the action that the HTTP methods are 
+	* GET 
+		* It expects information back in return
+	* POST
+		* It request typically indicates that the client is submitting information to the web server.
+			* Such as submitting information.
