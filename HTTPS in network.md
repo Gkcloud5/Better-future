@@ -19,4 +19,4 @@ modification date: Tuesday 18th July 2023 17:21:49
 * HTTP is an **Application Layer** protocol
 	* Designed to transfer information between networked devices 
 		* And runs top of other layers of the network protocol stack.
-*  A typical flow over HTTP involves a client machine making a request to a server, which then sends a response messge.
+*  A typical flow over HTTP involves a client machine making a request to a server, which then sends a response message.
