@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96c312e296c2ee46",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "078b856803655356",
             "type": "leaf",
             "state": {
@@ -28,31 +20,19 @@
             }
           },
           {
-            "id": "c8c18ad26bb1afea",
+            "id": "de6ab074628241af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-First example program.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c64b9e5d1049ca8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Javascript/Scaler/Very Basic/02-JS in the browser.md",
+                "file": "04-Intro to node.js.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-First example program.md",
+                "file": "04-Intro to node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-First example program.md",
+                "file": "04-Intro to node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-First example program.md"
+                "file": "04-Intro to node.js.md"
               }
             }
           }
@@ -191,12 +171,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8c18ad26bb1afea",
+  "active": "de6ab074628241af",
   "lastOpenFiles": [
-    "Images/Pasted image 20230718205444.png",
-    "Web Development/Javascript/Scaler/Very Basic/02-JS in the browser.md",
-    "03-First example program.md",
     "Web Development/Javascript/JavaScript.md",
+    "04-Intro to node.js.md",
+    "Web Development/Javascript/Scaler/Very Basic/01-Introduction to JS.md",
+    "Web Development/Javascript/Scaler/Very Basic/03-First example program.md",
+    "Web Development/Javascript/Image/Pasted image 20230718205732.png",
+    "Web Development/Javascript/Image/Pasted image 20230718205444.png",
+    "Web Development/Javascript/Scaler/Very Basic/02-JS in the browser.md",
     "Development Practice/Javascript/Practises/Basic/style.css",
     "Development Practice/Javascript/Practises/Basic/index.js",
     "Development Practice/Javascript/Practises/Basic/index.html",
@@ -224,7 +207,6 @@
     "Communication/Improvement/till 50 words/03-Been word.md",
     "Template/Grammar template.md",
     "Communication/Improving communication.md",
-    "Web Development/Javascript/Scaler/Very Basic/01-Introduction to JS.md",
     "Web Development/HTML/HTML.md",
     "Learning/Network/Devices/Network switch.md",
     "Learning/Network/Devices/Routers in network.md",
@@ -238,8 +220,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230716181942.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Learning/Network/Images/Pasted image 20230715183532.png",
-    "Learning/Network/Images/Pasted image 20230715132821.png",
-    "Learning/Network/Images/Pasted image 20230714192516.png",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Learning/Programming/Program learning Steps/Programe learn.canvas"

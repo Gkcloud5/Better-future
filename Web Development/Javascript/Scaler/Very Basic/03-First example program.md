@@ -32,6 +32,13 @@ modification date: Tuesday 18th July 2023 20:52:37
 
 ```
 <head>
-  <link src=""
+  <script src="index.js">
 </head>
 ```
+
+```
+let a = 7
+console.log(a)
+```
+
+![[Pasted image 20230718205732.png]]
