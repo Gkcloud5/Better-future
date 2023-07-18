@@ -57,4 +57,11 @@ modification date: Tuesday 18th July 2023 17:21:49
 
 ##### 2.3 What is in an HTTP request body?
 
-* Body of the request is the part that contains the body of informati
+* Body of the request is the part that contains the body of information the request is transferring.
+* Body contains any information being submitted to the web server, such as a username and password, or any other data entered into a form.
+
+##### 2.4 What is in an HTTP response?
+
+* An HTTP response is what web clients receive from an internet server in answer to an HTTP request.
+* Typical HTTP res
+
