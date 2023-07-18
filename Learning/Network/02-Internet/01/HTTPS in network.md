@@ -35,4 +35,4 @@ modification date: Tuesday 18th July 2023 17:21:49
 
 ##### 2.1 What is an HTTP method?
 
-* 
+* An HTTP method, sometimes referred to as an 
