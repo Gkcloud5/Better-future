@@ -37,7 +37,7 @@ modification date: Tuesday 18th July 2023 17:21:49
 
 * An HTTP method, sometimes referred to as an HTTP verb
 	* Indicates the action that the HTTP request expects from the queried server.
-	* Most common HTTP methods
+	* Most common HTTP methods are
 		* GET 
 			 * It expects information back in return
 		* POST
@@ -45,3 +45,9 @@ modification date: Tuesday 18th July 2023 17:21:49
 			* Such as submitting information.
 
 
+##### 2.2 What are the HTTP request headers?
+
+* HTTP headers contain text information stored in key value pair
+* They are included in every HTTP request (and response).
+* This headers communicate core information, such as what browser the client is using and what data is being requested.
+* 
