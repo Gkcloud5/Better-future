@@ -22,5 +22,9 @@ modification date: Tuesday 18th July 2023 22:25:39
 
 #### [[05-isFunction - DSA|isfunction]]
 
+#### [[06-Capitalize - DSA |Capitalize()]]
+
+
+
 
 

@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "1337cc831eba3579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/01-Program Basics/01-In Python/01-String/01-Strings Function - DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5fb5445003fcaaea",
             "type": "leaf",
             "state": {
@@ -56,19 +44,19 @@
             }
           },
           {
-            "id": "d39f96962c2b933e",
+            "id": "9452eaedfb103c6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md",
+                "file": "DSA/01-Program Basics/01-In Python/01-String/06-Capitalize - DSA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md",
+                "file": "DSA/01-Program Basics/01-In Python/01-String/06-Capitalize - DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md",
+                "file": "DSA/01-Program Basics/01-In Python/01-String/06-Capitalize - DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md"
+                "file": "DSA/01-Program Basics/01-In Python/01-String/06-Capitalize - DSA.md"
               }
             }
           }
@@ -206,12 +194,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d39f96962c2b933e",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Images/Pasted image 20230718224437.png",
+    "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230718225104.png",
     "DSA/01-Program Basics/01-In Python/Important topics in python.md",
-    "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md",
     "DSA/01-Program Basics/01-In Python/01-String/01-Strings Function - DSA.md",
+    "DSA/01-Program Basics/01-In Python/01-String/06-Capitalize - DSA.md",
+    "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md",
+    "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230718224638.png",
+    "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230718224437.png",
     "DSA/01-Program Basics/01-In Python/01-String/04-Find() - DSA.md",
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230718224022.png",
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230718223857.png",
@@ -246,14 +237,11 @@
     "Learning/Network/02-Internet/01/HTTPS in network.md",
     "Learning/Network/Images/Pasted image 20230718191547.png",
     "Learning/Network/02-Internet/04-Internet.md",
-    "Learning/Network/Images/Pasted image 20230718171146.png",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/01/Three way handshake - TCP.md",
     "Learning/Network/Networking.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Testing broken links.md",
-    "Learning/Programming/Bash/Images/Pasted image 20230718163242.png",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Communication/Improvement/till 50 words/02- Being Word.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",

@@ -24,6 +24,8 @@ str1="123"
 str2="gokul"
 str3="gokul 123"
 print(str1.isalnum())
-print(str1.isalnum())
-print(str1.isalnum())
+print(str2.isalnum())
+print(str3.isalnum())
 ```
+
+![[Pasted image 20230718224638.png]]
