@@ -10,5 +10,8 @@ modification date: Monday 17th July 2023 22:54:01
 
 --------------------------------------
 
-#### Explanation about it:
+### Explanation about it:
 
+#### JavaScript on the browser:
+
+* Every browser have javascript engine, it will run JS programs
