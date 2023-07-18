@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79517a050db82403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Python/Topics/Introduction/Python intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Learning/Programming/Python/Index of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "Learning/Programming/Python/Index of Python.md"
               }
             }
           }
@@ -157,11 +169,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "078b856803655356",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Topics/Introduction/Python intro.md",
+    "Learning/Programming/Python/Index of Python.md",
+    "Learning/Programming/Python/Problem solving/Python methods.md",
+    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Scaler/Basics",
     "Web Development/Javascript/Scaler/Very Basic/04-Intro to node.js.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Scaler/Very Basic/01-Introduction to JS.md",
     "Web Development/Javascript/Scaler/Very Basic/03-First example program.md",
     "Web Development/Javascript/Image/Pasted image 20230718205732.png",
@@ -177,7 +192,6 @@
     "Development Practice/Javascript/Practises/index.html",
     "Development Practice/Javascript/Practises",
     "Development Practice/Javascript/Practise",
-    "Development Practice/Javascript",
     "Learning/Network/02-Internet/01/TCP in network.md",
     "Learning/Network/02-Internet/01/HTTPS in network.md",
     "Learning/Network/Images/Pasted image 20230718191547.png",
@@ -199,8 +213,6 @@
     "Learning/Network/Devices/Routers in network.md",
     "Learning/Network/02-Internet/01/Web servers in network.md",
     "Learning/Network/01-Fundamentals/02/02-CIDR.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Arithmetic Tests Using (( )).md",
-    "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230717182148.png",
     "Learning/Programming/Bash/Images/Pasted image 20230716182253.png",
     "Learning/Programming/Bash/Images/Pasted image 20230716181942.png",
