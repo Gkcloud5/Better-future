@@ -6,9 +6,12 @@
 
 ## Topics:
 
-* #### 1 Basics
+* #### 1. Very Basics
 	* [[01-Introduction to JS]]
 	* [[02-JS in the browser]]
 	* [[03-First example program]]
 	* [[04-Intro to node.js]]
+
+
+* #### 2. Basics of JS
 	* 
