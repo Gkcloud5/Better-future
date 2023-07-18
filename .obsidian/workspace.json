@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTPS in network.md",
+                "file": "Learning/Network/02-Internet/01/HTTPS in network.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/02-Internet/TCP in network.md",
+                "file": "Learning/Network/02-Internet/01/TCP in network.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTPS in network.md",
+                "file": "Learning/Network/02-Internet/01/HTTPS in network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTPS in network.md",
+                "file": "Learning/Network/02-Internet/01/HTTPS in network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTPS in network.md"
+                "file": "Learning/Network/02-Internet/01/HTTPS in network.md"
               }
             }
           }
@@ -205,13 +204,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84fa1c2c9652af5e",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Learning/Network/02-Internet/01",
     "Learning/Network/02-Internet/04-Internet.md",
-    "HTTPS in network.md",
+    "Learning/Network/02-Internet/01/HTTPS in network.md",
     "Learning/Network/To-do/Need to read.md",
-    "Learning/Network/02-Internet/TCP in network.md",
-    "Learning/Network/02-Internet/Three way handshake - TCP.md",
+    "Learning/Network/02-Internet/01/TCP in network.md",
+    "Learning/Network/02-Internet/01/Three way handshake - TCP.md",
     "Images/Pasted image 20230718171146.png",
     "Learning/Network/Networking.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Testing broken links.md",
@@ -233,14 +233,13 @@
     "Web Development/Javascript",
     "Learning/Network/Devices/Network switch.md",
     "Learning/Network/Devices/Routers in network.md",
-    "Learning/Network/02-Internet/Web servers in network.md",
+    "Learning/Network/02-Internet/01/Web servers in network.md",
     "Learning/Network/01-Fundamentals/02/02-CIDR.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Arithmetic Tests Using (( )).md",
     "Learning/Programming/Bash/Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230717182148.png",
     "Learning/Network/01-Fundamentals/03/02Protocol/Internet protocol in networking.md",
     "Communication/Improvement/till 50 words/01-Be word.md",
-    "Template/Simple explain template.md",
     "Communication/Improvement/till 50 words",
     "Learning/Programming/Bash/Images/Pasted image 20230716182253.png",
     "Learning/Programming/Bash/Images/Pasted image 20230716181942.png",
