@@ -14,4 +14,8 @@ modification date: Monday 17th July 2023 22:54:01
 
 #### JavaScript on the browser:
 
-* Every browser have javascript engine, it will run JS programs
+* Every browser have JavaScript engine, it will run JS programs
+
+##### Console example:
+
+![[Pasted image 20230718203958.png]]
