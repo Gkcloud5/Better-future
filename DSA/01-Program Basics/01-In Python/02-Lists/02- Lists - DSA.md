@@ -49,7 +49,7 @@ for i in lst:
 
 ### List Functions:
 
-#### length()
+##### length()
 
 * `len()`
 ```
@@ -79,10 +79,34 @@ print(lst)
 
 ![[Pasted image 20230719183413.png]]
 
-##### insert()
+##### insert():
 * Add a element with position value
+* It expect two arguments
+	* 1st --> Position of index
+	* 2nd --> value that need to add
 
 ```
 lst = [1,2,3]
-print(lst.insert(0,4))
+lst.insert(0,4)
+print(lst)
+```
+
+![[Pasted image 20230719184114.png]]
+
+##### extend():
+* Add multiple value at end
+
+```
+lst1 = [1,2,3]
+lst2 = [2,3,4]
+lst1.extend(lst2)
+print(lst1)
+```
+
+![[Pasted image 20230719184202.png]]
+
+##### Nested list
+
+```
+#[1,2,3,[1,2,3]]
 ```
