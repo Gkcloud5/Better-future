@@ -52,7 +52,6 @@ for i in lst:
 #### length()
 
 * `len()`
-
 ```
 lst = [1,2,3]
 print(len(lst))
@@ -70,4 +69,20 @@ print(max(lst))
 
 
 ##### Append():
-* 
+* it used to add a element in last
+ 
+```
+lst = [1,2,3]
+lst.append(4)
+print(lst)
+```
+
+![[Pasted image 20230719183413.png]]
+
+##### insert()
+* Add a element with position value
+
+```
+lst = [1,2,3]
+print(lst.insert(0,4))
+```
