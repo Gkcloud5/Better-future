@@ -54,3 +54,17 @@ print(D)
 ![[Pasted image 20230719192658.png]]
 
 ![[Pasted image 20230719192808.png]]
+
+#### Deleing a element:
+
+```
+D = {0:'Gk1',1:'GK2'}
+D[2] = 'Gk3'
+D[5] = 'Gk5'
+print(D)
+del D[1]
+print(D)
+```
+
+![[Pasted image 20230719192949.png]]
+
