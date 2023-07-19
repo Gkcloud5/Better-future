@@ -33,3 +33,35 @@ print(lst[0])
 * It means we can alter or made change inside given list
 	* Add one new variable from list
 	* Remove any variable from list
+	* tuple, string, integer is not mutability
+
+##### Traversal:
+
+* We can iterate a list one by one
+
+```
+lst = [1,2,3]
+for i in lst:
+    print(i)
+```
+
+![[Pasted image 20230719182124.png]]
+
+### List Functions:
+
+#### length()
+
+* `len()`
+
+```
+lst = [1,2,3]
+print(len(lst))
+```
+
+![[Pasted image 20230719182236.png]]
+
+```
+lst = [1,2,3]
+print(min(lst))
+
+```
