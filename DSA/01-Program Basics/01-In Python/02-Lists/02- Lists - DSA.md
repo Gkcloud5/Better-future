@@ -127,4 +127,15 @@ print(lst)
 
 
 ##### Pop()
-* 
+* remove element based on index
+
+```
+lst = [1,2,3,1]
+element = lst.pop(2)
+print(lst)
+print(element)
+```
+
+![[Pasted image 20230719185818.png]]
+
+
