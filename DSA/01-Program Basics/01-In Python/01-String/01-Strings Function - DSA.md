@@ -28,12 +28,16 @@ modification date: Tuesday 18th July 2023 22:25:39
 ### Slicing:
 
 * get particular part in string
+* it based on index
 
 ```
-a = 'Gk hope '
+a = 'Gk hope person'
+print(a[0:5])
 ```
 
+![[Pasted image 20230719190422.png]]
 
-
-
-
+```
+a = 'Gk hope person'
+print(a[0:15:2])
+```
