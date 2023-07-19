@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04- Set - DSA.md",
+                "file": "DSA/01-Program Basics/01-In Python/04-Sets/04- Set - DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04- Set - DSA.md",
+                "file": "DSA/01-Program Basics/01-In Python/04-Sets/04- Set - DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04- Set - DSA.md",
+                "file": "DSA/01-Program Basics/01-In Python/04-Sets/04- Set - DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04- Set - DSA.md"
+                "file": "DSA/01-Program Basics/01-In Python/04-Sets/04- Set - DSA.md"
               }
             }
           }
@@ -184,8 +184,10 @@
   },
   "active": "31bd65bf9d518d95",
   "lastOpenFiles": [
+    "Images/Pasted image 20230719205631.png",
+    "DSA/01-Program Basics/01-In Python/04-Sets",
     "DSA/01-Program Basics/01-In Python/Important topics in python.md",
-    "04- Set - DSA.md",
+    "DSA/01-Program Basics/01-In Python/04-Sets/04- Set - DSA.md",
     "DSA/01-Program Basics/01-In Python/03-Dictionary/03- Dictionary - DSA.md",
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719205245.png",
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719205111.png",
@@ -223,13 +225,11 @@
     "Web Development/Javascript/Scaler/Very Basic/01-Introduction to JS.md",
     "Web Development/Javascript/Scaler/Very Basic/03-First example program.md",
     "Web Development/Javascript/Scaler/Very Basic/02-JS in the browser.md",
-    "Development Practice/Javascript/Practises/Basic/style.css",
     "Learning/Network/02-Internet/01/TCP in network.md",
     "Learning/Network/02-Internet/01/HTTPS in network.md",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/01/Three way handshake - TCP.md",
-    "Learning/Network/Networking.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
