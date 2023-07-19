@@ -12,3 +12,11 @@ modification date: Wednesday 19th July 2023 19:12:45
 
 #### Explanation about it:
 
+* Generally it stored in key value pair
+	* key:value   
+		* Key should be in immutable data type
+			* String
+			* tuple
+			* int
+		* value will be any type
+* we need to use { } curly braces to declar
