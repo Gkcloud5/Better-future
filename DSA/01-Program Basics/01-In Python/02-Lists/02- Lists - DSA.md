@@ -139,3 +139,24 @@ print(element)
 ![[Pasted image 20230719185818.png]]
 
 
+##### Sort()
+* make order of given list
+
+```
+lst = [1,3,4,2,6,3]
+lst.sort()
+print(lst)
+lst.sort(revers=True)
+print(lst)
+```
+
+![[Pasted image 20230719190041.png]]
+
+#### Create a list:
+
+```
+lst = list('Troll Geek')
+print(lst)
+```
+
+![[Pasted image 20230719190209.png]]

@@ -25,6 +25,15 @@ modification date: Tuesday 18th July 2023 22:25:39
 #### [[06-Capitalize - DSA |Capitalize()]]
 
 
+### Slicing:
+
+* get particular part in string
+
+```
+a = 'Gk hope '
+```
+
+
 
 
 
