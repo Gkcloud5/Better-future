@@ -25,3 +25,11 @@ print(set2)
 ```
 
 ![[Pasted image 20230719205631.png]]
+
+```
+set1 = set({1,2,3,4,5})
+
+print(type(set1))
+```
+
+![[Pasted image 20230719211326.png]]
