@@ -112,3 +112,19 @@ print(lst1)
 ```
 #[1,2,3,[1,2,3]] 
 ```
+
+##### remove()
+* It remove value that we give
+	* First occurance
+
+```
+lst = [1,2,3,1]
+lst.remove(1)
+print(lst)
+```
+
+![[Pasted image 20230719185215.png]]
+
+
+##### Pop()
+* 
