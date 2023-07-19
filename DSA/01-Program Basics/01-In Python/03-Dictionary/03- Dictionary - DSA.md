@@ -74,3 +74,5 @@ D[2] = 'Gk3'
 element = D.pop(0)
 print(D)
 ```
+
+![[Pasted image 20230719194852.png]]
