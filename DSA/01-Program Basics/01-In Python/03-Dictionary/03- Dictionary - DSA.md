@@ -68,3 +68,9 @@ print(D)
 
 ![[Pasted image 20230719192949.png]]
 
+```
+D = {0:'Gk1', 1:'Gk2'}
+D[2] = 'Gk3'
+element = D.pop(0)
+print(D)
+```
