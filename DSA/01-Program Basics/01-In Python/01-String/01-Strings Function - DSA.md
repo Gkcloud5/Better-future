@@ -41,3 +41,5 @@ print(a[0:5])
 a = 'Gk hope person'
 print(a[0:15:2])
 ```
+
+![[Pasted image 20230719190829.png]]
