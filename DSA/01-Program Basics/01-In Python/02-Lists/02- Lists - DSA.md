@@ -63,5 +63,8 @@ print(len(lst))
 ```
 lst = [1,2,3]
 print(min(lst))
-
+print(max(lst))
 ```
+
+![[Pasted image 20230719182428.png]]
+
