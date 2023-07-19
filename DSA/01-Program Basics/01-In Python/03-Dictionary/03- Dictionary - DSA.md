@@ -93,3 +93,22 @@ print(D)
 ```
 
 ![[Pasted image 20230719204806.png]]
+
+
+##### keys of:
+* return only key value
+
+```
+d = {1:'Gk1',2:'GK2'}
+print(d.keys())
+print(d.values())
+print(d.items())
+```
+![[Pasted image 20230719205111.png]]
+
+```
+d = {1:'Gk1',2:'GK2'}
+print('Gk1' in d.values())
+```
+
+![[Pasted image 20230719205245.png]]
