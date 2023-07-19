@@ -1,3 +1,4 @@
+
 ---
 creation date: 2023-07-19 19:12
 modification date: Wednesday 19th July 2023 19:12:45
@@ -71,8 +72,24 @@ print(D)
 ```
 D = {0:'Gk1', 1:'Gk2'}
 D[2] = 'Gk3'
+print(D)
 element = D.pop(0)
+print(element)
+```
+
+![[Pasted image 20230719204629.png]]
+
+
+##### Update:
+
+* let consider 2 dictionary
+* we can combine two dictionary by using update
+
+```
+D = {0:'GK1', 1:'GK2'}
+E = {2:'GK3', 3:'GK4'}
+D.update(E)
 print(D)
 ```
 
-![[Pasted image 20230719194852.png]]
+![[Pasted image 20230719204806.png]]
