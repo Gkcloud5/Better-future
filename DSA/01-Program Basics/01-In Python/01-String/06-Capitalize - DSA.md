@@ -11,3 +11,4 @@ print(str2.capitalize())
 ```
 
 ![[Pasted image 20230718225104.png]]
+
