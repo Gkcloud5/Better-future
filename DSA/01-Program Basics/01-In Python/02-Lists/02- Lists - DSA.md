@@ -105,8 +105,10 @@ print(lst1)
 
 ![[Pasted image 20230719184202.png]]
 
-##### Nested list
+##### Nested list:
+
+* List inside list
 
 ```
-#[1,2,3,[1,2,3]]
+#[1,2,3,[1,2,3]] 
 ```
