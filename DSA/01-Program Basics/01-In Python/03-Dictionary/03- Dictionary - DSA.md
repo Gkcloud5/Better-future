@@ -36,3 +36,21 @@ D ={0:'Gk1', 1:'Gk2'}
 for i in D:
    print(i,D[i])
 ```
+
+![[Pasted image 20230719192516.png]]
+
+
+### Functions:
+
+#### Add a element:
+
+```
+D = {0:'Gk1',1:'GK2'}
+D[2] = 'Gk3'
+D[5] = 'Gk5'
+print(D)
+```
+
+![[Pasted image 20230719192658.png]]
+
+![[Pasted image 20230719192808.png]]
