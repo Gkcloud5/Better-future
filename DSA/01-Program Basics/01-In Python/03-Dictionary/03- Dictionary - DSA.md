@@ -19,4 +19,20 @@ modification date: Wednesday 19th July 2023 19:12:45
 			* tuple
 			* int
 		* value will be any type
-* we need to use { } curly braces to declar
+* we need to use `{ } curly braces` to declare value
+
+```
+D ={0:'Gk1', 1:'Gk2'}
+fot i in D:  #print only key value
+    print(i) 
+```
+
+![[Pasted image 20230719192039.png]]
+
+* it's unordered one.
+
+```
+D ={0:'Gk1', 1:'Gk2'}
+for i in D:
+   print(i,D[i])
+```
