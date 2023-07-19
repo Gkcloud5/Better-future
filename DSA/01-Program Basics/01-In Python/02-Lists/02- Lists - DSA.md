@@ -68,3 +68,6 @@ print(max(lst))
 
 ![[Pasted image 20230719182428.png]]
 
+
+##### Append():
+* 
