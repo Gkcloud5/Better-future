@@ -14,4 +14,5 @@
 
 
 * #### 2. Basics of JS
+	* [[021-Variables in JS]]
 	* 

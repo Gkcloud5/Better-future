@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2f08ae85cde3c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md"
               }
             }
           }
@@ -157,8 +171,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f29b172fe8b99e5",
+  "active": "e2f08ae85cde3c90",
   "lastOpenFiles": [
+    "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
     "DSA/01-Program Basics/01-In Python/04-Sets/04- Set - DSA.md",
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719211326.png",
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719205631.png",
@@ -193,7 +209,6 @@
     "Learning/Programming/Python/Topics/Introduction/Python intro.md",
     "Learning/Programming/Python/Topics/Introduction/Data Types.md",
     "Learning/Programming/Python/Problem solving/Python methods.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Scaler/Basics",
     "Web Development/Javascript/Scaler/Very Basic/04-Intro to node.js.md",
     "Web Development/Javascript/Scaler/Very Basic/01-Introduction to JS.md",
