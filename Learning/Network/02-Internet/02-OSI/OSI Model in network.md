@@ -21,3 +21,16 @@ modification date: Thursday 20th July 2023 17:57:04
 
 ![[Pasted image 20230720181152.png]]
 
+
+### Why does the OSI model matter?
+
+* OSI model will help to break down the problem and isolate the source of the trouble.
+
+
+### 7 Layers of the OSI model?
+
+#### Application layer:
+
+![[Pasted image 20230720185138.png]]
+
+* This is the only layer that directly 
