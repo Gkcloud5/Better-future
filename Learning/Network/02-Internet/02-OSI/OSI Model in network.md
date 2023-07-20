@@ -57,3 +57,4 @@ modification date: Thursday 20th July 2023 17:57:04
 
 ![[Pasted image 20230720190521.png]]
 
+* This layer is responsible for opening and closing communication between the two devices.
