@@ -4,81 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5eac3222810a2142",
+        "id": "9ddbc74c76e0e8f0",
         "type": "tabs",
         "children": [
           {
-            "id": "20a7c0a447ab6c67",
+            "id": "9fcd0ff9d3e326e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/02-Internet/04-Internet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1940a51ace58246d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3ceda27bcaf874d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/01-Program Basics/01-In Python/02-Lists/02- Lists - DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08760c1ded68924f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/02-Test/01-Array/724. Find Pivot Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24c4a379396a30d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/02-Internet/01/HTTPS in network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4d5106295783e12",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Learning/Network/To-do/Need to read.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -153,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array/724. Find Pivot Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array/724. Find Pivot Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,18 +126,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/02-Test/01-Array/724. Find Pivot Index.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,17 +148,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "9550fbaac8f826d5",
   "lastOpenFiles": [
+    "Learning/Network/02-Internet/04-Internet.md",
+    "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
+    "DSA/01-Program Basics/01-In Python/02-Lists/02- Lists - DSA.md",
+    "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md",
+    "DSA/02-Test/01-Array/LeetCode",
     "DSA/Images",
     "DSA/Images/Pasted image 20230721000810.png",
     "DSA/02-Test/01-Array",
-    "DSA/01-Program Basics/01-In Python/02-Lists/02- Lists - DSA.md",
-    "DSA/02-Test/01-Array/724. Find Pivot Index.md",
     "DSA/03-L-Practise",
     "DSA/02-Test",
     "DSA/01-Program Basics/01-In Python/04-Sets/04- Set - DSA.md",
-    "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
     "Learning/Programming/Python/Index of Python.md",
     "Learning/Network/Images/Pasted image 20230720190521.png",
     "Learning/Network/Images/Pasted image 20230720185545.png",
@@ -236,7 +169,6 @@
     "Learning/Programming/Python/Practice/Basic things/Functions.md",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/02-OSI",
-    "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/02-Internet/01/HTTPS in network.md",
     "Learning/Network/Images/Pasted image 20230720174614.png",
     "Communication/Improvement/till 50 words/03-Been word.md",
@@ -261,8 +193,6 @@
     "DSA/01-Program Basics/01-In Python/01-String/03-Strip() - DSA.md",
     "DSA/01-Program Basics/01-In Python/01-String/02-Split() - DSA.md",
     "DSA/01-Program Basics/01-In Python",
-    "DSA/01-Program Basics",
-    "DSA",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Topics/Introduction/Python intro.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
