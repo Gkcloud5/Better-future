@@ -29,7 +29,7 @@ modification date: Thursday 20th July 2023 17:57:04
 
 ### 7 Layers of the OSI model?
 
-#### Application layer:
+#### 7. Application layer:
 
 ![[Pasted image 20230720185138.png]]
 
@@ -41,7 +41,7 @@ modification date: Thursday 20th July 2023 17:57:04
 	* SMTP
 
 
-#### Presentation layer:
+#### 6. Presentation layer:
 
 ![[Pasted image 20230720185545.png]]
 
@@ -52,3 +52,8 @@ modification date: Thursday 20th July 2023 17:57:04
 		* as well as decoding the encryption on the receiver's end so that it can present the application layer with unencrypted, readable data.
 * Finally, presentation layer is also responsible for compressing data it receives from the application layer before delivering it to layer 5
 	* This help improve the speed and efficiency of communication by minimizing the amount of data that will be transferred.
+
+#### 5. Session layer
+
+![[Pasted image 20230720190521.png]]
+
