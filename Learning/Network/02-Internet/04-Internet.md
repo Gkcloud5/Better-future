@@ -106,3 +106,10 @@ modification date: Saturday 15th July 2023 18:36:17
 * [[TLS in networ |TLS]]
 * [[HTTPS in network |HTTP]]
 
+
+### 6. Important layer information
+
+* [[OSI Model in network |OSI]]
+* [[TCP and IP Model in network |TCP and IP]]
+
+

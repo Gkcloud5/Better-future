@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## To read
 
-- [ ] HTTPS
 - [ ] VLSM
 - [ ] PARP
 - [ ] NAT
@@ -27,6 +26,7 @@ kanban-plugin: basic
 - [ ] Computer network architecture
 - [ ] Links
 - [ ] Domain name
+- [ ] HTTPS
 - [ ] TLD
 - [ ] DNS
 - [ ] TCP

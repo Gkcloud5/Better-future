@@ -30,9 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4d5106295783e12",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Learning/Network/To-do/Need to read.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/02-Internet/01/HTTPS in network.md",
+                "file": "Learning/Network/02-Internet/04-Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/02-Internet/01/HTTPS in network.md",
+                "file": "Learning/Network/02-Internet/04-Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/02-Internet/01/HTTPS in network.md"
+                "file": "Learning/Network/02-Internet/04-Internet.md"
               }
             }
           }
@@ -171,8 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "20a7c0a447ab6c67",
   "lastOpenFiles": [
+    "Learning/Network/02-Internet/01/HTTPS in network.md",
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Images/Pasted image 20230720174614.png",
     "Learning/Network/02-Internet/04-Internet.md",
     "Communication/Improvement/till 50 words/03-Been word.md",
@@ -194,7 +205,6 @@
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719194852.png",
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719192949.png",
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719192808.png",
-    "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719192658.png",
     "DSA/01-Program Basics/01-In Python/03-Dictionary",
     "DSA/01-Program Basics/01-In Python/01-String/01-Strings Function - DSA.md",
     "DSA/01-Program Basics/01-In Python/02-Lists/02- Lists - DSA.md",
@@ -218,7 +228,6 @@
     "Web Development/Javascript/Scaler/Basics",
     "Web Development/Javascript/Scaler/Very Basic/04-Intro to node.js.md",
     "Web Development/Javascript/Scaler/Very Basic/01-Introduction to JS.md",
-    "Web Development/Javascript/Scaler/Very Basic/03-First example program.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
