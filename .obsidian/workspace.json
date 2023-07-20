@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -218,6 +219,8 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "DSA/Images",
+    "DSA/Images/Pasted image 20230721000810.png",
     "DSA/02-Test/01-Array",
     "DSA/01-Program Basics/01-In Python/02-Lists/02- Lists - DSA.md",
     "DSA/02-Test/01-Array/724. Find Pivot Index.md",
@@ -249,7 +252,6 @@
     "DSA/01-Program Basics/01-In Python/03-Dictionary/03- Dictionary - DSA.md",
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719205245.png",
     "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719205111.png",
-    "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719204806.png",
     "DSA/01-Program Basics/01-In Python/03-Dictionary",
     "DSA/01-Program Basics/01-In Python/01-String/01-Strings Function - DSA.md",
     "DSA/01-Program Basics/01-In Python/01-String/06-Capitalize - DSA.md",
@@ -261,7 +263,6 @@
     "DSA/01-Program Basics/01-In Python",
     "DSA/01-Program Basics",
     "DSA",
-    "DSA/01-Program Basics/01-In Python/00-Images",
     "Learning/Programming/Python/To-do--PYTHON.md",
     "Learning/Programming/Python/Topics/Introduction/Python intro.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
