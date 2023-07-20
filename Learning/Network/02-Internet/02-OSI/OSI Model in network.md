@@ -33,4 +33,16 @@ modification date: Thursday 20th July 2023 17:57:04
 
 ![[Pasted image 20230720185138.png]]
 
-* This is the only layer that directly 
+* This is the only layer that directly interact with data from the user.
+* Software applications like web browsers and email clients rely on the application layer to initiate communication.
+* Application layer is responsible for the protocols and data manipulation that the software relies on to present meaningful data to the user
+* Some application layer protocol
+	* [[HTTPS in network |HTTP]]
+	* SMTP
+
+
+#### Presentation layer:
+
+![[Pasted image 20230720185545.png]]
+
+* Layer 6 makes the data presentable for application to consume.
