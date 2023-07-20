@@ -80,4 +80,9 @@ modification date: Tuesday 18th July 2023 17:21:49
 
 ##### 2.4.2 What are HTTP response headers?
 
-* HTTP response comes with headers that convey important information such as the language and format of the data being sent in the response body
+* HTTP response comes with headers that convey important information such as the language and format of the data being sent in the response body. 
+
+![[Pasted image 20230720174614.png]]
+
+
+##### 2.4.3 What 
