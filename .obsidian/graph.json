@@ -13,41 +13,6 @@
         "a": 1,
         "rgb": 14485996
       }
-    },
-    {
-      "query": "tag:#DSA",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag:#linux",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag:#bash",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "tag:#network",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "tag:",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +25,6 @@
   "repelStrength": 9.0625,
   "linkStrength": 0.625,
   "linkDistance": 214,
-  "scale": 0.3075364568910896,
+  "scale": 0.30753645689109,
   "close": false
 }

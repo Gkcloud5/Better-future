@@ -10,5 +10,9 @@ modification date: Thursday 20th July 2023 17:57:04
 
 --------------------------------------
 
-#### Explanation about it:
+### Explanation about it:
 
+### What is the OSI model?
+
+* OSI means Open systems interconnection model 
+* It is a conceptual model created by the

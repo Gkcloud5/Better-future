@@ -129,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md"
+              }
             }
           }
         ],
@@ -189,41 +193,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "016a5014fbc9091c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "48ee8a87faa58797",
-        "type": "window",
-        "children": [
-          {
-            "id": "6638d2ef8ce2ac5d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "22fd7e6e3689dec1",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1358,
-        "y": 19,
-        "width": 916,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "22fd7e6e3689dec1",
+  "active": "1940a51ace58246d",
   "lastOpenFiles": [
+    "Learning/Programming/Python/Practice/Basic things/Functions.md",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/02-OSI",
