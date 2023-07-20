@@ -21,6 +21,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "DSA/02-Test/01-Array/LeetCode/2652. Sum Multiples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec734bb3ddb627e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md",
                 "mode": "source",
                 "source": false
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md",
+                "file": "DSA/02-Test/01-Array/LeetCode/2652. Sum Multiples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md",
+                "file": "DSA/02-Test/01-Array/LeetCode/2652. Sum Multiples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md"
+                "file": "DSA/02-Test/01-Array/LeetCode/2652. Sum Multiples.md"
               }
             }
           }
@@ -164,12 +176,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59951a4a2a343ef7",
+  "active": "d05f715e5b38b652",
   "lastOpenFiles": [
+    "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md",
+    "DSA/02-Test/01-Array/LeetCode/2652. Sum Multiples.md",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
     "DSA/01-Program Basics/01-In Python/02-Lists/02- Lists - DSA.md",
-    "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md",
     "DSA/02-Test/01-Array/LeetCode",
     "DSA/Images",
     "DSA/Images/Pasted image 20230721000810.png",
