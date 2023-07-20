@@ -60,3 +60,4 @@ modification date: Thursday 20th July 2023 17:57:04
 * This layer is responsible for opening and closing communication between the two devices.
 * The time between when the communication is opened and closed is known as the session.
 * session layer ensures that the session stays open long enough to transfer all the data being exchanged, and then promptly closes the session in order to avoid wasting resources.
+* Session layer also synchronizes data transfer with checkpoints
