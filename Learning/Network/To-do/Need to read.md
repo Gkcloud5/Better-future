@@ -15,10 +15,12 @@ kanban-plugin: basic
 - [ ] IPSec
 - [ ] Web servers
 - [ ] TLS
+- [ ] TCP and IP
 
 
 ## Reading
 
+- [ ] OSI
 
 
 ## Readed
