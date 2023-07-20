@@ -46,4 +46,17 @@ The story has been written (அது செய்யப்பட்டுள்
 
 ### 3 Examples:
 
-##### Pre
+##### Present perfect tense:
+
+* I have been to that restaurant before
+
+##### Present perfect continuous tense
+
+* I have been studying English's for three hours
+
+### Past:
+##### Perfect tense:
+* He had been to Paris before he moved there
+
+##### Perfect continuous:
+* He had been playing the piano for two hours before he took a break.
