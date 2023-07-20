@@ -85,4 +85,7 @@ modification date: Tuesday 18th July 2023 17:21:49
 ![[Pasted image 20230720174614.png]]
 
 
-##### 2.4.3 What 
+##### 2.4.3 What is in an HTTP response body?
+
+* Successful HTTP responses to 'GET' requests generally have a body which contains the requested information.
+* In most of web requests, this is HTML data that a web browser will translate into a webpage
