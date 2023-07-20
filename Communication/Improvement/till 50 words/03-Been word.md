@@ -12,11 +12,27 @@ modification date: Tuesday 18th July 2023 16:06:09
 
 ### What is the Word?
 
-**Word**
+**Been**
 
 
 ### Tamil Meaning:
 
+இருந்தது
 
 
+### Explanation:
 
+* has been
+* have been
+* had been
+
+```
+#present perfect
+your payment has been succesfully credited
+The story has been written
+```
+
+* Past perfect
+	* Story had been written.
+* Future perfect
+	* 
