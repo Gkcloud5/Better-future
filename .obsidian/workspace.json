@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d05f715e5b38b652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +141,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +164,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9550fbaac8f826d5",
+  "active": "59951a4a2a343ef7",
   "lastOpenFiles": [
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
