@@ -4,6 +4,7 @@
 * [Scaler](https://www.scaler.com/topics/course/javascript-beginners/video/239/)
 * [W3S](https://www.w3schools.com/js/)
 * [LJS](https://www.learn-js.org/)
+* [MJS](https://javascript.info/)
 
 ## Topics:
 
@@ -14,6 +15,6 @@
 	* [[04-Intro to node.js]]
 
 
-* #### 2. Basics of JS
+* #### 2. Fundamentals of JS
 	* [[021-Variables in JS]]
 	* 

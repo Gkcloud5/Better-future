@@ -34,4 +34,7 @@ const newVar;
 console.log(newVar);
 ```
 
--->  
+```
+const emptyVar = null;
+console.log(emptyVar)
+```
