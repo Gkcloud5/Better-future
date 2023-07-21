@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95fc9d8c848049e7",
+        "id": "9f75415d43703488",
         "type": "tabs",
         "children": [
           {
-            "id": "2ebe3070491aa95d",
+            "id": "5016c4afe9af9fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
+                "file": "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
+                "file": "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
+                "file": "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md"
+                "file": "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md"
               }
             }
           }
@@ -157,14 +156,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ebe3070491aa95d",
+  "active": "5016c4afe9af9fff",
   "lastOpenFiles": [
-    "Images/Pasted image 20230721191025.png",
-    "Images/Pasted image 20230721190225.png",
-    "Learning/Network/02-Internet/01/TCP in network.md",
+    "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
-    "Images/Pasted image 20230721185733.png",
-    "Images/Pasted image 20230721185104.png",
+    "Learning/Network/Images/Pasted image 20230721191025.png",
+    "Learning/Network/Images/Pasted image 20230721190225.png",
+    "Learning/Network/02-Internet/01/TCP in network.md",
+    "Learning/Network/Images/Pasted image 20230721185733.png",
+    "Learning/Network/Images/Pasted image 20230721185104.png",
     "Communication/Improvement/till 50 words/04-And word.md",
     "Communication/Improvement/80% using words.md",
     "Communication/Improving communication.md",
@@ -193,7 +193,6 @@
     "Template/Grammar template.md",
     "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
     "Web Development/Javascript/JavaScript.md",
-    "DSA/01-Program Basics/01-In Python/00-Images/Pasted image 20230719211326.png",
     "DSA/01-Program Basics/01-In Python/04-Sets",
     "DSA/01-Program Basics/01-In Python/Important topics in python.md",
     "DSA/01-Program Basics/01-In Python/03-Dictionary/03- Dictionary - DSA.md",
