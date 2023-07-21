@@ -55,4 +55,5 @@ console.log(age);
 
 ##### Objects and symbols:
 
+* Objects are used to store collections of data and more complex entities
 * 
