@@ -7,6 +7,7 @@ modification date: Thursday 20th July 2023 17:57:04
 
 #### Source:
 [OSI](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+[YT](https://www.youtube.com/watch?v=Sn4nU7kSwEU)
 
 --------------------------------------
 
