@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md"
+                "file": "Web Development/Javascript/JavaScript.md"
               }
             }
           }
@@ -169,8 +168,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0606d4882a74ce25",
+  "active": "5016c4afe9af9fff",
   "lastOpenFiles": [
+    "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
     "Web Development/Javascript/JavaScript.md",
     "DSA/02-Test/01-Array/LeetCode/1929. Concatenation of Array.md",
     "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md",
@@ -206,7 +206,6 @@
     "Learning/Network/Images/Pasted image 20230720174614.png",
     "Communication/Improvement/till 50 words/03-Been word.md",
     "Template/Grammar template.md",
-    "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
     "DSA/01-Program Basics/01-In Python/04-Sets",
     "DSA/01-Program Basics/01-In Python/Important topics in python.md",
     "DSA/01-Program Basics/01-In Python/03-Dictionary/03- Dictionary - DSA.md",

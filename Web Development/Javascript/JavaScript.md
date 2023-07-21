@@ -3,6 +3,7 @@
 
 * [Scaler](https://www.scaler.com/topics/course/javascript-beginners/video/239/)
 * [W3S](https://www.w3schools.com/js/)
+* [LJS](https://www.learn-js.org/)
 
 ## Topics:
 
