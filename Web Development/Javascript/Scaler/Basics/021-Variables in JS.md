@@ -34,4 +34,4 @@ const newVar;
 console.log(newVar);
 ```
 
-	--> 
+-->  
