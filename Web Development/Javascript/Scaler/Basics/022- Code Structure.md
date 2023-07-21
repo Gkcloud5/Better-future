@@ -14,4 +14,8 @@ modification date: Friday 21st July 2023 22:26:35
 
 ##### Statements:
 
-* 
+* Statements are syntax constructs and commands that perform actions
+
+```
+alert('Gk1'); alert('GK2')
+```

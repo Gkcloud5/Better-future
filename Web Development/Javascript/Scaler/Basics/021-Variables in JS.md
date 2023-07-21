@@ -7,6 +7,7 @@ modification date: Wednesday 19th July 2023 23:12:35
 
 #### Source:
 [Var-JS](https://www.scaler.com/topics/course/javascript-beginners/video/243/)
+[Var2](https://javascript.info/variables****)
 
 --------------------------------------
 
@@ -38,3 +39,4 @@ console.log(newVar);
 const emptyVar = null;
 console.log(emptyVar)
 ```
+

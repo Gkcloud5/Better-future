@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "05027e7894902d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "022- Code Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0606d4882a74ce25",
             "type": "leaf",
             "state": {
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "022- Code Structure.md",
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "022- Code Structure.md",
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "022- Code Structure.md"
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md"
               }
             }
           }
@@ -182,10 +170,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05027e7894902d0f",
+  "active": "0606d4882a74ce25",
   "lastOpenFiles": [
+    "Web Development/Javascript/Scaler/Basics/023-Use strict.md",
     "Web Development/Javascript/JavaScript.md",
-    "022- Code Structure.md",
+    "Web Development/Javascript/Scaler/Basics/022- Code Structure.md",
     "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
     "DSA/02-Test/01-Array/LeetCode/1929. Concatenation of Array.md",
     "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md",
@@ -228,7 +217,6 @@
     "DSA/01-Program Basics/01-In Python/01-String/01-Strings Function - DSA.md",
     "DSA/01-Program Basics/01-In Python/01-String/06-Capitalize - DSA.md",
     "DSA/01-Program Basics/01-In Python/02-Lists",
-    "DSA/01-Program Basics/01-In Python/01-String/05-isFunction - DSA.md",
     "DSA/01-Program Basics/01-In Python",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
