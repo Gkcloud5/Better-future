@@ -16,10 +16,11 @@ modification date: Friday 21st July 2023 16:38:23
 
 ### Tamil Meaning:
 
-
+மற்றும்
 
 ### Explanation about it:
 
+* 
 
 ### 3 Examples:
 
