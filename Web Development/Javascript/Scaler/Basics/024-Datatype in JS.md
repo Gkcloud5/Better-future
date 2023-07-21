@@ -71,3 +71,5 @@ typeof Matc
 typeof null
 typeof alert
 ```
+
+![[Pasted image 20230721232628.png]]
