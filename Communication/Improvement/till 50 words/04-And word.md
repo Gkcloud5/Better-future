@@ -26,3 +26,6 @@ modification date: Friday 21st July 2023 16:38:23
 
 ### 3 Examples:
 
+* Wait and see for yourself
+* I want to have pizza and juice
+* My cat is cute, fluffy and neat
