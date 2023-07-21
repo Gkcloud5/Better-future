@@ -12,3 +12,16 @@ modification date: Friday 21st July 2023 22:40:12
 
 #### Explanation about it:
 
+* A value in JS is always of certain type
+
+##### Number:
+```
+let n = 123;
+n = 12.345
+```
+
+##### String:
+```
+let str = "Hello"
+let str2 = ''
+```
