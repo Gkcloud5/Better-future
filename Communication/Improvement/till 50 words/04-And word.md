@@ -20,10 +20,9 @@ modification date: Friday 21st July 2023 16:38:23
 
 ### Explanation about it:
 
-* 
+* It used to coordinating conjunction.
+* It used to connect two nouns or adjectives together
+	* I want a ball and bat
 
 ### 3 Examples:
-
-
-
 
