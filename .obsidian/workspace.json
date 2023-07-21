@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md"
               }
             }
           }
@@ -168,10 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5016c4afe9af9fff",
+  "active": "0606d4882a74ce25",
   "lastOpenFiles": [
-    "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
     "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
     "DSA/02-Test/01-Array/LeetCode/1929. Concatenation of Array.md",
     "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
