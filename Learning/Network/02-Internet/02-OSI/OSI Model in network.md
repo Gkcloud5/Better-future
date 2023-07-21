@@ -107,4 +107,4 @@ modification date: Thursday 20th July 2023 17:57:04
 
 * This layer includes the physical equipment's in the data transfer, such as cables and switches.
 * Here data gets converted into a bit stream
-	* Which is a string 1's and 
+	* Which is a string 1's and 0's 
