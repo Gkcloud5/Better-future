@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Test/01-Array/LeetCode/1929. Concatenation of Array.md",
+                "file": "Web Development/Javascript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0606d4882a74ce25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array/LeetCode/1929. Concatenation of Array.md",
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array/LeetCode/1929. Concatenation of Array.md",
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array/LeetCode/1929. Concatenation of Array.md"
+                "file": "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md"
               }
             }
           }
@@ -156,10 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5016c4afe9af9fff",
+  "active": "0606d4882a74ce25",
   "lastOpenFiles": [
-    "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md",
+    "Web Development/Javascript/JavaScript.md",
     "DSA/02-Test/01-Array/LeetCode/1929. Concatenation of Array.md",
+    "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
     "Learning/Network/Images/Pasted image 20230721191025.png",
     "Learning/Network/Images/Pasted image 20230721190225.png",
@@ -193,7 +207,6 @@
     "Communication/Improvement/till 50 words/03-Been word.md",
     "Template/Grammar template.md",
     "Web Development/Javascript/Scaler/Basics/021-Variables in JS.md",
-    "Web Development/Javascript/JavaScript.md",
     "DSA/01-Program Basics/01-In Python/04-Sets",
     "DSA/01-Program Basics/01-In Python/Important topics in python.md",
     "DSA/01-Program Basics/01-In Python/03-Dictionary/03- Dictionary - DSA.md",
