@@ -57,3 +57,17 @@ console.log(age);
 
 * Objects are used to store collections of data and more complex entities
 * symbol type is used to create unique identifiers for objects.
+
+##### typeof operator:
+
+```
+typeof undefined
+typeof 0
+typeof 10n
+typeof true
+typeof "foo"
+typeof Symbol("id")
+typeof Matc
+typeof null
+typeof alert
+```
