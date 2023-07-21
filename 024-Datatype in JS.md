@@ -39,7 +39,20 @@ console.log(isGreate)
 ##### Null value:
 
 * `null` value does not belong to any of the types 
-
+```
+let age = null;
 ```
 
+##### undefined:
+* meaning of `undefined` is value is not assigned
+
 ```
+let age=100;
+age = undefined;
+console.log(age);
+```
+
+
+##### Objects and symbols:
+
+* 
