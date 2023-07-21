@@ -71,4 +71,17 @@ modification date: Thursday 20th July 2023 17:57:04
 * This includes taking the data from the session layer and breaking it up into chunks called segments before sending it to layer 3.
 * The transport layer on the receiving device is responsible for reassembling the segments into data the session layer can consume.
 * Transport layer is responsible for flow control and error control.
-	* Flow contr
+	* Flow control determines an optimal speed of transmission to ensure that a sender with a fast connection does not overwhelm a receiver with a slow connection
+* Transport layer error control on the receiving end by ensuring that the data received is complete, and requesting transmission if it is not
+* Protocols are
+	* [[TCP in network]]
+	* UDP
+
+
+#### 3. The network layer:
+
+![[Pasted image 20230721185733.png]]
+
+* The network layer is a responsible for facilitating data transfer between two different networks
+* If the two devices communicating are on the same network, then the network layer is unnecessary.
+* The network layer breaks up seg
