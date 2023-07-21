@@ -84,4 +84,17 @@ modification date: Thursday 20th July 2023 17:57:04
 
 * The network layer is a responsible for facilitating data transfer between two different networks
 * If the two devices communicating are on the same network, then the network layer is unnecessary.
-* The network layer breaks up seg
+* The network layer breaks up segments from the transport layer into smaller units, called packets, on the sender's device.
+	* And reassembling these packets on the receiving device.
+* Also the network layer finds the best physical path for the data to reach its destination
+* Protocols are
+	* ICMP
+	* IGMP
+	* IPSec
+
+#### 2. The data link layer:
+
+![[Pasted image 20230721190225.png]]
+
+* The data link layer is very similar to the network layer
+* 
