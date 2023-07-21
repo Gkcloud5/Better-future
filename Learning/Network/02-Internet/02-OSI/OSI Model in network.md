@@ -61,3 +61,14 @@ modification date: Thursday 20th July 2023 17:57:04
 * The time between when the communication is opened and closed is known as the session.
 * session layer ensures that the session stays open long enough to transfer all the data being exchanged, and then promptly closes the session in order to avoid wasting resources.
 * Session layer also synchronizes data transfer with checkpoints
+
+
+#### 6. The transport layer:
+
+![[Pasted image 20230721185104.png]]
+
+* this layer is responsible for end-to end communication between the two devices.
+* This includes taking the data from the session layer and breaking it up into chunks called segments before sending it to layer 3.
+* The transport layer on the receiving device is responsible for reassembling the segments into data the session layer can consume.
+* Transport layer is responsible for flow control and error control.
+	* Flow contr
