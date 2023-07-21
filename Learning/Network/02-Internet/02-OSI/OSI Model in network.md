@@ -97,4 +97,6 @@ modification date: Thursday 20th July 2023 17:57:04
 ![[Pasted image 20230721190225.png]]
 
 * The data link layer is very similar to the network layer
-* 
+* Except the data link layer facilitates data transfer between two devices on the same network.
+* Data link layer takes packets from the network layer and breaks them into smaller pieces called frames.
+* Data link layer
