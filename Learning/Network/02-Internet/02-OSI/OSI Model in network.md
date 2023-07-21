@@ -99,4 +99,12 @@ modification date: Thursday 20th July 2023 17:57:04
 * The data link layer is very similar to the network layer
 * Except the data link layer facilitates data transfer between two devices on the same network.
 * Data link layer takes packets from the network layer and breaks them into smaller pieces called frames.
-* Data link layer
+* Data link layer also responsible for flow control and error control in intra network communication.
+
+#### 1. Physical layer:
+
+![[Pasted image 20230721191025.png]]
+
+* This layer includes the physical equipment's in the data transfer, such as cables and switches.
+* Here data gets converted into a bit stream
+	* Which is a string 1's and 
