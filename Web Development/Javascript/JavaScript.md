@@ -17,4 +17,5 @@
 
 * #### 2. Fundamentals of JS
 	* [[021-Variables in JS]]
+	* [[022- Code Structure]]
 	* 
