@@ -19,4 +19,5 @@
 	* [[021-Variables in JS]]
 	* [[022- Code Structure]]
 	* [[023-Use strict]]
+	* [[024-Datatype in JS]]
 	* 

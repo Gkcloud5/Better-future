@@ -46,5 +46,5 @@ console.log(emptyVar)
 let message;
 message = 'Hello';
 alert(message);
-`let` user `=` `'John'``,` age `=` `25``,` message `=` `'Hello'``;`
+
 ```
