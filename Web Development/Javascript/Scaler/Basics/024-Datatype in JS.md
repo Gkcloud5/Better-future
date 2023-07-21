@@ -56,4 +56,4 @@ console.log(age);
 ##### Objects and symbols:
 
 * Objects are used to store collections of data and more complex entities
-* 
+* symbol type is used to create unique identifiers for objects.
