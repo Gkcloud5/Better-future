@@ -21,3 +21,6 @@ alert(typeof value1);
 value2 = String(value1);
 alert(typeof value2)
 ```
+
+![[image_303.png]]
+
