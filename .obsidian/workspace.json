@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
+                "file": "DSA/02-Test/01-Array/LeetCode/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
+                "file": "DSA/02-Test/01-Array/LeetCode/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
+                "file": "DSA/02-Test/01-Array/LeetCode/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md"
+                "file": "DSA/02-Test/01-Array/LeetCode/Untitled.md"
               }
             }
           }
@@ -184,6 +183,8 @@
   },
   "active": "f72c503179c1c066",
   "lastOpenFiles": [
+    "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
+    "DSA/02-Test/01-Array/LeetCode/Untitled.md",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/Networking.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Arithmetic and string comparisons - Bash.md",
@@ -206,7 +207,6 @@
     "Web Development/Javascript/Scaler/Basics/022- Code Structure.md",
     "DSA/02-Test/01-Array/LeetCode/1929. Concatenation of Array.md",
     "DSA/02-Test/01-Array/LeetCode/1920. Build Array from Permutation.md",
-    "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
     "Learning/Network/Images/Pasted image 20230721191025.png",
     "Learning/Network/Images/Pasted image 20230721190225.png",
     "Learning/Network/02-Internet/01/TCP in network.md",
@@ -215,7 +215,6 @@
     "Communication/Improvement/till 50 words/04-And word.md",
     "DSA/02-Test/01-Array/LeetCode/724. Find Pivot Index.md",
     "DSA/02-Test/01-Array/LeetCode/2652. Sum Multiples.md",
-    "DSA/01-Program Basics/01-In Python/02-Lists/02- Lists - DSA.md",
     "DSA/02-Test/01-Array/LeetCode",
     "DSA/Images",
     "DSA/Images/Pasted image 20230721000810.png",
