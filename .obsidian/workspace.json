@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-of word.md",
+                "file": "Communication/Improvement/till 50 words/05-of word.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-of word.md",
+                "file": "Communication/Improvement/till 50 words/05-of word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-of word.md",
+                "file": "Communication/Improvement/till 50 words/05-of word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-of word.md"
+                "file": "Communication/Improvement/till 50 words/05-of word.md"
               }
             }
           }
@@ -181,14 +182,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97e432b45a20fa3d",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Communication/Improvement/80% using words.md",
     "Communication/Improvement/till 50 words/03-Been word.md",
     "Template/Grammar template.md",
     "Communication/Improvement/till 50 words/02- Being Word.md",
     "Communication/Improvement/till 50 words/01-Be word.md",
-    "05-of word.md",
+    "Communication/Improvement/till 50 words/05-of word.md",
     "Communication/Improving communication.md",
     "Web Development/Javascript/Scaler/Basics/024-Datatype in JS.md",
     "Web Development/Javascript/JavaScript.md",

@@ -30,11 +30,21 @@ modification date: Saturday 22nd July 2023 13:56:23
 	* The name of the company
 	* The cover of the book
 
-##### Indicating origin or source:
+##### Indicating origin or source:(தோற்றம் அல்லது மூலத்தைக் குறிக்கிறது)
 
 * **Of** can be used to show where something comes from or its origin
 	* The eiffel tower of paris
 	* A cup of coffee
+
+##### Partitive construction: (பகுதி கட்டுமானம்)
+
+* A piece of cake
+* A group of students
+
+##### Descriptive phrases:(விளக்கமான சொற்றொடர்கள்)
+
+* A picture `of` a beautiful sunset
+* 
 
 
 
