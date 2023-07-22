@@ -5,11 +5,26 @@ modification date: Saturday 22nd July 2023 14:13:45
 
 ### Script:[](https://tldp.org/LDP/abs/html/comparison-ops.html#EX13)
 
+```bash
+#!/bin/bash
 
+a=4
+b=5
+
+echo
+
+if [ "$a" -ne "$b" ]
+then
+   echo "$a is not equal to $b"
+   echo 
+fi
+
+
+```
 
 ### Output:
 
-
+![[Pasted image 20230722142343.png]]
 
 ### Explanation:
 
@@ -34,5 +49,7 @@ modification date: Saturday 22nd July 2023 14:13:45
 * `!=` --> is not equal to
 * `<` --> is less than 
 	* ASCII alpha order
-* `-z` --> true if string is null
-### Things know:
+* `-z` --> true if string is null, it has zero length
+* `-n` --> true if string is not null
+
+
