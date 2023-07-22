@@ -28,6 +28,6 @@ result = prompt(title, [default]);
 ##### Confirm
 
 ```
-confirm_test = confirm("are you okay?")
-console.log
+let confirm_test = confirm("are you okay?")
+console.log(confirm_test)
 ```

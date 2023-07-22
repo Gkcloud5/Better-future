@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "fb0c9a3030e41895",
+            "id": "a16624b26f26d526",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/025-Interaction alert-prompt-confirm -JS.md",
+                "file": "026-Type Conversion - JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/025-Interaction alert-prompt-confirm -JS.md",
+                "file": "026-Type Conversion - JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/025-Interaction alert-prompt-confirm -JS.md",
+                "file": "026-Type Conversion - JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/025-Interaction alert-prompt-confirm -JS.md"
+                "file": "026-Type Conversion - JS.md"
               }
             }
           }
@@ -170,9 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb0c9a3030e41895",
+  "active": "a16624b26f26d526",
   "lastOpenFiles": [
     "Web Development/Javascript/JavaScript.md",
+    "026-Type Conversion - JS.md",
     "Web Development/Javascript/Scaler/Basics/025-Interaction alert-prompt-confirm -JS.md",
     "Web Development/Javascript/Scaler/Basics/024-Datatype in JS.md",
     "DSA/02-Test/01-Array-List/LeetCode/2656. Maximum Sum With Exactly K Elements.md",
@@ -203,7 +204,6 @@
     "Learning/Network/02-Internet/01/TCP in network.md",
     "Learning/Network/Images/Pasted image 20230721185733.png",
     "Learning/Network/Images/Pasted image 20230721185104.png",
-    "Communication/Improvement/till 50 words/04-And word.md",
     "DSA/02-Test/01-Array-List/LeetCode",
     "DSA/Images",
     "DSA/Images/Pasted image 20230721000810.png",
