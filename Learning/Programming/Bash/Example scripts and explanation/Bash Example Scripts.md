@@ -47,4 +47,5 @@ modification date: Saturday 24th June 2023 18:22:25
 	2. [[Equivalence of test]]
 	3. [[Arithmetic Tests Using (( ))]]
 	4. [[Testing broken links]]
-	5. 
+	5. [[Arithmetic and string comparisons - Bash]]
+	6. 

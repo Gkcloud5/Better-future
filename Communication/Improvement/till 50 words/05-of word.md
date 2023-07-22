@@ -12,8 +12,7 @@ modification date: Saturday 22nd July 2023 13:56:23
 
 ### What is the Word?
 
-**of**
-
+**OF**
 
 ### Tamil Meaning:
 
@@ -44,7 +43,13 @@ modification date: Saturday 22nd July 2023 13:56:23
 ##### Descriptive phrases:(விளக்கமான சொற்றொடர்கள்)
 
 * A picture `of` a beautiful sunset
-* 
+* The streets `of` new york city
+
+##### Indicating relationships:(உறவுகளைக் குறிக்கிறது)
+
+* The father of the bride
+* Capital of Spain
+* Owner of VPS
 
 
 
