@@ -22,8 +22,23 @@ modification date: Saturday 22nd July 2023 13:56:23
 ### Explanation about it:
 
 * `of` is a preposition in english.
-* It used to indicate relationship
-### 3 Examples:
+* It used to indicate relationship between different elements within a sentence
+
+##### Indicating possession:
+
+* **Of** is often used to show possession or ownership.
+	* The name of the company
+	* The cover of the book
+
+##### Indicating origin or source:
+
+* **Of** can be used to show where something comes from or its origin
+	* The eiffel tower of paris
+	* A cup of coffee
+
+
+
+
 
 
 
