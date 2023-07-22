@@ -24,3 +24,10 @@ alert("Hello");
 ```
 result = prompt(title, [default]);
 ```
+
+##### Confirm
+
+```
+confirm_test = confirm("are you okay?")
+console.log
+```
