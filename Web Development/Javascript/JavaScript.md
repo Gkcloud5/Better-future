@@ -20,4 +20,7 @@
 	* [[022- Code Structure]]
 	* [[023-Use strict]]
 	* [[024-Datatype in JS]]
+	* [[025-Interaction alert-prompt-confirm -JS]]
+	* 
+	* 
 	* 
