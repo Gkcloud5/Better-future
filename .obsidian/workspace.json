@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "eaad77a4051bfec6",
+            "id": "b6a59bc90cc3b2fd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/Image/image_303.png"
+                "file": "Web Development/Javascript/Scaler/Basics/027-Basic operators, maths.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -104,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/Image/image_303.png",
+                "file": "Web Development/Javascript/Scaler/Basics/027-Basic operators, maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/Image/image_303.png",
+                "file": "Web Development/Javascript/Scaler/Basics/027-Basic operators, maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/Image/image_303.png"
+                "file": "Web Development/Javascript/Scaler/Basics/027-Basic operators, maths.md"
               }
             }
           }
@@ -167,13 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "b6a59bc90cc3b2fd",
   "lastOpenFiles": [
-    "027-Basic operators, maths.md",
-    "Web Development/Javascript/Image/Pasted image 20230722233141.png",
     "Web Development/Javascript/JavaScript.md",
-    "026-Type Conversion - JS.md",
     "Web Development/Javascript/Image/image_303.png",
+    "Web Development/Javascript/Scaler/Basics/027-Basic operators, maths.md",
+    "Web Development/Javascript/Image/Pasted image 20230722233141.png",
+    "Web Development/Javascript/Scaler/Basics/026-Type Conversion - JS.md",
     "Web Development/Javascript/Scaler/Basics/025-Interaction alert-prompt-confirm -JS.md",
     "Web Development/Javascript/Scaler/Basics/024-Datatype in JS.md",
     "DSA/02-Test/01-Array-List/LeetCode/2656. Maximum Sum With Exactly K Elements.md",
