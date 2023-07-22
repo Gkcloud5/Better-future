@@ -22,5 +22,6 @@
 	* [[024-Datatype in JS]]
 	* [[025-Interaction alert-prompt-confirm -JS]]
 	* [[026-Type Conversion - JS]]
+	* [[027-Basic operators, maths]]
 	* 
 	* 

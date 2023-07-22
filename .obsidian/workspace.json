@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "a16624b26f26d526",
+            "id": "eaad77a4051bfec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "026-Type Conversion - JS.md",
+                "file": "027-Basic operators, maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "026-Type Conversion - JS.md",
+                "file": "027-Basic operators, maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "026-Type Conversion - JS.md",
+                "file": "027-Basic operators, maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "026-Type Conversion - JS.md"
+                "file": "027-Basic operators, maths.md"
               }
             }
           }
@@ -170,11 +170,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a16624b26f26d526",
+  "active": "eaad77a4051bfec6",
   "lastOpenFiles": [
-    "Images/image_303.png",
     "Web Development/Javascript/JavaScript.md",
+    "027-Basic operators, maths.md",
     "026-Type Conversion - JS.md",
+    "Images/image_303.png",
     "Web Development/Javascript/Scaler/Basics/025-Interaction alert-prompt-confirm -JS.md",
     "Web Development/Javascript/Scaler/Basics/024-Datatype in JS.md",
     "DSA/02-Test/01-Array-List/LeetCode/2656. Maximum Sum With Exactly K Elements.md",
@@ -212,7 +213,6 @@
     "DSA/02-Test",
     "Learning/Network/Images/Pasted image 20230720190521.png",
     "Learning/Network/Images/Pasted image 20230720185545.png",
-    "Learning/Network/Images/Pasted image 20230720185138.png",
     "Learning/Network/02-Internet/02-OSI",
     "DSA/01-Program Basics/01-In Python/04-Sets",
     "DSA/01-Program Basics/01-In Python/03-Dictionary",

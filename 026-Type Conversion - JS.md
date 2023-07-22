@@ -24,3 +24,9 @@ alert(typeof value2)
 
 ![[image_303.png]]
 
+```
+let str = "123";
+let num = Number(Str);
+console.log(typeof num)
+```
+
