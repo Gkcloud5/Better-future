@@ -21,7 +21,7 @@ modification date: Sunday 23rd July 2023 16:14:03
 
 ### Explanation about it:
 
-* 
+* 'A'  is an indefinite article that's used before a nou
 ### 3 Examples:
 
 
