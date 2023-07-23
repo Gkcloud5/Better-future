@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b6102708c9de6ced",
+        "id": "a4f04b7978329b3d",
         "type": "tabs",
         "children": [
           {
-            "id": "102ee5485230dfe4",
+            "id": "598feed16b24933f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/02-Test/01-Array-List/LeetCode/1403. Minimum Subsequence in Non-Increasing Order.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
