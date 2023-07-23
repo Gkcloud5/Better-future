@@ -21,8 +21,16 @@ modification date: Sunday 23rd July 2023 16:14:03
 
 ### Explanation about it:
 
-* 'A'  is an indefinite article that's used before a nou
+* 'A'  is an indefinite article that's used before a noun or adjective that starts with a consonant sound
+
 ### 3 Examples:
+
+* She wore a uniform
+* I met a unicorn
+* a girl
+* a cat
+* They joined a historical society.
+
 
 
 
