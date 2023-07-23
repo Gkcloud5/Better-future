@@ -4,55 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "76af2c53f201e390",
+        "id": "e93e356faed7c82d",
         "type": "tabs",
         "children": [
           {
-            "id": "b80074fac2a203a9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0b076fc0aa93ce4",
+            "id": "d03a1868510249aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Improving communication.md",
+                "file": "Learning/Network/Networking.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af11678b36e1f726",
+            "id": "1c50b6d7eab5dd0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Improvement/80% using words.md",
+                "file": "Learning/Network/02-Internet/04-Internet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "714001364dc45757",
+            "id": "ad85bfe464e0b97d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Improvement/till 50 words/06-a word.md",
+                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -126,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Improvement/till 50 words/06-a word.md",
+                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Improvement/till 50 words/06-a word.md",
+                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Improvement/till 50 words/06-a word.md"
+                "file": "Learning/Network/02-Internet/02-OSI/OSI Model in network.md"
               }
             }
           }
@@ -189,11 +182,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "714001364dc45757",
+  "active": "ad85bfe464e0b97d",
   "lastOpenFiles": [
-    "Communication/Improvement/80% using words.md",
-    "Communication/Improvement/till 50 words/06-a word.md",
+    "Learning/Network/02-Internet/04-Internet.md",
+    "Learning/Network/Networking.md",
     "Communication/Improving communication.md",
+    "Communication/Improvement/till 50 words/06-a word.md",
+    "Communication/Improvement/80% using words.md",
     "Web Development/Javascript/Scaler/Basics/027-Basic operators, maths.md",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Image/image_303.png",
@@ -202,10 +197,8 @@
     "Web Development/Javascript/Scaler/Basics/025-Interaction alert-prompt-confirm -JS.md",
     "Web Development/Javascript/Scaler/Basics/024-Datatype in JS.md",
     "DSA/02-Test/01-Array-List/LeetCode/2656. Maximum Sum With Exactly K Elements.md",
-    "Learning/Network/02-Internet/04-Internet.md",
     "DSA/02-Test/01-Array-List/LeetCode/121. Best Time to Buy and Sell Stock.md",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
-    "Learning/Network/Networking.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Arithmetic and string comparisons - Bash.md",
     "Learning/Programming/Bash/Images/Pasted image 20230722142343.png",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
