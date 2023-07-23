@@ -93,6 +93,7 @@ modification date: Thursday 20th July 2023 17:57:04
 	* IGMP
 	* IPSec
 
+
 #### 2. The data link layer:
 
 ![[Pasted image 20230721190225.png]]
@@ -101,6 +102,7 @@ modification date: Thursday 20th July 2023 17:57:04
 * Except the data link layer facilitates data transfer between two devices on the same network.
 * Data link layer takes packets from the network layer and breaks them into smaller pieces called frames.
 * Data link layer also responsible for flow control and error control in intra network communication.
+
 
 #### 1. Physical layer:
 
