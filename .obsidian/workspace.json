@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -180,8 +179,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8178aa290cbbfca",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Untitled",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
     "Learning/Network/02-Internet/04-CDN",
@@ -214,7 +214,6 @@
     "Communication/Improvement/till 50 words/05-of word.md",
     "Communication/Improvement/till 50 words/03-Been word.md",
     "Template/Grammar template.md",
-    "Communication/Improvement/till 50 words/02- Being Word.md",
     "Web Development/Javascript/Image/Pasted image 20230721232628.png",
     "Learning/Network/Images/Pasted image 20230721191025.png",
     "Learning/Network/Images/Pasted image 20230721190225.png",
