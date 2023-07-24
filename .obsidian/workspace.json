@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "726e4b37775ae5f4",
+        "id": "23ba37375181d456",
         "type": "tabs",
         "children": [
           {
-            "id": "965d34f4e86a3751",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Learning/Network/To-do/Need to read.md"
-              }
-            }
-          },
-          {
-            "id": "23db13a9487c5af7",
+            "id": "dac3ff8eaa23e8c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8178aa290cbbfca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md"
+                "file": "Resume Building/01-Related to Resume Preparation.md"
               }
             }
           }
@@ -180,18 +157,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8178aa290cbbfca",
+  "active": "dac3ff8eaa23e8c9",
   "lastOpenFiles": [
-    "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
+    "Learning/Network/To-do/Need to read.md",
+    "Learning/Network/Networking.md",
+    "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Cloud and Devops",
     "Resume Building/Web Development",
     "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
     "Resume Building/Technical Support",
     "Resume Building",
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/04-CDN",
-    "Learning/Network/Networking.md",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/02-Internet/03-TCP and IP/TCP and IP Model in network.md",
     "Learning/Network/Images/Pasted image 20230724172511.png",
