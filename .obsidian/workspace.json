@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -171,6 +172,9 @@
   },
   "active": "8dd19777fb33f09f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230724224412.png",
+    "Web Development/Javascript/Image/Pasted image 20230724224245.png",
+    "Web Development/Javascript/Image/Pasted image 20230724224241.png",
     "Web Development/Javascript/Image/Pasted image 20230724223953.png",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Scaler/Basics/028- Logical Operator -JS.md",
@@ -211,9 +215,6 @@
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Testing broken links.md",
     "Web Development/Javascript/Image/Pasted image 20230721232628.png",
-    "Learning/Network/Images/Pasted image 20230721191025.png",
-    "Learning/Network/Images/Pasted image 20230721190225.png",
-    "Learning/Network/Images/Pasted image 20230721185733.png",
     "DSA/02-Test/01-Array-List/LeetCode",
     "DSA/Images",
     "DSA/02-Test/01-Array-List",

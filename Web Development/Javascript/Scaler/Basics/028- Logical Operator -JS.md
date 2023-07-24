@@ -29,5 +29,19 @@ console.log( false || fale)
 ##### && (AND)
 
 ```
-console.log(`true` `&&` `true)
+console.log(true && true)
+console.log(false && true)
 ```
+
+* Only true when both true
+
+![[Pasted image 20230724224245.png]]
+
+##### !(NOT)
+
+```
+console.log( !true )
+console.log( !0 )
+```
+
+![[Pasted image 20230724224412.png]]
