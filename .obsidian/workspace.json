@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cb69b5aaedbc52a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md"
+                "file": "Resume Building/Technical Support/01-TS role JD content.md"
               }
             }
           }
@@ -157,12 +170,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dac3ff8eaa23e8c9",
+  "active": "8cb69b5aaedbc52a",
   "lastOpenFiles": [
+    "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Networking.md",
-    "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Cloud and Devops",
     "Resume Building/Web Development",
     "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
