@@ -40,3 +40,20 @@ modification date: Sunday 23rd July 2023 17:58:15
 * It is classified as stateless
 	* It means client request is considered new because it is unrelated to previous request
 	* It's not going to store any data
+
+#### Why TCP/IP important?
+
+* It is highly scalable and as a routable protocol
+* It can determine the most efficient path through the network.
+* Also it controlled by any company.
+
+#### Layers in TCP/IP:
+
+##### 1. Application layer:
+* It provides application with standardized data exchange
+* Protocols used
+	* HTTPS
+	* FTP
+	* SMTP
+* It is responsible for handling high-level protocols
+* This layer allows the user to interact with the
