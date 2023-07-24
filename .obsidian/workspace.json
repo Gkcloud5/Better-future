@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dd19777fb33f09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/Scaler/Basics/028- Logical Operator -JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Web Development/Javascript/Scaler/Basics/028- Logical Operator -JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Web Development/Javascript/Scaler/Basics/028- Logical Operator -JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "Web Development/Javascript/Scaler/Basics/028- Logical Operator -JS.md"
               }
             }
           }
@@ -156,8 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87be1054ded18980",
+  "active": "8dd19777fb33f09f",
   "lastOpenFiles": [
+    "Web Development/Javascript/Image/Pasted image 20230724223953.png",
+    "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/Scaler/Basics/028- Logical Operator -JS.md",
     "DSA/02-Test/01-Array-List/02 - 2D array/1710. Maximum Units on a Truck.md",
     "DSA/02-Test/01-Array-List/02 - 2D array",
     "DSA/Images/Pasted image 20230724220453.png",
@@ -183,7 +199,6 @@
     "Learning/Network/02-Internet/03-TCP and IP",
     "Communication/Improvement/till 50 words/06-a word.md",
     "Web Development/Javascript/Scaler/Basics/027-Basic operators, maths.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Image/image_303.png",
     "Web Development/Javascript/Image/Pasted image 20230722233141.png",
     "Web Development/Javascript/Scaler/Basics/026-Type Conversion - JS.md",
@@ -195,7 +210,6 @@
     "Learning/Programming/Bash/Images/Pasted image 20230722142343.png",
     "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Testing broken links.md",
-    "Learning/Programming/Bash/Bash.md",
     "Web Development/Javascript/Image/Pasted image 20230721232628.png",
     "Learning/Network/Images/Pasted image 20230721191025.png",
     "Learning/Network/Images/Pasted image 20230721190225.png",

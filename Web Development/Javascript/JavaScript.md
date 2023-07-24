@@ -23,5 +23,6 @@
 	* [[025-Interaction alert-prompt-confirm -JS]]
 	* [[026-Type Conversion - JS]]
 	* [[027-Basic operators, maths]]
-	* [[028- ]]
+	* [[028- Logical Operator -JS]]
+	* 
 	* 
