@@ -21,8 +21,30 @@ while (condition) {
 
 let i = 0;
 while (i < 3){
-	alert (i);
+	console.log (i);
 	i++
 }
 ```
 
+![[Pasted image 20230725000040.png]]
+
+```
+let x = 3;
+while (i)
+{
+console.log("i--", i)
+i--;
+}
+```
+
+![[Pasted image 20230725000217.png]]
+
+##### do..while
+
+```
+let do1= 0
+do {
+	console.log("do1", do1);
+	i++;
+}while(do1<3)
+```

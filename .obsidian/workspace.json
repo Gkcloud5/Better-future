@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030- loop -JS.md",
+                "file": "Web Development/Javascript/Scaler/Basics/030- loop -JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "030- loop -JS.md",
+                "file": "Web Development/Javascript/Scaler/Basics/030- loop -JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "030- loop -JS.md",
+                "file": "Web Development/Javascript/Scaler/Basics/030- loop -JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "030- loop -JS.md"
+                "file": "Web Development/Javascript/Scaler/Basics/030- loop -JS.md"
               }
             }
           }
@@ -172,14 +172,16 @@
   },
   "active": "94f65e8a67e24c81",
   "lastOpenFiles": [
+    "Images/Pasted image 20230725000217.png",
+    "Images/Pasted image 20230725000040.png",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Scaler/Basics/024-Datatype in JS.md",
-    "030- loop -JS.md",
-    "029-Functions - JS.md",
-    "Images/Pasted image 20230724233521.png",
-    "Images/Pasted image 20230724225537.png",
+    "Web Development/Javascript/Scaler/Basics/030- loop -JS.md",
+    "Web Development/Javascript/Scaler/Basics/029-Functions - JS.md",
+    "Web Development/Javascript/Image/Pasted image 20230724233521.png",
+    "Web Development/Javascript/Image/Pasted image 20230724225537.png",
     "Web Development/Javascript/Scaler/Basics/028- Logical Operator -JS.md",
-    "Images/Pasted image 20230724224412.png",
+    "Web Development/Javascript/Image/Pasted image 20230724224412.png",
     "Web Development/Javascript/Image/Pasted image 20230724224245.png",
     "Web Development/Javascript/Image/Pasted image 20230724224241.png",
     "Web Development/Javascript/Image/Pasted image 20230724223953.png",
@@ -208,13 +210,11 @@
     "Learning/Network/02-Internet/03-TCP and IP",
     "Communication/Improvement/till 50 words/06-a word.md",
     "Web Development/Javascript/Scaler/Basics/027-Basic operators, maths.md",
-    "Web Development/Javascript/Image/image_303.png",
     "Web Development/Javascript/Scaler/Basics/026-Type Conversion - JS.md",
     "Web Development/Javascript/Scaler/Basics/025-Interaction alert-prompt-confirm -JS.md",
     "DSA/02-Test/01-Array-List/LeetCode/2656. Maximum Sum With Exactly K Elements.md",
     "DSA/02-Test/01-Array-List/LeetCode/121. Best Time to Buy and Sell Stock.md",
     "Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Arithmetic and string comparisons - Bash.md",
-    "Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "DSA/02-Test/01-Array-List/LeetCode",
     "DSA/Images",
     "DSA/02-Test/01-Array-List",
