@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/030- loop -JS.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/030- loop -JS.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/030- loop -JS.md"
+                "file": "Web Development/Javascript/JavaScript.md"
               }
             }
           }
@@ -170,13 +169,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94f65e8a67e24c81",
+  "active": "87be1054ded18980",
   "lastOpenFiles": [
+    "Web Development/Javascript/Scaler/Basics/030- loop -JS.md",
     "Images/Pasted image 20230725000217.png",
     "Images/Pasted image 20230725000040.png",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Scaler/Basics/024-Datatype in JS.md",
-    "Web Development/Javascript/Scaler/Basics/030- loop -JS.md",
     "Web Development/Javascript/Scaler/Basics/029-Functions - JS.md",
     "Web Development/Javascript/Image/Pasted image 20230724233521.png",
     "Web Development/Javascript/Image/Pasted image 20230724225537.png",
@@ -206,7 +205,6 @@
     "Communication/Improvement/80% using words.md",
     "Communication/Improving communication.md",
     "DSA/02-Test/01-Array-List/LeetCode/1403. Minimum Subsequence in Non-Increasing Order.md",
-    "DSA/Images/Pasted image 20230723193713.png",
     "Learning/Network/02-Internet/03-TCP and IP",
     "Communication/Improvement/till 50 words/06-a word.md",
     "Web Development/Javascript/Scaler/Basics/027-Basic operators, maths.md",
