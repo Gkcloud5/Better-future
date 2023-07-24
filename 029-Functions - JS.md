@@ -7,6 +7,7 @@ modification date: Monday 24th July 2023 22:53:28
 
 #### Source:
 [JS](https://javascript.info/function-basics)
+[NJS](https://www.youtube.com/watch?v=gSDncyuGw0s&pp=ygUdamF2YXNjcmlwdCBmdW5jdGlvbnMgbmFtYXN0YWU%3D)
 
 --------------------------------------
 
