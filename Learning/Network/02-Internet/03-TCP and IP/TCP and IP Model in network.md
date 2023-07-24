@@ -22,3 +22,21 @@ modification date: Sunday 23rd July 2023 17:58:15
 	* TCP
 		* It defines how application can create channels of communication across a network.
 		* It also manages how a message is assembled into smaller packets before they are then transmitted over the internet.
+		* And reassembled in the right order.
+	* IP
+		* It defines how to address and route each packet to make sure it reach right destination.
+
+##### Common TCP/IP protocol:
+* HTTP 
+	* Handles communication between a web server and a web browser
+* HTTPS
+	* Handles secure communication between a web server and a web browser
+* FTP
+	* It handles transmission of file between computers
+
+#### How does TCP/IP work?
+
+* It used client-server model of communication
+* It is classified as stateless
+	* It means client request is considered new because it is unrelated to previous request
+	* It's not going to store any data
