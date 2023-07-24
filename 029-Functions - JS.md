@@ -28,3 +28,13 @@ showMessage();
 
 
 ##### Passing argument + Default argument:
+
+```
+function passMsg(from, text="default msg") {
+  console.log(from, ":", text)
+}
+
+passMsg("gokul")
+```
+
+![[Pasted image 20230724233521.png]]
