@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "965d34f4e86a3751",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Learning/Network/To-do/Need to read.md"
+              }
+            }
+          },
+          {
             "id": "23db13a9487c5af7",
             "type": "leaf",
             "state": {
@@ -32,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,9 +182,10 @@
   },
   "active": "b8178aa290cbbfca",
   "lastOpenFiles": [
+    "Learning/Network/To-do/Need to read.md",
+    "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
     "Learning/Network/02-Internet/04-CDN",
     "Learning/Network/Networking.md",
-    "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/02-Internet/03-TCP and IP/TCP and IP Model in network.md",
     "Learning/Network/Images/Pasted image 20230724172511.png",
@@ -217,7 +228,6 @@
     "Learning/Network/02-Internet/02-OSI",
     "DSA/01-Program Basics/01-In Python/04-Sets",
     "DSA/01-Program Basics/01-In Python/03-Dictionary",
-    "DSA/01-Program Basics/01-In Python/02-Lists",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",

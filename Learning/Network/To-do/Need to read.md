@@ -15,12 +15,13 @@ kanban-plugin: basic
 - [ ] IPSec
 - [ ] Web servers
 - [ ] TLS
-- [ ] TCP and IP
+- [ ] Cache
+- [ ] Edge network
 
 
 ## Reading
 
-- [ ] OSI
+- [ ] CDN
 
 
 ## Readed
@@ -34,9 +35,11 @@ kanban-plugin: basic
 - [ ] TCP
 - [ ] Unicast, broadcast, multicast
 - [ ] Routers
+- [ ] OSI
 - [ ] Subnetting
 - [ ] IP class and CIDR
 - [ ] link state routing
+- [ ] TCP and IP
 - [ ] IPv4 and IPv6
 - [ ] Distance vector algorithm
 - [ ] Internet

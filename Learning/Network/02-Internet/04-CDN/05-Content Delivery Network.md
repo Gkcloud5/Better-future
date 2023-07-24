@@ -24,4 +24,18 @@ modification date: Monday 24th July 2023 17:35:04
 
 * While a CDN does not host content
 * And can't replace the need for proper web hosting
-* It does help [[Cahce in network |Cache]] content at the [[Network Edge in networing | Edge n]]
+* It does help [[Cahce in network |Cache]] content at the [[Network Edge in networing | Edge network]]
+	* Which improves website performance
+
+
+#### Benefits of using CDN?
+
+##### Improving website load times:
+* Distributing content closer to website by using a nearby CDN server,
+	* Visitors experience faster page loading times.
+* CDN can reduce bounce rates and increase the amount of time that people spend on the site.
+
+##### Reducing bandwidth costs:
+* Through caching and other optimizations
+	* CDN are able to reduce the amount of data an origin server must provide,
+		* Thus reducing hosting costs for website owners
