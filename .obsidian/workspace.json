@@ -11,11 +11,40 @@
             "id": "598feed16b24933f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Communication/Improving communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c68a52d9f0488fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication/Improvement/80% using words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "295ad54ddd761189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication/Improvement/till 50 words/07-have word.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/Improvement/till 50 words/07-have word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/Improvement/till 50 words/07-have word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/Improvement/till 50 words/07-have word.md"
+              }
             }
           }
         ]
@@ -148,8 +181,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "598feed16b24933f",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Communication/Improvement/80% using words.md",
+    "Communication/Improvement/till 50 words/07-have word.md",
+    "Communication/Improving communication.md",
     "DSA/02-Test/01-Array-List/LeetCode/1403. Minimum Subsequence in Non-Increasing Order.md",
     "DSA/Images/Pasted image 20230723193713.png",
     "Learning/Network/02-Internet/03-TCP and IP",
@@ -157,9 +193,7 @@
     "Learning/Network/02-Internet/03-TCP and IP/TCP and IP Model in network.md",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
-    "Communication/Improving communication.md",
     "Communication/Improvement/till 50 words/06-a word.md",
-    "Communication/Improvement/80% using words.md",
     "Web Development/Javascript/Scaler/Basics/027-Basic operators, maths.md",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Image/image_303.png",
