@@ -32,9 +32,11 @@ He, she it ==> Has
 
 * In question `vachurikingala?`
 	* Do you have a phone?
+	* Does he have a phone?
 
 ### 3 Examples:
 
-
-
-
+* I have a car
+* She has a smartphone
+* I have a meeting at 2PM
+* Have a nice day

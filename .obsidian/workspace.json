@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f04b7978329b3d",
+        "id": "726e4b37775ae5f4",
         "type": "tabs",
         "children": [
           {
-            "id": "598feed16b24933f",
+            "id": "23db13a9487c5af7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/Improving communication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c68a52d9f0488fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/Improvement/80% using words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "295ad54ddd761189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/Improvement/till 50 words/07-have word.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Improvement/till 50 words/07-have word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Improvement/till 50 words/07-have word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Communication/Improvement/till 50 words/07-have word.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,10 +148,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "23db13a9487c5af7",
   "lastOpenFiles": [
-    "Communication/Improvement/80% using words.md",
     "Communication/Improvement/till 50 words/07-have word.md",
+    "Communication/Improvement/80% using words.md",
     "Communication/Improving communication.md",
     "DSA/02-Test/01-Array-List/LeetCode/1403. Minimum Subsequence in Non-Increasing Order.md",
     "DSA/Images/Pasted image 20230723193713.png",
