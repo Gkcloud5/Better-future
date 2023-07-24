@@ -60,4 +60,12 @@ modification date: Sunday 23rd July 2023 17:58:15
 * When one application layer protocol wants to communicate with another application layer, it forwards its data to the transport layer.
 
 ##### 2. Transport layer:
+* It is responsible for maintaining end-to-end communication across the network
+* TCP handles communications between hosts and provides 
+	* Flow control
+	* multiplexing 
+	* reliability.
+
+##### 3. Network layer:
+* It also called internet layer, deals with packets and connects independent networks to transport the packets across network boundaries.
 * 
