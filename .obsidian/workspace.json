@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/LeetCode/1710. Maximum Units on a Truck.md",
+                "file": "DSA/02-Test/01-Array-List/02 - 2D array/1710. Maximum Units on a Truck.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/LeetCode/1710. Maximum Units on a Truck.md",
+                "file": "DSA/02-Test/01-Array-List/02 - 2D array/1710. Maximum Units on a Truck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/LeetCode/1710. Maximum Units on a Truck.md",
+                "file": "DSA/02-Test/01-Array-List/02 - 2D array/1710. Maximum Units on a Truck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/LeetCode/1710. Maximum Units on a Truck.md"
+                "file": "DSA/02-Test/01-Array-List/02 - 2D array/1710. Maximum Units on a Truck.md"
               }
             }
           }
@@ -156,10 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da5a069dc8daf900",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Images/Pasted image 20230724220453.png",
-    "DSA/02-Test/01-Array-List/LeetCode/1710. Maximum Units on a Truck.md",
+    "DSA/02-Test/01-Array-List/02 - 2D array",
+    "DSA/Images/Pasted image 20230724220453.png",
+    "DSA/02-Test/01-Array-List/02 - 2D array/1710. Maximum Units on a Truck.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
     "Resume Building/01-Related to Resume Preparation.md",
     "Learning/Network/To-do/Need to read.md",
@@ -199,7 +200,6 @@
     "Learning/Network/Images/Pasted image 20230721191025.png",
     "Learning/Network/Images/Pasted image 20230721190225.png",
     "Learning/Network/Images/Pasted image 20230721185733.png",
-    "Learning/Network/Images/Pasted image 20230721185104.png",
     "DSA/02-Test/01-Array-List/LeetCode",
     "DSA/Images",
     "DSA/02-Test/01-Array-List",
