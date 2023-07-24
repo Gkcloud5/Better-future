@@ -26,3 +26,5 @@ showMessage();
 
 ![[Pasted image 20230724225537.png]]
 
+
+##### Passing argument + Default argument:
