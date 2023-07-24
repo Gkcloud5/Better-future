@@ -52,5 +52,5 @@ console.log( !0 )
 ```
 console.log(height ?? 100) 
 let height = 0;
-console.log(height )
+console.log(height ?? 100)
 ```

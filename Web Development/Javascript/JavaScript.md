@@ -24,5 +24,6 @@
 	* [[026-Type Conversion - JS]]
 	* [[027-Basic operators, maths]]
 	* [[028- Logical Operator -JS]]
+	* [[029-Functions - JS]]
 	* 
 	* 
