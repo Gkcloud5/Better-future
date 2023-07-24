@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+                "file": "Resume Building/Technical Support/01-TS-Resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+                "file": "Resume Building/Technical Support/01-TS-Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+                "file": "Resume Building/Technical Support/01-TS-Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md"
+                "file": "Resume Building/Technical Support/01-TS-Resume.md"
               }
             }
           }
@@ -179,11 +179,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "b8178aa290cbbfca",
   "lastOpenFiles": [
-    "Untitled",
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+    "Resume Building/Technical Support/01-TS-Resume.md",
+    "Resume Building/Technical Support",
+    "Resume Building",
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/04-CDN",
     "Learning/Network/Networking.md",
     "Learning/Network/02-Internet/04-Internet.md",
@@ -225,8 +227,6 @@
     "DSA/03-L-Practise",
     "DSA/02-Test",
     "Learning/Network/02-Internet/02-OSI",
-    "DSA/01-Program Basics/01-In Python/04-Sets",
-    "DSA/01-Program Basics/01-In Python/03-Dictionary",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
