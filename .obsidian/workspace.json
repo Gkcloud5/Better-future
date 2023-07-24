@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS-Resume.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS-Resume.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS-Resume.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS-Resume.md"
+                "file": "Resume Building/Technical Support/01-TS role JD content.md"
               }
             }
           }
@@ -181,8 +182,11 @@
   },
   "active": "b8178aa290cbbfca",
   "lastOpenFiles": [
+    "Resume Building/01-Related to Resume Preparation.md",
+    "Resume Building/Technical Support/01-TS role JD content.md",
+    "Resume Building/Cloud and Devops",
+    "Resume Building/Web Development",
     "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
-    "Resume Building/Technical Support/01-TS-Resume.md",
     "Resume Building/Technical Support",
     "Resume Building",
     "Learning/Network/To-do/Need to read.md",
@@ -215,7 +219,6 @@
     "Learning/Programming/Bash/Bash.md",
     "Communication/Improvement/till 50 words/05-of word.md",
     "Communication/Improvement/till 50 words/03-Been word.md",
-    "Template/Grammar template.md",
     "Web Development/Javascript/Image/Pasted image 20230721232628.png",
     "Learning/Network/Images/Pasted image 20230721191025.png",
     "Learning/Network/Images/Pasted image 20230721190225.png",
@@ -225,8 +228,6 @@
     "DSA/Images",
     "DSA/02-Test/01-Array-List",
     "DSA/03-L-Practise",
-    "DSA/02-Test",
-    "Learning/Network/02-Internet/02-OSI",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
