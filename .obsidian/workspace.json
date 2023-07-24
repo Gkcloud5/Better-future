@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Content Delivery Network.md",
+                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Content Delivery Network.md",
+                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Content Delivery Network.md",
+                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Content Delivery Network.md"
+                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md"
               }
             }
           }
@@ -172,8 +172,9 @@
   },
   "active": "b8178aa290cbbfca",
   "lastOpenFiles": [
+    "Learning/Network/02-Internet/04-CDN",
     "Learning/Network/Networking.md",
-    "05-Content Delivery Network.md",
+    "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/02-Internet/03-TCP and IP/TCP and IP Model in network.md",
     "Learning/Network/Images/Pasted image 20230724172511.png",
@@ -203,7 +204,6 @@
     "Communication/Improvement/till 50 words/03-Been word.md",
     "Template/Grammar template.md",
     "Communication/Improvement/till 50 words/02- Being Word.md",
-    "Communication/Improvement/till 50 words/01-Be word.md",
     "Web Development/Javascript/Image/Pasted image 20230721232628.png",
     "Learning/Network/Images/Pasted image 20230721191025.png",
     "Learning/Network/Images/Pasted image 20230721190225.png",
