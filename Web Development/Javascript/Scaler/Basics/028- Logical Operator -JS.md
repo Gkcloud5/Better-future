@@ -45,3 +45,12 @@ console.log( !0 )
 ```
 
 ![[Pasted image 20230724224412.png]]
+
+
+##### ??:
+
+```
+console.log(height ?? 100) 
+let height = 0;
+console.log(height )
+```
