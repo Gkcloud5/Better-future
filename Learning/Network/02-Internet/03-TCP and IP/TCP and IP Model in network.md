@@ -47,7 +47,7 @@ modification date: Sunday 23rd July 2023 17:58:15
 * It can determine the most efficient path through the network.
 * Also it controlled by any company.
 
-#### Layers in TCP/IP:
+#### Layers in TCP/IP:[](https://www.javatpoint.com/computer-network-tcp-ip-model)
 
 ##### 1. Application layer:
 * It provides application with standardized data exchange
@@ -56,4 +56,8 @@ modification date: Sunday 23rd July 2023 17:58:15
 	* FTP
 	* SMTP
 * It is responsible for handling high-level protocols
-* This layer allows the user to interact with the
+* This layer allows the user to interact with the application.
+* When one application layer protocol wants to communicate with another application layer, it forwards its data to the transport layer.
+
+##### 2. Transport layer:
+* 
