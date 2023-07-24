@@ -68,4 +68,15 @@ modification date: Sunday 23rd July 2023 17:58:15
 
 ##### 3. Network layer:
 * It also called internet layer, deals with packets and connects independent networks to transport the packets across network boundaries.
-* 
+* Network layer protocols are
+	* IP 
+	* Internet control message protocol
+		* Which is used for error reporting
+
+##### 4. Physical layer:
+* It also known as the network interface layer or data link layer,
+* Consists of protocols that operate only on a link.
+
+![[Pasted image 20230724172511.png]]
+
+
