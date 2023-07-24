@@ -19,3 +19,9 @@ modification date: Monday 24th July 2023 17:35:04
 * It also help protect website against some common malicious attacks, such as
 	* DDoS
 
+
+#### Is a CDN the same as a web host?
+
+* While a CDN does not host content
+* And can't replace the need for proper web hosting
+* It does help [[Cahce in network |Cache]] content at the [[Network Edge in networing | Edge n]]
