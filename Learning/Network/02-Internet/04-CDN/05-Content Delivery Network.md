@@ -39,3 +39,8 @@ modification date: Monday 24th July 2023 17:35:04
 * Through caching and other optimizations
 	* CDN are able to reduce the amount of data an origin server must provide,
 		* Thus reducing hosting costs for website owners
+
+
+#### How does a CDN work?
+
+* 
