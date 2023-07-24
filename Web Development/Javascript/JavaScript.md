@@ -25,5 +25,6 @@
 	* [[027-Basic operators, maths]]
 	* [[028- Logical Operator -JS]]
 	* [[029-Functions - JS]]
+	* [[030- loop -JS]]
 	* 
 	* 
