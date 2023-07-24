@@ -77,6 +77,7 @@ modification date: Sunday 23rd July 2023 17:58:15
 * It also known as the network interface layer or data link layer,
 * Consists of protocols that operate only on a link.
 
+
 ![[Pasted image 20230724172511.png]]
 
 
