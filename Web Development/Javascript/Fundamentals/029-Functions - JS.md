@@ -60,3 +60,25 @@ let test1 = function() {
 
 ![[Pasted image 20230725222007.png]]
 
+
+
+### Callback functions:
+
+```
+ask(questions, yes, no)
+```
+
+```
+function ask(question, yes, no) {
+	if (confirm(question)) yes()
+	else no();
+}
+
+function showOk(){
+	console.log("pressed yes")
+}
+
+
+
+ask("do you agree?", showOk, showCancel)
+```
