@@ -20,4 +20,11 @@ modification date: Tuesday 25th July 2023 16:24:17
 		* I came to meet you
 	* Receiver
 		* i gave a gift to my friend
-		* 
+
+* `too` --> கூட
+	* It is too hot
+		* Too --> over
+	* I am too busy
+		* Too --> over
+	* Also = too
+		* He is a actor and he is singer **too**
