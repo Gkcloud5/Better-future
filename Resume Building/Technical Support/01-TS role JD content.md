@@ -61,5 +61,15 @@
 * Take end-to-end ownership of customers’ technical issues
 * support resources such as knowledge base articles, FAQs, and troubleshooting guides
 ###### Skills:
-* 
+* 3 years’ experience
+* SQL or other database
+* Structured communication skills
+---------------------------------------------------
+
+**04**
+## Company name: ``
+### Role: 
+#### Link:
+##### JD:
+###### Skills:
 ---------------------------------------------------
