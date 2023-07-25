@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9db6ba9353e1aa06",
+        "id": "51bc9fe7d8790f23",
         "type": "tabs",
         "children": [
           {
-            "id": "87be1054ded18980",
+            "id": "1b1fee0dab1de632",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94f65e8a67e24c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Javascript/Scaler/Basics/030- loop -JS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,12 +149,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87be1054ded18980",
+  "active": "1b1fee0dab1de632",
   "lastOpenFiles": [
     "Web Development/Javascript/Scaler/Basics/030- loop -JS.md",
+    "Web Development/Javascript/JavaScript.md",
     "Images/Pasted image 20230725000217.png",
     "Images/Pasted image 20230725000040.png",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Scaler/Basics/024-Datatype in JS.md",
     "Web Development/Javascript/Scaler/Basics/029-Functions - JS.md",
     "Web Development/Javascript/Image/Pasted image 20230724233521.png",
