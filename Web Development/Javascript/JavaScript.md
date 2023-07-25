@@ -26,4 +26,6 @@
 	* [[028- Logical Operator -JS]]
 	* [[029-Functions - JS]]
 	* [[030- loop -JS]]
-	* 
+
+#### 3. ES6 Feature
+       
