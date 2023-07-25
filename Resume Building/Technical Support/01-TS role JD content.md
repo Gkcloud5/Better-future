@@ -58,6 +58,8 @@
 #### Link:[LN](https://www.linkedin.com/jobs/view/3632961214)
 ##### JD:
 * Have a deep and technical understanding of the Ad Tech ecosystem
-* 
+* Take end-to-end ownership of customers’ technical issues
+* support resources such as knowledge base articles, FAQs, and troubleshooting guides
 ###### Skills:
+* 
 ---------------------------------------------------
