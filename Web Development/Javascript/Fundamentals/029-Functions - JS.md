@@ -52,6 +52,11 @@ function sayHi(){
 let func = sayHi;
 
 func()
+
+let test1 = function() {
+   console.log("test1")
+}
 ```
 
 ![[Pasted image 20230725222007.png]]
+
