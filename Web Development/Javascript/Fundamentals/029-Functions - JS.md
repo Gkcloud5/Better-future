@@ -120,5 +120,37 @@ let func = (arg1, arg2, ..., argN) ==> expression;
 ```
 
 ```
-Arrow funtion is 
+Arrow funtion is a shortest version for function expression
+let func = function(arg1, arg2, argN) {
+	 return expression
+}
 ```
+
+```
+let sumTot = (a, b) ==> a+b
+console.log(sumTot(2, 5))
+```
+
+![[Pasted image 20230726000750.png]]
+
+```
+#without argument
+let sayHello = () => console.log("without argument")
+
+sayHello();
+```
+
+![[Pasted image 20230726000902.png]]
+
+* If we use curly bracket then need to use `return` keyword
+
+```
+let sumCurly = (a, b) => {
+	let result = a + b;
+	return result
+}
+
+console.log(sumCurly(5,5))
+```
+
+![[Pasted image 20230726001057.png]]
