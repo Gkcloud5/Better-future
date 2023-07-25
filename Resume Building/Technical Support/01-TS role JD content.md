@@ -78,3 +78,15 @@
 * operating systems (Windows, Linux)
 * problem-solving
 ---------------------------------------------------
+**05**
+## Company name: `CrowdStrike`
+### Role: `Technical Support Engineer`
+#### Link:[LN](https://www.linkedin.com/jobs/view/3672803318)
+##### JD:
+* Resolves customer problems via telephone, email, chat or remote access.
+* Create knowledge base content
+###### Skills:
+* Experience supporting security applications such as AV, VPN, Firewall, proxy.
+* Linux troubleshooting
+* 
+----------------------------------
