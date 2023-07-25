@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "51bc9fe7d8790f23",
+        "id": "ee598f658522436c",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1fee0dab1de632",
+            "id": "feb84f6f600035eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Improvement/80% using words.md",
+                "file": "Learning/Network/Networking.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c8cffa68759a3b78",
+            "id": "0b5d74df65753225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Improvement/till 50 words/08-too word.md",
+                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Improvement/till 50 words/08-too word.md",
+                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Improvement/till 50 words/08-too word.md",
+                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Improvement/till 50 words/08-too word.md"
+                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md"
               }
             }
           }
@@ -169,11 +169,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8cffa68759a3b78",
+  "active": "0b5d74df65753225",
   "lastOpenFiles": [
+    "Learning/Network/Networking.md",
     "Communication/Improvement/80% using words.md",
-    "Communication/Improvement/till 50 words/08-too word.md",
-    "Communication/Improvement/till 50 words/07-have word.md",
+    "Communication/Improvement/01 to 10 words/08-too word.md",
+    "Communication/Improvement/01 to 10 words/07-have word.md",
     "Web Development/Javascript/Fundamentals/030- loop -JS.md",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Image/Pasted image 20230725000217.png",
@@ -193,7 +194,6 @@
     "Resume Building/Technical Support/01-TS role JD content.md",
     "Resume Building/01-Related to Resume Preparation.md",
     "Learning/Network/To-do/Need to read.md",
-    "Learning/Network/Networking.md",
     "Resume Building/Cloud and Devops",
     "Resume Building/Web Development",
     "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
@@ -207,7 +207,7 @@
     "Communication/Improving communication.md",
     "DSA/02-Test/01-Array-List/LeetCode/1403. Minimum Subsequence in Non-Increasing Order.md",
     "Learning/Network/02-Internet/03-TCP and IP",
-    "Communication/Improvement/till 50 words/06-a word.md",
+    "Communication/Improvement/01 to 10 words/06-a word.md",
     "Web Development/Javascript/Fundamentals/027-Basic operators, maths.md",
     "Web Development/Javascript/Fundamentals/026-Type Conversion - JS.md",
     "Web Development/Javascript/Fundamentals/025-Interaction alert-prompt-confirm -JS.md",
