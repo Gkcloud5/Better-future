@@ -18,4 +18,4 @@
 3. [[03-Subnetting]]
 4. [[04-Internet]]
 5. [[05-Content Delivery Network]]
-6. 
+6. [[06- Cloud computing]]
