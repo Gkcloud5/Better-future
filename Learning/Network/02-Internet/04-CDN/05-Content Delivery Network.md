@@ -43,4 +43,5 @@ modification date: Monday 24th July 2023 17:35:04
 
 #### How does a CDN work?
 
-* a CDN is a network of servers linked together with the goal of delivering content as quickly
+* a CDN is a network of servers linked together with the goal of delivering content as quickly, cheaply, reliably and securely as possible.
+* 
