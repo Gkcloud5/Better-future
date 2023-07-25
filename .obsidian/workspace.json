@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "76daf394a1958b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "39ab21030de5fc14",
             "type": "leaf",
             "state": {
@@ -129,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/Network Edge in networing.md",
+                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/Network Edge in networing.md",
+                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/Network Edge in networing.md"
+                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md"
               }
             }
           }
@@ -192,12 +204,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39ab21030de5fc14",
+  "active": "76daf394a1958b8c",
   "lastOpenFiles": [
     "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+    "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/04-CDN/Network Edge in networing.md",
     "Learning/Network/Networking.md",
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Images/Pasted image 20230725170932.png",
     "Communication/Improvement/80% using words.md",
     "Communication/Improvement/01 to 10 words/08-too word.md",
@@ -236,7 +249,6 @@
     "Web Development/Javascript/Fundamentals/026-Type Conversion - JS.md",
     "Web Development/Javascript/Fundamentals/025-Interaction alert-prompt-confirm -JS.md",
     "DSA/02-Test/01-Array-List/LeetCode/2656. Maximum Sum With Exactly K Elements.md",
-    "DSA/02-Test/01-Array-List/LeetCode/121. Best Time to Buy and Sell Stock.md",
     "DSA/02-Test/01-Array-List/LeetCode",
     "DSA/Images",
     "DSA/02-Test/01-Array-List",

@@ -16,8 +16,6 @@ kanban-plugin: basic
 - [ ] Web servers
 - [ ] TLS
 - [ ] Cache
-- [ ] Edge network
-- [ ] IEP
 - [ ] Origin server
 - [ ] Caching
 - [ ] Latency
@@ -27,7 +25,7 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] Edge server
+- [ ] IEP
 
 
 ## Readed
@@ -43,7 +41,9 @@ kanban-plugin: basic
 - [ ] Routers
 - [ ] OSI
 - [ ] Subnetting
+- [ ] Edge server
 - [ ] IP class and CIDR
+- [ ] Edge network
 - [ ] CDN
 - [ ] link state routing
 - [ ] TCP and IP
