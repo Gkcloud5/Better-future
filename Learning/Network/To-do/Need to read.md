@@ -19,7 +19,6 @@ kanban-plugin: basic
 - [ ] Edge network
 - [ ] IEP
 - [ ] Origin server
-- [ ] Edge server
 - [ ] Caching
 - [ ] Latency
 - [ ] Round trip
@@ -28,7 +27,7 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] CDN
+- [ ] Edge server
 
 
 ## Readed
@@ -45,6 +44,7 @@ kanban-plugin: basic
 - [ ] OSI
 - [ ] Subnetting
 - [ ] IP class and CIDR
+- [ ] CDN
 - [ ] link state routing
 - [ ] TCP and IP
 - [ ] IPv4 and IPv6
