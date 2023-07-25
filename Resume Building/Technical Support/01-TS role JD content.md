@@ -67,9 +67,14 @@
 ---------------------------------------------------
 
 **04**
-## Company name: ``
-### Role: 
-#### Link:
+## Company name: `Lightcast`
+### Role: `Senior Technical Support Engineer`
+#### Link:[LN](https://www.linkedin.com/jobs/search/?currentJobId=3617659080&geoId=102713980&keywords=technical%20support%20engineer&location=India&refresh=true)
 ##### JD:
+* Troubleshoot customer-reported issues
+* Prioritize and manage several open issues at one time.
 ###### Skills:
+* Microsoft Office
+* operating systems (Windows, Linux)
+* problem-solving
 ---------------------------------------------------
