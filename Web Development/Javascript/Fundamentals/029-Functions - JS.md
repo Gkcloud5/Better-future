@@ -91,3 +91,24 @@ ask("do you agree?", showOk, showCancel)
 and Function expression is a function, created inside or inside another syntax
 Function expression is created when the execution reaches it and is usable only from that moment.**
 
+```
+let age = prompt("what is you age", 18);
+
+let welcome;
+
+if (age < 18) {
+	welcome = function() {
+		console.log("value under 18")
+	}
+} else {
+    console.log("outside function")
+	welcome =  function() {
+		console.log("value above 18")
+	}
+}
+
+welcome();
+```
+
+![[Pasted image 20230725234335.png]]
+
