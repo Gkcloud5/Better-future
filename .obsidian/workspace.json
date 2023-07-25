@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d3ab844c0978231",
+        "id": "21f02ab695dabc8d",
         "type": "tabs",
         "children": [
           {
-            "id": "91c6c2dd090ba46c",
+            "id": "73e474181c3acd83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md"
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md"
               }
             }
           }
@@ -157,8 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91c6c2dd090ba46c",
+  "active": "73e474181c3acd83",
   "lastOpenFiles": [
+    "DSA/Images/Pasted image 20230725215420.png",
+    "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
+    "Resume Building/Technical Support/01-TS role JD content.md",
     "Learning/Network/02-Internet/04-CDN/Network Edge in networing.md",
     "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
     "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
@@ -184,7 +186,6 @@
     "DSA/02-Test/01-Array-List/02 - 2D array/1710. Maximum Units on a Truck.md",
     "DSA/02-Test/01-Array-List/02 - 2D array",
     "DSA/Images/Pasted image 20230724220453.png",
-    "Resume Building/Technical Support/01-TS role JD content.md",
     "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Cloud and Devops",
     "Resume Building/Web Development",
@@ -195,14 +196,12 @@
     "Learning/Network/02-Internet/03-TCP and IP/TCP and IP Model in network.md",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
     "Communication/Improving communication.md",
-    "DSA/02-Test/01-Array-List/LeetCode/1403. Minimum Subsequence in Non-Increasing Order.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
     "Learning/Network/02-Internet/03-TCP and IP",
     "Communication/Improvement/01 to 10 words/06-a word.md",
     "Web Development/Javascript/Fundamentals/027-Basic operators, maths.md",
     "Web Development/Javascript/Fundamentals/026-Type Conversion - JS.md",
-    "Web Development/Javascript/Fundamentals/025-Interaction alert-prompt-confirm -JS.md",
-    "DSA/02-Test/01-Array-List/LeetCode/2656. Maximum Sum With Exactly K Elements.md",
-    "DSA/02-Test/01-Array-List/LeetCode",
+    "DSA/02-Test/01-Array-List/01- 1D Array",
     "DSA/Images",
     "DSA/02-Test/01-Array-List",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
