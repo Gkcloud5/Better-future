@@ -112,3 +112,10 @@ welcome();
 
 ![[Pasted image 20230725234335.png]]
 
+
+### Arrow Functions:
+
+```
+let func = (arg1, arg2, ..., argN) ==> expression;
+```
+
