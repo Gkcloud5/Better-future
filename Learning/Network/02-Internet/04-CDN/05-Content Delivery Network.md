@@ -44,4 +44,12 @@ modification date: Monday 24th July 2023 17:35:04
 #### How does a CDN work?
 
 * a CDN is a network of servers linked together with the goal of delivering content as quickly, cheaply, reliably and securely as possible.
-* 
+* a CDN will place servers at the exchange point between different networks
+* [[Internet exchange point]] are the primary locations where different internet providers connect in order to provide each other access to traffic originating on their different networks.
+
+![[Pasted image 20230725170932.png]]
+
+
+#### How does CDN improve website load times?
+
+* It 
