@@ -12,3 +12,10 @@ modification date: Tuesday 25th July 2023 16:24:17
 
 ### Explanation about it:
 
+* `to` proposition
+	* before destination place
+		* i am going to Chennai now
+	* Infinitive
+		* I am ready to go
+		* I came to meet you
+	* 
