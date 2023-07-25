@@ -12,3 +12,7 @@ modification date: Tuesday 25th July 2023 17:25:38
 
 ### Explanation about it:
 
+### What is Edge Computing?
+
+* Edge computing is a network philosophy focused on bringing computing as close to the source of data as possible in order to reduce latency and bandwidth use.
+* 
