@@ -85,3 +85,9 @@ function showCancel(){
 
 ask("do you agree?", showOk, showCancel)
 ```
+
+
+**Function declaration is a separate statement, in main code flow 
+and Function expression is a function, created inside or inside another syntax
+Function expression is created when the execution reaches it and is usable only from that moment.**
+
