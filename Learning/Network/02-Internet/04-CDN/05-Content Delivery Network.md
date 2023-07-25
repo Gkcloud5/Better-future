@@ -52,4 +52,8 @@ modification date: Monday 24th July 2023 17:35:04
 
 #### How does CDN improve website load times?
 
-* It 
+* It reduce  distance between users and websites resources. 
+	* Instead of having to connect to website [[Origin server]], a CDN lets user connect to a geographically close [[data center in networking |Data center]].
+		* Less travel time means faster service
+* Hardware and software optimizations such as efficient  load balancing and solid state hard drives can help data reach the user faster
+* 

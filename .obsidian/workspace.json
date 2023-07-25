@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "15cea9e84716bdff",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Learning/Network/To-do/Need to read.md"
+              }
+            }
+          },
+          {
             "id": "0b5d74df65753225",
             "type": "leaf",
             "state": {
@@ -32,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,8 +182,10 @@
   },
   "active": "0b5d74df65753225",
   "lastOpenFiles": [
-    "Images/Pasted image 20230725170932.png",
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Networking.md",
+    "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+    "Images/Pasted image 20230725170932.png",
     "Communication/Improvement/80% using words.md",
     "Communication/Improvement/01 to 10 words/08-too word.md",
     "Communication/Improvement/01 to 10 words/07-have word.md",
@@ -195,16 +207,13 @@
     "DSA/Images/Pasted image 20230724220453.png",
     "Resume Building/Technical Support/01-TS role JD content.md",
     "Resume Building/01-Related to Resume Preparation.md",
-    "Learning/Network/To-do/Need to read.md",
     "Resume Building/Cloud and Devops",
     "Resume Building/Web Development",
-    "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
     "Resume Building/Technical Support",
     "Resume Building",
     "Learning/Network/02-Internet/04-CDN",
     "Learning/Network/02-Internet/04-Internet.md",
     "Learning/Network/02-Internet/03-TCP and IP/TCP and IP Model in network.md",
-    "Learning/Network/Images/Pasted image 20230724172511.png",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
     "Communication/Improving communication.md",
     "DSA/02-Test/01-Array-List/LeetCode/1403. Minimum Subsequence in Non-Increasing Order.md",

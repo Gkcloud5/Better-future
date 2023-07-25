@@ -17,6 +17,13 @@ kanban-plugin: basic
 - [ ] TLS
 - [ ] Cache
 - [ ] Edge network
+- [ ] IEP
+- [ ] Origin server
+- [ ] Edge server
+- [ ] Caching
+- [ ] Latency
+- [ ] Round trip
+- [ ] About Data Center
 
 
 ## Reading
