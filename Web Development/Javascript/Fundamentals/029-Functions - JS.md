@@ -78,6 +78,9 @@ function showOk(){
 	console.log("pressed yes")
 }
 
+function showCancel(){
+	console.log("canceled execution")
+}
 
 
 ask("do you agree?", showOk, showCancel)
