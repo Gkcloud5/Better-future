@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "21f02ab695dabc8d",
+        "id": "00532578eeed530a",
         "type": "tabs",
         "children": [
           {
-            "id": "73e474181c3acd83",
+            "id": "bf2ef9f028fc522d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
+                "file": "Web Development/Javascript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57356f714890cfe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/Fundamentals/030- loop -JS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
+                "file": "Web Development/Javascript/Fundamentals/030- loop -JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
+                "file": "Web Development/Javascript/Fundamentals/030- loop -JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md"
+                "file": "Web Development/Javascript/Fundamentals/030- loop -JS.md"
               }
             }
           }
@@ -156,10 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73e474181c3acd83",
+  "active": "57356f714890cfe0",
   "lastOpenFiles": [
-    "DSA/Images/Pasted image 20230725215420.png",
+    "Web Development/Javascript/JavaScript.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
+    "DSA/Images/Pasted image 20230725215420.png",
     "Resume Building/Technical Support/01-TS role JD content.md",
     "Learning/Network/02-Internet/04-CDN/Network Edge in networing.md",
     "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
@@ -171,7 +185,6 @@
     "Communication/Improvement/01 to 10 words/08-too word.md",
     "Communication/Improvement/01 to 10 words/07-have word.md",
     "Web Development/Javascript/Fundamentals/030- loop -JS.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Image/Pasted image 20230725000217.png",
     "Web Development/Javascript/Image/Pasted image 20230725000040.png",
     "Web Development/Javascript/Fundamentals/024-Datatype in JS.md",
@@ -185,7 +198,6 @@
     "Web Development/Javascript/Image/Pasted image 20230724223953.png",
     "DSA/02-Test/01-Array-List/02 - 2D array/1710. Maximum Units on a Truck.md",
     "DSA/02-Test/01-Array-List/02 - 2D array",
-    "DSA/Images/Pasted image 20230724220453.png",
     "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Cloud and Devops",
     "Resume Building/Web Development",

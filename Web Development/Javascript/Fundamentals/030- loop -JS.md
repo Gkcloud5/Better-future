@@ -45,6 +45,6 @@ i--;
 let do1= 0
 do {
 	console.log("do1", do1);
-	i++;
+	do1++;
 }while(do1<3)
 ```
