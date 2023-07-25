@@ -11,7 +11,7 @@
 **01**
 ## Company name: `Digital Ocean`
 ### Role: `Support Engineer`
-#### Link:[](https://www.linkedin.com/jobs/view/3672831308)
+#### Link:[LN](https://www.linkedin.com/jobs/view/3672831308)
 ##### JD:
 * Need to resolve client questions
 * Need to write article
@@ -33,9 +33,10 @@
 ---------------------------------------------------
 
 **02**
-## Company name: 
-### Role: 
-#### Link:
+## Company name: `Infoblox`
+### Role: `Enterprise Technical Support Engineer`
+#### Link:[Lin](https://www.linkedin.com/jobs/view/3589343505)
 ##### JD:
+* 
 ###### Skills:
 ---------------------------------------------------

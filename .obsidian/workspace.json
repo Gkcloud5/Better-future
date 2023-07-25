@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ee598f658522436c",
+        "id": "0d3ab844c0978231",
         "type": "tabs",
         "children": [
           {
-            "id": "feb84f6f600035eb",
+            "id": "91c6c2dd090ba46c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Network/Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15cea9e84716bdff",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Learning/Network/To-do/Need to read.md"
-              }
-            }
-          },
-          {
-            "id": "0b5d74df65753225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76daf394a1958b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39ab21030de5fc14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/Network Edge in networing.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md"
+                "file": "Resume Building/Technical Support/01-TS role JD content.md"
               }
             }
           }
@@ -204,12 +157,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76daf394a1958b8c",
+  "active": "91c6c2dd090ba46c",
   "lastOpenFiles": [
-    "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
-    "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
-    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/02-Internet/04-CDN/Network Edge in networing.md",
+    "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
+    "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+    "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Networking.md",
     "Learning/Network/Images/Pasted image 20230725170932.png",
     "Communication/Improvement/80% using words.md",
