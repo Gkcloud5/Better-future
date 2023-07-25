@@ -7,6 +7,7 @@ modification date: Monday 24th July 2023 17:35:04
 
 #### Source:
 [CDN](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+[YT](https://www.youtube.com/watch?v=RI9np1LWzqw)
 
 --------------------------------------
 
@@ -18,6 +19,7 @@ modification date: Monday 24th July 2023 17:35:04
 * CDN allows for the quick transfer of assets needed for loading internet content, including HTML pages, JS files, CSS 
 * It also help protect website against some common malicious attacks, such as
 	* DDoS
+* Bring servers close to the used
 
 
 #### Is a CDN the same as a web host?
@@ -56,4 +58,6 @@ modification date: Monday 24th July 2023 17:35:04
 	* Instead of having to connect to website [[Origin server]], a CDN lets user connect to a geographically close [[data center in networking |Data center]].
 		* Less travel time means faster service
 * Hardware and software optimizations such as efficient  load balancing and solid state hard drives can help data reach the user faster
-* 
+* CDN can reduce the amount of data that's transferred by reducing file sizes.
+* CDN can also speed up sites which use TLS/SSL certificates by optimizing connection reuse and enabling TLS false start.
+
