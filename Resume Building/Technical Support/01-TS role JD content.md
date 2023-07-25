@@ -37,6 +37,27 @@
 ### Role: `Enterprise Technical Support Engineer`
 #### Link:[Lin](https://www.linkedin.com/jobs/view/3589343505)
 ##### JD:
+* Provide remote technical support
+* Take ownership of customer issues
+* Research, diagnose, troubleshoot, and identify solutions to resolve customer issues
+* Document knowledge in the form of knowledge-based tech notes and articles
+* Use your intuition and innovation to provide solutions
+* Install and configure Infoblox products and third-party software
+###### Skills:
+* 1+ years remote technical support
+* Solid knowledge in TCP/IP and networking protocols
+* Ability and desire to learn DNS, DHCP, and other product-related protocols
+* Excellent verbal and written communication
+* one or more operating systems (Microsoft/Linux) 
+* Working knowledge of L2, L3 devices
+---------------------------------------------------
+
+**03**
+## Company name: `AppsFlyer`
+### Role: `Support Engineer`
+#### Link:[LN](https://www.linkedin.com/jobs/view/3632961214)
+##### JD:
+* Have a deep and technical understanding of the Ad Tech ecosystem
 * 
 ###### Skills:
 ---------------------------------------------------
