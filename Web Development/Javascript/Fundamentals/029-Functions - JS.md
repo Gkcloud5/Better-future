@@ -38,3 +38,14 @@ passMsg("gokul")
 ```
 
 ![[Pasted image 20230724233521.png]]
+
+
+### Function Expressions:
+
+* Syntax that we used before is called a Function Declaration
+
+```
+function sayHi(){
+    console.log("Function executed without call")
+}
+```

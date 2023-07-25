@@ -48,3 +48,5 @@ do {
 	do1++;
 }while(do1<3)
 ```
+
+![[Pasted image 20230725221120.png]]
