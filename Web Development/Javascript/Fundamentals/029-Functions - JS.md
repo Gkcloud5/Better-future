@@ -119,3 +119,6 @@ welcome();
 let func = (arg1, arg2, ..., argN) ==> expression;
 ```
 
+```
+Arrow funtion is 
+```
