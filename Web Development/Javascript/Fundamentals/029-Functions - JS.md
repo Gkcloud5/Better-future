@@ -48,4 +48,10 @@ passMsg("gokul")
 function sayHi(){
     console.log("Function executed without call")
 }
+
+let func = sayHi;
+
+func()
 ```
+
+![[Pasted image 20230725222007.png]]
