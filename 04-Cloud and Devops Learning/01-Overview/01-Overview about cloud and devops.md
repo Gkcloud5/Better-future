@@ -22,7 +22,7 @@ Devops = Development + Operations
 
 * Devops is a philosophy that promotes better communication and collaboration between team and other's in organization
 
-##### 1.2 Devops Environment:
+##### 1.1.1 Devops Environment:
 
 * ###### CI/CD:
 	* **CI:**
@@ -30,4 +30,32 @@ Devops = Development + Operations
 	* **CD(Continues Delivery):**
 		* Build -> Test -> Deploy
 	* **CD(Continues Deployment):**
-		* 
+		* Every code change automatically run through pipeline and works automatically.
+* ###### System Tools:
+	* Real-time monitoring
+	* Incident Management
+	* Configuration Management
+
+##### 1.1.2 How devops works?
+
+* Plan
+* Code
+* Build
+* Test
+* Release
+* Deploy
+* Operate
+* Monitor
+
+`Devops main goal is stramline the process of getting software from the prorgaming stage to the deployment stage`
+
+
+##### 2.1 About Cloud:
+
+* Cloud Administrator
+	* Manage and cloud based role
+	* Container based deployment platform
+		* Docker
+		* Kubernatives
+	* Managed hosted data
+	* 
