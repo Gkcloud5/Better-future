@@ -24,6 +24,6 @@ modification date: Tuesday 25th July 2023 18:24:36
 
 #### How does an IXP work?
 
-* an IXP is essentially one or more physical locations containing network switches that route traffic between the different members networks
+* An IXP is essentially one or more physical locations containing network switches that route traffic between the different members networks
 * IXP are large layer 2 LAN's that are built with one or many ethernet switches interconnected together across one or more physical buildings.
-* 
+
