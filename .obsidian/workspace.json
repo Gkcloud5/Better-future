@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "681c7ed9d1c7fb6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbedf9c32ff108f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md"
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md"
               }
             }
           }
@@ -156,11 +181,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "bbedf9c32ff108f5",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/01-Overview",
     "03-Learning/Network/03-Cloud Computing/Cloud computing.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "03-Learning/Network/03-Cloud Computing",
     "0-Dashboard of my better future/My Journey.md",
     "03-Learning/Network/Networking.md",
@@ -203,7 +229,6 @@
     "Resume Building/Cloud and Devops",
     "Resume Building/Web Development",
     "Resume Building/Technical Support",
-    "Resume Building",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
