@@ -6,7 +6,7 @@ modification date: Wednesday 26th July 2023 16:29:58
 **Tags:** #grammer #english 
 
 #### Useful Resource:
-1. []()
+1. [IT](https://dictionary.cambridge.org/grammar/british-grammar/it)
 
 --------------------------------------
 
@@ -14,14 +14,16 @@ modification date: Wednesday 26th July 2023 16:29:58
 
 **it**
 
-
 ### Tamil Meaning:
 
 அது
 
 ### Explanation about it:
 
-* Indirect
+* We commonly use the pronoun it as both a subject and an object pronoun
+	* Don't drink mill, it's not fine
+* 
+
 ### 3 Examples:
 
 
