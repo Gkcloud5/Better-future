@@ -16,7 +16,6 @@ kanban-plugin: basic
 - [ ] Web servers
 - [ ] TLS
 - [ ] Cache
-- [ ] Origin server
 - [ ] Caching
 - [ ] Latency
 - [ ] Round trip
@@ -25,7 +24,7 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] IEP
+- [ ] Origin server
 
 
 ## Readed
@@ -40,6 +39,7 @@ kanban-plugin: basic
 - [ ] Unicast, broadcast, multicast
 - [ ] Routers
 - [ ] OSI
+- [ ] IEP
 - [ ] Subnetting
 - [ ] Edge server
 - [ ] IP class and CIDR

@@ -55,4 +55,9 @@ modification date: Tuesday 25th July 2023 18:24:36
 
 
 ##### How do IXP's use BGP?
-* Across an IXP's local ne
+* Across an IXP's local network, different providers are able to create one to one connections using the BGP protocol.
+* Once two networks set up a BGP session, their respective routes are exchanged and traffic can flow directly between them.
+
+[[Latency in network]]
+
+[[Round trip in network]]
