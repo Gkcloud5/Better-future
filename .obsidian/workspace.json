@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf3eafbbfc437ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/JavaScript.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -157,16 +169,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf2ef9f028fc522d",
+  "active": "cf3eafbbfc437ab7",
   "lastOpenFiles": [
-    "Web Development/Javascript/Fundamentals/029-Functions - JS.md",
-    "Images/Pasted image 20230726001057.png",
-    "Images/Pasted image 20230726000902.png",
-    "Images/Pasted image 20230726000750.png",
-    "Images/Pasted image 20230725234335.png",
-    "Images/Pasted image 20230725222007.png",
+    "Dashboard of my better future/My Journey.md",
+    "Dashboard of my better future/Dashboard template.md",
     "Web Development/Javascript/JavaScript.md",
-    "Web Development/Javascript/Fundamentals/030- loop -JS.md",
+    "Web Development/Javascript/03-Objects/031-Objects-JS.md",
+    "Web Development/Javascript/03-Objects",
+    "Web Development/Javascript/02-Fundamentals/029-Functions - JS.md",
+    "Web Development/Javascript/Image/Pasted image 20230726001057.png",
+    "Web Development/Javascript/Image/Pasted image 20230726000902.png",
+    "Web Development/Javascript/Image/Pasted image 20230726000750.png",
+    "Web Development/Javascript/Image/Pasted image 20230725234335.png",
+    "Web Development/Javascript/Image/Pasted image 20230725222007.png",
+    "Web Development/Javascript/02-Fundamentals/030- loop -JS.md",
     "Web Development/Javascript/Image/Pasted image 20230725221120.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
     "DSA/Images/Pasted image 20230725215420.png",
@@ -182,8 +198,8 @@
     "Communication/Improvement/01 to 10 words/07-have word.md",
     "Web Development/Javascript/Image/Pasted image 20230725000217.png",
     "Web Development/Javascript/Image/Pasted image 20230725000040.png",
-    "Web Development/Javascript/Fundamentals/024-Datatype in JS.md",
-    "Web Development/Javascript/Fundamentals/028- Logical Operator -JS.md",
+    "Web Development/Javascript/02-Fundamentals/024-Datatype in JS.md",
+    "Web Development/Javascript/02-Fundamentals/028- Logical Operator -JS.md",
     "DSA/02-Test/01-Array-List/02 - 2D array/1710. Maximum Units on a Truck.md",
     "DSA/02-Test/01-Array-List/02 - 2D array",
     "Resume Building/01-Related to Resume Preparation.md",
@@ -199,11 +215,8 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
     "Learning/Network/02-Internet/03-TCP and IP",
     "Communication/Improvement/01 to 10 words/06-a word.md",
-    "Web Development/Javascript/Fundamentals/027-Basic operators, maths.md",
-    "Web Development/Javascript/Fundamentals/026-Type Conversion - JS.md",
     "DSA/02-Test/01-Array-List/01- 1D Array",
     "DSA/Images",
-    "DSA/02-Test/01-Array-List",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",

@@ -1,3 +1,4 @@
+#index 
 
 ### Useful resources:
 
@@ -27,5 +28,7 @@
 	* [[029-Functions - JS]]
 	* [[030- loop -JS]]
 
-#### 3. ES6 Feature
-       
+* #### 3. Object Basics
+	* [[031-Objects-JS]]
+	* 
+
