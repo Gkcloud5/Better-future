@@ -24,7 +24,6 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] Origin server
 
 
 ## Readed
@@ -41,6 +40,7 @@ kanban-plugin: basic
 - [ ] OSI
 - [ ] IEP
 - [ ] Subnetting
+- [ ] Origin server
 - [ ] Edge server
 - [ ] IP class and CIDR
 - [ ] Edge network

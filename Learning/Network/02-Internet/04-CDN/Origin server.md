@@ -25,4 +25,5 @@ modification date: Wednesday 26th July 2023 17:25:13
 * CDN edge servers are very important in internet provider in location across the globe in order to deliver content as quickly as possible.
 * A edge server lives inside a CDN on the edge of a network, 
 	* And it's specifically designed to quickly process requests.
-	* 
+* Edge server's cache content like HTML, CSS and JS as close as possible to requesting machine.
+* **Origin servers** still have an important server-side code such as the database of hashed client credentials used for authentication it typically maintained inside an origin server.
