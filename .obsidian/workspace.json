@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "426fd5eae2290c9d",
+        "id": "9066ba702b746ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "6dfad1148d9c0cc3",
+            "id": "f8099f5a6900757f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
+                "file": "Learning/Network/Networking.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "429c17da6c2e4ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "def2088377a511ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a40e61bae580d7d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Learning/Network/To-do/Need to read.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -93,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
+                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
+                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md"
+                "file": "Learning/Network/02-Internet/04-CDN/Internet exchange point.md"
               }
             }
           }
@@ -156,8 +192,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6dfad1148d9c0cc3",
+  "active": "def2088377a511ff",
   "lastOpenFiles": [
+    "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+    "Learning/Network/To-do/Need to read.md",
+    "Learning/Network/Networking.md",
     "Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
     "Communication/Improvement/80% using words.md",
     "Communication/Improvement/01 to 10 words/09-it word.md",
@@ -181,9 +220,6 @@
     "Resume Building/Technical Support/01-TS role JD content.md",
     "Learning/Network/02-Internet/04-CDN/Network Edge in networing.md",
     "Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
-    "Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
-    "Learning/Network/To-do/Need to read.md",
-    "Learning/Network/Networking.md",
     "Learning/Network/Images/Pasted image 20230725170932.png",
     "Communication/Improvement/01 to 10 words/08-too word.md",
     "Communication/Improvement/01 to 10 words/07-have word.md",

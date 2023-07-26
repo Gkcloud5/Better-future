@@ -1,8 +1,9 @@
 
+##### 26th-July-2023
 * Bravery - வீரம்
-	* He is very bravery person
+	* He is very **bravery** person
 * Treasury - கருவூலம்
-	* Temple treasury is very clean and neet
+	* Temple **treasury** is very clean and neet
 * Mysterious - மர்மமான
 	* This place looks **mysterious** one
 * Rushed - விரைந்தார்

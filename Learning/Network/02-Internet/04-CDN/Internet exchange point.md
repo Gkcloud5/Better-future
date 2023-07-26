@@ -18,6 +18,7 @@ modification date: Tuesday 25th July 2023 18:24:36
 * This location exist on the "edge" of different networks.
 * By having a presence inside of an IXP location, companies are able to shorten their path to transit coming from other participating networks
 	* Thereby reducing latency, improving round-trip time and reduce cost also.
+* IXP is a physical location where multiple ISP, content providers and other network operators come together
 
 
 #### How does an IXP work?
