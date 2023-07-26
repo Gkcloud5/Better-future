@@ -33,3 +33,8 @@ modification date: Tuesday 25th July 2023 18:24:36
 * Traffic going from one network to another would potentially rely on an intermediary network to carry the traffic from source to destination, these are called transit providers.
 * In large portion of international internet flows is cost prohibitive to maintain direct connection
 * A CDN with IXP presence has the the advantage of optimizing the path through which data flows within it's network, cutting down on inefficient paths.
+
+
+#### How do providers share traffic across different networks?
+
+##### Transit:
