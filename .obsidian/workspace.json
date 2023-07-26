@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "00532578eeed530a",
+        "id": "ee35e8537d5c9af1",
         "type": "tabs",
         "children": [
           {
-            "id": "bf2ef9f028fc522d",
+            "id": "97e747e839736484",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Communication/Improvement/80% using words.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf3eafbbfc437ab7",
+            "id": "ed72219e18a55038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
-                "mode": "preview",
+                "file": "09-it word.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "09-it word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "09-it word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "09-it word.md"
               }
             }
           }
@@ -169,11 +170,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf3eafbbfc437ab7",
+  "active": "ed72219e18a55038",
   "lastOpenFiles": [
+    "Communication/Improvement/80% using words.md",
+    "09-it word.md",
+    "Communication/Reading Book/Vikram book",
+    "Communication/Reading Book",
+    "Web Development/Javascript/JavaScript.md",
     "Dashboard of my better future/My Journey.md",
     "Dashboard of my better future/Dashboard template.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/03-Objects/031-Objects-JS.md",
     "Web Development/Javascript/03-Objects",
     "Web Development/Javascript/02-Fundamentals/029-Functions - JS.md",
@@ -193,7 +198,6 @@
     "Learning/Network/To-do/Need to read.md",
     "Learning/Network/Networking.md",
     "Learning/Network/Images/Pasted image 20230725170932.png",
-    "Communication/Improvement/80% using words.md",
     "Communication/Improvement/01 to 10 words/08-too word.md",
     "Communication/Improvement/01 to 10 words/07-have word.md",
     "Web Development/Javascript/Image/Pasted image 20230725000217.png",
@@ -214,9 +218,6 @@
     "Communication/Improving communication.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
     "Learning/Network/02-Internet/03-TCP and IP",
-    "Communication/Improvement/01 to 10 words/06-a word.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array",
-    "DSA/Images",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
