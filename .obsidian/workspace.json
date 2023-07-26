@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "681c7ed9d1c7fb6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md"
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md"
               }
             }
           }
@@ -169,8 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "681c7ed9d1c7fb6b",
+  "active": "04711e3ed7c0e606",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1913. Maximum Product Difference Between Two Pairs.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/724. Find Pivot Index.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/121. Best Time to Buy and Sell Stock.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2656. Maximum Sum With Exactly K Elements.md",
@@ -184,7 +174,6 @@
     "03-Learning/Programming/Bash/Images/Pasted image 20230726192356.png",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Arithmetic and string comparisons - Bash.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/01-Overview",
     "03-Learning/Network/03-Cloud Computing/Cloud computing.md",
     "03-Learning/Network/03-Cloud Computing",
@@ -202,9 +191,7 @@
     "001-Communication/Reading Book",
     "Web Development/Javascript/JavaScript.md",
     "0-Dashboard of my better future/Dashboard template.md",
-    "Web Development/Javascript/03-Objects/031-Objects-JS.md",
     "Web Development/Javascript/03-Objects",
-    "Web Development/Javascript/02-Fundamentals/029-Functions - JS.md",
     "Web Development/Javascript/Image/Pasted image 20230726001057.png",
     "Web Development/Javascript/Image/Pasted image 20230726000902.png",
     "Web Development/Javascript/Image/Pasted image 20230726000750.png",
