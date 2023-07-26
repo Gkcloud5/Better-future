@@ -38,3 +38,10 @@ modification date: Tuesday 25th July 2023 18:24:36
 #### How do providers share traffic across different networks?
 
 ##### Transit:
+* Agreement between a customer and it's upstream provider.
+* A transit provider provides its customers with full connectivity to the rest of the internet.
+* BGP protocol is used to allow customer IP addresses to be announced towards the transit provider and then onwards the rest of the global internet.
+
+##### Peering:
+* arrangement behind how networks share IP addresses without an intermediary between them.
+* when traffic is transferred for free from one network to the next, the relationship is called settlement-free peering.
