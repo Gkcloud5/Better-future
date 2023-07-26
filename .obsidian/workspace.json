@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ee35e8537d5c9af1",
+        "id": "426fd5eae2290c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "97e747e839736484",
+            "id": "6dfad1148d9c0cc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Improvement/80% using words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed72219e18a55038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-it word.md",
+                "file": "Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-it word.md",
+                "file": "Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09-it word.md",
+                "file": "Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-it word.md"
+                "file": "Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md"
               }
             }
           }
@@ -170,10 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed72219e18a55038",
+  "active": "6dfad1148d9c0cc3",
   "lastOpenFiles": [
+    "Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
     "Communication/Improvement/80% using words.md",
-    "09-it word.md",
+    "Communication/Improvement/01 to 10 words/09-it word.md",
     "Communication/Reading Book/Vikram book",
     "Communication/Reading Book",
     "Web Development/Javascript/JavaScript.md",
@@ -216,7 +203,6 @@
     "Learning/Network/02-Internet/03-TCP and IP/TCP and IP Model in network.md",
     "Learning/Network/02-Internet/02-OSI/OSI Model in network.md",
     "Communication/Improving communication.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
     "Learning/Network/02-Internet/03-TCP and IP",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
