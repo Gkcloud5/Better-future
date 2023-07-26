@@ -45,3 +45,14 @@ modification date: Tuesday 25th July 2023 18:24:36
 ##### Peering:
 * arrangement behind how networks share IP addresses without an intermediary between them.
 * when traffic is transferred for free from one network to the next, the relationship is called settlement-free peering.
+
+##### Peering vs paid transit:
+* Unfortunately for some networks, transferring data is not always without cost.
+* In instance like this, a company may configure their routing protocols to make sure that they optimize for reduced costs or reduced latency using the BGP protocol.
+
+##### Depeering:
+* When a network devices end their peering arrangement they go through a process called depeering.
+
+
+##### How do IXP's use BGP?
+* Across an IXP's local ne
