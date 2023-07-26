@@ -23,3 +23,11 @@ Devops = Development + Operations
 * Devops is a philosophy that promotes better communication and collaboration between team and other's in organization
 
 ##### 1.2 Devops Environment:
+
+* ###### CI/CD:
+	* **CI:**
+		* Test code and add to large codebase
+	* **CD(Continues Delivery):**
+		* Build -> Test -> Deploy
+	* **CD(Continues Deployment):**
+		* 

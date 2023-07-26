@@ -20,7 +20,7 @@ fi
 
 echo 
 
-if [ -n "$string1"] //double quoted, it seems it's tring
+if [ -n "$string1"] //double quoted, it still in variable not  a string
 then
 	echo "Double quoted character"
 else
@@ -33,6 +33,10 @@ echo
 
 ### Output:
 
+![[Pasted image 20230726192356.png]]
+
+
+![[Pasted image 20230726192405.png]]
 
 
 ### Explanation:
