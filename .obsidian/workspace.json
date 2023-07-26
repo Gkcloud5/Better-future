@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md"
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md"
               }
             }
           }
@@ -171,12 +171,19 @@
   },
   "active": "681c7ed9d1c7fb6b",
   "lastOpenFiles": [
+    "DSA/02-Test/01-Array-List/01- 1D Array/724. Find Pivot Index.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/121. Best Time to Buy and Sell Stock.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/2656. Maximum Sum With Exactly K Elements.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1929. Concatenation of Array.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1920. Build Array from Permutation.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/2652. Sum Multiples.md",
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Testing whether a string is null.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230726192405.png",
     "03-Learning/Programming/Bash/Images/Pasted image 20230726192356.png",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Arithmetic and string comparisons - Bash.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/01-Overview",
     "03-Learning/Network/03-Cloud Computing/Cloud computing.md",
@@ -203,15 +210,9 @@
     "Web Development/Javascript/Image/Pasted image 20230726000750.png",
     "Web Development/Javascript/Image/Pasted image 20230725234335.png",
     "Web Development/Javascript/Image/Pasted image 20230725222007.png",
-    "Web Development/Javascript/02-Fundamentals/030- loop -JS.md",
     "Web Development/Javascript/Image/Pasted image 20230725221120.png",
-    "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
     "DSA/Images/Pasted image 20230725215420.png",
-    "Resume Building/Technical Support/01-TS role JD content.md",
-    "03-Learning/Network/02-Internet/04-CDN/Network Edge in networing.md",
     "03-Learning/Network/Images/Pasted image 20230725170932.png",
-    "001-Communication/Improvement/01 to 10 words/08-too word.md",
-    "001-Communication/Improvement/01 to 10 words/07-have word.md",
     "DSA/02-Test/01-Array-List/02 - 2D array",
     "Resume Building/Cloud and Devops",
     "Resume Building/Web Development",
