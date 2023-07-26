@@ -18,8 +18,9 @@ modification date: Tuesday 25th July 2023 18:24:36
 * This location exist on the "edge" of different networks.
 * By having a presence inside of an IXP location, companies are able to shorten their path to transit coming from other participating networks
 	* Thereby reducing latency, improving round-trip time and reduce cost also.
-* IXP is a physical location where multiple ISP, content providers and other network operators come together
-
+* IXP is a physical location where multiple ISP, content providers and other network operators come together to exchange internet traffic between their networks.
+* Main purpose of IXP is to vacillate the direct exchange of data traffic instead of routing it though 3rd party networks.
+	* It will improve efficiency, speed and cost effectiveness
 
 #### How does an IXP work?
 
