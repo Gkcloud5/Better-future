@@ -22,4 +22,7 @@ modification date: Wednesday 26th July 2023 17:25:13
 
 ##### What is the difference between an origin server and a CDN edge server?
 
-* 
+* CDN edge servers are very important in internet provider in location across the globe in order to deliver content as quickly as possible.
+* A edge server lives inside a CDN on the edge of a network, 
+	* And it's specifically designed to quickly process requests.
+	* 
