@@ -56,6 +56,16 @@ Devops = Development + Operations
 	* Manage and cloud based role
 	* Container based deployment platform
 		* Docker
-		* Kubernatives
+		* Kubernetes
 	* Managed hosted data
-	* 
+	* Need to know about pricing
+		* Should save cost
+	* Infrastructure code
+		* Provision cloud environment
+			* Cloud formation
+			* Ansible
+
+
+**Devops and cloud administration are grounded in the use of automation and orchestration to get things done**
+
+
