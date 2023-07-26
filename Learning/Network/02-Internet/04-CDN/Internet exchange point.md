@@ -27,3 +27,9 @@ modification date: Tuesday 25th July 2023 18:24:36
 * An IXP is essentially one or more physical locations containing network switches that route traffic between the different members networks
 * IXP are large layer 2 LAN's that are built with one or many ethernet switches interconnected together across one or more physical buildings.
 
+
+#### Why are IXP important?
+
+* Traffic going from one network to another would potentially rely on an intermediary network to carry the traffic from source to destination, these are called transit providers.
+* In large portion of international internet flows is cost prohibitive to maintain direct connection
+* A CDN with IXP presence has the the advantage of optimizing the path through which data flows within it's network, cutting down on inefficient paths.
