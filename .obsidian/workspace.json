@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/Network/03-Cloud Computing/Cloud computing.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Learning/Network/03-Cloud Computing/Cloud computing.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Learning/Network/03-Cloud Computing/Cloud computing.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Learning/Network/03-Cloud Computing/Cloud computing.md"
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md"
               }
             }
           }
@@ -156,9 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04711e3ed7c0e606",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/01-Overview",
     "03-Learning/Network/03-Cloud Computing/Cloud computing.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "03-Learning/Network/03-Cloud Computing",
     "0-Dashboard of my better future/My Journey.md",
     "03-Learning/Network/Networking.md",
@@ -202,8 +204,6 @@
     "Resume Building/Web Development",
     "Resume Building/Technical Support",
     "Resume Building",
-    "03-Learning/Network/02-Internet/04-Internet.md",
-    "03-Learning/Network/02-Internet/03-TCP and IP/TCP and IP Model in network.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
