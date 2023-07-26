@@ -15,6 +15,11 @@ modification date: Wednesday 26th July 2023 19:11:40
 
 ### Explanation:
 
-* = 
+* = `if [ "$a" = "$b" ]` --> is not equal to
+* == `if [ "$a" == "$b" ]` --> check both are equal or not
+* !=
+* <, > --> result based on ASCII character
+* `-z` it's true when string is null
+* `-n` it's true when string is not null
 
-### Things know:
+
