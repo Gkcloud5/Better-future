@@ -83,3 +83,4 @@ Devops = Development + Operations
 			* How to install terraform
 			* How to provision instance by using terraform
 			* check job openings website and know which things are they asking related to learning topic
+* 
