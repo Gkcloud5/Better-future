@@ -91,9 +91,11 @@
 ----------------------------------
 **06**
 ## Company name: `InvestCloud Financial`
-### Role: 
-#### Link:
+### Role: `Platform Support Engineer`
+#### Link:[LN](https://www.linkedin.com/jobs/view/3670385359/)
 ##### JD:
+* Installing, configuring and maintaining computer hardware, software, systems, networks
+* 
 ###### Skills:
 --------------------------------------
 
