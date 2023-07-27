@@ -26,3 +26,4 @@ let user = new Object(); //Object constructor syntax
 let user = {}; //Literal syntax
 ```
 
+
