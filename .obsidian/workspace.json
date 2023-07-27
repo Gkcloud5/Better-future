@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "8305b62baca6b491",
+        "id": "9fd33be29efc21b6",
         "type": "tabs",
         "children": [
           {
-            "id": "f336efb8f783c74f",
+            "id": "55b5a9ebde552ebd",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "03-Learning/Network/To-do/Need to read.md"
+              }
+            }
+          },
+          {
+            "id": "3ebe359704842482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
+                "file": "03-Learning/Network/Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6652ac0fa1ea6356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e55f1bf36d9801d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Learning/Network/02-Internet/04-CDN/Cahce in network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
+                "file": "03-Learning/Network/02-Internet/04-CDN/Cahce in network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
+                "file": "03-Learning/Network/02-Internet/04-CDN/Cahce in network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md"
+                "file": "03-Learning/Network/02-Internet/04-CDN/Cahce in network.md"
               }
             }
           }
@@ -157,8 +192,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f336efb8f783c74f",
+  "active": "5e55f1bf36d9801d",
   "lastOpenFiles": [
+    "03-Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
+    "03-Learning/Network/02-Internet/04-CDN/Cahce in network.md",
+    "03-Learning/Network/To-do/Need to read.md",
+    "03-Learning/Network/Networking.md",
+    "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
     "001-Communication/Improving communication.md",
     "001-Communication/Improvement/01 to 10 words/010-that word.md",
     "001-Communication/Improvement/80% using words.md",
@@ -182,14 +222,9 @@
     "03-Learning/Network/03-Cloud Computing/Cloud computing.md",
     "03-Learning/Network/03-Cloud Computing",
     "0-Dashboard of my better future/My Journey.md",
-    "03-Learning/Network/Networking.md",
     "04-Cloud and Devops Learning",
-    "03-Learning/Network/To-do/Need to read.md",
     "03-Learning/Network/02-Internet/04-CDN/Origin server.md",
     "03-Learning/Network/02-Internet/04-CDN/Internet exchange point.md",
-    "03-Learning/Network/02-Internet/04-CDN/05-Content Delivery Network.md",
-    "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
-    "001-Communication/Improvement/01 to 10 words/09-it word.md",
     "001-Communication/Reading Book/Vikram book",
     "001-Communication/Reading Book",
     "Web Development/Javascript/03-Objects",

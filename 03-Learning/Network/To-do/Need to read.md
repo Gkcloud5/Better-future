@@ -15,7 +15,6 @@ kanban-plugin: basic
 - [ ] IPSec
 - [ ] Web servers
 - [ ] TLS
-- [ ] Cache
 - [ ] Caching
 - [ ] Latency
 - [ ] Round trip
@@ -24,6 +23,7 @@ kanban-plugin: basic
 
 ## Reading
 
+- [ ] Cache
 
 
 ## Readed

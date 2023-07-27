@@ -20,4 +20,6 @@
 * indeed - உண்மையில்
 	* i indeed accept my fault
 * corpse - சடலம்
-	* In today morning, police found corpse in forest
+	* This morning, the police found a corpse in the forest.
+* began - தொடங்கியது
+	* Our trip began yesterday
