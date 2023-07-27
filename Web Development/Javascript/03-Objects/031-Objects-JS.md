@@ -81,3 +81,11 @@ console.log( bag.apple );
 * we can assign key value dynamically by using square brackets
 
 ##### `in` operator:
+
+```
+"key" in object
+```
+
+```
+let user = { name: "John"}
+```
