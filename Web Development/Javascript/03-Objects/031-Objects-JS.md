@@ -37,7 +37,29 @@ let user3 = {
   name: "John",
   age: 30
 };
+
+console.log(user3.name)
+console.log(user3.age)
 ```
 
 ![[Pasted image 20230727223923.png]]
+
+##### Add a value inside object:
+
+```
+user3.isAdmin = true;
+
+console.log(user3)
+```
+
+![[Pasted image 20230727224413.png]]
+
+##### Delete value in object:
+
+```
+delete user3.age
+console.log(user3)
+```
+
+![[Pasted image 20230727224451.png]]
 
