@@ -97,4 +97,15 @@ Devops = Development + Operations
 	2. Building and testing code with jenkins
 4. Provision and automation
 	1. Configuration Management
-		1. Ans
+		1. Ansible
+	2. IaC
+		1. Terraform
+5. Cloud platforms
+	1. Things know about diff cloud providers
+	2. Select one provider and know mostly used services
+6. Continues deployment
+	1. Creating CD pipeline tool
+7. Containerization
+	1. Docker
+	2. Kubernetes
+
