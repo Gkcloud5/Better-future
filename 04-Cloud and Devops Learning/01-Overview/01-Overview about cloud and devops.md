@@ -71,9 +71,16 @@ Devops = Development + Operations
 
 ##### 2.3 Confusion to start which one first cloud or devops:
 
-* Mistakes to avoid
+* ###### Mistakes to avoid
 	* Reading Book
 	* Try to learn more tools in short period
 	* Buy costly course
-* Best way to learn
-	* Learn bare minimum r
+* ###### Best way to learn
+	* **Learn tool bare minimum requirement to start a work**
+		* Example: terraform
+			* What is terraform
+			* Why it's important and what problem it solved among others
+			* How to install terraform
+			* How to provision instance by using terraform
+			* check job openings website and know which things are they asking related to learning topic
+	* **First signup a
