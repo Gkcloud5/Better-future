@@ -108,4 +108,4 @@ Devops = Development + Operations
 7. Containerization
 	1. Docker
 	2. Kubernetes
-
+8. Logging and monitoring
