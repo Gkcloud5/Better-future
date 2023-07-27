@@ -93,9 +93,9 @@ Devops = Development + Operations
 	1. Linux
 		1. Scripting
 	2. Networking
+	3. MySQL DB
 3. CI
 	1. GIT
-	2. Building and testing code with jenkins
 4. Provision and automation
 	1. Configuration Management
 		1. Ansible
@@ -106,6 +106,7 @@ Devops = Development + Operations
 	2. Select one provider and know mostly used services
 6. Continues deployment
 	1. Creating CD pipeline tool
+	2. Building and testing code with jenkins
 7. Containerization
 	1. Docker
 	2. Kubernetes

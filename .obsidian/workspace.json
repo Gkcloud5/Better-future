@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "204edc1063d56eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a49cd547508d8ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "702fc3a9fcab5122",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md"
               }
             }
           }
@@ -168,13 +193,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ebfb662c4a9dc24",
+  "active": "a49cd547508d8ea0",
   "lastOpenFiles": [
-    "Web Development/Javascript/02-Fundamentals/030- loop -JS.md",
-    "Web Development/Javascript/JavaScript.md",
-    "Web Development/Javascript/03-Objects/031-Objects-JS.md",
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "Web Development/Javascript/03-Objects/031-Objects-JS.md",
+    "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/02-Fundamentals/030- loop -JS.md",
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "DSA/02-Test/01-Array-List/02 - 2D array/2363. Merge Similar Items.md",
     "DSA/Images/Pasted image 20230727212635.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/2089. Find Target Indices After Sorting Array.md",
