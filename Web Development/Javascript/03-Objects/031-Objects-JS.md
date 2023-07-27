@@ -67,13 +67,17 @@ console.log(user3)
 ##### Computed properties:
 
 ```
-let fruit = prompt("Fruit to buy?", "apple");
-
+let fruit = "apple"
 let bag = {
-	[fruit]: 5,
+    [fruit]: 5,
 };
 
 console.log(bag)
-console.log( bag.apple ); 
-console.log(bag)
+console.log( bag.apple );
 ```
+
+![[Pasted image 20230727230121.png]]
+
+* we can assign key value dynamically by using square brackets
+
+##### `in` operator:
