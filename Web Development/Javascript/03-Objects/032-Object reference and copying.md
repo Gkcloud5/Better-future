@@ -48,3 +48,35 @@ clone.name = "Gk1";
 console.log(clone)
 console.log(user_org)
 ```
+
+![[Pasted image 20230727233538.png]]
+
+
+##### Combine objects:
+
+```
+let user_combine = { name: "Gk1" };
+
+let permission1 = { canView: true };
+let permission2 = { canEdit: true };
+
+Object.assign(user_combine, permission1, permission2);
+
+console.log(user_combine)
+```
+
+![[Pasted image 20230727233855.png]]
+
+##### Nested Clone:
+
+```
+let user = {
+	name: "Gk1",
+	sizes: {
+		height: 170,
+		width: 50
+		}
+};
+
+let clone = 
+```
