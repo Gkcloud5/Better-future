@@ -49,4 +49,7 @@ modification date: Saturday 24th June 2023 18:22:25
 	4. [[Testing broken links]]
 	5. [[Arithmetic and string comparisons - Bash]]
 	6. [[Testing whether a string is null]]
-8. 
+
+8. Operators
+	1. [[Greatest Common Divisor]]
+	2. 
