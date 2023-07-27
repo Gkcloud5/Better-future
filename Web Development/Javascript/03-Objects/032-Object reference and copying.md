@@ -78,5 +78,7 @@ let user = {
 		}
 };
 
-let clone = 
+console.log(user.sizes.height)
 ```
+
+![[Pasted image 20230727234133.png]]
