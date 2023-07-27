@@ -32,22 +32,27 @@
             }
           },
           {
-            "id": "cecad1d40d0c9dcb",
+            "id": "1a694ccd1ef116fa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": 26.44674423701207,
-                  "y": 771.1242888672193,
-                  "zoom": -0.45524382167386407
-                }
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "b2d3ca28b3691632",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,11 +185,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb9b012a27e288d2",
+  "active": "b2d3ca28b3691632",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "04-Cloud and Devops Learning/02-Devops Nature",
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Greatest Common Divisor.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8",
     "03-Learning/Programming/Bash/Images/Pasted image 20230727172135.png",
@@ -215,7 +218,6 @@
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Testing whether a string is null.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230726192405.png",
     "03-Learning/Programming/Bash/Images/Pasted image 20230726192356.png",
-    "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Arithmetic and string comparisons - Bash.md",
     "04-Cloud and Devops Learning/01-Overview",
     "03-Learning/Network/03-Cloud Computing",
     "04-Cloud and Devops Learning",
@@ -231,7 +233,6 @@
     "DSA/Images/Pasted image 20230725215420.png",
     "DSA/02-Test/01-Array-List/02 - 2D array",
     "Resume Building/Cloud and Devops",
-    "Resume Building/Web Development",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
