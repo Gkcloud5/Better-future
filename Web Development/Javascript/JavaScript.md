@@ -31,4 +31,6 @@
 * #### 3. Object Basics
 	* [[031-Objects-JS]]
 	* [[032-Object reference and copying]]
-	* [[033- Object methods
+	* [[033- Object methods this]]
+	* 
+

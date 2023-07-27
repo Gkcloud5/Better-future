@@ -89,4 +89,11 @@
 * Experience supporting security applications such as AV, VPN, Firewall, proxy.
 * Linux troubleshooting
 ----------------------------------
-06 : https://www.linkedin.com/jobs/view/3670385359
+**06**
+## Company name: `InvestCloud Financial`
+### Role: 
+#### Link:
+##### JD:
+###### Skills:
+--------------------------------------
+
