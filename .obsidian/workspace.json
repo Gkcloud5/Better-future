@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "702fc3a9fcab5122",
+            "id": "d778b86a684f0418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/031-Objects-JS.md",
+                "file": "032-Object reference and copying.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/031-Objects-JS.md",
+                "file": "032-Object reference and copying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/031-Objects-JS.md",
+                "file": "032-Object reference and copying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/031-Objects-JS.md"
+                "file": "032-Object reference and copying.md"
               }
             }
           }
@@ -170,17 +170,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "702fc3a9fcab5122",
+  "active": "d778b86a684f0418",
   "lastOpenFiles": [
+    "Web Development/Javascript/JavaScript.md",
+    "032-Object reference and copying.md",
+    "Web Development/Javascript/03-Objects/031-Objects-JS.md",
+    "Images/Pasted image 20230727231540.png",
     "Images/Pasted image 20230727231132.png",
     "Web Development/Javascript/Image/Pasted image 20230727230121.png",
     "Web Development/Javascript/Image/Pasted image 20230727224451.png",
     "Web Development/Javascript/Image/Pasted image 20230727224413.png",
     "Web Development/Javascript/Image/Pasted image 20230727223923.png",
     "Web Development/Javascript/Image/Pasted image 20230727223650.png",
-    "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-    "Web Development/Javascript/03-Objects/031-Objects-JS.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "Web Development/Javascript/02-Fundamentals/030- loop -JS.md",
     "DSA/02-Test/01-Array-List/02 - 2D array/2363. Merge Similar Items.md",
@@ -209,8 +211,6 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/1913. Maximum Product Difference Between Two Pairs.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/724. Find Pivot Index.md",
-    "03-Learning/Programming/Bash/Images/Pasted image 20230726192405.png",
-    "03-Learning/Programming/Bash/Images/Pasted image 20230726192356.png",
     "04-Cloud and Devops Learning/01-Overview",
     "03-Learning/Network/03-Cloud Computing",
     "04-Cloud and Devops Learning",

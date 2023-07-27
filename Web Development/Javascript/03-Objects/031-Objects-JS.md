@@ -44,6 +44,7 @@ console.log(user3.age)
 
 ![[Pasted image 20230727223923.png]]
 
+
 ##### Add a value inside object:
 
 ```
@@ -53,6 +54,7 @@ console.log(user3)
 ```
 
 ![[Pasted image 20230727224413.png]]
+
 
 ##### Delete value in object:
 
@@ -109,9 +111,11 @@ let user_for = {
 }
 
 for (let key in user_for) {
- console.log(user_for[key])
  console.log(key)
-
+ console.log(user_for[key])
 }
 ```
+
+![[Pasted image 20230727231540.png]]
+
 
