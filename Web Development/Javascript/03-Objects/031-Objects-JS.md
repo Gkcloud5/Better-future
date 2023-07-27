@@ -87,5 +87,31 @@ console.log( bag.apple );
 ```
 
 ```
-let user = { name: "John"}
+let user = { name: "John", age:30 };
+
+console.log( "age" in user );
+console.log( "blabla" in user );
 ```
+
+![[Pasted image 20230727231132.png]]
+
+
+##### `for..in` loop:
+
+```
+for (key in object) {
+}
+
+let user_for = {
+  name: "John",
+  age: 30,
+  isAdmin:true
+}
+
+for (let key in user_for) {
+ console.log(user_for[key])
+ console.log(key)
+
+}
+```
+
