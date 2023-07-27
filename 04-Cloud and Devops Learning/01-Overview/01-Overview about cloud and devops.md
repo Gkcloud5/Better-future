@@ -83,4 +83,7 @@ Devops = Development + Operations
 			* How to install terraform
 			* How to provision instance by using terraform
 			* check job openings website and know which things are they asking related to learning topic
+* Overview of Devops [](https://learn.cloudadvocate.net/courses/DevOps-Mastery-641eb17de4b01b8859faaf7d)
+	* [Agenda](https://learn.cloudadvocate.net/s/preview/courses/DevOps-Mastery#6420110be4b0b9b4b1a8eaca)
+* 
 * 
