@@ -128,6 +128,12 @@
 ### Role: `Engineer, Cloud Development Support`
 #### Link: [LN](https://www.linkedin.com/jobs/view/3676621496)
 ##### JD:
-* 
+* Troubleshooting and Debugging
+	* Resolve issues related to APIs, AWS services, and associated technologies.
+* Scripting language
+	* Python
+* Knowledge of cloud computing principles
+* SQL and basic database concepts
 ###### Skills:
+* 
 -------------------------------------
