@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md"
               }
             }
           }
@@ -172,10 +171,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cecad1d40d0c9dcb",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Greatest Common Divisor.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8",
     "03-Learning/Programming/Bash/Images/Pasted image 20230727172135.png",
@@ -221,7 +221,6 @@
     "Resume Building/Web Development",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
-    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
 }
