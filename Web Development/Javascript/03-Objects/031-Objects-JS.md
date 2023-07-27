@@ -64,3 +64,16 @@ console.log(user3)
 ![[Pasted image 20230727224451.png]]
 
 
+##### Computed properties:
+
+```
+let fruit = prompt("Fruit to buy?", "apple");
+
+let bag = {
+	[fruit]: 5,
+};
+
+console.log(bag)
+console.log( bag.apple ); 
+console.log(bag)
+```
