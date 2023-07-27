@@ -36,7 +36,7 @@ echo; echo "GCD of $1 and $2 = $dividend"
 
 ### Output:
 
-
+![[Pasted image 20230727172135.png]]
 
 ### Explanation:
 
@@ -50,4 +50,4 @@ echo; echo "GCD of $1 and $2 = $dividend"
 	* **
 	* % --> return remainder
 
-### Things know:
+
