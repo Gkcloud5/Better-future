@@ -66,9 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7781f5004e0d1cf2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -142,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Learning/Network/02-Internet/04-Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Learning/Network/02-Internet/04-Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03-Learning/Network/02-Internet/04-Internet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -205,11 +210,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3985da48226b9eda",
+  "active": "7781f5004e0d1cf2",
   "lastOpenFiles": [
     "03-Learning/Network/Networking.md",
-    "03-Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
+    "03-Learning/Network/02-Internet/04-Internet.md",
+    "03-Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/02-Devops Nature",
@@ -236,7 +242,6 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/1920. Build Array from Permutation.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2011. Final Value of Variable After Performing Operations.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2652. Sum Multiples.md",
-    "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.7/Testing whether a string is null.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230726192405.png",
     "03-Learning/Programming/Bash/Images/Pasted image 20230726192356.png",
     "04-Cloud and Devops Learning/01-Overview",
