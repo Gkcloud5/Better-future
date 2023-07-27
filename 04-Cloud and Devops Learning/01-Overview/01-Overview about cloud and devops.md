@@ -75,7 +75,7 @@ Devops = Development + Operations
 	* Reading Book
 	* Try to learn more tools in short period
 	* Buy costly course
-* ###### Best way to learn
+* ###### Best way to learn [](https://www.youtube.com/watch?v=rRcgc0LvjFI)
 	* **Learn tool bare minimum requirement to start a work**
 		* Example: terraform
 			* What is terraform
@@ -83,4 +83,3 @@ Devops = Development + Operations
 			* How to install terraform
 			* How to provision instance by using terraform
 			* check job openings website and know which things are they asking related to learning topic
-	* **First signup a
