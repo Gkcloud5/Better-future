@@ -91,6 +91,7 @@ Devops = Development + Operations
 1. Getting things to know about devops
 2. Cover Basics before the devops tools
 	1. Linux
+		1. Scripting
 	2. Networking
 3. CI
 	1. GIT
@@ -109,3 +110,7 @@ Devops = Development + Operations
 	1. Docker
 	2. Kubernetes
 8. Logging and monitoring
+	1. Prometheus, Grafana
+	2. graylog
+9. Security
+	1. DevOps security practices
