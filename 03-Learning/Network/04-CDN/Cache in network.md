@@ -25,4 +25,5 @@ modification date: Thursday 27th July 2023 16:33:49
 ### DNS Caching:
 
 * It takes place on DNS servers.
-* The servers store recent DNS lookup in their cache so that they do not have q
+* The servers store recent DNS lookup in their cache so that they do not have query nameservers and can instantly reply with the IP address of a domain.
+

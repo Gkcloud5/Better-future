@@ -26,7 +26,7 @@ modification date: Monday 24th July 2023 17:35:04
 
 * While a CDN does not host content
 * And can't replace the need for proper web hosting
-* It does help [[Cahce in network |Cache]] content at the [[Network Edge in networing | Edge network]]
+* It does help [[Cache in network|Cache]] content at the [[Network Edge in networing | Edge network]]
 	* Which improves website performance
 
 

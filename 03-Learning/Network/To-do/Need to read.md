@@ -23,7 +23,6 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] Cache
 
 
 ## Readed
@@ -35,6 +34,7 @@ kanban-plugin: basic
 - [ ] TLD
 - [ ] DNS
 - [ ] TCP
+- [ ] Cache
 - [ ] Unicast, broadcast, multicast
 - [ ] Routers
 - [ ] OSI

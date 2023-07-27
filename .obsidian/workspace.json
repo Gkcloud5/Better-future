@@ -18,43 +18,19 @@
             }
           },
           {
-            "id": "3ebe359704842482",
+            "id": "7b2951ad5df74dd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/Network/Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6652ac0fa1ea6356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Learning/Network/04-CDN/05-Content Delivery Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e55f1bf36d9801d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Learning/Network/04-CDN/Cahce in network.md",
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Learning/Network/04-CDN/Cahce in network.md",
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Learning/Network/04-CDN/Cahce in network.md",
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Learning/Network/04-CDN/Cahce in network.md"
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md"
               }
             }
           }
@@ -192,13 +168,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e55f1bf36d9801d",
+  "active": "7b2951ad5df74dd1",
   "lastOpenFiles": [
-    "03-Learning/Network/04-CDN/Latency in network.md",
-    "03-Learning/Network/04-CDN/Cahce in network.md",
+    "03-Learning/Programming/Bash/Bash.md",
+    "03-Learning/Network/To-do/Need to read.md",
     "03-Learning/Network/Networking.md",
     "03-Learning/Network/04-CDN/05-Content Delivery Network.md",
-    "03-Learning/Network/To-do/Need to read.md",
+    "03-Learning/Network/04-CDN/Cache in network.md",
+    "03-Learning/Network/04-CDN/Latency in network.md",
     "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
     "001-Communication/Improving communication.md",
     "001-Communication/Improvement/01 to 10 words/010-that word.md",
@@ -224,7 +201,6 @@
     "03-Learning/Network/03-Cloud Computing",
     "0-Dashboard of my better future/My Journey.md",
     "04-Cloud and Devops Learning",
-    "03-Learning/Network/04-CDN/Origin server.md",
     "001-Communication/Reading Book/Vikram book",
     "001-Communication/Reading Book",
     "Web Development/Javascript/03-Objects",
