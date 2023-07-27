@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "cdcd9824dd5d16e1",
+        "id": "8852f4bb54414dec",
         "type": "tabs",
         "children": [
           {
-            "id": "43cfa01f2419e5ad",
+            "id": "7ebfb662c4a9dc24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb9b012a27e288d2",
+            "id": "702fc3a9fcab5122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "file": "Web Development/Javascript/03-Objects/031-Objects-JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md"
+                "file": "Web Development/Javascript/JavaScript.md"
               }
             }
           }
@@ -168,15 +168,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43cfa01f2419e5ad",
+  "active": "7ebfb662c4a9dc24",
   "lastOpenFiles": [
+    "Web Development/Javascript/02-Fundamentals/030- loop -JS.md",
+    "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/03-Objects/031-Objects-JS.md",
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "DSA/02-Test/01-Array-List/02 - 2D array/2363. Merge Similar Items.md",
     "DSA/Images/Pasted image 20230727212635.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/2089. Find Target Indices After Sorting Array.md",
     "DSA/Images/Pasted image 20230727204819.png",
     "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "03-Learning/Network/Networking.md",
     "03-Learning/Network/02-Internet/04-Internet.md",
     "03-Learning/Network/01-Fundamentals/01/01-What is computer network.md",
@@ -199,8 +202,6 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/1403. Minimum Subsequence in Non-Increasing Order.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/724. Find Pivot Index.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/121. Best Time to Buy and Sell Stock.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array/2656. Maximum Sum With Exactly K Elements.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array/1929. Concatenation of Array.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230726192405.png",
     "03-Learning/Programming/Bash/Images/Pasted image 20230726192356.png",
     "04-Cloud and Devops Learning/01-Overview",
