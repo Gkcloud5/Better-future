@@ -85,5 +85,16 @@ Devops = Development + Operations
 			* check job openings website and know which things are they asking related to learning topic
 * Overview of Devops [](https://learn.cloudadvocate.net/courses/DevOps-Mastery-641eb17de4b01b8859faaf7d)
 	* [Agenda](https://learn.cloudadvocate.net/s/preview/courses/DevOps-Mastery#6420110be4b0b9b4b1a8eaca)
-* 
-* 
+
+##### 2.4 Plan 1:
+
+1. Getting things to know about devops
+2. Cover Basics before the devops tools
+	1. Linux
+	2. Networking
+3. CI
+	1. GIT
+	2. Building and testing code with jenkins
+4. Provision and automation
+	1. Configuration Management
+		1. Ans
