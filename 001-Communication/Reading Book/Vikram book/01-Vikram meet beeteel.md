@@ -11,3 +11,6 @@
 * Presenting - வழங்குதல்
 	* fruit he had been **presenting** to he king over the year
 		* ஒரு வருடமாக அரசருக்குப் பழங்களை வழங்கி வந்தார்
+
+##### 27th-July-2023
+* 

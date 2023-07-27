@@ -14,7 +14,6 @@ modification date: Thursday 27th July 2023 16:11:31
 
 **That**
 
-
 ### Tamil Meaning:
 
 அந்த
@@ -29,8 +28,11 @@ modification date: Thursday 27th July 2023 16:11:31
 		* She picked up the hairbrush that she had left on the bed
 * That after some verbs
 	* I admit that i was wrong
+
 ### 3 Examples:
 
-
+--> That is my favorite book on the shelf.
+--> She said that she would be coming the the party
+--> The car that we bought last week is amazing.
 
 
