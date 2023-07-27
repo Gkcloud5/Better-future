@@ -13,4 +13,11 @@
 		* ஒரு வருடமாக அரசருக்குப் பழங்களை வழங்கி வந்தார்
 
 ##### 27th-July-2023
-* 
+* Stood - நின்றது
+	* Yesterday, when the teacher came to class, all the students stood up and wished.
+* Bowed - குனிந்தார்
+	* He received his punishment with a bowed head.
+* indeed - உண்மையில்
+	* i indeed accept my fault
+* corpse - சடலம்
+	* In today morning, police found corpse in forest
