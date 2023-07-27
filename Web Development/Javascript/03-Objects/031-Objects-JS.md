@@ -27,3 +27,17 @@ let user = {}; //Literal syntax
 ```
 
 
+![[Pasted image 20230727223650.png]]
+
+
+##### Literals and properties:
+
+```
+let user3 = {
+  name: "John",
+  age: 30
+};
+```
+
+![[Pasted image 20230727223923.png]]
+
