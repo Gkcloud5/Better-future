@@ -69,3 +69,11 @@ Devops = Development + Operations
 **Devops and cloud administration are grounded in the use of automation and orchestration to get things done**
 
 
+##### 2.3 Confusion to start which one first cloud or devops:
+
+* Mistakes to avoid
+	* Reading Book
+	* Try to learn more tools in short period
+	* Buy costly course
+* Best way to learn
+	* Learn bare minimum r
