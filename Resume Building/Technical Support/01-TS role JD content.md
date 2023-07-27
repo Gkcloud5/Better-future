@@ -95,7 +95,15 @@
 #### Link:[LN](https://www.linkedin.com/jobs/view/3670385359/)
 ##### JD:
 * Installing, configuring and maintaining computer hardware, software, systems, networks
-* 
+* Escalation point for production support issues
+* Maintain best practices for technical operations
 ###### Skills:
+* Linux knowledge
+* Bash script
+* Maintaining web servers (Nginx, Apache)
+* DNS Administration (e.g. A, CNAME, MX, TXT)
+* Active Directory Administration
+* Working with SSL Certificate Enrollment Processes
+* 
 --------------------------------------
 
