@@ -116,6 +116,10 @@
 		* Best practise and security guidelines
 	* Tuning of monitoring tools
 		* SaaS-Based app
-	* 
+	* Maintain Office Network infrastructure (wi-fi, access points & chrome casts)
+
 ###### Skills:
+* 2+ years’ hands-on experience as a Linux system administrator
+* Experience in AWS (IAM, S3, EC2, Route 53, CloudWatch, RDS).
+* 
 ----------------------------
