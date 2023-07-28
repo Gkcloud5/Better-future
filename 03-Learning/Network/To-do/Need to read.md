@@ -15,14 +15,13 @@ kanban-plugin: basic
 - [ ] IPSec
 - [ ] Web servers
 - [ ] TLS
-- [ ] Caching
-- [ ] Latency
 - [ ] Round trip
 - [ ] About Data Center
 
 
 ## Reading
 
+- [ ] Latency
 
 
 ## Readed
@@ -36,6 +35,7 @@ kanban-plugin: basic
 - [ ] TCP
 - [ ] Cache
 - [ ] Unicast, broadcast, multicast
+- [ ] Caching
 - [ ] Routers
 - [ ] OSI
 - [ ] IEP
