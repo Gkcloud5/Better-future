@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "42e397ee4f33e09c",
+        "id": "7446e8a9eb579591",
         "type": "tabs",
         "children": [
           {
-            "id": "d2212f8ee5d0c4fb",
+            "id": "7edfab9633e2fd93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "208e4459b96dc82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c43fc79b0bcdc21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ef97f13462a81a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a7fe0e336a162fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/02-How DevOps Works.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1528. Shuffle String.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -143,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1528. Shuffle String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1528. Shuffle String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md"
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1528. Shuffle String.md"
               }
             }
           }
@@ -206,16 +156,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c43fc79b0bcdc21",
+  "active": "7edfab9633e2fd93",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-    "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1528. Shuffle String.md",
+    "04-Cloud and Devops Learning/02-Devops Nature/02-How DevOps Works.md",
     "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
+    "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "04-Cloud and Devops Learning/02-Devops Nature/04-Core principles of DevOps.md",
     "04-Cloud and Devops Learning/02-Devops Nature/03-Agile Methodology.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
-    "04-Cloud and Devops Learning/02-Devops Nature/02-How DevOps Works.md",
     "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230728143749.png",
     "04-Cloud and Devops Learning/Images",
@@ -238,7 +189,6 @@
     "Resume Building/01-Related to Resume Preparation.md",
     "Web Development/Javascript/03-Objects/033- Object methods this.md",
     "Web Development/Javascript/JavaScript.md",
-    "Web Development/Javascript/03-Objects/032-Object reference and copying.md",
     "Web Development/Javascript/Image/Pasted image 20230727234133.png",
     "Web Development/Javascript/Image/Pasted image 20230727233855.png",
     "Web Development/Javascript/Image/Pasted image 20230727233538.png",
