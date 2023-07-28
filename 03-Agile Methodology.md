@@ -36,6 +36,15 @@ modification date: Friday 28th July 2023 17:00:06
 	* In this approach, we will move next thing only complete a current one and also getting users feedback not possible here
 
 * Agile is the practice that promotes continues iteration of development and testing all through the software development cycle.
-* In agile, work can be reviewed by project team and the customer
+* In agile, work can be reviewed by project team and the customer with a help of daily build and sprint demos
 
-##### Principle of agile software delivery:
+##### 3. Principle of agile software delivery:
+* ###### 3.1 Collaboration:
+	* Agile value people and human interaction over the processes and tools
+* ###### 3.2 Customer Focus:
+	* Satisfy the customer through and continue value to software
+* ###### 3.3 Value based prioritization:
+	* It based on what should be first
+	* What can we done later
+* ###### 3.4 Iterative Development:
+	* Tasks are broken down into smaller deliverables that can be repea
