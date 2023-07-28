@@ -33,5 +33,9 @@ modification date: Friday 28th July 2023 13:37:49
 #### How can latency be reduced?
 
 * CDN is a major steps to reduce a latency.
-* Minimize the 
+* Minimize the number of render-blocking resources
+	* JS related changes
+	* Optimize images
+	* Reduce code size
+
 

@@ -15,13 +15,12 @@ kanban-plugin: basic
 - [ ] IPSec
 - [ ] Web servers
 - [ ] TLS
-- [ ] Round trip
 - [ ] About Data Center
 
 
 ## Reading
 
-- [ ] Latency
+- [ ] Round trip
 
 
 ## Readed
@@ -39,6 +38,7 @@ kanban-plugin: basic
 - [ ] Routers
 - [ ] OSI
 - [ ] IEP
+- [ ] Latency
 - [ ] Subnetting
 - [ ] Origin server
 - [ ] Edge server
