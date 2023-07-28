@@ -21,7 +21,9 @@ modification date: Friday 28th July 2023 11:58:52
 
 ### Explanation about it:
 
-* It is used to indicate a connection
+* It is used to indicate a connection between elements within a sentence.
+* Some common uses:
+	* 
 ### 3 Examples:
 
 
