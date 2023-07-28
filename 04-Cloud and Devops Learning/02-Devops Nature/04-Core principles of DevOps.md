@@ -12,4 +12,4 @@ modification date: Friday 28th July 2023 17:58:53
 * it have 4 key principles that guide the effectiveness and efficiency of application development and deployment.
 
 * ##### 1. Automation of the software development cycle:
-	* 
+	* This includes automating testing, builds, releases
