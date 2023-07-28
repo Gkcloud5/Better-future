@@ -10,4 +10,5 @@
 3. [[03-Agile Methodology]]
 4. [[04-Core principles of DevOps]]
 5. [[05- 4 Phases of Devops]]
-6. 
+6. [[06- DevOps LifeCycle]]
+7. 

@@ -32,4 +32,3 @@ modification date: Friday 28th July 2023 18:58:26
 	* A single-application platform approach improves the team experience and business efficiency.
 	* DevOps platform replaces DIY DevOps, allowing visibility throughout and control over all stages of the DevOps lifecycle.
 	* All team(Development, Operation, IT, Security and Business) in software devlopement will collaboratively plan, build, secure and deploy software across an end-to-end unified system,
-	* 
