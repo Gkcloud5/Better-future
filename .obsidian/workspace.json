@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d13fa4aefdd5ca88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d2212f8ee5d0c4fb",
             "type": "leaf",
             "state": {
@@ -30,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2c861604adab9f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -182,11 +181,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2c861604adab9f3",
+  "floating": {
+    "id": "b97b8eaed79e5c86",
+    "type": "floating",
+    "children": [
+      {
+        "id": "11a8b9511a66b2b4",
+        "type": "window",
+        "children": [
+          {
+            "id": "0aa3c2e581acb535",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c2c861604adab9f3",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 417,
+        "y": 414,
+        "width": 600,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d13fa4aefdd5ca88",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+    "Images/Pasted image 20230728143414.png",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "03-Learning/Network/To-do/Need to read.md",
     "03-Learning/Network/04-CDN/Latency in network.md",
     "03-Learning/Network/04-CDN/Cache in network.md",
@@ -219,8 +255,6 @@
     "Web Development/Javascript/02-Fundamentals/030- loop -JS.md",
     "DSA/02-Test/01-Array-List/02 - 2D array/2363. Merge Similar Items.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2089. Find Target Indices After Sorting Array.md",
-    "03-Learning/Network/02-Internet/04-Internet.md",
-    "03-Learning/Network/01-Fundamentals/01/01-What is computer network.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "04-Cloud and Devops Learning/02-Devops Nature",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8",
