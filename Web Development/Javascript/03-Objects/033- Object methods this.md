@@ -32,5 +32,20 @@ user_this_ex.sayHi()
 
 ```
 let user_ex1 = { name: "User_name" };
-let admin = { name: "Ad="}
+let admin_ex1 = { name: "Admin_name" };
+
+function sayHiAll() {
+	console.log(this.name)
+}
+
+user_ex1.f = sayHiAll;
+admin_ex1.f = sayHiAll;
+
+user_ex1.f();
+admin_ex1.f();
+
+admin_ex1['f']();
 ```
+
+![[Pasted image 20230728235710.png]]
+
