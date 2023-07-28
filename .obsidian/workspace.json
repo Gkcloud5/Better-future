@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8600018b65a1adb8",
+        "id": "f46f3ce3f0c7df5a",
         "type": "tabs",
         "children": [
           {
-            "id": "e1dfc66c3b22be02",
+            "id": "2b503f7e8819b7a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +149,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1dfc66c3b22be02",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improving communication.md",
     "001-Communication/Improvement/11 to 20 words/011-for word.md",
