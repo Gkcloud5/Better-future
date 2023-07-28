@@ -47,4 +47,4 @@ modification date: Friday 28th July 2023 17:00:06
 	* It based on what should be first
 	* What can we done later
 * ###### 3.4 Iterative Development:
-	* Tasks are broken down into smaller deliverables that can be repea
+	* Tasks are broken down into smaller deliverables that can be repeated and refined throughout the software development cycle.
