@@ -6,4 +6,5 @@
 ### Nature of devops:
 
 1. [[01-What is devops]]
-2. 
+2. [[02-How DevOps Works]]
+3. 
