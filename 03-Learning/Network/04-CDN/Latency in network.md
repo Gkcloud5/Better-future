@@ -14,6 +14,13 @@ modification date: Friday 28th July 2023 13:37:49
 
 * Latency is the time takes for data to pass from one point on a network to another.
 * Most often, latency is measured between a user's device to data center
-* This measurement helps developers understand how quickly a webpage or application will load for users
-### What it do:
+* This measurement helps developers understand how quickly a webpage or application will load for users.
+* Data transfer internet on speed of light.
+
+### What causes internet latency?
+
+* One of the things is **distance**
+* [[Round trip in network]]
+	* RTT is equal to double amount of latency
+* 
 
