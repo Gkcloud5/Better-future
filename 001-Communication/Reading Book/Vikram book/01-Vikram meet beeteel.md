@@ -23,3 +23,10 @@
 	* This morning, the police found a corpse in the forest.
 * began - தொடங்கியது
 	* Our trip began yesterday
+
+##### 28th-Jul-2023
+* Distress - துன்பம்
+	* He is distressed because of his brother's activity.
+* Stake - பங்கு
+	* I have a 5% stake in Google company.
+* Suitors - Someone
