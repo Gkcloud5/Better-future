@@ -12,3 +12,18 @@ modification date: Friday 28th July 2023 00:00:36
 
 ### Explanation about it:
 
+* `this` used to access a information stored in the object
+
+```Javascript
+
+let user_this_ex = {
+	name: "Gokul",
+	age: 30,
+
+	sayHi() {
+	  console.log(this.name);
+	}
+};
+
+user_this_ex.sayHi()
+```
