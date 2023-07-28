@@ -13,8 +13,7 @@ modification date: Friday 28th July 2023 17:00:06
 ### Explanation about it:
 
 ##### What it is?
-
-
+* It's a one of the project management approac
 ##### Why it's important and what problem it solved among others?
 
 
