@@ -18,18 +18,24 @@ modification date: Friday 28th July 2023 17:00:06
 * Team follow cycle planning, executing and evaluating
 
 ##### 2. Why it's important and what problem it solved among others?
-###### 2.1 SDLC:
-* Software Development LifeCycle
-* It is a cost effective and time efficient way to develop a software.
-	* Plan
-	* Design
-	* Implement
-	* Test
-	* Deploy
-	* Maintain
-###### 2.2 Problem what it solved?
-* In old methods we can't work any middle process, it will solve that issue
-* You can easily do a change on last day of product delivery
-* 
+* ###### 2.1 SDLC:
+	* Software Development LifeCycle
+	* It is a cost effective and time efficient way to develop a software.
+		* Plan
+		* Design
+		* Implement
+		* Test
+		* Deploy
+		* Maintain
+* ###### 2.2 Problem what it solved?
+	* In old methods we can't work any middle process, it will solve that issue
+	* You can easily do a change on last day of product delivery
+	* In agile method you will get customer feadback and changes are made based on that so product will be more perfect
+* ###### 2.2.1 Waterfall management:
+	* It is one of the project management approach
+	* In this approach, we will move next thing only complete a current one and also getting users feedback not possible here
+
+* Agile is the practice that promotes continues iteration of development and testing all through the software development cycle.
+* In agile, work can be reviewed by project team and the customer
 
 ##### Principle of agile software delivery:
