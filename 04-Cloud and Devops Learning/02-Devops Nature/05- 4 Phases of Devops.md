@@ -24,4 +24,11 @@ modification date: Friday 28th July 2023 18:58:26
 
 * ##### 3. Do-it-yourself DevOps:
 	* It over comes above problem.
-	* Organization adopted DIY DevOps
+	* Organization adopted DIY DevOps.
+	* Between their tools need to do lot custom work to integrate their DevOps point solutions together.
+	* Maintaining DIY DevOps was a significant effort and resulted in higher costs, with engineers maintaining tooling integration rather than working on their core software product.
+
+* ##### 4. DevOps Platform:
+	* A single-application platform approach improves the team experience and business efficiency.
+	* DevOps platform replaces DIY DevOps, allowing visibility throughout and control over all stages of the DevOps lifecycle.
+	* 
