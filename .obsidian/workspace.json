@@ -194,51 +194,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "b97b8eaed79e5c86",
-    "type": "floating",
-    "children": [
-      {
-        "id": "11a8b9511a66b2b4",
-        "type": "window",
-        "children": [
-          {
-            "id": "0aa3c2e581acb535",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c2c861604adab9f3",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 417,
-        "y": 414,
-        "width": 600,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "2ef97f13462a81a4",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/02-Devops Nature/04-Core principles of DevOps.md",
     "04-Cloud and Devops Learning/02-Devops Nature/03-Agile Methodology.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/02-Devops Nature/02-How DevOps Works.md",
     "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230728143749.png",
     "04-Cloud and Devops Learning/Images",
     "04-Cloud and Devops Learning/Images/Pasted image 20230728143414.png",
