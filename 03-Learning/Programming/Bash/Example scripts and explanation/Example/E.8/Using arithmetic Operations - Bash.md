@@ -21,10 +21,16 @@ echo -n "$n "
 
 n=$[ $n + 1 ]
 echo -n "$n "
+
+let "n++ "
+echo -n "$n "
+
+echo exit 0
 ```
 
 ### Output:
 
+![[Pasted image 20230728133231.png]]
 
 
 ### Explanation:
@@ -35,4 +41,4 @@ echo -n "$n "
 * /=
 * %=
 
-### Things know:
+
