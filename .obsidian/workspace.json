@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -218,10 +219,12 @@
   },
   "active": "d13fa4aefdd5ca88",
   "lastOpenFiles": [
-    "Images/Pasted image 20230728143414.png",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "Images/Pasted image 20230728143749.png",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
+    "04-Cloud and Devops Learning/Images",
+    "04-Cloud and Devops Learning/Images/Pasted image 20230728143414.png",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "03-Learning/Network/To-do/Need to read.md",
     "03-Learning/Network/04-CDN/Latency in network.md",
@@ -251,7 +254,6 @@
     "Web Development/Javascript/Image/Pasted image 20230727231132.png",
     "Web Development/Javascript/Image/Pasted image 20230727230121.png",
     "Web Development/Javascript/Image/Pasted image 20230727224451.png",
-    "Web Development/Javascript/Image/Pasted image 20230727224413.png",
     "Web Development/Javascript/02-Fundamentals/030- loop -JS.md",
     "DSA/02-Test/01-Array-List/02 - 2D array/2363. Merge Similar Items.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2089. Find Target Indices After Sorting Array.md",
@@ -264,7 +266,6 @@
     "001-Communication/Reading Book/Vikram book",
     "001-Communication/Reading Book",
     "Web Development/Javascript/03-Objects",
-    "DSA/02-Test/01-Array-List/02 - 2D array",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"

@@ -7,3 +7,13 @@
 
 ![[Pasted image 20230728143414.png]]
 
+* Cultural philosophies
+	* DevOps is not just about adopting new tools and technologies; it also involves a significant cultural shift within an organization. The cultural aspect is often considered one of the most critical factors for successful DevOps implementation
+* Practices
+	* Try to implement best methods
+* Tools
+	* Increases an organization's ability to deliver applications
+
+![[Pasted image 20230728143749.png]]
+
+* DevOps is a combination of software development and operations.
