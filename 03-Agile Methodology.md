@@ -18,4 +18,4 @@ modification date: Friday 28th July 2023 17:00:06
 ##### Why it's important and what problem it solved among others?
 
 
-##### 
+##### Principle of agile software delivery:
