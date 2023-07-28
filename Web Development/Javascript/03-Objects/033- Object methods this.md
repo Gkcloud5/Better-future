@@ -27,3 +27,10 @@ let user_this_ex = {
 
 user_this_ex.sayHi()
 ```
+
+![[Pasted image 20230728235022.png]]
+
+```
+let user_ex1 = { name: "User_name" };
+let admin = { name: "Ad="}
+```
