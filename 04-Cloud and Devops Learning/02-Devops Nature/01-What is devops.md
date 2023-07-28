@@ -17,3 +17,5 @@
 ![[Pasted image 20230728143749.png]]
 
 * DevOps is a combination of software development and operations.
+	* It is defined as a software engineering methodology which aims to integrate the work of development teams and operations teams.
+* 
