@@ -9,4 +9,5 @@
 2. [[02-How DevOps Works]]
 3. [[03-Agile Methodology]]
 4. [[04-Core principles of DevOps]]
-5. 
+5. [[05- 4 Phases of Devops]]
+6. 

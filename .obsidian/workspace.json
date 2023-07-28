@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "820455ded73fb480",
+            "id": "2ef97f13462a81a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/04-Core principles of DevOps.md",
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/04-Core principles of DevOps.md",
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/04-Core principles of DevOps.md",
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/04-Core principles of DevOps.md"
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md"
               }
             }
           }
@@ -229,9 +229,10 @@
       }
     ]
   },
-  "active": "820455ded73fb480",
+  "active": "2ef97f13462a81a4",
   "lastOpenFiles": [
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
     "04-Cloud and Devops Learning/02-Devops Nature/04-Core principles of DevOps.md",
     "04-Cloud and Devops Learning/02-Devops Nature/03-Agile Methodology.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
@@ -268,7 +269,6 @@
     "Web Development/Javascript/Image/Pasted image 20230727231540.png",
     "Web Development/Javascript/Image/Pasted image 20230727231132.png",
     "Web Development/Javascript/Image/Pasted image 20230727230121.png",
-    "Web Development/Javascript/02-Fundamentals/030- loop -JS.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "04-Cloud and Devops Learning/02-Devops Nature",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8",
