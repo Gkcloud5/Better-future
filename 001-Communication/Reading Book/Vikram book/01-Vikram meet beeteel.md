@@ -29,4 +29,8 @@
 	* He is distressed because of his brother's activity.
 * Stake - பங்கு
 	* I have a 5% stake in Google company.
-* Suitors - Someone
+* Suitors - Someone who want to marry
+* Justice - நீதி
+	* He is trying to get justice for the incident that happened to him.
+* Equality - சமத்துவம்
+	* Everyone in the world should have equality thought in mind and heart
