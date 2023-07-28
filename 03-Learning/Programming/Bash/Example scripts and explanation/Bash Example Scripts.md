@@ -52,4 +52,5 @@ modification date: Saturday 24th June 2023 18:22:25
 
 8. Operators
 	1. [[Greatest Common Divisor]]
-	2. [[]]
+	2. [[Using arithmetic Operations - Bash]]
+	3. 
