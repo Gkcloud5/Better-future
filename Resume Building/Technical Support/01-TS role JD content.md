@@ -134,6 +134,11 @@
 	* Python
 * Knowledge of cloud computing principles
 * SQL and basic database concepts
-###### Skills:
-* 
 -------------------------------------
+**Template**
+## Company name: 
+### Role: 
+#### Link:
+##### JD:
+###### Skills:
+-------------------------------------------
