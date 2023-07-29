@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md"
+                "file": "Web Development/Javascript/JavaScript.md"
               }
             }
           }
@@ -170,10 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdaedbb3dc14320b",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Images/Pasted image 20230729000929.png",
-    "Images/Pasted image 20230729000600.png",
+    "Web Development/Javascript/Image/Pasted image 20230729000929.png",
+    "Web Development/Javascript/Image/Pasted image 20230729000600.png",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
     "Web Development/Javascript/03-Objects/033- Object methods this.md",
