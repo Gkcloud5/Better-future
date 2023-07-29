@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc6ca3e0291adec",
+        "id": "7896ea9b1e606bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "17001fd526ffa10f",
+            "id": "a09c65e2024ce34e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "001-Communication/Improvement/80% using words.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bdaedbb3dc14320b",
+            "id": "25a1337b1cf8ba04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
+                "file": "001-Communication/Improvement/11 to 20 words/012- with word.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "001-Communication/Improvement/11 to 20 words/012- with word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "001-Communication/Improvement/11 to 20 words/012- with word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "001-Communication/Improvement/11 to 20 words/012- with word.md"
               }
             }
           }
@@ -172,9 +172,11 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "001-Communication/Improvement/80% using words.md",
+    "001-Communication/Improvement/11 to 20 words/012- with word.md",
+    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Image/Pasted image 20230729000929.png",
     "Web Development/Javascript/Image/Pasted image 20230729000600.png",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
     "Web Development/Javascript/03-Objects/033- Object methods this.md",
     "Web Development/Javascript/Image/Pasted image 20230728235710.png",
@@ -203,13 +205,11 @@
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "001-Communication/Improvement/01 to 10 words/08-too word.md",
     "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
-    "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improving communication.md",
     "001-Communication/Improvement/11 to 20 words",
     "Web Development/Javascript/Image/Pasted image 20230727234133.png",
     "Web Development/Javascript/Image/Pasted image 20230727233855.png",
     "Web Development/Javascript/Image/Pasted image 20230727233538.png",
-    "Web Development/Javascript/Image/Pasted image 20230727232600.png",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "04-Cloud and Devops Learning/02-Devops Nature",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8",
