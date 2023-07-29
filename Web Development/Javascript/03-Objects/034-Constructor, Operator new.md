@@ -46,3 +46,12 @@ console.log(user_func_obj)
 
 ![[Pasted image 20230729000929.png]]
 
+
+#### Calculator example:
+
+```
+let calculator = new calculator();
+calculator.read()
+
+console.log
+```
