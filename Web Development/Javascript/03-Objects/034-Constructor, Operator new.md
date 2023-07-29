@@ -50,8 +50,15 @@ console.log(user_func_obj)
 #### Calculator example:
 
 ```
-let calculator = new calculator();
-calculator.read()
+<input type = "button" onclick = "calculator.sum()" value = "Calculation">
 
-console.log
+function Calculator() {
+	this.sum = function() {
+		this.a = +prompt('a?', 0);
+    	this.b = +prompt('b?', 0);
+		console.log(this.a + this.b)
+	}
+ }
+
+ let calculator = new Calculator();
 ```
