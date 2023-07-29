@@ -35,11 +35,9 @@
             "id": "c1d3eb9180ed4041",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           }
@@ -94,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md"
+                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           }
@@ -183,8 +182,8 @@
   },
   "active": "c1d3eb9180ed4041",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md",
     "DSA/Images/Pasted image 20230729211833.png",
     "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
