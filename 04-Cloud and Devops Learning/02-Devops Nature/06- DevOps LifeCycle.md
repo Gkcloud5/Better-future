@@ -52,5 +52,5 @@ modification date: Friday 28th July 2023 19:24:57
 	* Need to notify responded team to take action
 
 * ### Continues Feedback:
-	* DevOps team should eva
+	* DevOps team should evaluate each release and generate reports to improve future release
 

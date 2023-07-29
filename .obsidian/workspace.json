@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f373eb0cf5e12bfc",
+        "id": "e4d8c4167ab0467e",
         "type": "tabs",
         "children": [
           {
-            "id": "a0a215ba1aeba136",
+            "id": "1fd9b9648ab997ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "06200be847c5dc81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf004b0f06b1fccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1d3eb9180ed4041",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md"
+                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md"
               }
             }
           }
@@ -191,12 +156,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf004b0f06b1fccd",
+  "active": "1fd9b9648ab997ee",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+    "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230729233830.png",
-    "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md",
     "DSA/Images/Pasted image 20230729211833.png",
     "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
