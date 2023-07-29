@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33e26cdc0c19ff2b",
+        "id": "9b93537b519f5a6c",
         "type": "tabs",
         "children": [
           {
-            "id": "181c22c5786175c4",
+            "id": "7f4e3b333d023920",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "001-Communication/Reading Book/Vikram book/02- The Four suitors.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,10 +148,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "181c22c5786175c4",
+  "active": "7f4e3b333d023920",
   "lastOpenFiles": [
-    "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
     "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
+    "001-Communication/Improving communication.md",
+    "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/012- with word.md",
     "Web Development/Javascript/JavaScript.md",
@@ -191,7 +184,6 @@
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Using arithmetic Operations - Bash.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230728133231.png",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "001-Communication/Improvement/01 to 10 words/08-too word.md",
     "001-Communication/Improvement/11 to 20 words",
     "Web Development/Javascript/Image/Pasted image 20230727234133.png",
     "Web Development/Javascript/Image/Pasted image 20230727233855.png",
