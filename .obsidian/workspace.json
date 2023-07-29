@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9b93537b519f5a6c",
+        "id": "f373eb0cf5e12bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "7f4e3b333d023920",
+            "id": "a0a215ba1aeba136",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06200be847c5dc81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md",
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md",
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md"
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md"
               }
             }
           }
@@ -156,10 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "06200be847c5dc81",
   "lastOpenFiles": [
-    "DSA/Images/Pasted image 20230729211833.png",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md",
+    "DSA/Images/Pasted image 20230729211833.png",
     "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
     "001-Communication/Improving communication.md",
     "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
@@ -177,7 +191,6 @@
     "04-Cloud and Devops Learning/02-Devops Nature/02-How DevOps Works.md",
     "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
     "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "04-Cloud and Devops Learning/02-Devops Nature/04-Core principles of DevOps.md",
     "04-Cloud and Devops Learning/02-Devops Nature/03-Agile Methodology.md",
@@ -195,7 +208,6 @@
     "001-Communication/Improvement/11 to 20 words",
     "Web Development/Javascript/Image/Pasted image 20230727234133.png",
     "Web Development/Javascript/Image/Pasted image 20230727233855.png",
-    "Web Development/Javascript/Image/Pasted image 20230727233538.png",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "04-Cloud and Devops Learning/02-Devops Nature",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8",
