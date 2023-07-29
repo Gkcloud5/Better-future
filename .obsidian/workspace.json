@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7896ea9b1e606bb1",
+        "id": "33e26cdc0c19ff2b",
         "type": "tabs",
         "children": [
           {
-            "id": "a09c65e2024ce34e",
+            "id": "181c22c5786175c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/80% using words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25a1337b1cf8ba04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/012- with word.md",
+                "file": "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/012- with word.md",
+                "file": "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/012- with word.md",
+                "file": "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/012- with word.md"
+                "file": "001-Communication/Reading Book/Vikram book/02- The Four suitors.md"
               }
             }
           }
@@ -170,8 +156,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "181c22c5786175c4",
   "lastOpenFiles": [
+    "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
+    "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/012- with word.md",
     "Web Development/Javascript/JavaScript.md",
@@ -204,8 +192,6 @@
     "03-Learning/Programming/Bash/Images/Pasted image 20230728133231.png",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "001-Communication/Improvement/01 to 10 words/08-too word.md",
-    "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
-    "001-Communication/Improving communication.md",
     "001-Communication/Improvement/11 to 20 words",
     "Web Development/Javascript/Image/Pasted image 20230727234133.png",
     "Web Development/Javascript/Image/Pasted image 20230727233855.png",
