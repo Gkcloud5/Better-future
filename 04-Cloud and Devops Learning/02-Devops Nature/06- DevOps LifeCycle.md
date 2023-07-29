@@ -12,5 +12,8 @@ modification date: Friday 28th July 2023 19:24:57
 * It will show how phases are interconnected with each other
 * It will helps to improve a constant collaboration and iterative improvement throughout the entire lifecycle.
 
+![[Pasted image 20230729233830.png]]
 
- 
+
+* ### Discover:
+	* 

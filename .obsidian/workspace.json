@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "cf004b0f06b1fccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c1d3eb9180ed4041",
             "type": "leaf",
             "state": {
@@ -92,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md"
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md"
               }
             }
           }
@@ -180,10 +191,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1d3eb9180ed4041",
+  "active": "cf004b0f06b1fccd",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "04-Cloud and Devops Learning/Images/Pasted image 20230729233830.png",
+    "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md",
     "DSA/Images/Pasted image 20230729211833.png",
     "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
@@ -202,7 +215,6 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/1528. Shuffle String.md",
     "04-Cloud and Devops Learning/02-Devops Nature/02-How DevOps Works.md",
     "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
-    "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "04-Cloud and Devops Learning/02-Devops Nature/04-Core principles of DevOps.md",
     "04-Cloud and Devops Learning/02-Devops Nature/03-Agile Methodology.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
@@ -218,7 +230,6 @@
     "03-Learning/Programming/Bash/Images/Pasted image 20230728133231.png",
     "001-Communication/Improvement/11 to 20 words",
     "Web Development/Javascript/Image/Pasted image 20230727234133.png",
-    "Web Development/Javascript/Image/Pasted image 20230727233855.png",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "04-Cloud and Devops Learning/02-Devops Nature",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8",
