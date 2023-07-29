@@ -32,4 +32,25 @@ modification date: Friday 28th July 2023 19:24:57
 		* Rewriting repository
 	
 * ### Test:
-	* Continues 
+	* Continues integration allows multiple developers to contribute to single shared repo
+	* When code changes are merged, automated tests are run to ensure correctness before integration
+	 
+* ### Deploy:
+	* Continues Deployment allows teams to release feature frequently into production in an automated fashion
+
+* ### Operate:
+	* Things related to IT infra
+	* Manage end to end IT service to customers
+		* Design of environment
+		* Implementation
+		* Configuration
+		* Deployment
+		* Maintenance of all IT infra
+
+* ### Observe:
+	* Quickly identify and resolve issues that impact produce uptime, speed and functionality
+	* Need to notify responded team to take action
+
+* ### Continues Feedback:
+	* DevOps team should eva
+
