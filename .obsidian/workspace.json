@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4d8c4167ab0467e",
+        "id": "6d05ef123a5b1c78",
         "type": "tabs",
         "children": [
           {
-            "id": "1fd9b9648ab997ee",
+            "id": "50c72cf23e47c561",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
+                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
+                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
+                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md"
+                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md"
               }
             }
           }
@@ -157,8 +156,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "50c72cf23e47c561",
   "lastOpenFiles": [
+    "001-Communication/Improving communication.md",
+    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+    "001-Communication/Improvement/Simple Sentence",
+    "001-Communication/Words and meaning/Words meaning.md",
+    "001-Communication/Improvement/Grammar related stuff's.md",
+    "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
     "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
@@ -166,14 +171,12 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md",
     "DSA/Images/Pasted image 20230729211833.png",
     "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
-    "001-Communication/Improving communication.md",
     "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/012- with word.md",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Image/Pasted image 20230729000929.png",
     "Web Development/Javascript/Image/Pasted image 20230729000600.png",
-    "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
     "Web Development/Javascript/03-Objects/033- Object methods this.md",
     "Web Development/Javascript/Image/Pasted image 20230728235710.png",
     "Web Development/Javascript/Image/Pasted image 20230728235022.png",
@@ -191,8 +194,6 @@
     "03-Learning/Network/To-do/Need to read.md",
     "03-Learning/Network/04-CDN/Latency in network.md",
     "03-Learning/Network/04-CDN/Cache in network.md",
-    "03-Learning/Network/04-CDN/05-Content Delivery Network.md",
-    "03-Learning/Network/Networking.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230728133231.png",
     "001-Communication/Improvement/11 to 20 words",
     "Web Development/Javascript/Image/Pasted image 20230727234133.png",
@@ -204,7 +205,6 @@
     "04-Cloud and Devops Learning",
     "001-Communication/Reading Book/Vikram book",
     "001-Communication/Reading Book",
-    "Web Development/Javascript/03-Objects",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
