@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d05ef123a5b1c78",
+        "id": "af2f4e39a7ff2286",
         "type": "tabs",
         "children": [
           {
-            "id": "50c72cf23e47c561",
+            "id": "1577cf42c22b27b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md"
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md"
               }
             }
           }
@@ -156,11 +157,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "1577cf42c22b27b3",
   "lastOpenFiles": [
+    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+    "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "001-Communication/Improvement/English song translate",
     "001-Communication/Improving communication.md",
-    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/Simple Sentence",
     "001-Communication/Words and meaning/Words meaning.md",
     "001-Communication/Improvement/Grammar related stuff's.md",
@@ -204,7 +206,6 @@
     "03-Learning/Network/03-Cloud Computing",
     "04-Cloud and Devops Learning",
     "001-Communication/Reading Book/Vikram book",
-    "001-Communication/Reading Book",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
