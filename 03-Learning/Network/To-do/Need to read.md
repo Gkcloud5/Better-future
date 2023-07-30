@@ -14,13 +14,12 @@ kanban-plugin: basic
 - [ ] MAC addresses
 - [ ] IPSec
 - [ ] Web servers
-- [ ] TLS
 - [ ] About Data Center
 
 
 ## Reading
 
-- [ ] Round trip
+- [ ] TLS
 
 
 ## Readed
@@ -28,6 +27,7 @@ kanban-plugin: basic
 - [ ] Computer network architecture
 - [ ] Links
 - [ ] Domain name
+- [ ] Round trip
 - [ ] HTTPS
 - [ ] TLD
 - [ ] DNS
