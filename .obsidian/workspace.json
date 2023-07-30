@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/Network/04-CDN/Latency in network.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2108. Find First Palindromic String in the Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Learning/Network/04-CDN/Latency in network.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2108. Find First Palindromic String in the Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Learning/Network/04-CDN/Latency in network.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2108. Find First Palindromic String in the Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Learning/Network/04-CDN/Latency in network.md"
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2108. Find First Palindromic String in the Array.md"
               }
             }
           }
@@ -191,10 +191,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c0872edcd34b2df",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "03-Learning/Network/04-CDN/Round trip in network.md",
+    "DSA/Images/Pasted image 20230730230600.png",
     "03-Learning/Network/04-CDN/Latency in network.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/2108. Find First Palindromic String in the Array.md",
+    "03-Learning/Network/04-CDN/Round trip in network.md",
     "03-Learning/Network/04-CDN/Cache in network.md",
     "03-Learning/Network/04-CDN/05-Content Delivery Network.md",
     "03-Learning/Network/Networking.md",
@@ -225,8 +227,6 @@
     "Web Development/Javascript/Image/Pasted image 20230728235022.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/1773. Count Items Matching a Rule.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1528. Shuffle String.md",
-    "04-Cloud and Devops Learning/02-Devops Nature/02-How DevOps Works.md",
-    "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230728143749.png",
     "04-Cloud and Devops Learning/Images",
     "04-Cloud and Devops Learning/Images/Pasted image 20230728143414.png",
