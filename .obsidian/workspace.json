@@ -11,11 +11,40 @@
             "id": "e7fc122087708b34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bfb3829e35d42c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48405f8be36d5a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md"
+              }
             }
           }
         ]
@@ -149,8 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7fc122087708b34",
+  "active": "8bfb3829e35d42c1",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
+    "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
     "03-Learning/Network/04-CDN/Round trip in network.md",
     "03-Learning/Network/04-CDN/Latency in network.md",
     "03-Learning/Network/Networking.md",
@@ -169,8 +205,6 @@
     "001-Communication/Improvement/Grammar related stuff's.md",
     "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
-    "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230729233830.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md",
     "DSA/Images/Pasted image 20230729211833.png",
