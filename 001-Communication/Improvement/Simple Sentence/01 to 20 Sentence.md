@@ -6,3 +6,4 @@
 2. After a long day at work. i find solace in reading a good book or listening to soothing music
 	1. நீண்ட நாள் வேலைக்குப் பிறகு. ஒரு நல்ல புத்தகத்தைப் படிப்பதிலோ அல்லது இனிமையான இசையைக் கேட்பதிலோ நான் ஆறுதல் அடைகிறேன்
 3. The traffic was so congested that i had to take an alternative route to reach the office on time
+	1. போக்குவரத்து நெரிசல் அதிகமாக இருந்ததால், சரியான நேரத்தில் அலுவலகத்திற்கு செல்ல மாற்றுப் பாதையில் செல்ல வேண்டியிருந்தது
