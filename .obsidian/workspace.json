@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "af2f4e39a7ff2286",
+        "id": "c78e57710862e249",
         "type": "tabs",
         "children": [
           {
-            "id": "1577cf42c22b27b3",
+            "id": "38fb590f9fd2e6ff",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "03-Learning/Network/To-do/Need to read.md"
+              }
+            }
+          },
+          {
+            "id": "61a42cff1cbab666",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
+                "file": "03-Learning/Network/Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c0872edcd34b2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Learning/Network/04-CDN/Latency in network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e916c5fb63967a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Learning/Network/04-CDN/Round trip in network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
+                "file": "03-Learning/Network/04-CDN/Latency in network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
+                "file": "03-Learning/Network/04-CDN/Latency in network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md"
+                "file": "03-Learning/Network/04-CDN/Latency in network.md"
               }
             }
           }
@@ -157,10 +191,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1577cf42c22b27b3",
+  "active": "4c0872edcd34b2df",
   "lastOpenFiles": [
-    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+    "03-Learning/Network/04-CDN/Round trip in network.md",
+    "03-Learning/Network/04-CDN/Latency in network.md",
+    "03-Learning/Network/04-CDN/Cache in network.md",
+    "03-Learning/Network/04-CDN/05-Content Delivery Network.md",
+    "03-Learning/Network/Networking.md",
+    "03-Learning/Network/To-do/Need to read.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
+    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/English song translate",
     "001-Communication/Improving communication.md",
     "001-Communication/Improvement/Simple Sentence",
@@ -187,15 +227,9 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/1528. Shuffle String.md",
     "04-Cloud and Devops Learning/02-Devops Nature/02-How DevOps Works.md",
     "04-Cloud and Devops Learning/02-Devops Nature/05- 4 Phases of Devops.md",
-    "04-Cloud and Devops Learning/02-Devops Nature/04-Core principles of DevOps.md",
-    "04-Cloud and Devops Learning/02-Devops Nature/03-Agile Methodology.md",
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
-    "04-Cloud and Devops Learning/02-Devops Nature/01-What is devops.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230728143749.png",
     "04-Cloud and Devops Learning/Images",
     "04-Cloud and Devops Learning/Images/Pasted image 20230728143414.png",
-    "03-Learning/Network/To-do/Need to read.md",
-    "03-Learning/Network/04-CDN/Latency in network.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230728133231.png",
     "001-Communication/Improvement/11 to 20 words",
     "Web Development/Javascript/Image/Pasted image 20230727234133.png",
