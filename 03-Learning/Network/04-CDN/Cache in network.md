@@ -15,7 +15,7 @@ modification date: Thursday 27th July 2023 16:33:49
 * A caching is the process of storing copies of files in a cache, or temporary storage location
 	* So that they can be accessed quickly
 * Web browser cache Html, Css and JS files inorder to load fastly
-* Cache content reduce [[Latency in network| latency]]
+* Cache content reduce [[Latency in network|latency]]
 
 ### What browser cache do:
 
