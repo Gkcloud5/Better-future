@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -157,8 +156,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50c72cf23e47c561",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "001-Communication/Improvement/English song translate",
     "001-Communication/Improving communication.md",
     "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/Simple Sentence",
@@ -194,7 +194,6 @@
     "04-Cloud and Devops Learning/Images/Pasted image 20230728143414.png",
     "03-Learning/Network/To-do/Need to read.md",
     "03-Learning/Network/04-CDN/Latency in network.md",
-    "03-Learning/Network/04-CDN/Cache in network.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230728133231.png",
     "001-Communication/Improvement/11 to 20 words",
     "Web Development/Javascript/Image/Pasted image 20230727234133.png",

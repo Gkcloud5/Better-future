@@ -9,3 +9,5 @@
 	1. போக்குவரத்து நெரிசல் அதிகமாக இருந்ததால், சரியான நேரத்தில் அலுவலகத்திற்கு செல்ல மாற்றுப் பாதையில் செல்ல வேண்டியிருந்தது
 4. My grandfather's stories about her childhood are always heartwarming and full of nostalgia
 	1. என் தாத்தாவின் குழந்தைப் பருவத்தைப் பற்றிய கதைகள் எப்போதும் மனதைக் கவரும் மற்றும் ஏக்கம் நிறைந்தவை
+5. I'm feeling quite famished; let's grab a quick bite to eat before heading to the movie theater
+	1. நான் மிகவும் பட்டினியாக உணர்கிறேன்; திரையரங்கிற்குச் செல்வதற்கு முன், விரைவாகச் சாப்பிடலாம்
