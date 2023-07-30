@@ -19,4 +19,7 @@
 
 * ### Improved Collaboration:
 	* Developers and operations teams collaborate closely, share responsibility and combine their workflows.
-	* 
+
+* ### Security:
+	* Security is very important thing.
+
