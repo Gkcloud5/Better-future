@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7064666e0eadc185",
+        "id": "bc071bdcda7d7f75",
         "type": "tabs",
         "children": [
           {
-            "id": "3bfaed3612c21503",
+            "id": "4273c35b35721e87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md"
+                "file": "Web Development/Javascript/JavaScript.md"
               }
             }
           }
@@ -157,8 +157,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "4273c35b35721e87",
   "lastOpenFiles": [
+    "Resume Building/Technical Support/01-TS role JD content.md",
     "Resume Building/01-Related to Resume Preparation.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2733. Neither Minimum nor Maximum.md",
     "DSA/Images/Pasted image 20230731203000.png",
@@ -192,7 +193,6 @@
     "001-Communication/Improving communication.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/013-ON Word.md",
-    "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
     "03-Learning/Network/Images/Pasted image 20230730232631.png",
     "DSA/Images/Pasted image 20230730230600.png",
     "001-Communication/Improvement/English song translate",
