@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compound condition Tests using && and or.md",
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Compound condition Tests using && and or.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compound condition Tests using && and or.md",
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Compound condition Tests using && and or.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compound condition Tests using && and or.md",
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Compound condition Tests using && and or.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compound condition Tests using && and or.md"
+                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Compound condition Tests using && and or.md"
               }
             }
           }
@@ -170,10 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0aa4612b4c45ebe4",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "03-Learning/Programming/Bash/Images/Pasted image 20230731143726.png",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Compound condition Tests using && and or.md",
+    "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Compound condition Tests using && and or.md",
     "03-Learning/Network/To-do/Need to read.md",
     "03-Learning/Network/Networking.md",
     "03-Learning/Network/05-Otheres",
@@ -204,7 +204,6 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/2553. Separate the Digits in an Array.md",
     "DSA/Images/Pasted image 20230729211833.png",
     "001-Communication/Reading Book/Vikram book/02- The Four suitors.md",
-    "001-Communication/Reading Book/Vikram book/01-Vikram meet beeteel.md",
     "Web Development/Javascript/Image/Pasted image 20230729000929.png",
     "Web Development/Javascript/Image/Pasted image 20230729000600.png",
     "Web Development/Javascript/Image/Pasted image 20230728235710.png",
