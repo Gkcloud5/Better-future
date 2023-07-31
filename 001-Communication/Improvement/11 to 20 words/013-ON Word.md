@@ -7,6 +7,7 @@ modification date: Monday 31st July 2023 13:50:06
 
 #### Useful Resource:
 1. [YT](https://www.youtube.com/watch?v=KKX6TlGdLa0)
+2. [YT-1](https://www.youtube.com/watch?v=LlkVW7F8l0w)
 
 --------------------------------------
 
