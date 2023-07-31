@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "206439ef258a9c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps Practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc12adf91da9f763",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "file": "DevOps Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "file": "DevOps Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md"
+                "file": "DevOps Practice.md"
               }
             }
           }
@@ -205,8 +218,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "972a70f6f74406ab",
+  "active": "206439ef258a9c5a",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "DevOps Practice.md",
     "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
     "04-Cloud and Devops Learning/03-Benefits sub/Infrastructure ad code.md",
     "04-Cloud and Devops Learning/03-Benefits sub/Monitoring and logging.md",
@@ -217,7 +232,6 @@
     "04-Cloud and Devops Learning/03-Benefits sub/Microservices in DevOps.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230731170230.png",
     "04-Cloud and Devops Learning/03-Benefits sub",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230731143726.png",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Compound condition Tests using && and or.md",
@@ -242,7 +256,6 @@
     "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/English song translate",
     "001-Communication/Improvement/Simple Sentence",
-    "001-Communication/Improvement/Grammar related stuff's.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230729233830.png",
     "DSA/Images/Pasted image 20230729211833.png",
     "Web Development/Javascript/Image/Pasted image 20230729000929.png",
