@@ -135,10 +135,17 @@
 * Knowledge of cloud computing principles
 * SQL and basic database concepts
 -------------------------------------
+**09**
+## Company name: `Clariant`
+### Role: `IT Support Engineer`
+#### Link:
+##### JD:
+###### Skills:
+-------------------------------------------
 **Template**
 ## Company name: 
 ### Role: 
 #### Link:
 ##### JD:
 ###### Skills:
--------------------------------------------
+---------------------------------------------------

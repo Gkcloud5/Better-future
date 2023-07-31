@@ -11,8 +11,12 @@
             "id": "3bfaed3612c21503",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Dashboard of my better future/My Journey.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Dashboard of my better future/My Journey.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Dashboard of my better future/My Journey.md"
+                "file": "Resume Building/Technical Support/01-TS role JD content.md"
               }
             }
           }
@@ -152,8 +156,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "3bfaed3612c21503",
   "lastOpenFiles": [
+    "Resume Building/01-Related to Resume Preparation.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2733. Neither Minimum nor Maximum.md",
     "DSA/Images/Pasted image 20230731203000.png",
     "04-Cloud and Devops Learning/03-Benefits sub/Microservices in DevOps.md",
