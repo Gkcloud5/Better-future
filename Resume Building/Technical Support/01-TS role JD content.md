@@ -169,17 +169,33 @@
 	 * Jenkins
 	 * GitLab CI
 ---------------------------------------------------
-**Template**
-## Company name: 
-### Role: 
-#### Link:
+**11**
+## Company name: `Amazon`
+### Role: `Support Engineer, C2O`
+#### Link:[LN]()https://www.linkedin.com/jobs/view/3677162043
 ##### JD:
+ * Troubleshoot documented issues and determine root cause
+ * Use technology to monitor security vulnerabilities and eliminate risks
+ * Participate in automating tasks to increase efficiencies
+ 
 ###### Skills:
+ * Experience troubleshooting and debugging technical systems
+ * Experience in Unix
+ * Networks and operating systems
+ * Experience with AWS
 ---------------------------------------------------
-**Template**
-## Company name: 
-### Role: 
-#### Link:
+**12**
+## Company name: `IBM`
+### Role: `Technical Support Professional`
+#### Link:[LN](https://www.linkedin.com/jobs/view/3669900425)
 ##### JD:
+ * Provide daily support to users of various software systems
+ * Install and maintain virtual servers, software, to replicate customer reported issues, and install security patches and updates when necessary.
+ * Develop training technical notes
+
 ###### Skills:
+ * Linus/Unix operating systems
+ * Some exposure to IT Security, SoC or SIEM tools.
+ * technical skills on computer networking, TCP/IP and tools.
+ * 
 ---------------------------------------------------
