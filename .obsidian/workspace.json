@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "035-Optional Chaining.md",
+                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "035-Optional Chaining.md",
+                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "035-Optional Chaining.md",
+                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "035-Optional Chaining.md"
+                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md"
               }
             }
           }
@@ -178,10 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3335eb645650cfb0",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Web Development/Javascript/Image/Pasted image 20230731233706.png",
     "Web Development/Javascript/JavaScript.md",
-    "035-Optional Chaining.md",
+    "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
     "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
     "Resume Building/01-Related to Resume Preparation.md",
@@ -213,7 +214,6 @@
     "03-Learning/Network/04-CDN/Network Edge in networing.md",
     "03-Learning/Network/04-CDN/Cache in network.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
-    "001-Communication/Words and meaning/Words meaning.md",
     "03-Learning/Network/Images/Pasted image 20230730232631.png",
     "DSA/Images/Pasted image 20230730230600.png",
     "001-Communication/Improvement/English song translate",
