@@ -19,3 +19,6 @@
 4. [[04-Internet]]
 5. [[05-Content Delivery Network]]
 6. [[06- Cloud computing]]
+
+#### Others:
+1. 

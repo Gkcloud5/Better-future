@@ -13,13 +13,12 @@ kanban-plugin: basic
 - [ ] Gateway works
 - [ ] MAC addresses
 - [ ] IPSec
-- [ ] Web servers
 - [ ] About Data Center
 
 
 ## Reading
 
-- [ ] TLS
+- [ ] Web servers
 
 
 ## Readed
@@ -35,6 +34,7 @@ kanban-plugin: basic
 - [ ] Cache
 - [ ] Unicast, broadcast, multicast
 - [ ] Caching
+- [ ] TLS
 - [ ] Routers
 - [ ] OSI
 - [ ] IEP
