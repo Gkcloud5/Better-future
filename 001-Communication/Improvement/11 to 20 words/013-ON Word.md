@@ -23,6 +23,10 @@ modification date: Monday 31st July 2023 13:50:06
 ### Explanation about it:
 
 * On is a preposition
+* Mostly we used in surface
+	* On the table
+	* On the wall
+	* 
 ### 3 Examples:
 
 
