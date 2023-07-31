@@ -138,10 +138,24 @@
 **09**
 ## Company name: `Clariant`
 ### Role: `IT Support Engineer`
+#### Link:[LN](https://www.linkedin.com/jobs/view/3680958679)
+##### JD:
+ * Ensure maintenance and support of the running systems
+ * Optimization and control of local IT infrastructure
+ * Basic troubleshooting and fault analysis for WAN, Switch and Access Point
+ * Experience with Network performance monitoring tool
+ 
+###### Skills:
+ * English Proficiency level
+ * Client Computing, Networking, Messages and Collaboration
+-------------------------------------------
+**Template**
+## Company name: 
+### Role: 
 #### Link:
 ##### JD:
 ###### Skills:
--------------------------------------------
+---------------------------------------------------
 **Template**
 ## Company name: 
 ### Role: 
