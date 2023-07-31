@@ -14,4 +14,3 @@
 7. [[07- Benefits of DevOps]]
 
 ### [[DevOps Practice]]
-1. 
