@@ -12,4 +12,6 @@ modification date: Monday 31st July 2023 17:32:48
 
 ### Explanation about it:
 
-zl
+#### About Continuous delivery:
+ * CD is a software development practice where code changes are automatically prepared for a release to production.
+ * 
