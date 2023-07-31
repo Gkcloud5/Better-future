@@ -12,3 +12,5 @@ modification date: Monday 31st July 2023 19:17:29
 
 ### Explanation about it:
 
+* These are the few key points that help organizations innovate faster through automating and streamlining the software development and infra.
+* 
