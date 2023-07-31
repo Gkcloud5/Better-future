@@ -13,4 +13,12 @@ modification date: Monday 31st July 2023 16:49:57
 ### Explanation about it:
 
 #### What is microservices?
- * 
+ * It is a architectural and organizational approach to software development where software is composed of small independent services that communicate over-well defined API's
+ * It make applications easier to scale and faster to develop, enabling innovation.
+
+
+#### Diff between monolithic and microservices
+
+ * In monolithic architectures, all processes are tightly coupled and run as a single service.
+	 * Any one service is spike then total app will be affected
+	 * Adding and improving featgur
