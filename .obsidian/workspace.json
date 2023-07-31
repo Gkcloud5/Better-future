@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3335eb645650cfb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "035-Optional Chaining.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dedb97f01edacc49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "035-Optional Chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "035-Optional Chaining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "035-Optional Chaining.md"
               }
             }
           }
@@ -157,10 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4273c35b35721e87",
+  "active": "3335eb645650cfb0",
   "lastOpenFiles": [
-    "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
     "Web Development/Javascript/JavaScript.md",
+    "035-Optional Chaining.md",
+    "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
     "Resume Building/01-Related to Resume Preparation.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2733. Neither Minimum nor Maximum.md",
@@ -192,7 +214,6 @@
     "03-Learning/Network/04-CDN/Cache in network.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "001-Communication/Words and meaning/Words meaning.md",
-    "001-Communication/Improving communication.md",
     "03-Learning/Network/Images/Pasted image 20230730232631.png",
     "DSA/Images/Pasted image 20230730230600.png",
     "001-Communication/Improvement/English song translate",
