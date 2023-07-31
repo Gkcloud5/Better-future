@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "a60bce67b7fd7ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/03-Benefits sub/continuous delivery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1bb8c5604cfa8a19",
             "type": "leaf",
             "state": {
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/03-Benefits sub/Microservices in DevOps.md",
+                "file": "04-Cloud and Devops Learning/03-Benefits sub/continuous delivery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/03-Benefits sub/Microservices in DevOps.md",
+                "file": "04-Cloud and Devops Learning/03-Benefits sub/continuous delivery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/03-Benefits sub/Microservices in DevOps.md"
+                "file": "04-Cloud and Devops Learning/03-Benefits sub/continuous delivery.md"
               }
             }
           }
@@ -182,12 +194,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1bb8c5604cfa8a19",
+  "active": "a60bce67b7fd7ee0",
   "lastOpenFiles": [
-    "Images/Pasted image 20230731170230.png",
-    "04-Cloud and Devops Learning/03-Benefits sub",
     "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
+    "04-Cloud and Devops Learning/03-Benefits sub/continuous delivery.md",
     "04-Cloud and Devops Learning/03-Benefits sub/Microservices in DevOps.md",
+    "04-Cloud and Devops Learning/Images/Pasted image 20230731170230.png",
+    "04-Cloud and Devops Learning/03-Benefits sub",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230731143726.png",
@@ -223,7 +236,6 @@
     "Web Development/Javascript/Image/Pasted image 20230729000600.png",
     "Web Development/Javascript/Image/Pasted image 20230728235710.png",
     "Web Development/Javascript/Image/Pasted image 20230728235022.png",
-    "04-Cloud and Devops Learning/Images/Pasted image 20230728143749.png",
     "04-Cloud and Devops Learning/Images",
     "001-Communication/Improvement/11 to 20 words",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
