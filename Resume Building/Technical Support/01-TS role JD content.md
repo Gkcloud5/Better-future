@@ -149,6 +149,26 @@
  * English Proficiency level
  * Client Computing, Networking, Messages and Collaboration
 -------------------------------------------
+**10**
+## Company name: `AirFi`
+### Role: `Linux Support Engineer`
+#### Link:[LN](https://www.linkedin.com/jobs/view/3677128975)
+##### JD:
+ * Design, implement, and maintain systems to monitor and alert availability of hundreds of Linux-based systems (micro servers)
+ * Continuously improve our CI/CD pipeline and automation processes
+ * Incidence management and root cause analysis
+
+###### Skills:
+ * Python, Bash, Javascript
+ * **strong expertise** in shell scripting
+ * Good understanding of Linux internals and commands.
+ * Experience with any NOSQL database
+ * Familiarity with SRE principles and best practices
+ * Experience with cloud infrastructure
+ * Experience with CI/CD tools
+	 * Jenkins
+	 * GitLab CI
+---------------------------------------------------
 **Template**
 ## Company name: 
 ### Role: 
