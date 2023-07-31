@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Words and meaning/Words meaning.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Words and meaning/Words meaning.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Words and meaning/Words meaning.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Words and meaning/Words meaning.md"
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md"
               }
             }
           }
@@ -158,6 +159,7 @@
   },
   "active": "d19f1b53580d0237",
   "lastOpenFiles": [
+    "001-Communication/Words and meaning/Words meaning.md",
     "001-Communication/Improving communication.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/013-ON Word.md",
@@ -177,7 +179,6 @@
     "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/English song translate",
     "001-Communication/Improvement/Simple Sentence",
-    "001-Communication/Words and meaning/Words meaning.md",
     "001-Communication/Improvement/Grammar related stuff's.md",
     "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
     "Excalidraw/Drawing 2023-05-22 12.18.32.excalidraw.md",
