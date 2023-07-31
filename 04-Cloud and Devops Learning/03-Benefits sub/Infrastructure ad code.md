@@ -16,4 +16,11 @@ modification date: Monday 31st July 2023 18:51:24
 	* Such as
 		* Version Control
 		* Continuous integration
-		* 
+* Automatically provide resources with a help of infra tools.
+
+##### Configuration Management:
+* Developers and system admin use code to automate OS and host configuration, operational tasks and more.
+
+##### Policy as Code:
+* Organization ensures security measures are properly in a distributed manner.
+

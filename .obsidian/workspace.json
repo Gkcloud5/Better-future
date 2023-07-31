@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/03-Benefits sub/Infrastructure ad code.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/03-Benefits sub/Infrastructure ad code.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/03-Benefits sub/Infrastructure ad code.md"
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md"
               }
             }
           }
@@ -206,7 +205,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "972a70f6f74406ab",
   "lastOpenFiles": [
     "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
     "04-Cloud and Devops Learning/03-Benefits sub/Infrastructure ad code.md",
