@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -181,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "1bb8c5604cfa8a19",
   "lastOpenFiles": [
     "04-Cloud and Devops Learning/03-Benefits sub",
     "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
