@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md"
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md"
               }
             }
           }
@@ -254,11 +254,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce655bf1e742f753",
+  "active": "3ad2c1709a3edce4",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/04-CI and CD",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "04-Cloud and Devops Learning/04-CI and CD",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/03-Benefits sub/DevOps Practice.md",
     "04-Cloud and Devops Learning/03-Benefits sub/Infrastructure as code.md",
@@ -302,7 +302,6 @@
     "04-Cloud and Devops Learning/02-Devops Nature",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8",
     "04-Cloud and Devops Learning/01-Overview",
-    "03-Learning/Network/03-Cloud Computing",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
