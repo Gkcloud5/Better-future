@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a55f3cf470954e",
+        "id": "7064666e0eadc185",
         "type": "tabs",
         "children": [
           {
-            "id": "3b43a735a10ce659",
+            "id": "3bfaed3612c21503",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "17f75060102ccfa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2733. Neither Minimum nor Maximum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2733. Neither Minimum nor Maximum.md",
+                "file": "0-Dashboard of my better future/My Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2733. Neither Minimum nor Maximum.md",
+                "file": "0-Dashboard of my better future/My Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2733. Neither Minimum nor Maximum.md"
+                "file": "0-Dashboard of my better future/My Journey.md"
               }
             }
           }
@@ -167,8 +154,8 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "DSA/Images/Pasted image 20230731203000.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/2733. Neither Minimum nor Maximum.md",
+    "DSA/Images/Pasted image 20230731203000.png",
     "04-Cloud and Devops Learning/03-Benefits sub/Microservices in DevOps.md",
     "04-Cloud and Devops Learning/03-Benefits sub/continuous delivery.md",
     "04-Cloud and Devops Learning/03-Benefits sub/Infrastructure as code.md",
@@ -207,7 +194,6 @@
     "04-Cloud and Devops Learning/Images/Pasted image 20230729233830.png",
     "DSA/Images/Pasted image 20230729211833.png",
     "Web Development/Javascript/Image/Pasted image 20230729000929.png",
-    "Web Development/Javascript/Image/Pasted image 20230729000600.png",
     "04-Cloud and Devops Learning/Images",
     "001-Communication/Improvement/11 to 20 words",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
