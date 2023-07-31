@@ -197,5 +197,6 @@
  * Linus/Unix operating systems
  * Some exposure to IT Security, SoC or SIEM tools.
  * technical skills on computer networking, TCP/IP and tools.
- * 
+ * diagnose and troubleshoot basic technical issues.
+ 
 ---------------------------------------------------

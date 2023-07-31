@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -156,7 +157,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3bfaed3612c21503",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Resume Building/01-Related to Resume Preparation.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/2733. Neither Minimum nor Maximum.md",
