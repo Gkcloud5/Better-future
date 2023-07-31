@@ -12,4 +12,8 @@ modification date: Monday 31st July 2023 18:51:24
 
 #### Explanation about it:
 
-* 
+* It is a practice in which infra is provisioned and managed using code and software development techniques.
+	* Such as
+		* Version Control
+		* Continuous integration
+		* 
