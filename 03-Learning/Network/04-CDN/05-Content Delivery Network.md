@@ -59,5 +59,5 @@ modification date: Monday 24th July 2023 17:35:04
 		* Less travel time means faster service
 * Hardware and software optimizations such as efficient  load balancing and solid state hard drives can help data reach the user faster
 * CDN can reduce the amount of data that's transferred by reducing file sizes.
-* CDN can also speed up sites which use TLS/SSL certificates by optimizing connection reuse and enabling TLS false start.
+* CDN can also speed up sites which use TLS/SSL certificates by optimizing connection reuse and enabling [[TLS in network |TLS]] false start.
 
