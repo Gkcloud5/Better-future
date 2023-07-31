@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ce655bf1e742f753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3ad2c1709a3edce4",
             "type": "leaf",
             "state": {
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Practice.md",
+                "file": "04-Cloud and Devops Learning/03-Benefits sub/DevOps Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md"
               }
             }
           }
@@ -242,10 +254,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ad2c1709a3edce4",
+  "active": "ce655bf1e742f753",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/04-CI and CD",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-    "DevOps Practice.md",
+    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+    "04-Cloud and Devops Learning/03-Benefits sub/DevOps Practice.md",
     "04-Cloud and Devops Learning/03-Benefits sub/Infrastructure as code.md",
     "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
     "04-Cloud and Devops Learning/03-Benefits sub/Monitoring and logging.md",
@@ -273,11 +288,8 @@
     "001-Communication/Improvement/11 to 20 words/013-ON Word.md",
     "04-Cloud and Devops Learning/02-Devops Nature/06- DevOps LifeCycle.md",
     "03-Learning/Network/04-CDN/Round trip in network.md",
-    "03-Learning/Network/04-CDN/Latency in network.md",
     "03-Learning/Network/Images/Pasted image 20230730232631.png",
-    "DSA/02-Test/01-Array-List/01- 1D Array/2108. Find First Palindromic String in the Array.md",
     "DSA/Images/Pasted image 20230730230600.png",
-    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/English song translate",
     "001-Communication/Improvement/Simple Sentence",
     "04-Cloud and Devops Learning/Images/Pasted image 20230729233830.png",

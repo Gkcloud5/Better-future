@@ -14,3 +14,5 @@
 7. [[07- Benefits of DevOps]]
 
 ### [[DevOps Practice]]
+
+### [[CI and CD Learn]]
