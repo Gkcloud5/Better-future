@@ -11,7 +11,7 @@
 * ### Reliability:
 	* Ensure the quality of application updates and infrastructure changes so you can reliably deliver at a more rapid pace while maintaining a positive experience for end users.
 	* Use practices like continuous integration and continuous delivery to test that each change is functional and safe.
-	* Monitoring and logging practices help you stay informed of performance in real-time.
+	* [[Monitoring and logging]] practices help you stay informed of performance in real-time.
 
 * ### Scale:
 	* Operate and manage your infra and development processes at scale.
