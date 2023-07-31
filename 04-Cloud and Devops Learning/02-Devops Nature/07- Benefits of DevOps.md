@@ -15,7 +15,7 @@
 
 * ### Scale:
 	* Operate and manage your infra and development processes at scale.
-	* Infrastructure ad code helps you manage your development, testing and production environment in a repeatable and more efficient manner.
+	* [[Infrastructure ad code]] helps you manage your development, testing and production environment in a repeatable and more efficient manner.
 
 * ### Improved Collaboration:
 	* Developers and operations teams collaborate closely, share responsibility and combine their workflows.
