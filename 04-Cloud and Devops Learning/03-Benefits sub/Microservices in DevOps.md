@@ -21,4 +21,13 @@ modification date: Monday 31st July 2023 16:49:57
 
  * In monolithic architectures, all processes are tightly coupled and run as a single service.
 	 * Any one service is spike then total app will be affected
-	 * Adding and improving featgur
+	 * Adding and improving feature in monolithic is too difficult.
+	 * Chances for failure is too high
+* In microservices,
+	* We can run each service as independent components.
+	* This service will communicate with each other with a help of API
+	* Very easy to add feature, update a code, deployed and scale a app.
+
+![[Pasted image 20230731170230.png]]
+
+
