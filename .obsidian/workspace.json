@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "2d568aff1e644b2c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "03-Learning/Network/To-do/Need to read.md"
+              }
+            }
+          },
+          {
             "id": "766ee0d54234852c",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,11 +195,11 @@
   "active": "94f4baaf1088a579",
   "lastOpenFiles": [
     "03-Learning/Network/04-CDN/05-Content Delivery Network.md",
+    "03-Learning/Network/To-do/Need to read.md",
+    "03-Learning/Network/Networking.md",
     "03-Learning/Network/04-CDN/TLS in network.md",
     "03-Learning/Network/04-CDN/Network Edge in networing.md",
     "03-Learning/Network/04-CDN/Cache in network.md",
-    "03-Learning/Network/Networking.md",
-    "03-Learning/Network/To-do/Need to read.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "001-Communication/Words and meaning/Words meaning.md",
     "001-Communication/Improving communication.md",
