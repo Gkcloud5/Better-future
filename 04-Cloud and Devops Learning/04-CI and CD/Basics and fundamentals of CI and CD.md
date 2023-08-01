@@ -69,4 +69,6 @@ modification date: Tuesday 1st August 2023 18:11:22
 
 ### 7. IaC
 
-### 8. 
+### 8. CD Pipeline works
+
+### 9. Cloud platforms
