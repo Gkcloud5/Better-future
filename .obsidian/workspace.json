@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
+                "file": "Web Development/Javascript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a3067206de0cf0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/04- Data Types/041- Numbers - JS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
+                "file": "Web Development/Javascript/04- Data Types/041- Numbers - JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
+                "file": "Web Development/Javascript/04- Data Types/041- Numbers - JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md"
+                "file": "Web Development/Javascript/04- Data Types/041- Numbers - JS.md"
               }
             }
           }
@@ -169,9 +182,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8262f3a164427ac",
+  "active": "7a3067206de0cf0a",
   "lastOpenFiles": [
     "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/04- Data Types/041- Numbers - JS.md",
+    "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
+    "Web Development/Javascript/04- Data Types",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
@@ -188,7 +204,6 @@
     "03-Learning/Network/Networking.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/014-IN word.md",
-    "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
     "Web Development/Javascript/Image/Pasted image 20230731233706.png",
     "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
@@ -216,7 +231,6 @@
     "001-Communication/Improvement/11 to 20 words",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "04-Cloud and Devops Learning/02-Devops Nature",
-    "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"

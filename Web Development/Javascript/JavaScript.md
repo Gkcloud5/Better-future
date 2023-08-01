@@ -35,4 +35,6 @@
 	* [[034-Constructor, Operator new]]
 	* [[035-Optional Chaining ]]
 
-
+* #### 4. Data types:
+	* [[041- Numbers - JS]]
+	* 
