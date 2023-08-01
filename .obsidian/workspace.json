@@ -38,9 +38,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d08796262b979e6e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +188,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "d08796262b979e6e",
   "lastOpenFiles": [
     "Web Development/Javascript/Image/Pasted image 20230731233706.png",
     "Web Development/Javascript/JavaScript.md",
