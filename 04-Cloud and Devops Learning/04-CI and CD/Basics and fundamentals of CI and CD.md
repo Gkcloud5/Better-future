@@ -10,9 +10,9 @@ modification date: Tuesday 1st August 2023 18:11:22
 
 --------------------------------------
 
-### Explanation about it:
+## Explanation about it:
 
-#### 1. About continuous integration:
+### 1. About continuous integration:
 
  * CI is the practice of frequently integrating code changes from multiple developers into a shared repository.
  * Main goal is to catch integration issues early by automating the process of building and testing the application whenever new code is pushed to the repo.
@@ -21,4 +21,20 @@ modification date: Tuesday 1st August 2023 18:11:22
  * Setup automated build and test processes to be triggered automatically on code commits.
 
 ##### 1.2 Frequent Integration:
- * Developers should frequently merge their code changes into the main branch to avoid large, complex merges and indentify conflicits early.
+ * Developers should frequently merge their code changes into the main branch to avoid large, complex merges and identify conflicts early.
+
+##### 1.3 Fast Feedback:
+ * CI helps provide rapid feedback to developers, identifying issues in code and test cases quickly.
+
+##### 1.4 Version Control:
+ * Version Control systems, like GIT, are crucial for effective CI, as they enable collaboration and tracking of changes.
+
+### 2. Most using CI tools:
+**Tools used to automate the building, testing and reporting processes**
+ * Jenkins
+ * Gitlab CI/CD
+ * Travis CI
+
+### 3. [[Learning Version Control]]
+
+### 4.
