@@ -6,7 +6,16 @@ modification date: Tuesday 1st August 2023 17:57:21
 ### Script:[](https://tldp.org/LDP/abs/html/numerical-constants.html#NUMBERS)
 
 ```
+#!/bin/bash
 
+let "dec=32"
+echo "decimal number = $dec"
+
+let "oct = 032"
+echo "octal number = $oct"
+
+let "hex = 0x32"
+echo "Hex number = $oct"
 ```
 
 ### Output:
