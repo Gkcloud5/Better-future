@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2678. Number of Senior Citizens.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2678. Number of Senior Citizens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2678. Number of Senior Citizens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md"
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/2678. Number of Senior Citizens.md"
               }
             }
           }
@@ -170,9 +168,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9579c1fb5c765f90",
+  "active": "e2aa9e94d5534170",
   "lastOpenFiles": [
+    "DSA/Images/Pasted image 20230801225040.png",
     "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/2678. Number of Senior Citizens.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Representation of numerical constants.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230801180509.png",
@@ -205,9 +205,7 @@
     "04-Cloud and Devops Learning/Images/Pasted image 20230731170230.png",
     "04-Cloud and Devops Learning/03-Benefits sub",
     "03-Learning/Programming/Bash/Images/Pasted image 20230731143726.png",
-    "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Compound condition Tests using && and or.md",
     "03-Learning/Network/05-Otheres",
-    "03-Learning/Network/04-CDN/05-Content Delivery Network.md",
     "03-Learning/Network/Images/Pasted image 20230730232631.png",
     "DSA/Images/Pasted image 20230730230600.png",
     "001-Communication/Improvement/English song translate",
