@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a5dc16e5f99f8b20",
+        "id": "af5b1d78f7a96530",
         "type": "tabs",
         "children": [
           {
-            "id": "9579c1fb5c765f90",
+            "id": "97080a61ac34080f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d32842ef3c3d53e",
+            "id": "f8262f3a164427ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b6ffc8445870de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b0d419bdfe5e7fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -131,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md"
+                "file": "Web Development/Javascript/03-Objects/035-Optional Chaining.md"
               }
             }
           }
@@ -194,12 +169,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b0d419bdfe5e7fd",
+  "active": "f8262f3a164427ac",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control",
     "DSA/02-Test/01-Array-List/01- 1D Array/2678. Number of Senior Citizens.md",
     "DSA/Images/Pasted image 20230801225040.png",
@@ -211,7 +188,6 @@
     "03-Learning/Network/Networking.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/014-IN word.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
     "Web Development/Javascript/Image/Pasted image 20230731233706.png",
     "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
@@ -224,7 +200,6 @@
     "04-Cloud and Devops Learning/03-Benefits sub/Infrastructure as code.md",
     "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
     "04-Cloud and Devops Learning/03-Benefits sub/DevOps Practice.md",
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/04-CI and CD",
     "04-Cloud and Devops Learning/03-Benefits sub/Monitoring and logging.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230731183748.png",
