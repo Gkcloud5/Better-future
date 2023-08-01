@@ -18,8 +18,9 @@ modification date: Tuesday 1st August 2023 23:47:59
 
 ```
 let num1 = 255;
-console.log("num to str", num1.toString(), typeof())
-
+console.log("num to str", num1.toString(), typeof(num1))
+num1.toString()
+console.log(typeof(num1))
 #Rounding
 let num2 = 1.234
 console.log("round", Math.round(num*100) / 100);
@@ -35,7 +36,11 @@ console.log(sum_int.toFixed(5));
 
 ```
 let imt_num3 =  "45"
-console.log(typeof(imt_num3))
+console.log(typeof(imt_num3), typeof(isFinite(imt_num3)))
 isFinite(imt_num3)
 console.log(typeof(imt_num3), imt_num3)
 ```
+
+![[Pasted image 20230802000243.png]]
+
+![[Pasted image 20230802000403.png]]

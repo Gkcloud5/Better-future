@@ -37,4 +37,5 @@
 
 * #### 4. Data types:
 	* [[041- Numbers - JS]]
+	* [[042- Strings - JS]]
 	* 

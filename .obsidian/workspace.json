@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "7a3067206de0cf0a",
+            "id": "992e0890f848ae3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/041- Numbers - JS.md",
+                "file": "042- Strings - JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/041- Numbers - JS.md",
+                "file": "042- Strings - JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/041- Numbers - JS.md",
+                "file": "042- Strings - JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/041- Numbers - JS.md"
+                "file": "042- Strings - JS.md"
               }
             }
           }
@@ -182,10 +182,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a3067206de0cf0a",
+  "active": "992e0890f848ae3c",
   "lastOpenFiles": [
     "Web Development/Javascript/JavaScript.md",
+    "042- Strings - JS.md",
     "Web Development/Javascript/04- Data Types/041- Numbers - JS.md",
+    "Web Development/Javascript/Image/Pasted image 20230802000403.png",
+    "Web Development/Javascript/Image/Pasted image 20230802000243.png",
     "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
     "Web Development/Javascript/04- Data Types",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
@@ -216,15 +219,12 @@
     "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
     "04-Cloud and Devops Learning/03-Benefits sub/DevOps Practice.md",
     "04-Cloud and Devops Learning/04-CI and CD",
-    "04-Cloud and Devops Learning/03-Benefits sub/Monitoring and logging.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230731183748.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230731183329.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230731170230.png",
     "04-Cloud and Devops Learning/03-Benefits sub",
     "03-Learning/Programming/Bash/Images/Pasted image 20230731143726.png",
     "03-Learning/Network/05-Otheres",
-    "03-Learning/Network/Images/Pasted image 20230730232631.png",
-    "DSA/Images/Pasted image 20230730230600.png",
     "001-Communication/Improvement/English song translate",
     "001-Communication/Improvement/Simple Sentence",
     "04-Cloud and Devops Learning/Images",
