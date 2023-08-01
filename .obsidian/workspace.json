@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f770a728fdaf0d50",
+        "id": "a5dc16e5f99f8b20",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca02b212971eabc",
+            "id": "e2aa9e94d5534170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97841d8a995b4ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Representation of numerical constants.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Representation of numerical constants.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Representation of numerical constants.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Representation of numerical constants.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md"
               }
             }
           }
@@ -170,10 +157,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97841d8a995b4ce2",
+  "active": "e2aa9e94d5534170",
   "lastOpenFiles": [
+    "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Representation of numerical constants.md",
+    "03-Learning/Programming/Bash/Images/Pasted image 20230801180509.png",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "Representation of numerical constants.md",
     "03-Learning/Network/To-do/Need to read.md",
     "03-Learning/Network/05-Otheres/Web servers in network.md",
     "03-Learning/Network/Networking.md",
@@ -206,13 +194,11 @@
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Compound condition Tests using && and or.md",
     "03-Learning/Network/05-Otheres",
     "03-Learning/Network/04-CDN/05-Content Delivery Network.md",
-    "03-Learning/Network/04-CDN/TLS in network.md",
     "03-Learning/Network/Images/Pasted image 20230730232631.png",
     "DSA/Images/Pasted image 20230730230600.png",
     "001-Communication/Improvement/English song translate",
     "001-Communication/Improvement/Simple Sentence",
     "04-Cloud and Devops Learning/Images/Pasted image 20230729233830.png",
-    "DSA/Images/Pasted image 20230729211833.png",
     "04-Cloud and Devops Learning/Images",
     "001-Communication/Improvement/11 to 20 words",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",

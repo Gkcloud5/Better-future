@@ -15,16 +15,15 @@ let "oct = 032"
 echo "octal number = $oct"
 
 let "hex = 0x32"
-echo "Hex number = $oct"
+echo "Hex number = $hex"
 ```
 
 ### Output:
 
-
+![[Pasted image 20230801180509.png]]
 
 ### Explanation:
 
 * number prefix with 0 then it's octal
 * prefix with 0x then it's hexadecimal
 
-### Things know:
