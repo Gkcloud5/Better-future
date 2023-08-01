@@ -23,3 +23,6 @@
 	1. Continuously monitor the pipeline's performance.
 	2. Gather feedback from users and team members
 		1. Refine the process to improve efficiency.
+
+
+#### [[Basics and fundamentals of CI and CD]]
