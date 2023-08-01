@@ -18,8 +18,20 @@ modification date: Tuesday 1st August 2023 12:29:02
 உள்ளே
 ### Explanation about it:
 
+* We use in 'enclosed' place
+	* In a room
+* Area with boundary
+	* In a country
+* water bodies
+	* in the water
+	* in the river
+* Standing in queue
+	* In a row
+	* In a line
+	* In a queue
+* Group of people
+	* 4 people standing in the front
 
-### 3 Examples:
 
 
 
