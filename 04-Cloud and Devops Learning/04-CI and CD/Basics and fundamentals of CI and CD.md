@@ -37,4 +37,12 @@ modification date: Tuesday 1st August 2023 18:11:22
 
 ### 3. [[Learning Version Control]]
 
-### 4.
+### 4. Continues Deployment:
+ * CD extends CI by automating the deployment process of applications to production or staging environments.
+ * Goal is ensure that the application is always in a deployable state, enabling faster and more reliable releases.
+
+##### 4.1 Continuous Deployment:
+ * Here code change automatically deployed to production without manual intervention.
+
+##### 4.2 Continuous Delivery:
+ * In this approach, code change 
