@@ -31,8 +31,13 @@ modification date: Tuesday 1st August 2023 12:29:02
 	* In a queue
 * Group of people
 	* 4 people standing in the front
+ 
+### 3 Examples:
 
-
-
+* I live in a small street near the station
+* I live in anna street
+* he admitted in GH
+* i am at the hospital
+	* as visitor or a staff
 
 
