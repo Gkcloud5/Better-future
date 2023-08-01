@@ -12,3 +12,7 @@ modification date: Tuesday 1st August 2023 18:11:22
 
 ### Explanation about it:
 
+#### About continuous integration:
+
+ * CI is the practice of frequently integrating code changes from multiple developers into a shared repository.
+ * 
