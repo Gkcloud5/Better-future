@@ -21,4 +21,8 @@ modification date: Monday 17th July 2023 18:34:01
  * A web server is a computer that stores web servers software and other files related to website, such as
 	 * HTML
 	 * CSS
-	 * I
+	 * Images
+	 * JS files
+* When web browser(chrome, firefox), needs a file that's hosted on a web server, 
+	* The browser will request the file by HTTP.
+	* When the request is received by the web server, the HTTP server will accept the request, find the content and send it back to the browser through HTTP.

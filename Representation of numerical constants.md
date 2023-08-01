@@ -1,0 +1,21 @@
+---
+creation date: 2023-08-01 17:57
+modification date: Tuesday 1st August 2023 17:57:21
+---
+
+### Script:[](https://tldp.org/LDP/abs/html/numerical-constants.html#NUMBERS)
+
+```
+
+```
+
+### Output:
+
+
+
+### Explanation:
+
+* number prefix with 0 then it's octal
+* prefix with 0x then it's hexadecimal
+
+### Things know:

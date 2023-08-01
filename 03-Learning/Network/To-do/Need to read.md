@@ -18,7 +18,6 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] Web servers
 
 
 ## Readed
@@ -30,6 +29,7 @@ kanban-plugin: basic
 - [ ] HTTPS
 - [ ] TLD
 - [ ] DNS
+- [ ] Web servers
 - [ ] TCP
 - [ ] Cache
 - [ ] Unicast, broadcast, multicast
