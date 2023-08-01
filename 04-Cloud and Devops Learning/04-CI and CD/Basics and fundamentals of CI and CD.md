@@ -37,6 +37,7 @@ modification date: Tuesday 1st August 2023 18:11:22
 
 ### 3. [[Learning Version Control]]
 
+
 ### 4. Continues Deployment:
  * CD extends CI by automating the deployment process of applications to production or staging environments.
  * Goal is ensure that the application is always in a deployable state, enabling faster and more reliable releases.
@@ -45,4 +46,14 @@ modification date: Tuesday 1st August 2023 18:11:22
  * Here code change automatically deployed to production without manual intervention.
 
 ##### 4.2 Continuous Delivery:
- * In this approach, code change 
+ * In this approach, code change automatically deployed to a staging environment. then it awaits manual approval for deployment to production.
+
+##### 4.3 Key concepts and practices for CD:
+ * **Infrastructure as Code(IaC):
+	 * Use tools like terraform or AWS cloudformation
+		 * To define and manage infra in version controlled and automated manner.
+* **Deployment pipelines:**
+	* Design automated pipelines that include
+		* Building
+		* Testing
+		* Deploying application through various stages
