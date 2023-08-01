@@ -57,3 +57,16 @@ modification date: Tuesday 1st August 2023 18:11:22
 		* Building
 		* Testing
 		* Deploying application through various stages
+* **Canary Deployments:**
+	* Deploying new version to a subset of users to validate changes before a full rollout.
+* **Blue-Green Deployments:** 
+	* Marinating two identical production environments
+	* Switching between them to minimize downtime during updates.
+
+### 5. [[Learning CI and CD tool]]
+
+### 6. Learn automated testing
+
+### 7. IaC
+
+### 8. 
