@@ -46,5 +46,10 @@ modification date: Wednesday 2nd August 2023 12:00:26
  * If it's often used in collaborative projects, where contributors submit their changes for review before merging them into main branch.
 
 ##### 8. Staging area(index):
- * 
+ * Before committing changes, Git allows us to stage specific changes for inclusion in the next commit.
+ * This staging area helps you control which changes will be committed.
 
+
+### Common `git` commands:
+
+* `git init` -  Initializes a new GIT repo in the current directory
