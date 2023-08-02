@@ -12,5 +12,15 @@ modification date: Wednesday 2nd August 2023 12:00:26
 
 ### Overview of GIT:
 
-##### 1. Reposti
+##### 1. Repository(repo):
+ * A repository is a storage location where all the versioned files and their history are stored.
+ * It can be hosted remotely.
+	 * GitHub
+	 * GitLab
+	 * BitBucket
+* Or you can store locally
+
+##### 2. Commits:
+ * A commit represent a snapshot of the changes made to one or more files in the repository.
+ * 
 
