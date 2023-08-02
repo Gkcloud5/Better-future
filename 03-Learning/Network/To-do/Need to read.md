@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## To read
 
-- [ ] PARP
 - [ ] NAT
 - [ ] DHCP
 - [ ] Gateway works
@@ -17,7 +16,7 @@ kanban-plugin: basic
 
 ## Reading
 
-- [ ] VLSM
+- [ ] PARP
 
 
 ## Readed
@@ -26,6 +25,7 @@ kanban-plugin: basic
 - [ ] Links
 - [ ] Domain name
 - [ ] Round trip
+- [ ] VLSM
 - [ ] HTTPS
 - [ ] TLD
 - [ ] DNS

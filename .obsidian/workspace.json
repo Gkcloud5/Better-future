@@ -28,33 +28,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "13019da9044bf229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Learning/Network/01-Fundamentals/02/02-CIDR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6256fd05152d0960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Learning/Network/01-Fundamentals/02/VLSM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Learning/Network/01-Fundamentals/02/VLSM.md",
+                "file": "03-Learning/Network/To-do/Need to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Learning/Network/01-Fundamentals/02/VLSM.md",
+                "file": "03-Learning/Network/To-do/Need to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Learning/Network/01-Fundamentals/02/VLSM.md"
+                "file": "03-Learning/Network/To-do/Need to read.md"
               }
             }
           }
@@ -191,13 +166,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6256fd05152d0960",
+  "active": "0d53fababb156a1f",
   "lastOpenFiles": [
-    "03-Learning/Network/01-Fundamentals/02/02-CIDR.md",
     "03-Learning/Network/Networking.md",
+    "03-Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
+    "03-Learning/Network/Devices/Routers in network.md",
+    "03-Learning/Network/To-do/Need to read.md",
+    "03-Learning/Network/01-Fundamentals/02/VLSM.md",
+    "03-Learning/Network/01-Fundamentals/03/03-Subnetting.md",
+    "03-Learning/Network/01-Fundamentals/02/02-CIDR.md",
     "03-Learning/Network/01-Fundamentals/01/05-Architecture/Types of Enterprise Computer Network.md",
     "03-Learning/Network/01-Fundamentals/01/01-What is computer network.md",
-    "03-Learning/Network/To-do/Need to read.md",
     "001-Communication/Improvement/11 to 20 words/015-AT word.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improving communication.md",
@@ -222,10 +201,6 @@
     "03-Learning/Network/05-Otheres/Web servers in network.md",
     "001-Communication/Improvement/11 to 20 words/014-IN word.md",
     "Web Development/Javascript/Image/Pasted image 20230731233706.png",
-    "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
-    "Resume Building/Technical Support/01-TS role JD content.md",
-    "Resume Building/01-Related to Resume Preparation.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array/2733. Neither Minimum nor Maximum.md",
     "DSA/Images/Pasted image 20230731203000.png",
     "04-Cloud and Devops Learning/04-CI and CD",
     "04-Cloud and Devops Learning/Images/Pasted image 20230731183748.png",
