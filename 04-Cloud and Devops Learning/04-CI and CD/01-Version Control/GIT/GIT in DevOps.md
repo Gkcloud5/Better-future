@@ -64,4 +64,9 @@ modification date: Wednesday 2nd August 2023 12:00:26
 * `git push` - Pushes local commits to remote repo
 * `git merge <branch>` -  Merge the specified branch into current branch
 
+#### Why it's important and what problem it solved among others:
+
+
 ##### [[GIT real world experience]]
+
+
