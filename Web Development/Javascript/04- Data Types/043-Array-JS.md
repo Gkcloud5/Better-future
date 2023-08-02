@@ -72,5 +72,6 @@ for (let fruit of arr_loop) {
 ```
 
 ```
-
+let
 ```
+hj
