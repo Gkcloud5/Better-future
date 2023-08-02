@@ -3,7 +3,7 @@ creation date: 2023-08-02 12:00
 modification date: Wednesday 2nd August 2023 12:00:26
 ---
 
-**Tags:** #DevOps 
+**Tags:** #DevOps #GIT 
 
 ### Source:
 [Git](https://chat.openai.com/share/8fed5082-9761-42b4-b662-064f819b11c4)
@@ -64,3 +64,4 @@ modification date: Wednesday 2nd August 2023 12:00:26
 * `git push` - Pushes local commits to remote repo
 * `git merge <branch>` -  Merge the specified branch into current branch
 
+##### [[GIT real world experience]]

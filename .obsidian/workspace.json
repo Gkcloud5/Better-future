@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3801f8a6c2e4edb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md"
               }
             }
           }
@@ -194,16 +206,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0432cfb1e200e61d",
+  "active": "3801f8a6c2e4edb9",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
+    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "03-Learning/Network/To-do/Need to read.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
-    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10/Formatting an e-mail message.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230802114808.png",
