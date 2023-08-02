@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b183a565c0271f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/042- Strings - JS.md"
+                "file": "Web Development/Javascript/JavaScript.md"
               }
             }
           }
@@ -157,8 +170,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "b183a565c0271f59",
   "lastOpenFiles": [
+    "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
     "Web Development/Javascript/Image/Pasted image 20230802230728.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/1534. Count Good Triplets.md",
     "DSA/Images/Pasted image 20230802225529.png",
@@ -201,7 +215,6 @@
     "Web Development/Javascript/Image/Pasted image 20230731233706.png",
     "DSA/Images/Pasted image 20230731203000.png",
     "04-Cloud and Devops Learning/04-CI and CD",
-    "04-Cloud and Devops Learning/Images/Pasted image 20230731183748.png",
     "04-Cloud and Devops Learning/03-Benefits sub",
     "03-Learning/Network/05-Otheres",
     "001-Communication/Improvement/English song translate",

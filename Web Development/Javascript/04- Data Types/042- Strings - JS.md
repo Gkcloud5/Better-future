@@ -58,6 +58,9 @@ str_value.at(-1) //h
 .includes()
 .startsWith()
 .endsWith()
+.slice(0,1)
+.substring(2,6)
+
 ```
 
 
