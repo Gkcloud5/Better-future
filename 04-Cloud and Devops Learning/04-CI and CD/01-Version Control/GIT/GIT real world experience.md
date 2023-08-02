@@ -40,5 +40,14 @@ modification date: Wednesday 2nd August 2023 16:32:54
 	1. use `git add` to stage the changes
 	2. `git commit -m "commit message"`  to create a commit with a descriptive message about the changes you made
 8. **Pull the latest changes:**
-	1. 
+	1. Regularly pull latest changes from original repo to local branch to keep fork up to date
+	2. use `git pull upstream <branch>` 
+		1. `upstream` --> Original repo
+		2. `<branch>` --> Branch want to sync
+9. **Push changes and create pull requests:**
+	1. Once changes are made push branch to our forked repo
+		1. Using `git push origin <branch>`
+	2. Then create a pull request from our branch to the original repo
+	3. The pull request will allow project maintainers to review changes and potentially merge them into the main codebase
+10. **Code revi
 
