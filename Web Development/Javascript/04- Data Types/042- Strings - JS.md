@@ -37,5 +37,9 @@ console.log(sum_str(1, 2))
 ```
 #str.length
 
-let str
+let str_value = "gokul length"
+console.log(str_value.length)
 ```
+
+![[Pasted image 20230802230728.png]]
+
