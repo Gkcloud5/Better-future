@@ -33,3 +33,16 @@ fruits[3] = "Gk new 3"
 ```
 
 * Array can store elements of any type
+
+```
+let any_arr = [ 'Gk1', {name: "gokul"}, true, function() { console.log("inside array function")}]
+```
+
+
+#### Methods:
+
+```
+#push - Add elements to the end
+#pop - Takes element from end
+
+```
