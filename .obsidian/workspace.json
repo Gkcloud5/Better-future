@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -181,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1f48a7157dd0c63",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/04- Data Types/043-Array-JS.md",

@@ -70,3 +70,7 @@ for (let fruit of arr_loop) {
   console.log(fruit)
 }
 ```
+
+```
+
+```
