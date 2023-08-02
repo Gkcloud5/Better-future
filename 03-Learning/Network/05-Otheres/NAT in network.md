@@ -16,4 +16,10 @@ modification date: Wednesday 2nd August 2023 11:18:08
 * idea of NAT is allow multiple devices to access the internet through a single public address.
 
 ### 2. NAT working:
- * 
+ * Border router is configured as NAT.
+ * Router which has one interface in local network and one interface in the global.
+ * When packet traverse outside the local network, NAT converts local IP address to a global IP address.
+ * When packet enters the local network, the global IP address is converted to local IP address.
+
+![[Pasted image 20230802113045.png]]
+
