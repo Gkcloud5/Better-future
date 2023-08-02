@@ -55,4 +55,8 @@ modification date: Saturday 24th June 2023 18:22:25
 	2. [[Using arithmetic Operations - Bash]]
 	3. [[Compound condition Tests using && and or]]
 	4. [[Representation of numerical constants]]
-	5. 
+
+### Scenario scripts:
+
+1. [[Formatting an e-mail message]]
+2. 
