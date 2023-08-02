@@ -41,8 +41,17 @@ let any_arr = [ 'Gk1', {name: "gokul"}, true, function() { console.log("inside a
 
 #### Methods:
 
-```
+```Javascript
 #push - Add elements to the end
 #pop - Takes element from end
 
+let fruits_new = ["Apple", "orange"]
+fruits_new.pop() // Apple
+fruits_new.push("Guva") //Apple, Guva
+
+#shift - Extract first element and return it
+fruits_new.shift() //Guva
+
+#Add element in beginning
+fruits_new.unshift("Apple 2", "Orange 2")
 ```
