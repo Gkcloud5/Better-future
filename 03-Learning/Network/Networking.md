@@ -21,4 +21,6 @@
 6. [[06- Cloud computing]]
 
 #### Others:
-1. [[Web serv]]
+1. [[Web servers in network]]
+2. [[NAT in network]]
+3. 

@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "e8e4aa1829eed557",
+            "id": "c902cafc77693576",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,8 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27fb8e73b56f6525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Learning/Network/05-Otheres/NAT in network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Learning/Network/To-do/Need to read.md",
+                "file": "03-Learning/Network/05-Otheres/NAT in network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Learning/Network/To-do/Need to read.md",
+                "file": "03-Learning/Network/05-Otheres/NAT in network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Learning/Network/To-do/Need to read.md"
+                "file": "03-Learning/Network/05-Otheres/NAT in network.md"
               }
             }
           }
@@ -166,12 +179,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d53fababb156a1f",
+  "active": "27fb8e73b56f6525",
   "lastOpenFiles": [
     "03-Learning/Network/Networking.md",
+    "03-Learning/Network/05-Otheres/NAT in network.md",
+    "03-Learning/Network/To-do/Need to read.md",
+    "03-Learning/Network/05-Otheres/Web servers in network.md",
     "03-Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
     "03-Learning/Network/Devices/Routers in network.md",
-    "03-Learning/Network/To-do/Need to read.md",
     "03-Learning/Network/01-Fundamentals/02/VLSM.md",
     "03-Learning/Network/01-Fundamentals/03/03-Subnetting.md",
     "03-Learning/Network/01-Fundamentals/02/02-CIDR.md",
@@ -198,8 +213,6 @@
     "03-Learning/Programming/Bash/Example scripts and explanation/Example/E.8/Representation of numerical constants.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230801180509.png",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "03-Learning/Network/05-Otheres/Web servers in network.md",
-    "001-Communication/Improvement/11 to 20 words/014-IN word.md",
     "Web Development/Javascript/Image/Pasted image 20230731233706.png",
     "DSA/Images/Pasted image 20230731203000.png",
     "04-Cloud and Devops Learning/04-CI and CD",
