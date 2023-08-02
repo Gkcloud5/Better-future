@@ -55,6 +55,9 @@ str_value.at(-1) //h
 ```
 'Gokul'.toUpperCase() //GOKUL
 'Gokul'.toLowerCase() //gokul
+.includes()
+.startsWith()
+.endsWith()
 ```
 
 
