@@ -39,6 +39,7 @@ exit $?
 
 ### Output:
 
+![[Pasted image 20230802114808.png]]
 
 
 ### Explanation:
