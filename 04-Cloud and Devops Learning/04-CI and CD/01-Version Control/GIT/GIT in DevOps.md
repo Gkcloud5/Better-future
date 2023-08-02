@@ -74,7 +74,14 @@ modification date: Wednesday 2nd August 2023 12:00:26
 * **Efficient Branching and Merging:**
 	* GIT branching and merging are powerful and lightweight
 	* Creating and switching branch is very easy and fast
-		* It will help d
+		* It will help developers to work in multiple feature or bugs simultaneously.
+* **Data Integrity and Hashing:**
+	* GIT uniquely identify each commit and data object in the repo.
+	* it provide strong mechanism to detect corruption or tampering of data.
+* **Rapid Operations and Performance:**
+	* Mostly changes are performed locally
+	* Only the changes are transferred over the network.
+
 ##### [[GIT real world experience]]
 
 
