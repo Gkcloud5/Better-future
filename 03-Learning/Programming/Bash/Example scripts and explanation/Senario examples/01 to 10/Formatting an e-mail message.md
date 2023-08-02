@@ -25,7 +25,16 @@ else
    exit $E_NOFILE
 fi
 
+MAXWIDTH=70
 
+sedscript='s/^>//
+s/^ *>//
+s/^ *//
+s/        *//'
+
+sed "$sedscript" $1 | fold -s --width=$MAXWIDTH
+
+exit $?
 ```
 
 ### Output:
