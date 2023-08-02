@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "af5b1d78f7a96530",
+        "id": "c4c4540e1e1acba1",
         "type": "tabs",
         "children": [
           {
-            "id": "97080a61ac34080f",
+            "id": "14752805d6d97275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "001-Communication/Improvement/80% using words.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8262f3a164427ac",
+            "id": "56b98c4a02b79024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "992e0890f848ae3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "042- Strings - JS.md",
+                "file": "001-Communication/Improvement/11 to 20 words/015-AT word.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "042- Strings - JS.md",
+                "file": "001-Communication/Improvement/11 to 20 words/015-AT word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "042- Strings - JS.md",
+                "file": "001-Communication/Improvement/11 to 20 words/015-AT word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "042- Strings - JS.md"
+                "file": "001-Communication/Improvement/11 to 20 words/015-AT word.md"
               }
             }
           }
@@ -182,10 +169,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "992e0890f848ae3c",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "001-Communication/Improvement/80% using words.md",
+    "001-Communication/Improvement/11 to 20 words/015-AT word.md",
+    "001-Communication/Improving communication.md",
+    "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
     "Web Development/Javascript/JavaScript.md",
-    "042- Strings - JS.md",
     "Web Development/Javascript/04- Data Types/041- Numbers - JS.md",
     "Web Development/Javascript/Image/Pasted image 20230802000403.png",
     "Web Development/Javascript/Image/Pasted image 20230802000243.png",
@@ -205,7 +195,6 @@
     "03-Learning/Network/To-do/Need to read.md",
     "03-Learning/Network/05-Otheres/Web servers in network.md",
     "03-Learning/Network/Networking.md",
-    "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/014-IN word.md",
     "Web Development/Javascript/Image/Pasted image 20230731233706.png",
     "Web Development/Javascript/03-Objects/034-Constructor, Operator new.md",
@@ -216,8 +205,6 @@
     "04-Cloud and Devops Learning/03-Benefits sub/Microservices in DevOps.md",
     "04-Cloud and Devops Learning/03-Benefits sub/continuous delivery.md",
     "04-Cloud and Devops Learning/03-Benefits sub/Infrastructure as code.md",
-    "04-Cloud and Devops Learning/02-Devops Nature/07- Benefits of DevOps.md",
-    "04-Cloud and Devops Learning/03-Benefits sub/DevOps Practice.md",
     "04-Cloud and Devops Learning/04-CI and CD",
     "04-Cloud and Devops Learning/Images/Pasted image 20230731183748.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230731183329.png",
