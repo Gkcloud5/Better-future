@@ -43,3 +43,18 @@ console.log(str_value.length)
 
 ![[Pasted image 20230802230728.png]]
 
+
+```
+#Accessing character
+console.log(str_value[0]) //g
+str_value.at(-1) //h
+```
+
+* Strings are immutable
+
+```
+'Gokul'.toUpperCase() //GOKUL
+'Gokul'.toLowerCase() //gokul
+```
+
+
