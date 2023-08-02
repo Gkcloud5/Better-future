@@ -7,4 +7,8 @@
 
 * Version Control is a important thing in software development
 * It enables teams to manage changes to their code and collaborate effectively.
-* 
+* It provides a history of modifications made to files
+* It allows multiple developers to work simultaneously on the same project
+* It facilitates easy collaboration and code review.
+* Most popular version control system is
+	* [[GIT in DevOps |GIT]]
