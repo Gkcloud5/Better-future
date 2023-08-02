@@ -55,3 +55,18 @@ fruits_new.shift() //Guva
 #Add element in beginning
 fruits_new.unshift("Apple 2", "Orange 2")
 ```
+
+#### Loops:
+
+```
+let arr_loop = ["Gokul1", "Gokul2", "Gokul3"]
+for (let i = 0; i < arr_loop.length; i++) {
+  console.log(arr_loop[i]);
+}
+```
+
+```
+for (let fruit of arr_loop) {
+  console.log(fruit)
+}
+```
