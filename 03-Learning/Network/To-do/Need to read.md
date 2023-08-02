@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## To read
 
-- [ ] VLSM
 - [ ] PARP
 - [ ] NAT
 - [ ] DHCP
@@ -18,6 +17,7 @@ kanban-plugin: basic
 
 ## Reading
 
+- [ ] VLSM
 
 
 ## Readed
