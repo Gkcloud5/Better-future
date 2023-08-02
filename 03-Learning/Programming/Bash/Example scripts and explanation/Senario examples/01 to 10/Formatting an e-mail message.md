@@ -14,7 +14,18 @@ E_NOFILE=86
 if [ $# -ne $ARGS ]
 then
    echo "Usage: `basename $0` filename"
-   exhit $E_BADARGS
+   exit $E_BADARGS
+fi
+
+if [ -f "$1" ]
+then
+   file_name=$1
+else
+   echo "File \"$1\" does not exist"
+   exit $E_NOFILE
+fi
+
+
 ```
 
 ### Output:
