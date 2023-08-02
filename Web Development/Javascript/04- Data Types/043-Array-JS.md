@@ -26,5 +26,10 @@ fruits[1]
 fruits[2]
 
 #replace
-fruits[1] = 'Gk'
+fruits[1] = 'Gk replace'
+
+#Add a new one
+fruits[3] = "Gk new 3"
 ```
+
+* Array can store elements of any type
