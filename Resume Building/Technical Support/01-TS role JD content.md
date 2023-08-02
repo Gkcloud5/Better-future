@@ -210,5 +210,5 @@
  * troubleshooting, and identifying solutions to complex application L1-L2 support issues.
 ###### Skills:
  * Scripting, database SQL, and systems skills
- * 
+ * Knowledge of Atlassian products
 ---------------------------------------------------
