@@ -21,6 +21,14 @@ modification date: Wednesday 2nd August 2023 12:00:26
 * Or you can store locally
 
 ##### 2. Commits:
- * A commit represent a snapshot of the changes made to one or more files in the repository.
- * 
+ * A commit represent a snapshot of the changes made to one or more files in the repository at a specific point  in time.
+ * Each commit has a unique identifier(hash) and is associated with a commit message that describes the changes made.
+
+##### 3. Branches:
+ * Branches are used to work on new feature, bug fixes or experiments without affecting the main codebase
+ * Default repo has a master/main branch.
+ * Developers create a new branch and can merge them back into the main branch once the changes are tested and reviewed.
+
+##### 4. Clone:
+ * Cloning a repo means creating a local copy of the remote repo. this allows you to work
 
