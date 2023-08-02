@@ -18,5 +18,11 @@ modification date: Wednesday 2nd August 2023 16:32:54
 	 2. Clear contribution guide
 2. Fork repo
 	1. Forking creates a copy of the project under our Github account.
-	2. 
+	2. We can freely modify it
+3. Clone the forked repo:
+	1. Clone your forked repo to our local machine
+		1. By using `git clone`
+4. Study the project structure:
+	1. Understand about directory structure
+	2. Including its s
 
