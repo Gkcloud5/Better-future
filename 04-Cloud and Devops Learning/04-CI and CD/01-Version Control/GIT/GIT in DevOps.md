@@ -53,3 +53,14 @@ modification date: Wednesday 2nd August 2023 12:00:26
 ### Common `git` commands:
 
 * `git init` -  Initializes a new GIT repo in the current directory
+* `git clone <repo url>` - Clones a remote repo to local machine
+* `git add <file` - Adds changes to the staging area.
+* `git commit -m "Commit message"` - Create new commit with staged changes
+* `git status` - Shows status of working directory and staging area
+* `git branch` - Lists all branch
+	* Asterix indicating current branch
+* `git checkout <branch>` -  Switches to a different branch
+* `git pull` - Fetches and merges changes from the remote repo to current branch.
+* `git push` - Pushes local commits to remote repo
+* `git merge <branch>` -  Merge the specified branch into current branch
+
