@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d7af5594afa9601f",
+        "id": "1fc890056f688a10",
         "type": "tabs",
         "children": [
           {
-            "id": "11ffe6d361511b0c",
+            "id": "bd51937a95be28cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aabf45754f1c09d0",
+            "id": "24c520127996fcf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10/Formatting an e-mail message.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "852e0dfaad349461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10/Formatting an e-mail message.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10/Formatting an e-mail message.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10/Formatting an e-mail message.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md"
               }
             }
           }
@@ -169,13 +181,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aabf45754f1c09d0",
+  "active": "852e0dfaad349461",
   "lastOpenFiles": [
-    "Images/Pasted image 20230802114808.png",
+    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10/Formatting an e-mail message.md",
+    "03-Learning/Programming/Bash/Images/Pasted image 20230802114808.png",
     "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10",
     "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
-    "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10/Formatting an e-mail message.md",
     "03-Learning/Programming/Bash/Bash.md",
     "03-Learning/Network/05-Otheres/NAT in network.md",
     "03-Learning/Network/Networking.md",
@@ -200,9 +215,7 @@
     "Web Development/Javascript/03-Objects/035-Optional Chaining.md",
     "Web Development/Javascript/04- Data Types",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
-    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control",
     "DSA/Images/Pasted image 20230801225040.png",
     "03-Learning/Programming/Bash/Images/Pasted image 20230801180509.png",
@@ -211,7 +224,6 @@
     "04-Cloud and Devops Learning/04-CI and CD",
     "04-Cloud and Devops Learning/Images/Pasted image 20230731183748.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230731183329.png",
-    "04-Cloud and Devops Learning/Images/Pasted image 20230731170230.png",
     "04-Cloud and Devops Learning/03-Benefits sub",
     "03-Learning/Network/05-Otheres",
     "001-Communication/Improvement/English song translate",

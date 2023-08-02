@@ -44,6 +44,5 @@ exit $?
 
 ### Explanation:
 
+* `-f` used to check it's file or not
 
-
-### Things know:
