@@ -12,7 +12,8 @@ modification date: Wednesday 2nd August 2023 16:32:54
 
 ### Overview about practice:
 
-##### Steps to do:
+#### Steps to do:
+
 1. **Choose an open source project**
 	 1. Project with well documented
 	 2. Clear contribution guide
@@ -49,5 +50,7 @@ modification date: Wednesday 2nd August 2023 16:32:54
 		1. Using `git push origin <branch>`
 	2. Then create a pull request from our branch to the original repo
 	3. The pull request will allow project maintainers to review changes and potentially merge them into the main codebase
-10. **Code revi
+10. **Code review:**
+	1. Code reviews are an essential part of the open-source development process and will help you improve your skills.
+
 

@@ -66,7 +66,15 @@ modification date: Wednesday 2nd August 2023 12:00:26
 
 #### Why it's important and what problem it solved among others:
 
-
+* Widely used and essential tool in modern software development
+* **Distributed Version Control:**
+	* Which means, each developer has their own copy in local
+		* This enables developers work offline, commit changes locally.
+		* Collaborate effectively.
+* **Efficient Branching and Merging:**
+	* GIT branching and merging are powerful and lightweight
+	* Creating and switching branch is very easy and fast
+		* It will help d
 ##### [[GIT real world experience]]
 
 
