@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6273474af1ed7454",
+        "id": "ca17f82cbf03830d",
         "type": "tabs",
         "children": [
           {
-            "id": "f17bf1f8692a6a52",
+            "id": "27c86e36f9e9938a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +148,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f17bf1f8692a6a52",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Resume Building/Technical Support/01-TS role JD content.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
@@ -189,7 +182,6 @@
     "001-Communication/Improvement/11 to 20 words/015-AT word.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improving communication.md",
-    "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
     "Web Development/Javascript/Image/Pasted image 20230802000403.png",
     "Web Development/Javascript/Image/Pasted image 20230802000243.png",
     "Web Development/Javascript/04- Data Types",
