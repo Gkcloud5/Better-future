@@ -200,3 +200,15 @@
  * diagnose and troubleshoot basic technical issues.
  
 ---------------------------------------------------
+
+**13**
+## Company name: `Appfire`
+### Role: `Application Support Engineer`
+#### Link: [LN](https://www.linkedin.com/jobs/view/3682380871)
+##### JD:
+ * You will diagnose, configure, troubleshoot, and solve problems
+ * troubleshooting, and identifying solutions to complex application L1-L2 support issues.
+###### Skills:
+ * Scripting, database SQL, and systems skills
+ * 
+---------------------------------------------------
