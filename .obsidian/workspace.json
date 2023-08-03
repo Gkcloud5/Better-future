@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "866e61c9e7481fd6",
+        "id": "cc8a7227d3744c3c",
         "type": "tabs",
         "children": [
           {
-            "id": "3b33757c5da95640",
+            "id": "ac379db41846fdf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f2eed2d6619bab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "833ceb233e0dbca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fac88754f4561510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40978b8284d7d8ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78bd5e9b2603e110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "508a3f7154205546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1108. Defanging an IP Address.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1108. Defanging an IP Address.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1108. Defanging an IP Address.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1108. Defanging an IP Address.md"
+                "file": "Web Development/Javascript/JavaScript.md"
               }
             }
           }
@@ -229,18 +156,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "508a3f7154205546",
+  "active": "ac379db41846fdf3",
   "lastOpenFiles": [
-    "Images/Pasted image 20230803222815.png",
-    "03-Learning/Programming/Bash/Bash.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1108. Defanging an IP Address.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "DSA/Images/Pasted image 20230803222815.png",
+    "03-Learning/Programming/Bash/Bash.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "001-Communication/Improvement/11 to 20 words/016-do word.md",
     "001-Communication/Improvement/80% using words.md",
@@ -273,7 +200,6 @@
     "DSA/Images/Pasted image 20230801225040.png",
     "03-Learning/Programming/Bash/Images/Pasted image 20230801180509.png",
     "Web Development/Javascript/Image/Pasted image 20230731233706.png",
-    "DSA/Images/Pasted image 20230731203000.png",
     "04-Cloud and Devops Learning/04-CI and CD",
     "04-Cloud and Devops Learning/03-Benefits sub",
     "03-Learning/Network/05-Otheres",
