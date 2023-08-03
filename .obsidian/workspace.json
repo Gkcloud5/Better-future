@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e16879eddd665b86",
+            "id": "b9c40aa92e2b0a00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md",
+                "file": "044-Map and Set -JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md",
+                "file": "044-Map and Set -JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md",
+                "file": "044-Map and Set -JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md"
+                "file": "044-Map and Set -JS.md"
               }
             }
           }
@@ -169,13 +169,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "b9c40aa92e2b0a00",
   "lastOpenFiles": [
+    "Web Development/Javascript/JavaScript.md",
+    "044-Map and Set -JS.md",
+    "Web Development/Javascript/04- Data Types/043-Array-JS.md",
     "Web Development/Javascript/Image/Pasted image 20230803232957.png",
     "Web Development/Javascript/Image/Pasted image 20230803231858.png",
     "Web Development/Javascript/Image/Pasted image 20230803231023.png",
-    "Web Development/Javascript/JavaScript.md",
-    "Web Development/Javascript/04- Data Types/043-Array-JS.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1108. Defanging an IP Address.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
@@ -213,7 +214,6 @@
     "Web Development/Javascript/Image/Pasted image 20230802000243.png",
     "Web Development/Javascript/04- Data Types",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control",
-    "DSA/Images/Pasted image 20230801225040.png",
     "04-Cloud and Devops Learning/04-CI and CD",
     "04-Cloud and Devops Learning/03-Benefits sub",
     "03-Learning/Network/05-Otheres",
