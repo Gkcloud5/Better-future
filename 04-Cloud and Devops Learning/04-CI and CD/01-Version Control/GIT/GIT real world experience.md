@@ -53,5 +53,8 @@ modification date: Wednesday 2nd August 2023 16:32:54
 10. **Code review:**
 	1. Code reviews are an essential part of the open-source development process and will help you improve your skills.
 
+### Usefule Resources:
 
+1. https://codeberg.org/explore/repos
+2. 
 #### [[]]
