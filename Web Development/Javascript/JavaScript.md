@@ -41,4 +41,7 @@
 	* [[043-Array-JS]]
 	* [[044-Map and Set -JS]]
 	* [[045-JSON methods -JS]]
+
+* #### 5. Advanced working with function:
+	* [[051- Recursion and stack]]
 	* 

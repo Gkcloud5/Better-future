@@ -29,3 +29,4 @@ let student_json = {
  console.log(json_stu)
 ```
 
+![[Pasted image 20230804003108.png]]

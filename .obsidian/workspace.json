@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "0f8556f9c2b72a77",
+            "id": "d8e3389a77dc0c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/045-JSON methods -JS.md",
+                "file": "Web Development/Javascript/05-Advanced work/051- Recursion and stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/045-JSON methods -JS.md",
+                "file": "Web Development/Javascript/05-Advanced work/051- Recursion and stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/045-JSON methods -JS.md",
+                "file": "Web Development/Javascript/05-Advanced work/051- Recursion and stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/045-JSON methods -JS.md"
+                "file": "Web Development/Javascript/05-Advanced work/051- Recursion and stack.md"
               }
             }
           }
@@ -169,10 +169,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f8556f9c2b72a77",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Web Development/Javascript/05-Advanced work",
     "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/05-Advanced work/051- Recursion and stack.md",
     "Web Development/Javascript/04- Data Types/045-JSON methods -JS.md",
+    "Web Development/Javascript/Image/Pasted image 20230804003108.png",
     "Web Development/Javascript/04- Data Types/044-Map and Set -JS.md",
     "Web Development/Javascript/Image/Pasted image 20230804001816.png",
     "Web Development/Javascript/Image/Pasted image 20230804001656.png",
@@ -190,7 +193,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
-    "DSA/Images/Pasted image 20230803222815.png",
     "03-Learning/Programming/Bash/Bash.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
@@ -210,8 +212,6 @@
     "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples",
     "03-Learning/Programming/Bash/Example scripts and explanation/Bash Example Scripts.md",
     "03-Learning/Network/05-Otheres/NAT in network.md",
-    "03-Learning/Network/Networking.md",
-    "03-Learning/Network/05-Otheres/Web servers in network.md",
     "Web Development/Javascript/04- Data Types",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control",
     "04-Cloud and Devops Learning/04-CI and CD",
