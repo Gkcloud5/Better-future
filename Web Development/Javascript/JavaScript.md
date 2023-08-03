@@ -40,4 +40,5 @@
 	* [[042- Strings - JS]]
 	* [[043-Array-JS]]
 	* [[044-Map and Set -JS]]
+	* [[045-JSON methods -JS]]
 	* 
