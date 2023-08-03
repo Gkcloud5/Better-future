@@ -111,3 +111,16 @@ console.log(user_find)
 
 ![[Pasted image 20230803231858.png]]
 
+
+##### map:
+
+```
+let result = arr.map(function(item, index, array){
+
+});
+
+let lengths = ["len1", "len2", "len3"].map(item => item.length)
+console.log(lengths)
+```
+
+![[Pasted image 20230803232957.png]]
