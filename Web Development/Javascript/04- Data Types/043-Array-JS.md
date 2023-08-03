@@ -87,5 +87,10 @@ arr.forEach(function(item, index, array)) {
   //do something
 }
 
+arr_each = ["gk1", "gk2", "gk3", "gk4"]
 
+arr_each.forEach((item, index, array) => {
+	console.log(`${item} and ${index} and ${array}`)
+})
 ```
+
