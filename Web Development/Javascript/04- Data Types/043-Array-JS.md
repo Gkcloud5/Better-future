@@ -73,6 +73,19 @@ for (let fruit of arr_loop) {
 
 
 ```
-arr.splice(1, 1);
+arr.splice(1, 1); //remove and return existing element
+
+arr.slice(1, 3)  //return index location value
+
+arr.concat(arr1) //Joining a value into array
+```
+
+##### ForEach:
+
+```
+arr.forEach(function(item, index, array)) {
+  //do something
+}
+
 
 ```
