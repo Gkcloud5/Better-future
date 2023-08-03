@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "044-Map and Set -JS.md",
+                "file": "Web Development/Javascript/04- Data Types/044-Map and Set -JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "044-Map and Set -JS.md",
+                "file": "Web Development/Javascript/04- Data Types/044-Map and Set -JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "044-Map and Set -JS.md",
+                "file": "Web Development/Javascript/04- Data Types/044-Map and Set -JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "044-Map and Set -JS.md"
+                "file": "Web Development/Javascript/04- Data Types/044-Map and Set -JS.md"
               }
             }
           }
@@ -171,8 +171,9 @@
   },
   "active": "b9c40aa92e2b0a00",
   "lastOpenFiles": [
+    "Web Development/Javascript/Image/Pasted image 20230803235355.png",
     "Web Development/Javascript/JavaScript.md",
-    "044-Map and Set -JS.md",
+    "Web Development/Javascript/04- Data Types/044-Map and Set -JS.md",
     "Web Development/Javascript/04- Data Types/043-Array-JS.md",
     "Web Development/Javascript/Image/Pasted image 20230803232957.png",
     "Web Development/Javascript/Image/Pasted image 20230803231858.png",
@@ -209,7 +210,6 @@
     "03-Learning/Network/Networking.md",
     "03-Learning/Network/Images/Pasted image 20230802113045.png",
     "03-Learning/Network/05-Otheres/Web servers in network.md",
-    "03-Learning/Network/01-Fundamentals/03/Main Routing Protocols.md",
     "Web Development/Javascript/Image/Pasted image 20230802000403.png",
     "Web Development/Javascript/Image/Pasted image 20230802000243.png",
     "Web Development/Javascript/04- Data Types",

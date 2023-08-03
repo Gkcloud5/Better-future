@@ -12,3 +12,8 @@ modification date: Thursday 3rd August 2023 23:31:04
 
 ### Explanation about it:
 
+* Map is a collection of keyed data items
+	* Just like an object
+
+![[Pasted image 20230803235355.png]]
+
