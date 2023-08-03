@@ -94,3 +94,5 @@ arr_each.forEach((item, index, array) => {
 })
 ```
 
+![[Pasted image 20230803231023.png]]
+
