@@ -71,6 +71,8 @@ for (let fruit of arr_loop) {
 }
 ```
 
+
 ```
-let
+arr.splice(1, 1);
+
 ```

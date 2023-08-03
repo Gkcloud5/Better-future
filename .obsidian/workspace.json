@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e16879eddd665b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md"
               }
             }
           }
@@ -156,8 +169,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac379db41846fdf3",
+  "active": "e16879eddd665b86",
   "lastOpenFiles": [
+    "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/04- Data Types/043-Array-JS.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1108. Defanging an IP Address.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
@@ -172,8 +187,6 @@
     "001-Communication/Improvement/11 to 20 words/016-do word.md",
     "001-Communication/Improvement/80% using words.md",
     "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
-    "Web Development/Javascript/04- Data Types/043-Array-JS.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Image/Pasted image 20230802230728.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/1534. Count Good Triplets.md",
     "DSA/Images/Pasted image 20230802225529.png",
