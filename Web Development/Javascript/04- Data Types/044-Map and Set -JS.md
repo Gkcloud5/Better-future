@@ -28,3 +28,27 @@ console.log(map_test)
 
 ![[Pasted image 20230803235924.png]]
 
+
+##### Iteration in map:
+
+```
+let receipMap = new Map([
+ ['Carrot', 500],
+ ['Tomato', 250],
+ ['Onion', 150]
+]);
+
+for (let vegetable of receipMap.keys()){
+	console.log(vegetable)
+}
+
+for (let amount of receipMap.values()) {
+	console.log(amount)
+}
+
+for (let entryVal of receipMap) {
+	console.log(entryVal)
+}
+```
+
+![[Pasted image 20230804000502.png]]
