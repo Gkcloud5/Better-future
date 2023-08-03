@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ca17f82cbf03830d",
+        "id": "866e61c9e7481fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "27c86e36f9e9938a",
+            "id": "662440bffb779f73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
+                "file": "001-Communication/Improvement/80% using words.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b183a565c0271f59",
+            "id": "3b33757c5da95640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1f48a7157dd0c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md",
+                "file": "016-do word.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md",
+                "file": "016-do word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md",
+                "file": "016-do word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/04- Data Types/043-Array-JS.md"
+                "file": "016-do word.md"
               }
             }
           }
@@ -182,11 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1f48a7157dd0c63",
+  "active": "3b33757c5da95640",
   "lastOpenFiles": [
+    "001-Communication/Improvement/80% using words.md",
+    "016-do word.md",
     "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/04- Data Types/043-Array-JS.md",
+    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/Image/Pasted image 20230802230728.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/1534. Count Good Triplets.md",
     "DSA/Images/Pasted image 20230802225529.png",
@@ -216,8 +206,6 @@
     "03-Learning/Network/Devices/Routers in network.md",
     "03-Learning/Network/01-Fundamentals/02/VLSM.md",
     "03-Learning/Network/01-Fundamentals/03/03-Subnetting.md",
-    "03-Learning/Network/01-Fundamentals/02/02-CIDR.md",
-    "03-Learning/Network/01-Fundamentals/01/05-Architecture/Types of Enterprise Computer Network.md",
     "Web Development/Javascript/Image/Pasted image 20230802000403.png",
     "Web Development/Javascript/Image/Pasted image 20230802000243.png",
     "Web Development/Javascript/04- Data Types",
