@@ -17,3 +17,14 @@ modification date: Thursday 3rd August 2023 23:31:04
 
 ![[Pasted image 20230803235355.png]]
 
+```
+let map_test = new Map();
+
+map_test.set('1', 'str1');
+map_test.set(1,'num1');
+
+console.log(map_test)
+```
+
+![[Pasted image 20230803235924.png]]
+
