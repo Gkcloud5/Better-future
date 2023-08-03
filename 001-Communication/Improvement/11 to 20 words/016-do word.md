@@ -29,4 +29,10 @@ modification date: Thursday 3rd August 2023 11:31:09
 
 * Present tense:
 	* Simple: I do my homework every day
-	* Continuous: She is doing her assign
+	* Continuous: She is doing her assignment right now
+	* Perfect: they have done all the preparation for the event
+* Past tense:
+	* Simple: He did his laundry yesterday
+	* Continuous: We were doing our best to finish the project on time
+	* Perfect: She had done her chores before going out
+
