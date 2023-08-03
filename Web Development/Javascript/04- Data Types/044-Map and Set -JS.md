@@ -67,5 +67,20 @@ let gk1 = { name: "gk1" }
 let gk2 = { name: "gk2" }
 let gk3 = { name: "gk3" }
 
-set.add
+set_test.add(gk1)
+set_test.add(gk2)
+set_test.add(gk3)
+set_test.add(gk1)
+
+console.log(set_test)
 ```
+
+![[Pasted image 20230804001656.png]]
+
+```
+for (let set_name of set_test) {
+ console.log(set_name.name)
+}
+```
+
+![[Pasted image 20230804001816.png]]
