@@ -16,7 +16,16 @@ modification date: Friday 4th August 2023 00:21:18
 * It represent value and objects.
 
 ```
-let student.json = {
-
-}
+let student_json = {
+	name: 'Gokul',
+	age: 26,
+	isAdmin: false,
+	course: ['html', 'css', 'js'],
+	spouse:null
+ };
+ console.log(student_json)
+ 
+ let json_stu = JSON.stringify(student_json);
+ console.log(json_stu)
 ```
+
