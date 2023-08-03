@@ -8,31 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "662440bffb779f73",
+            "id": "3b33757c5da95640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/80% using words.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b33757c5da95640",
+            "id": "2f2eed2d6619bab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/016-do word.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "833ceb233e0dbca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fac88754f4561510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40978b8284d7d8ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78bd5e9b2603e110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -106,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/016-do word.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/016-do word.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/016-do word.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md"
               }
             }
           }
@@ -169,10 +217,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "78bd5e9b2603e110",
   "lastOpenFiles": [
-    "001-Communication/Improvement/80% using words.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
+    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "001-Communication/Improvement/11 to 20 words/016-do word.md",
+    "001-Communication/Improvement/80% using words.md",
     "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
     "Web Development/Javascript/04- Data Types/043-Array-JS.md",
     "Web Development/Javascript/JavaScript.md",
@@ -181,15 +234,10 @@
     "DSA/Images/Pasted image 20230802225529.png",
     "Resume Building/Technical Support/01-TS role JD content.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
-    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "03-Learning/Network/To-do/Need to read.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
     "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10/Formatting an e-mail message.md",
     "03-Learning/Programming/Bash/Images/Pasted image 20230802114808.png",
