@@ -96,3 +96,18 @@ arr_each.forEach((item, index, array) => {
 
 ![[Pasted image 20230803231023.png]]
 
+##### Find:
+
+```
+let user_arr = [
+ { id:1, name: "gk1"},
+ { id:2, name: "gk2"},
+ { id:3, name: "gk3"}
+];
+
+let user_find = user_arr.find(item => item.id == 1);
+console.log(user_find)
+```
+
+![[Pasted image 20230803231858.png]]
+
