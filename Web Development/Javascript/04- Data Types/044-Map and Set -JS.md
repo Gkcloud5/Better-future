@@ -52,3 +52,20 @@ for (let entryVal of receipMap) {
 ```
 
 ![[Pasted image 20230804000502.png]]
+
+
+### About set:
+
+* Special type collection - set of values without keys.
+
+![[Pasted image 20230804000728.png]]
+
+```
+let set_test = new Set()
+
+let gk1 = { name: "gk1" }
+let gk2 = { name: "gk2" }
+let gk3 = { name: "gk3" }
+
+set.add
+```
