@@ -21,9 +21,12 @@ modification date: Thursday 3rd August 2023 11:31:09
 ### Explanation about it:
 
 * Generally used while asking question
-*  
+* Auxiliary Verb
+*  Simple present tense
+	* When do you read the newspaper?
+
 ### 3 Examples:
 
-
-
-
+* Present tense:
+	* Simple: I do my homework every day
+	* Continuous: She is doing her assign
