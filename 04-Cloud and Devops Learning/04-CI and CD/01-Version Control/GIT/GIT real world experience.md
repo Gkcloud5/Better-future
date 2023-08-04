@@ -58,3 +58,6 @@ modification date: Wednesday 2nd August 2023 16:32:54
 1. https://codeberg.org/explore/repos
 2. https://learngitbranching.js.org/
 #### [[1. Git Practice -First Contribution]]
+
+
+#### [[2. Some BasicPractices]]
