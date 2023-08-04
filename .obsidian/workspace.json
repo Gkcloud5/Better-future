@@ -4,35 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "cc8a7227d3744c3c",
+        "id": "cebe8d99f73959a0",
         "type": "tabs",
         "children": [
           {
-            "id": "ac379db41846fdf3",
+            "id": "bbae300230f1a46c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d8e3389a77dc0c30",
+            "id": "eb8dd55cfd925c1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/05-Advanced work/051- Recursion and stack.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "870fc12b1b642fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bf33c2a3f02bd3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adb5dd1eed2b51d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16b4d1eb5ae36af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b255c527e2e7b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -82,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -106,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md"
               }
             }
           }
@@ -169,10 +230,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "8b255c527e2e7b08",
   "lastOpenFiles": [
-    "Web Development/Javascript/05-Advanced work",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
+    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/05-Advanced work",
     "Web Development/Javascript/05-Advanced work/051- Recursion and stack.md",
     "Web Development/Javascript/04- Data Types/045-JSON methods -JS.md",
     "Web Development/Javascript/Image/Pasted image 20230804003108.png",
@@ -188,15 +256,8 @@
     "Web Development/Javascript/Image/Pasted image 20230803231858.png",
     "Web Development/Javascript/Image/Pasted image 20230803231023.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/1108. Defanging an IP Address.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
-    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
-    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "03-Learning/Programming/Bash/Bash.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "001-Communication/Improvement/11 to 20 words/016-do word.md",
     "001-Communication/Improvement/80% using words.md",
     "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
@@ -216,7 +277,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control",
     "04-Cloud and Devops Learning/04-CI and CD",
     "04-Cloud and Devops Learning/03-Benefits sub",
-    "03-Learning/Network/05-Otheres",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
