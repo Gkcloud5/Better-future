@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -242,9 +241,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47bf476f080e0b38",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Images/Learn Git Branching - Brave 2023-08-07 19-08-49.mp4",
+    "04-Cloud and Devops Learning/Images/Pasted image 20230807191711.png",
+    "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-08-49.mp4",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
@@ -289,7 +289,6 @@
     "Web Development/Javascript/04- Data Types",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control",
     "04-Cloud and Devops Learning/04-CI and CD",
-    "04-Cloud and Devops Learning/03-Benefits sub",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
