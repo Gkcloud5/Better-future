@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "38950c29481cc2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/03-Moving Work Around.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8b255c527e2e7b08",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/2. Some Basic Practices.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/03-Moving Work Around.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/2. Some Basic Practices.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/03-Moving Work Around.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/2. Some Basic Practices.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/03-Moving Work Around.md"
               }
             }
           }
@@ -241,15 +253,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "38950c29481cc2ea",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/2. Some Basic Practices.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/03-Moving Work Around.md",
+    "04-Cloud and Devops Learning/Images/Pasted image 20230807192008.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807191711.png",
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-08-49.mp4",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/2. Some Basic Practices.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807182454.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807182439.png",
@@ -266,8 +280,6 @@
     "Web Development/Javascript/Image/Pasted image 20230804003108.png",
     "Web Development/Javascript/04- Data Types/044-Map and Set -JS.md",
     "Web Development/Javascript/Image/Pasted image 20230804001816.png",
-    "Web Development/Javascript/Image/Pasted image 20230804001656.png",
-    "Web Development/Javascript/Image/Pasted image 20230804000728.png",
     "Web Development/Javascript/04- Data Types/043-Array-JS.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1108. Defanging an IP Address.md",
     "03-Learning/Programming/Bash/Bash.md",
