@@ -22,4 +22,7 @@ modification date: Monday 7th August 2023 19:20:49
 ![[Pasted image 20230807192831.png]]
 
 
-* #### 2. Git Interactive 
+* #### 2. Git Interactive Rebase:
+	* When we don't know what commits you want there we will using this method.
+	* `rebase -i`
+	* 
