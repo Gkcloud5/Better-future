@@ -26,3 +26,5 @@ modification date: Monday 7th August 2023 19:20:49
 	* When we don't know what commits you want there we will using this method.
 	* `rebase -i`
 	* `git rebase -i HEAD~4`
+
+![[Pasted image 20230807202049.png]]
