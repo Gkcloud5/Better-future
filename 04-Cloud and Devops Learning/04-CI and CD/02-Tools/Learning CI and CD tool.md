@@ -14,4 +14,12 @@ modification date: Wednesday 2nd August 2023 11:58:02
 
  * Continuous integration and continuous deployment are essential practices in modern software development.
  * It aim to improve code quality, increase development efficiency and deliver software faster and more reliably.
- * 
+ * To implement CI/CD successfully, developers and teams on various tools that facilitate and automate the process.
+
+##### Reason for CI/CD necessary:
+* ###### Automation:
+	* CI/CD tools automate the process of building, testing and deploying code.
+	* Reducing manual errors and saving time
+* ###### Consistency:
+	* CI/CD tools enforce a consistent development and deployment process across the team.
+	* 
