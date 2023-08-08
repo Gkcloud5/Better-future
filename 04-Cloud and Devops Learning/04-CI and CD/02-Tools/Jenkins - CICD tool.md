@@ -25,4 +25,15 @@ modification date: Tuesday 8th August 2023 22:22:29
 #### Why it's important and what problem it solving among other tools?
 
  * ##### Open source and extensible:
-	 * 
+	 * It's open source so it free
+	 * It's plugin ecosystem allows users to integrate Jenkins with wide range of tools.
+ * ##### Flexibility and customization:
+	 * It provides a high level of flexibility in defining and configuring build and deployment pipelines.
+	 * Developers can create custom workflows using Jenkins pipeline DSL.
+ * ##### Legacy system integration:
+	 * Jenkins suitable for variety of projects
+	 * Including those with older codebase.
+ * ##### Distributed Builds:
+	 * It supports distributed builds across multiple nodes
+	 * Enabling processing and faster build times.
+ * ##### Pipeline 
