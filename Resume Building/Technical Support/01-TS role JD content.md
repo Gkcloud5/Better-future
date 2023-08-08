@@ -212,3 +212,24 @@
  * Scripting, database SQL, and systems skills
  * Knowledge of Atlassian products
 ---------------------------------------------------
+
+**14**
+## Company name: `KonnectNXT`
+### Role: `Technical Support Engineer`
+#### Link: 
+##### JD:
+ - Taking ownership of customer issues reported and seeing problems through to resolution
+ - Researching, diagnosing, troubleshooting and identifying solutions to resolve system issues
+ - Ask customers targeted questions to quickly understand the root of the problem
+ - Prepare accurate and timely reports
+ - Document technical knowledge in the form of notes and manuals
+###### Skills:
+---------------------------------------------------
+**15**
+## Company name: `Nuance Communications`
+### Role: `Product Support Engineer`
+#### Link: [Lin](https://www.linkedin.com/jobs/view/3684317291)
+##### JD:
+ - Provide technical support via email and web ticket handling to external and internal customers within set SLA.
+###### Skills:
+---------------------------------------------------

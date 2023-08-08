@@ -43,5 +43,7 @@
 	* [[045-JSON methods -JS]]
 
 * #### 5. Advanced working with function:
-	* [[051- Recursion and stack]]
+	* [[051- Rest parameters and spread syntax]]
+	* [[052- Closures in JS]]
+	* [[053- JS works and execution context]]
 	* 
