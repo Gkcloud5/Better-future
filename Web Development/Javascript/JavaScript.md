@@ -48,4 +48,9 @@
 	* [[053- JS works and execution context]]
 
 
-##### Namastae JS YT
+### Namaste JS YT
+
+* [[03-JS code executed and call stack]]
+* 
+
+
