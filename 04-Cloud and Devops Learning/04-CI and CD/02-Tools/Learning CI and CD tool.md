@@ -40,4 +40,16 @@ modification date: Wednesday 2nd August 2023 11:58:02
 * ###### Traceability:
 	* CI/CD tools provide logs and reports that offer visibility into the entire development process.
 	* Developers can track changes, monitor test results.
-* #####
+* ###### Continuous feedback:
+	* It enable quick feedback loops, notifying developers about build or test failures immediately.
+* ###### Security:
+	* Integrate security scans and code analysis tools.
+	* Helping identify vulnerabilities and potential security risks early in the development process.
+* ###### Deployment Flexibility:
+	* CD tools provide various deployment strategies like
+		* Blue-green deploy
+		* Canary releases
+		* Feature flags
+
+##### Some CI and CD tools:
+1. [[Jenkins - ]]
