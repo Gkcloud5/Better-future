@@ -31,4 +31,13 @@ modification date: Wednesday 2nd August 2023 11:58:02
 		* integration tests
 		* end-to-end tests
 * ###### Isolation and versioning:
-	* CI/CD tools help manage dependencies and ensure the environment remains consistent
+	* CI/CD tools help manage dependencies and ensure the environment remains consistent.
+	* They create isolated build and test env
+	* Preventing conflicts between different projects and versions
+* ###### Scalability:
+	* As projects and teams grow, managing CI/CD processes manually becomes increasingly challenging.
+	* CI/CD tools are designed to handle the scaling needs of development teams, allowing them to handle larger codebases and increasing workloads effectively.
+* ###### Traceability:
+	* CI/CD tools provide logs and reports that offer visibility into the entire development process.
+	* Developers can track changes, monitor test results.
+* #####
