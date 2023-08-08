@@ -4,62 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "660900cee6d09473",
+        "id": "d96adda04ba7025b",
         "type": "tabs",
         "children": [
           {
-            "id": "6c4f7ec1154aac5b",
+            "id": "079e5e989cea4b02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfe46db74986831c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume Building/Technical Support/02- Info as per the Job description.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47fc78a679521451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4fed31cc7f8bb82",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -111.91499848650301,
-                  "y": 328.3450620831388,
-                  "zoom": -0.4725486993253957
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume Building/Technical Support/02- Info as per the Job description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume Building/Technical Support/02- Info as per the Job description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resume Building/Technical Support/02- Info as per the Job description.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,12 +148,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bfe46db74986831c",
+  "active": "079e5e989cea4b02",
   "lastOpenFiles": [
-    "Resume Building/Technical Support/01-TS role JD content.md",
-    "Resume Building/Technical Support/02- Info as per the Job description.md",
-    "Resume Building/01-Related to Resume Preparation.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/121. Best Time to Buy and Sell Stock.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
+    "Images/Pasted image 20230808204744.png",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "Resume Building/01-Related to Resume Preparation.md",
+    "Resume Building/Technical Support/02- Info as per the Job description.md",
+    "Resume Building/Technical Support/01-TS role JD content.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "001-Communication/Improving communication.md",
     "Web Development/Javascript/JavaScript.md",
@@ -228,22 +184,19 @@
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-08-49.mp4",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807182454.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807182439.png",
-    "04-Cloud and Devops Learning/Images/Pasted image 20230807180658.png",
     "Web Development/Javascript/05-Advanced work",
     "Web Development/Javascript/04- Data Types/045-JSON methods -JS.md",
     "Web Development/Javascript/04- Data Types/044-Map and Set -JS.md",
     "Web Development/Javascript/04- Data Types/043-Array-JS.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array/1108. Defanging an IP Address.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1108. Defanging an IP Address.md",
     "03-Learning/Programming/Bash/Bash.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
     "001-Communication/Improvement/11 to 20 words/016-do word.md",
-    "001-Communication/Improvement/80% using words.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools",
     "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10",
     "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples",
     "Web Development/Javascript/04- Data Types",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
