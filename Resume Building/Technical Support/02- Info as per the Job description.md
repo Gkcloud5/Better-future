@@ -23,4 +23,3 @@
 	 - Make sure server not going to 80% usage
 	 - Migration process
 7. Involving in recovery process
-8. 
