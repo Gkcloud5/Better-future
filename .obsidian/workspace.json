@@ -40,14 +40,14 @@
                 "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
                   "x": -111.91499848650301,
-                  "y": 1179.2848561560677,
+                  "y": 328.3450620831388,
                   "zoom": -0.4725486993253957
                 }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "Resume Building/01-Related to Resume Preparation.md"
               }
             }
           }
@@ -184,11 +184,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4fed31cc7f8bb82",
+  "active": "47fc78a679521451",
   "lastOpenFiles": [
+    "Resume Building/Technical Support/01-TS role JD content.md",
+    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Resume Building/Technical Support/02- Info as per the Job description.md",
     "Resume Building/01-Related to Resume Preparation.md",
-    "Resume Building/Technical Support/01-TS role JD content.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "001-Communication/Improving communication.md",
     "Web Development/Javascript/JavaScript.md",
@@ -225,14 +226,12 @@
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
     "001-Communication/Improvement/11 to 20 words/016-do word.md",
     "001-Communication/Improvement/80% using words.md",
-    "Web Development/Javascript/04- Data Types/042- Strings - JS.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools",
     "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10",
     "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples",
     "Web Development/Javascript/04- Data Types",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control",
-    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
