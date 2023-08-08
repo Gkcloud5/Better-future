@@ -40,3 +40,7 @@ modification date: Tuesday 8th August 2023 22:22:29
 	 * It provides a graphical view of pipeline stages and their status.
 	 * Allowing developers and teams to monitor and troubleshoot pipeline execution easily.
 
+
+#### [[How to install Jenkins]]
+
+
