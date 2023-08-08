@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +169,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9854c958412e361f",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",
