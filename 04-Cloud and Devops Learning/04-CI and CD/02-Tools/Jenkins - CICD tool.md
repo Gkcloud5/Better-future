@@ -36,4 +36,7 @@ modification date: Tuesday 8th August 2023 22:22:29
  * ##### Distributed Builds:
 	 * It supports distributed builds across multiple nodes
 	 * Enabling processing and faster build times.
- * ##### Pipeline 
+ * ##### Pipeline Visualization:
+	 * It provides a graphical view of pipeline stages and their status.
+	 * Allowing developers and teams to monitor and troubleshoot pipeline execution easily.
+
