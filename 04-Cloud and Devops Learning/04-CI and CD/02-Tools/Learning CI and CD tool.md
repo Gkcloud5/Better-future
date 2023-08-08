@@ -22,4 +22,13 @@ modification date: Wednesday 2nd August 2023 11:58:02
 	* Reducing manual errors and saving time
 * ###### Consistency:
 	* CI/CD tools enforce a consistent development and deployment process across the team.
-	* 
+* ###### Speed:
+	* CI/CD tools accelerate the software development lifecycle by automating repetitive tasks.
+	* Developer can focus more on writing code, while to tools handle the process of integration, testing and deployment.
+* ###### Quality Assurance:
+	* Tools can test various types of tests, such as
+		* unit tests
+		* integration tests
+		* end-to-end tests
+* ###### Isolation and versioning:
+	* CI/CD tools help manage dependencies and ensure the environment remains consistent
