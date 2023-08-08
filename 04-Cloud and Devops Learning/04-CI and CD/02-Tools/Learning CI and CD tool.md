@@ -52,4 +52,5 @@ modification date: Wednesday 2nd August 2023 11:58:02
 		* Feature flags
 
 ##### Some CI and CD tools:
-1. [[Jenkins - ]]
+1. [[Jenkins - CICD tool]]
+2. 

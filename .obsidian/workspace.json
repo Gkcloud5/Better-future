@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acbcc5e2facb0d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7e739b3615d91c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6595bfdfbc957bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins - CICD tool.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md"
+                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md"
               }
             }
           }
@@ -156,10 +193,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "079e5e989cea4b02",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins - CICD tool.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/121. Best Time to Buy and Sell Stock.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
@@ -183,7 +223,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807202049.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807192831.png",
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-25-20.mp4",
@@ -197,9 +236,7 @@
     "Web Development/Javascript/04- Data Types/044-Map and Set -JS.md",
     "Web Development/Javascript/04- Data Types/043-Array-JS.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1108. Defanging an IP Address.md",
-    "03-Learning/Programming/Bash/Bash.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
-    "001-Communication/Improvement/11 to 20 words/016-do word.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools",
     "03-Learning/Programming/Bash/Example scripts and explanation/Senario examples/01 to 10",
