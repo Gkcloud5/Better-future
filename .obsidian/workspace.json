@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "acbcc5e2facb0d3a",
+            "id": "c19d02ee097285ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7e739b3615d91c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/00-Cloud and devops learning things.md"
+                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md"
               }
             }
           }
@@ -193,13 +181,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "c19d02ee097285ad",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
-    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins - CICD tool.md",
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
+    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/121. Best Time to Buy and Sell Stock.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
@@ -222,7 +212,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/2. Some Basic Practices.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807202049.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807192831.png",
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-25-20.mp4",
@@ -235,7 +224,6 @@
     "Web Development/Javascript/04- Data Types/045-JSON methods -JS.md",
     "Web Development/Javascript/04- Data Types/044-Map and Set -JS.md",
     "Web Development/Javascript/04- Data Types/043-Array-JS.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1108. Defanging an IP Address.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools",

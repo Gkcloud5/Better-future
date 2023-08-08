@@ -14,3 +14,10 @@ modification date: Tuesday 8th August 2023 22:22:29
 
 **Jenkins is one of the most widely adopted open source automation servers. it offers extensive plugin support.**
 
+#### What is Jenkins?
+
+* Opensource tool
+* Main purpose of Jenkins is to automate repetitive tasks involved in the software development process, such as
+	* Building
+	* Deploying code changes
+* It allows developers to integrate their code changes into a shared repository frequently and ensures that these changes are continuously tested and validated.
