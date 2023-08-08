@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d96adda04ba7025b",
+        "id": "bc7b2796a570ac63",
         "type": "tabs",
         "children": [
           {
-            "id": "079e5e989cea4b02",
+            "id": "5766cae8904b46f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c19d02ee097285ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6595bfdfbc957bf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ffd8cbea3bee8c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md"
+                "file": "Web Development/Javascript/JavaScript.md"
               }
             }
           }
@@ -193,14 +156,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ffd8cbea3bee8c7",
+  "active": "5766cae8904b46f0",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+    "Web Development/Javascript/05-Advanced work/053- JS works and execution context.md",
+    "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/05-Advanced work/052- Closures in JS.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
-    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
+    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
@@ -214,10 +180,7 @@
     "Resume Building/Technical Support/01-TS role JD content.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "001-Communication/Improving communication.md",
-    "Web Development/Javascript/JavaScript.md",
-    "Web Development/Javascript/05-Advanced work/053- JS works and execution context.md",
     "Web Development/Javascript/Image/Pasted image 20230807232918.png",
-    "Web Development/Javascript/05-Advanced work/052- Closures in JS.md",
     "Web Development/Javascript/05-Advanced work/051- Rest parameters and spread syntax.md",
     "Web Development/Javascript/Image/Pasted image 20230807230110.png",
     "Web Development/Javascript/Image/Pasted image 20230807225317.png",

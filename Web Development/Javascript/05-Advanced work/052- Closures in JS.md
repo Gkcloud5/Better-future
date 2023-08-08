@@ -24,4 +24,3 @@ x();
 ```
 
 - Above example, 7 is a closure.
-- 
