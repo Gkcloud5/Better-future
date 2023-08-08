@@ -34,6 +34,7 @@ modification date: Tuesday 1st August 2023 18:11:22
  * Jenkins
  * Gitlab CI/CD
  * Travis CI
+[[CI and CD Tools]]
 
 ### 3. [[Learning Version Control]]
 

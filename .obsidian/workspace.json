@@ -11,8 +11,12 @@
             "id": "079e5e989cea4b02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md"
+              }
             }
           }
         ]
@@ -150,6 +158,8 @@
   },
   "active": "079e5e989cea4b02",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/121. Best Time to Buy and Sell Stock.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
@@ -173,8 +183,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
-    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
-    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807202049.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807192831.png",
