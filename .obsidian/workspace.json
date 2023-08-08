@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "bfe46db74986831c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resume Building/Technical Support/02- Info as per the Job description.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "47fc78a679521451",
             "type": "leaf",
             "state": {
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md",
+                "file": "Resume Building/Technical Support/02- Info as per the Job description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md",
+                "file": "Resume Building/Technical Support/02- Info as per the Job description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md"
+                "file": "Resume Building/Technical Support/02- Info as per the Job description.md"
               }
             }
           }
@@ -184,12 +196,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47fc78a679521451",
+  "active": "bfe46db74986831c",
   "lastOpenFiles": [
     "Resume Building/Technical Support/01-TS role JD content.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Resume Building/Technical Support/02- Info as per the Job description.md",
     "Resume Building/01-Related to Resume Preparation.md",
+    "Resume Building/Technical Support/02- Info as per the Job description.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "001-Communication/Improving communication.md",
     "Web Development/Javascript/JavaScript.md",
