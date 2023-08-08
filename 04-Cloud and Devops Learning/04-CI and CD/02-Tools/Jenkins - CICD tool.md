@@ -21,3 +21,8 @@ modification date: Tuesday 8th August 2023 22:22:29
 	* Building
 	* Deploying code changes
 * It allows developers to integrate their code changes into a shared repository frequently and ensures that these changes are continuously tested and validated.
+
+#### Why it's important and what problem it solving among other tools?
+
+ * ##### Open source and extensible:
+	 * 

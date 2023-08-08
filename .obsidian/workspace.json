@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins - CICD tool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins - CICD tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins - CICD tool.md"
               }
             }
           }
@@ -181,10 +181,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c19d02ee097285ad",
+  "active": "6595bfdfbc957bf7",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins - CICD tool.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins - CICD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
