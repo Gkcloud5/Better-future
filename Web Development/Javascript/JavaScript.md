@@ -53,6 +53,7 @@
 * [[03-JS code executed and call stack]]
 * [[04-Hoisting in JS]]
 * [[05-How function work in JS]]
+* [[06-SHORTEST JS program and this keyword]]
 * 
 
 

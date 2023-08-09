@@ -33,3 +33,4 @@ function b(){
 1
 ```
 
+* First JS look local memory space and then move to global memory
