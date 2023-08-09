@@ -31,4 +31,6 @@ modification date: Tuesday 8th August 2023 23:01:02
 * assign value to the variable
 * Function invoke
 	* `functionname()`
-* While
+* While function running it will create another execution context with
+	* Memory
+	* Code
