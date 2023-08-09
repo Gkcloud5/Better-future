@@ -21,4 +21,14 @@ modification date: Tuesday 8th August 2023 23:01:02
 	* Memory creation phase
 	* Code execution phase
 * When first execution variable store "undefined".
-* 
+
+![[Pasted image 20230809222019.png]]
+
+
+##### Code execution phase:
+
+* JS once again run by line
+* assign value to the variable
+* Function invoke
+	* `functionname()`
+* While
