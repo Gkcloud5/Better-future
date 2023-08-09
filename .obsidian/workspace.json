@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b91ef58eb44797c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/02-Fundamentals/029-Functions - JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -171,8 +183,9 @@
   },
   "active": "48b1391029eff7eb",
   "lastOpenFiles": [
-    "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/02-Fundamentals/029-Functions - JS.md",
     "Web Development/Javascript/06-Namaste YT/04-Hoisting in JS.md",
+    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",
     "Images/Pasted image 20230809224240.png",
     "Images/Pasted image 20230809223938.png",
@@ -208,7 +221,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/03-Moving Work Around.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/2. Some Basic Practices.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807202049.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807192831.png",
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-25-20.mp4",

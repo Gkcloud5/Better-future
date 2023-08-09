@@ -43,3 +43,16 @@ undefined
 ```
 
 * Access a function even before initialize it
+
+```
+getName();
+
+var getName = () ==> {
+	console.log("JS")
+}
+
+//Output:
+undefined
+```
+
+* If access a variable before assign it, then it will give undefined output
