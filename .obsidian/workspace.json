@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "142b137dd366adc0",
+        "id": "17669ed5990b4bd4",
         "type": "tabs",
         "children": [
           {
-            "id": "eb2a70a9a8051dc2",
+            "id": "9baa555313829d7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md"
+                "file": "Resume Building/Technical Support/01-TS role JD content.md"
               }
             }
           }
@@ -157,8 +157,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb2a70a9a8051dc2",
+  "active": "9baa555313829d7a",
   "lastOpenFiles": [
+    "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",
     "Web Development/Javascript/06-Namaste YT",
@@ -181,7 +182,6 @@
     "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Technical Support/02- Info as per the Job description.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
-    "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "001-Communication/Improving communication.md",
     "Web Development/Javascript/Image/Pasted image 20230807232918.png",
     "Web Development/Javascript/05-Advanced work/051- Rest parameters and spread syntax.md",
