@@ -37,5 +37,9 @@ function getName() {
   console.log("Namaste JS")
 }
 
-
+#Output:
+Namaste JS
+undefined
 ```
+
+* Access a function even before initialize it
