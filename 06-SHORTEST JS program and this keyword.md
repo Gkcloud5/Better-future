@@ -13,4 +13,5 @@ modification date: Wednesday 9th August 2023 23:17:14
 #### Explanation about it:
 
 * JS engine create inbuild function and also that is in global scope
-* 
+* Windows object
+	* It is global object
