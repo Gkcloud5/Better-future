@@ -15,5 +15,27 @@ modification date: Wednesday 9th August 2023 22:43:49
 ```
 var x = 7;
 
-fun
+function getName() {
+  console.log("Namaste JS")
+}
+
+getName();
+console.log(x);
+
+#Output:
+Namaste JS
+7
+```
+
+```
+getName();
+console.log(x);
+
+var x = 7;
+
+function getName() {
+  console.log("Namaste JS")
+}
+
+
 ```
