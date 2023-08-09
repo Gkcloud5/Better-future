@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume Building/01-Related to Resume Preparation.md"
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md"
               }
             }
           }
@@ -158,6 +158,9 @@
   },
   "active": "9baa555313829d7a",
   "lastOpenFiles": [
+    "Images/Pasted image 20230809211035.png",
+    "Resume Building/01-Related to Resume Preparation.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "Web Development/Javascript/JavaScript.md",
@@ -179,7 +182,6 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
     "Images/Pasted image 20230808204744.png",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Technical Support/02- Info as per the Job description.md",
     "001-Communication/Improving communication.md",
     "Web Development/Javascript/Image/Pasted image 20230807232918.png",
@@ -190,7 +192,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/03-Moving Work Around.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/2. Some Basic Practices.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT real world experience.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807202049.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807192831.png",
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-25-20.mp4",
@@ -200,7 +201,6 @@
     "04-Cloud and Devops Learning/Images/Pasted image 20230807182454.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807182439.png",
     "Web Development/Javascript/05-Advanced work",
-    "Web Development/Javascript/04- Data Types/045-JSON methods -JS.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools",
