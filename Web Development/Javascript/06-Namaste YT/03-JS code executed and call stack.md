@@ -34,3 +34,13 @@ modification date: Tuesday 8th August 2023 23:01:02
 * While function running it will create another execution context with
 	* Memory
 	* Code
+
+![[Pasted image 20230809223938.png]]
+
+##### Call Stack:
+* JS manage execution context with **call stack**
+* Bottom of stack will be Global execution
+* When function invoked --> new execution context execute and put in stack
+![[Pasted image 20230809224240.png]]
+
+* Once execution completed it will remove context from stack
