@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "17669ed5990b4bd4",
+        "id": "95f2297849da86af",
         "type": "tabs",
         "children": [
           {
-            "id": "9baa555313829d7a",
+            "id": "07b341138bd89e01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
+                "file": "Web Development/Javascript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39dc1b9e5ec1229f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
+                "file": "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
+                "file": "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md"
+                "file": "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md"
               }
             }
           }
@@ -156,14 +169,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9baa555313829d7a",
+  "active": "39dc1b9e5ec1229f",
   "lastOpenFiles": [
+    "Web Development/Javascript/JavaScript.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
     "Images/Pasted image 20230809211035.png",
     "Resume Building/01-Related to Resume Preparation.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",
     "Web Development/Javascript/06-Namaste YT",
     "Web Development/Javascript/05-Advanced work/053- JS works and execution context.md",
@@ -199,7 +212,6 @@
     "04-Cloud and Devops Learning/Images/Pasted image 20230807191711.png",
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-08-49.mp4",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807182454.png",
-    "04-Cloud and Devops Learning/Images/Pasted image 20230807182439.png",
     "Web Development/Javascript/05-Advanced work",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT",
