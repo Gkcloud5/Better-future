@@ -12,4 +12,5 @@ modification date: Tuesday 8th August 2023 23:01:02
 
 ### Explanation about it:
 
-* Everything
+* Everything in JS happens inside an "Execution Context"
+* 
