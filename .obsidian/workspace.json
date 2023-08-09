@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume Building/Technical Support/01-TS role JD content.md"
+                "file": "Resume Building/01-Related to Resume Preparation.md"
               }
             }
           }
@@ -159,6 +158,7 @@
   },
   "active": "9baa555313829d7a",
   "lastOpenFiles": [
+    "Resume Building/Technical Support/01-TS role JD content.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",
@@ -181,7 +181,6 @@
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Technical Support/02- Info as per the Job description.md",
-    "Resume Building/Technical Support/01-TS role JD content.md",
     "001-Communication/Improving communication.md",
     "Web Development/Javascript/Image/Pasted image 20230807232918.png",
     "Web Development/Javascript/05-Advanced work/051- Rest parameters and spread syntax.md",
