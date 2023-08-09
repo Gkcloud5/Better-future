@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc7b2796a570ac63",
+        "id": "142b137dd366adc0",
         "type": "tabs",
         "children": [
           {
-            "id": "5766cae8904b46f0",
+            "id": "eb2a70a9a8051dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9854c958412e361f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md"
               }
             }
           }
@@ -169,7 +157,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "eb2a70a9a8051dc2",
   "lastOpenFiles": [
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",

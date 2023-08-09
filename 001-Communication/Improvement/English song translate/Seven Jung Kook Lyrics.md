@@ -29,3 +29,15 @@
 	1. நான் உன்னை சரியாக காதலிப்பேன்
 5. Seven days a week
 	1. வாரத்தில் ஏழு நாட்கள்
+
+##### 9th August 2023:
+1. You love when i jump right in
+	1. நான் உள்ளே குதிக்கும்போது நீங்கள் விரும்புகிறீர்கள்
+2. All of me i'm offering
+	1. அனைத்தையும் நான் வழங்குகிறேன்
+3. Show you what devotion is
+	1. பக்தி என்றால் என்ன என்பதைக் காட்டுங்கள்
+4. Deeper than the ocean is
+	1. கடலை விட ஆழமானது
+5. Wind it back, i will take it slow
+	1. திரும்பவும், நான் அதை மெதுவாக எடுக்கிறேன்
