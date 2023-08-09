@@ -13,4 +13,12 @@ modification date: Tuesday 8th August 2023 23:01:02
 ### Explanation about it:
 
 * Everything in JS happens inside an "Execution Context"
+* When code run global execution context created
+	* Two component
+		* Memory
+		* Code
+* Two phase
+	* Memory creation phase
+	* Code execution phase
+* When first execution variable store "undefined".
 * 
