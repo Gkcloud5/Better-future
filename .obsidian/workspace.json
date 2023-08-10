@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md"
               }
             }
           }
@@ -169,10 +168,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2026f04a2089d56f",
+  "active": "b51fcfe8e0e260d9",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/Images/Pasted image 20230810182415.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
+    "04-Cloud and Devops Learning/Images/Pasted image 20230810182415.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
     "Web Development/Javascript/Image/Pasted image 20230809224240.png",
