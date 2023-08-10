@@ -27,4 +27,5 @@ modification date: Saturday 24th June 2023 19:04:23
 14. [[014-IN word]]
 15. [[015-AT word]]
 16. [[016-do word]]
-17. 
+17. [[017-from word]]
+18. 
