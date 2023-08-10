@@ -15,6 +15,15 @@ modification date: Thursday 10th August 2023 18:38:14
 **Jenkins is a popular open-source automation sever that us used for buildings, testing and deploying software projects.**
 
 * ##### Installation and setup:
-	* Access jenkins after installed tool
+	* Access Jenkins after installed tool
 		* http://IPaddress:8080
-	* 
+* ##### Initial setup:
+	* Use logs password to login and change password in setup page
+	* Install recommended plugins
+* ##### Creating a new job:
+	* Create a new job to build pipeline.
+	* Choose type of job you want to create.
+	* Most common types are
+		* Freestyle project - Simple tasks
+		* Pipeline - More complex workflows
+* 
