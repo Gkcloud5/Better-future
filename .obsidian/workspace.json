@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "2c3458f3e039036c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Use Jenkins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2026f04a2089d56f",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+                "file": "How to Use Jenkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+                "file": "How to Use Jenkins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md"
+                "file": "How to Use Jenkins.md"
               }
             }
           }
@@ -182,15 +194,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8ef8fab2bae0a82",
+  "active": "2c3458f3e039036c",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+    "How to Use Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230810182415.png",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
     "Web Development/Javascript/Image/Pasted image 20230809224240.png",
     "Web Development/Javascript/Image/Pasted image 20230809223938.png",
     "Web Development/Javascript/Image/Pasted image 20230809222019.png",
@@ -216,7 +229,6 @@
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "Web Development/Javascript/06-Namaste YT",
     "Web Development/Javascript/05-Advanced work/053- JS works and execution context.md",
-    "Web Development/Javascript/05-Advanced work/052- Closures in JS.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
