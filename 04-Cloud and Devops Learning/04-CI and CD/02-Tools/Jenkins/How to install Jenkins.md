@@ -14,3 +14,7 @@ modification date: Tuesday 8th August 2023 22:50:33
 
 ### Explanation about it:
 
+```
+sudo apt update
+
+```
