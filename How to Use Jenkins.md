@@ -12,4 +12,9 @@ modification date: Thursday 10th August 2023 18:38:14
 
 ### Explanation about it:
 
-* ##### 
+**Jenkins is a popular open-source automation sever that us used for buildings, testing and deploying software projects.**
+
+* ##### Installation and setup:
+	* Access jenkins after installed tool
+		* http://IPaddress:8080
+	* 
