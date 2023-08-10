@@ -63,3 +63,8 @@ modification date: Thursday 10th August 2023 18:38:14
 		* Deployment Tools
 * ##### 10. Managing Jenkins:
 	* Jenkins provides tools for managing users
+		* Security settings
+		* System Configuration
+
+### [Uses](https://www.jenkins.io/doc/book/using/)
+
