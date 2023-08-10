@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "b0dd4db5633b1691",
+            "id": "2026f04a2089d56f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -170,11 +169,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0dd4db5633b1691",
+  "active": "2026f04a2089d56f",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
+    "04-Cloud and Devops Learning/Images/Pasted image 20230810182415.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
+    "Web Development/Javascript/Image/Pasted image 20230809224240.png",
+    "Web Development/Javascript/Image/Pasted image 20230809223938.png",
+    "Web Development/Javascript/Image/Pasted image 20230809222019.png",
+    "DSA/Images/Pasted image 20230809211035.png",
+    "DSA/Images/Pasted image 20230808204744.png",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
@@ -192,26 +197,19 @@
     "Web Development/Javascript/06-Namaste YT/04-Hoisting in JS.md",
     "Web Development/Javascript/02-Fundamentals/029-Functions - JS.md",
     "Web Development/Javascript/06-Namaste YT/03-JS code executed and call stack.md",
-    "Images/Pasted image 20230809224240.png",
-    "Images/Pasted image 20230809223938.png",
-    "Images/Pasted image 20230809222019.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
-    "Images/Pasted image 20230809211035.png",
     "Resume Building/01-Related to Resume Preparation.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "Web Development/Javascript/06-Namaste YT",
     "Web Development/Javascript/05-Advanced work/053- JS works and execution context.md",
     "Web Development/Javascript/05-Advanced work/052- Closures in JS.md",
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
-    "Images/Pasted image 20230808204744.png",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/Javascript/Image/Pasted image 20230807232918.png",
     "Web Development/Javascript/Image/Pasted image 20230807230110.png",
     "Web Development/Javascript/Image/Pasted image 20230807225317.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230807202049.png",
-    "04-Cloud and Devops Learning/Images/Pasted image 20230807192831.png",
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-25-20.mp4",
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-08-49.mp4",
     "Web Development/Javascript/05-Advanced work",

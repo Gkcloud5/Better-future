@@ -18,5 +18,8 @@ modification date: Tuesday 8th August 2023 22:50:33
 sudo apt update
 apt install openjdk-17-jre
 https://www.jenkins.io/doc/book/installing/linux/
-
+https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-22-04
 ```
+
+![[Pasted image 20230810182415.png]]
+
