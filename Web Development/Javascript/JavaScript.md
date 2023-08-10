@@ -55,5 +55,5 @@
 * [[05-How function work in JS]]
 * [[06-SHORTEST JS program and this keyword]]
 * [[07-Undefined vs not defined in JS]]
-
+* 
 
