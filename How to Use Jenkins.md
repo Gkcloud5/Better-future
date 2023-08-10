@@ -26,4 +26,5 @@ modification date: Thursday 10th August 2023 18:38:14
 	* Most common types are
 		* Freestyle project - Simple tasks
 		* Pipeline - More complex workflows
-* 
+* ##### Configuring a freestyle project:
+	* 
