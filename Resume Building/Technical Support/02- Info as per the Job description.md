@@ -45,3 +45,4 @@
 
 1. Handled over 6,000 technical inquiries via live chat and web tickets, effectively diagnosing and resolving issues that were happening in VPS, contributing to a 25% increase in customer retention.
 2. Created knowledge base of 15 internal resources and added client's query solution to admin notes, it will reduced our co-worker task working time and improving quality in works. 
+3. 
