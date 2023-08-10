@@ -38,4 +38,9 @@
 4. Emergency recovery process
 5. Automation work
 6. Creating a template with virtualization tool
-7. 
+
+
+#### Sample work expereience:
+
+1. Handled over 6,000 technical inquiries via live chat and web tickets, effectively diagnosing and resolving issues that were happening in VPS, contributing to a 25% increase in customer retention.
+2. 
