@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d08b0b93a89cfa5d",
+        "id": "7addcbc88af49f22",
         "type": "tabs",
         "children": [
           {
-            "id": "818f911aea23bd97",
+            "id": "b6f3546e4d7c7671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "705b21b3f928a58a",
+            "id": "3110d88b942d77cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
+                "file": "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
+                "file": "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
+                "file": "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md"
+                "file": "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md"
               }
             }
           }
@@ -170,14 +169,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "3110d88b942d77cf",
   "lastOpenFiles": [
+    "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
     "DSA/Images/Pasted image 20230810222545.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
@@ -198,7 +198,6 @@
     "001-Communication/Improvement/11 to 20 words/017-from word.md",
     "001-Communication/Improvement/11 to 20 words/Untitled.md",
     "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/05-How function work in JS.md",
     "Web Development/Javascript/06-Namaste YT/04-Hoisting in JS.md",
     "Web Development/Javascript/02-Fundamentals/029-Functions - JS.md",
