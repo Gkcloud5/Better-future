@@ -27,4 +27,4 @@
 ### Sample Work descriptions:
 
 1. Attended to over 5,000 client queries via live chat and web ticket to resolve issues related to VPS.
-2. Created a 
+2. Prepared around 15 knowledgebase internal resources and improving efficiency  
