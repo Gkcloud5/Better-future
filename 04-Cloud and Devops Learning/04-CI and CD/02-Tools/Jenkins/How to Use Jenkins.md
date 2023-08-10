@@ -52,3 +52,14 @@ modification date: Thursday 10th August 2023 18:38:14
 	* Pipeline can have stages, steps and various syntax constructs for more complex workflows
 * ##### 7. Running Jobs:
 	* Manually trigger a job by clicking on a "Build Now"
+	* Or setup automated triggers
+* ##### 8. Viewing Build Results:
+	* Once build is triggered, we can monitor its progress on dashboard
+	* View build logs, console output
+* ##### 9. Plugins and Extensibility:
+	* Jenkins has a vast collection of plugins that enhance its capabilities.
+	* You can install plugins to integrate with version control systems\
+		* Testing frameworks
+		* Deployment Tools
+* ##### 10. Managing Jenkins:
+	* Jenkins provides tools for managing users
