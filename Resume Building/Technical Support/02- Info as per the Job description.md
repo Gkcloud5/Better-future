@@ -27,4 +27,15 @@
 ### Sample Work descriptions:
 
 ##### Technical support related thing:
-1. 
+1. Resolved an average of 15 escalated technical issues daily, consistently meeting or exceeding the 24-hour response time target and maintaining a 95% customer satisfaction rate.
+2. Conducted comprehensive root cause analysis for recurring technical issues, collaborating with the development team to implement permanent solutions, reducing related support tickets by 40%.
+3. Handled over 5,000 technical inquiries via phone and email, effectively diagnosing and resolving software conflicts, contributing to a 15% increase in customer retention.
+
+##### System engineer related thing:
+1. Engineered and executed system upgrades, enhancing infrastructure performance and reducing response times by 25%, resulting in increased user satisfaction.
+2. Collaborated with cross-functional teams to implement a disaster recovery plan, reducing data restoration time from days to hours in the event of system failures.
+3. Server preparation and server maintenance
+4. Emergency recovery process
+5. Automation work
+6. Creating a template with virtualization tool
+7. 
