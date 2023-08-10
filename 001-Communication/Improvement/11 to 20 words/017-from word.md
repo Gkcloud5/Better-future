@@ -31,7 +31,12 @@ modification date: Thursday 10th August 2023 09:51:00
 * ##### Distance or time:
 	* Main city is 5KM from here
 	* we have known each other from childhood
-### 3 Examples:
+* ##### Separation:
+	* He is taking a break from work
+	* Group was divided from the beginning.
+* ##### Comparison:
+	* She is different from here sister.
+
 
 
 
