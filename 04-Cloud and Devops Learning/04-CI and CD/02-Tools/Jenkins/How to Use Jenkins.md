@@ -14,19 +14,19 @@ modification date: Thursday 10th August 2023 18:38:14
 
 **Jenkins is a popular open-source automation sever that us used for buildings, testing and deploying software projects.**
 
-* ##### Installation and setup:
+* ##### 1. Installation and setup:
 	* Access Jenkins after installed tool
 		* http://IPaddress:8080
-* ##### Initial setup:
+* ##### 2. Initial setup:
 	* Use logs password to login and change password in setup page
 	* Install recommended plugins
-* ##### Creating a new job:
+* ##### 3. Creating a new job:
 	* Create a new job to build pipeline.
 	* Choose type of job you want to create.
 	* Most common types are
 		* Freestyle project - Simple tasks
 		* Pipeline - More complex workflows
-* ##### Configuring a freestyle project:
+* ##### 4. Configuring a freestyle project:
 	* Give your project a name and choose project type
 	* Configure source code management settings
 		* Specifying the repo URL and auth credentials
@@ -34,4 +34,21 @@ modification date: Thursday 10th August 2023 18:38:14
 		* Which can manual triggering
 		* Scheduled builds
 		* Or triggers from external systems
-* ##### Defining B
+* ##### 5. Defining Build steps:
+	* Add build steps to projects
+		* It include
+			* Compiling code
+			* Running tests
+			* Generating Documentation
+			* etc
+	* Configure post-build actions
+		* Archiving artifacts
+		* Sending notifications
+		* Triggering other jobs
+* ##### 6. Pipeline Setup:
+	* If we are using a pipeline, we need to define build process in jenkins file
+		* It's stored in version control system.
+	* Jenkinsfiles are written in Groovy scripting language
+	* Pipeline can have stages, steps and various syntax constructs for more complex workflows
+* ##### 7. Running Jobs:
+	* Manually trigger a job by clicking on a "Build Now"
