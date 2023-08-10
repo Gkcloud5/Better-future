@@ -15,5 +15,6 @@ modification date: Thursday 10th August 2023 23:41:19
 * JS code initially run first time, on this time it will allocate to memory but not initialized a value.
 	* Value will be initialized on 2nd time execution
 * Undefined means it taking some memory.
-* JS is loosly type language
-	* Not have specific data type while assigning a
+* JS is loosely type language
+	* Not have specific data type while assigning a variable
+* 
