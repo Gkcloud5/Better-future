@@ -27,4 +27,11 @@ modification date: Thursday 10th August 2023 18:38:14
 		* Freestyle project - Simple tasks
 		* Pipeline - More complex workflows
 * ##### Configuring a freestyle project:
-	* 
+	* Give your project a name and choose project type
+	* Configure source code management settings
+		* Specifying the repo URL and auth credentials
+	* Configure build triggers
+		* Which can manual triggering
+		* Scheduled builds
+		* Or triggers from external systems
+* ##### Defining B
