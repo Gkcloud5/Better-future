@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3110d88b942d77cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
+                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md"
+                "file": "Web Development/Javascript/JavaScript.md"
               }
             }
           }
@@ -169,8 +156,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3110d88b942d77cf",
+  "active": "b6f3546e4d7c7671",
   "lastOpenFiles": [
+    "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
     "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
@@ -197,7 +185,6 @@
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/017-from word.md",
     "001-Communication/Improvement/11 to 20 words/Untitled.md",
-    "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
     "Web Development/Javascript/06-Namaste YT/05-How function work in JS.md",
     "Web Development/Javascript/06-Namaste YT/04-Hoisting in JS.md",
     "Web Development/Javascript/02-Fundamentals/029-Functions - JS.md",
