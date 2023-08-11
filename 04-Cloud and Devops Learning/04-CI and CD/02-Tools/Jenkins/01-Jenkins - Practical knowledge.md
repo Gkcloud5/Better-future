@@ -12,21 +12,22 @@ modification date: Friday 11th August 2023 16:34:19
 
 ### Explanation about it:
 
-* ##### Pipeline as Code:
-	* Embrace jenkins pipelines, which allow us to define
-		* Build
-		* Deployment processes as code
-	* This offer better version control, reusability, and easier collaboration among team members.
-* ##### Version Control integration:
-	* Integrate jenkins pipelines with version control systems like git.
-	* This ensures that our pipeline definitions are stored alongside our application code, easy to track change and maintain consistency.
-* ##### Plugin Management:
-	* Jenkins has wide range of plugin.
-	* need to install plugin that genuinely need.
-* ##### Distributed builds:
-	* Jenkins allows us to distribute builds across multiple agents of node.
-	* This feature will distribute load and speed up build process.
-* ##### Credentials Management:
-	* Safety manage your sensitive credentials like API keys, passwords and SSH keys using built-in Jenkins credentials plugin.
-* ##### Job and pipeline naming conventions:
-	* 
+* ##### Setup a Jenkins environment:
+	* Setup own local Jenkins server
+* ##### Learn Jenkins basics:
+	* Familiarize with basic concepts
+		* Jobs
+		* Builds
+		* Pipelines
+		* Nodes 
+		* Plugin
+	* We can use official documents
+* ##### Hands-on tutorials:
+	* Create simple Jenkins Jobs and pipelines
+	* Doing basic tasks like
+		* Building sample project
+		* Running tests
+		* Deploying to local server
+* ##### Build a continuous integration pipeline:
+	* Create a pipeline that automatically
+		* Builds
