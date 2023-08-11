@@ -4,27 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7addcbc88af49f22",
+        "id": "47faa2dabc816fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f3546e4d7c7671",
+            "id": "c935da9632861a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "001-Communication/Improvement/80% using words.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4c38149fd818d156",
+            "id": "671c57ce034e819f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "001-Communication/Improvement/11 to 20 words/018-can't word.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -78,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -103,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001-Communication/Improvement/11 to 20 words/018-can't word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001-Communication/Improvement/11 to 20 words/018-can't word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "001-Communication/Improvement/11 to 20 words/018-can't word.md"
+              }
             }
           }
         ]
@@ -162,10 +169,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c38149fd818d156",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md",
+    "001-Communication/Improvement/80% using words.md",
+    "001-Communication/Improvement/11 to 20 words/018-can't word.md",
+    "001-Communication/Improvement/11 to 20 words/017-from word.md",
     "Web Development/Javascript/JavaScript.md",
+    "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md",
     "Web Development/Javascript/06-Namaste YT/09 - Let, const and temporal dead zone.md",
     "Web Development/Javascript/06-Namaste YT/04-Hoisting in JS.md",
     "Web Development/Javascript/06-Namaste YT/08- Scope Chain and lexical environment.md",
@@ -193,11 +203,8 @@
     "CI and CD Tools.md",
     "Resume Building/Technical Support/02- Info as per the Job description.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
-    "001-Communication/Improvement/80% using words.md",
-    "001-Communication/Improvement/11 to 20 words/017-from word.md",
     "001-Communication/Improvement/11 to 20 words/Untitled.md",
     "Web Development/Javascript/06-Namaste YT/05-How function work in JS.md",
-    "Web Development/Javascript/02-Fundamentals/029-Functions - JS.md",
     "Web Development/Javascript/06-Namaste YT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
