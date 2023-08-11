@@ -53,4 +53,14 @@ modification date: Friday 11th August 2023 16:34:19
 	* Implement error handling mechanisms in our pipeline
 	* Setup notification to receive alerts when build fails or encounter issue
 * ##### Security and credentials:
-	* 
+	* Manage user access and permission.
+	* How to securely manage credentials and secrets
+* ##### Scaling and Distributed Builds:
+	* Experiment with setting up Jenkins agents on different machines to distribute the load of our builds.
+	* This is important for larger projects and faster build times.
+* ##### Monitoring and Logging:
+	* Explore Jenkins monitoring tools and logs to understand the health and performance of our Jenkins instance.
+* ##### Real Projects:
+	* Try setting up a complete CI/CD pipeline for it.
+* ##### Troubleshooting:
+	* Don't 
