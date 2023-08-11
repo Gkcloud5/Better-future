@@ -13,4 +13,7 @@ modification date: Friday 11th August 2023 16:34:19
 ### Explanation about it:
 
 * ##### Pipeline as Code:
-	* 
+	* Embrace jenkins pipelines, which allow us to define
+		* Build
+		* Deployment processes as code
+	* This offer version control
