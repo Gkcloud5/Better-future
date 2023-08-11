@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md"
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md"
               }
             }
           }
@@ -171,6 +171,9 @@
   },
   "active": "f8d41e033313eaba",
   "lastOpenFiles": [
+    "Images/Pasted image 20230811224143.png",
+    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
@@ -190,7 +193,6 @@
     "Web Development/Javascript/06-Namaste YT/07-Undefined vs not defined in JS.md",
     "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
     "DSA/Images/Pasted image 20230810222545.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
@@ -203,8 +205,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
     "CI and CD Tools.md",
-    "Resume Building/Technical Support/02- Info as per the Job description.md",
-    "Resume Building/Technical Support/01-TS role JD content.md",
     "Web Development/Javascript/06-Namaste YT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
