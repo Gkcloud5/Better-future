@@ -31,3 +31,16 @@ modification date: Friday 11th August 2023 16:34:19
 * ##### Build a continuous integration pipeline:
 	* Create a pipeline that automatically
 		* Builds
+		* tests
+		* deploys sample application from our version control
+	* This will help to understand the flow of typical CI/CD process
+* ##### Version Control Integration:
+	* Integrate Jenkins with a version control system like Git.
+	* Setup webhooks or triggers to automatically start jenkins whenever code is pushed or merged
+* ##### Scripting with jenkinsfiles:
+	* Learn how to use Jenkins pipeline DSL to script your entire build and deployment process.
+* ##### Use Plugins:
+	* Explore and use various Jenkins plugin to extend functionality of our pipeline.
+	* Like static code analysis
+		* Test coverage reporting
+* ##### 
