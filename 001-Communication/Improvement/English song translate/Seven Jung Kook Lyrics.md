@@ -41,3 +41,14 @@
 	1. கடலை விட ஆழமானது
 5. Wind it back, i will take it slow
 	1. திரும்பவும், நான் அதை மெதுவாக எடுக்கிறேன்
+
+##### 11th Aug 2023:
+1. Leave you with that afterglow
+	1. அந்த பின்னூட்டத்துடன் உங்களை விட்டு விடுங்கள்
+2. Show you what devotion is
+	1. பக்தி என்றால் என்ன என்பதைக் காட்டுங்கள்
+3. Deeper than the ocean is
+	1. கடலை விட ஆழமானது
+4. Tightly take control, tightly take his soul
+	1. இறுக்கமாக கட்டுப்பாட்டை எடுத்துக் கொள்ளுங்கள், அவரது ஆன்மாவை இறுக்கமாக எடுத்துக் கொள்ளுங்கள்
+5. Take your phone and put it in the camera roll

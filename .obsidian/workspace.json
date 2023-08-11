@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "47faa2dabc816fe3",
+        "id": "2923645816f1889a",
         "type": "tabs",
         "children": [
           {
-            "id": "c935da9632861a2d",
+            "id": "50695e2207c46779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/80% using words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "671c57ce034e819f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/018-can't word.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/018-can't word.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/018-can't word.md",
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/018-can't word.md"
+                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md"
               }
             }
           }
@@ -169,7 +156,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "50695e2207c46779",
   "lastOpenFiles": [
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/018-can't word.md",
