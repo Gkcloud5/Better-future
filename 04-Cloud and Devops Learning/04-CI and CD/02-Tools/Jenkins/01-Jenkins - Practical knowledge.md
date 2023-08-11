@@ -7,6 +7,7 @@ modification date: Friday 11th August 2023 16:34:19
 
 #### Source:
 [CG](https://chat.openai.com/share/e17145db-f788-4ee5-a65b-ae8dbe277dc9)
+[DC](https://devopscube.com/jenkins-2-tutorials-getting-started-guide/)
 
 --------------------------------------
 
@@ -67,3 +68,4 @@ modification date: Friday 11th August 2023 16:34:19
 	* Troubleshoot problems in Jenkins is a valuable skill.
 * ##### Community Involvement:
 	* Engage with the Jenkins community.
+
