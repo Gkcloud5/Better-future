@@ -26,3 +26,4 @@ modification date: Friday 11th August 2023 16:34:19
 * ##### Distributed builds:
 	* Jenkins allows us to distribute builds across multiple agents of node.
 	* This feature will distribute load and speed up build process.
+	* 
