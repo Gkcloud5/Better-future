@@ -16,4 +16,7 @@ modification date: Friday 11th August 2023 16:34:19
 	* Embrace jenkins pipelines, which allow us to define
 		* Build
 		* Deployment processes as code
-	* This offer version control
+	* This offer better version control, reusability, and easier collaboration among team members.
+* ##### Version Control integration:
+	* Integrate jenkins pipelines with version control systems like git.
+	* 
