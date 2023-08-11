@@ -19,4 +19,9 @@ modification date: Friday 11th August 2023 16:34:19
 	* This offer better version control, reusability, and easier collaboration among team members.
 * ##### Version Control integration:
 	* Integrate jenkins pipelines with version control systems like git.
+	* This ensures that our pipeline definitions are stored alongside our application code, easy to track change and maintain consistency.
+* ##### Plugin Management:
+	* Jenkins has wide range of plugin.
+	* need to install plugin that genuinely need.
+* ##### Distributed builds:
 	* 
