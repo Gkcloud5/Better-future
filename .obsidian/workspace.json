@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2923645816f1889a",
+        "id": "d16876b7087ff290",
         "type": "tabs",
         "children": [
           {
-            "id": "50695e2207c46779",
+            "id": "093420eb11607e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8d41e033313eaba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md"
               }
             }
           }
@@ -156,8 +170,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50695e2207c46779",
+  "active": "f8d41e033313eaba",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
+    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
+    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
+    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
+    "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "001-Communication/Improvement/80% using words.md",
     "001-Communication/Improvement/11 to 20 words/018-can't word.md",
     "001-Communication/Improvement/11 to 20 words/017-from word.md",
@@ -168,16 +190,11 @@
     "Web Development/Javascript/06-Namaste YT/08- Scope Chain and lexical environment.md",
     "Web Development/Javascript/06-Namaste YT/07-Undefined vs not defined in JS.md",
     "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
     "DSA/Images/Pasted image 20230810222545.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum",
     "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-    "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230810182415.png",
     "Web Development/Javascript/Image/Pasted image 20230809224240.png",
     "Web Development/Javascript/Image/Pasted image 20230809223938.png",
@@ -186,12 +203,9 @@
     "DSA/Images/Pasted image 20230808204744.png",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
-    "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "CI and CD Tools.md",
     "Resume Building/Technical Support/02- Info as per the Job description.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
-    "001-Communication/Improvement/11 to 20 words/Untitled.md",
-    "Web Development/Javascript/06-Namaste YT/05-How function work in JS.md",
     "Web Development/Javascript/06-Namaste YT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",

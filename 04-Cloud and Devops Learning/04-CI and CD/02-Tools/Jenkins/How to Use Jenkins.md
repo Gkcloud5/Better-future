@@ -68,3 +68,5 @@ modification date: Thursday 10th August 2023 18:38:14
 
 ### [Uses](https://www.jenkins.io/doc/book/using/)
 
+
+#### [[01-Jenkins - Practical knowledge]]
