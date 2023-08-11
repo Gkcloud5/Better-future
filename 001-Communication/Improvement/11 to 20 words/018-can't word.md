@@ -18,5 +18,7 @@ modification date: Friday 11th August 2023 11:13:21
 ```
 I can't swim //I am unable to swim
 
-She can't come to the party //She is not able to come to the pa
+She can't come to the party //She is not able to come to the party
+
+Can't you see the sign? //Is it not possible for you to see the sign?
 ```
