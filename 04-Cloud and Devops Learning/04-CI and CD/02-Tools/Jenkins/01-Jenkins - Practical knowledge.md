@@ -43,4 +43,14 @@ modification date: Friday 11th August 2023 16:34:19
 	* Explore and use various Jenkins plugin to extend functionality of our pipeline.
 	* Like static code analysis
 		* Test coverage reporting
-* ##### 
+* ##### Multi-Branch Pipeline:
+	* Set up pipelines that work with multiple branches in our version control system.
+	* This will simulate real-world scenarios where you have different features or bug fixes
+* ##### Parameterized builds:
+	* Parameterized - அளவுருவாக்கப்பட்ட
+	* Practice how to create parameterized builds that allow us to customize the behavior's of our pipeline based on user input.
+* ##### Error Handling and notification:
+	* Implement error handling mechanisms in our pipeline
+	* Setup notification to receive alerts when build fails or encounter issue
+* ##### Security and credentials:
+	* 
