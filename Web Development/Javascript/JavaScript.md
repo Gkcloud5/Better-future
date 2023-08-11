@@ -57,5 +57,5 @@
 * [[07-Undefined vs not defined in JS]]
 * [[08- Scope Chain and lexical environment]]
 * [[09 - Let, const and temporal dead zone]]
+* [[010-Block Scope and shadowing in JS]]
 * 
-

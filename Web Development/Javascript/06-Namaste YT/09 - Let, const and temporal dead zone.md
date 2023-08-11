@@ -25,3 +25,4 @@ Reference error
 
 * In above example we used let so we get reference error, there value assigned a before stage called temporal dead zone.
 * let and const are not in global space, those are in special place.
+* `const` - use when value not change scenario
