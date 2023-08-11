@@ -63,4 +63,7 @@ modification date: Friday 11th August 2023 16:34:19
 * ##### Real Projects:
 	* Try setting up a complete CI/CD pipeline for it.
 * ##### Troubleshooting:
-	* Don't 
+	* Encountering and resolving issues.
+	* Troubleshoot problems in Jenkins is a valuable skill.
+* ##### Community Involvement:
+	* Engage with the Jenkins community.
