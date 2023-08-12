@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -156,7 +157,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99fe2cbb5ec46745",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md",
     "DSA/Images/Pasted image 20230812214952.png",
