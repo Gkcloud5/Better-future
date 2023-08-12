@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1859. Sorting the Sentence.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1859. Sorting the Sentence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1859. Sorting the Sentence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md"
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1859. Sorting the Sentence.md"
               }
             }
           }
@@ -158,10 +158,12 @@
   },
   "active": "0edf0dae88a5a15b",
   "lastOpenFiles": [
+    "Images/Pasted image 20230812212309.png",
+    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
+    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1859. Sorting the Sentence.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
     "DSA/Images/Pasted image 20230811224143.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
@@ -191,7 +193,6 @@
     "DSA/Images/Pasted image 20230808204744.png",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/Learning Version Control.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
-    "CI and CD Tools.md",
     "Web Development/Javascript/06-Namaste YT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
