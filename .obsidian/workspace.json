@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "358be5ff2249aae6",
+        "id": "21f453d4c4b1f36f",
         "type": "tabs",
         "children": [
           {
-            "id": "0edf0dae88a5a15b",
+            "id": "99fe2cbb5ec46745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md"
               }
             }
           }
@@ -156,11 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "99fe2cbb5ec46745",
   "lastOpenFiles": [
+    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md",
     "DSA/Images/Pasted image 20230812214952.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1684. Count the Number of Consistent Strings.md",
-    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md",
     "DSA/Images/Pasted image 20230812214519.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1859. Sorting the Sentence.md",
     "DSA/Images/Pasted image 20230812212309.png",
@@ -194,7 +194,6 @@
     "Web Development/Javascript/Image/Pasted image 20230809223938.png",
     "Web Development/Javascript/Image/Pasted image 20230809222019.png",
     "DSA/Images/Pasted image 20230809211035.png",
-    "DSA/Images/Pasted image 20230808204744.png",
     "Web Development/Javascript/06-Namaste YT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
