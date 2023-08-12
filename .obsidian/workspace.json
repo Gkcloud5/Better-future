@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d16876b7087ff290",
+        "id": "358be5ff2249aae6",
         "type": "tabs",
         "children": [
           {
-            "id": "093420eb11607e20",
+            "id": "0edf0dae88a5a15b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f7b63fc84dbf41d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md"
+                "file": "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md"
               }
             }
           }
@@ -170,13 +156,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f7b63fc84dbf41d",
+  "active": "0edf0dae88a5a15b",
   "lastOpenFiles": [
+    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
     "DSA/Images/Pasted image 20230811224143.png",
-    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
