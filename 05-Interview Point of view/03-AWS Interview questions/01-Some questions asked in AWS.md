@@ -46,21 +46,48 @@
 43. You have two computers on the same network that cannot communicate. Why?
 44. What is a DDOS attack and how to prevent it
 45. Basic linux commands and file permissions
-46. Difference between router, switch.
-47. What is a Broadcast Domain?
-48. DHCP DORA process
-49. DNS – detailed explanation. TCP/UDP and why?
-50. Subnetting
-51. MSS/MTU
-52. Complete flow when you trigger amazon.com
-53. OSI model with complete details and protocols on each layer.
-54. TCP and SSL handshake
-55. Difference between TCP/UDP, examples
-56. Flow/error control
-57. What is a firewall, why do you need it?
-58. OSI Model
-59. Public IP , private IP , NAT
-60. Suppose I have a brand new laptop and I wish to connect it to the internet. What should I do, and what shall happen in background before the laptop is connected to the internet? (Ans. Manually assigning IP address or DHCP and DORA procedure. They expect you to explain in depth about DHCP and DORA)
-61. OS boot process (Win/Linux)
-62. Memory management ;Memory pages; Buffer and Caches
-63. 
+46. Networking
+	1. Difference between router, switch.
+	2. What is a Broadcast Domain?
+	3. DHCP DORA process
+	4. DNS – detailed explanation. TCP/UDP and why?
+	5. Subnetting
+	6. MSS/MTU
+	7. Complete flow when you trigger amazon.com
+	8. OSI model with complete details and protocols on each layer.
+	9. TCP and SSL handshake
+	10. Difference between TCP/UDP, examples
+	11. Flow/error control
+	12. What is a firewall, why do you need it?
+	13. OSI Model
+	14. Public IP , private IP , NAT
+	15. Suppose I have a brand new laptop and I wish to connect it to the internet. What should I do, and what shall happen in background before the laptop is connected to the internet? (Ans. Manually assigning IP address or DHCP and DORA procedure. They expect you to explain in depth about DHCP and DORA)
+47. OS
+	1. OS boot process (Win/Linux)
+	2. Memory management ;Memory pages; Buffer and Caches
+	3. System date/time management, network time protocol
+	4. Managing Users and groups
+	5. File permissions
+	6. Managing software’s - installation, uninstallation, upgrade etc.
+	7. Managing system services and background processes
+	8. Remote management of a system - SSH, RDP etc.
+	9. Network protocols - FTP, HTTP (web servers), SMTP (mail server)
+	10. System automation - cron, batch jobs, windows startup tasks
+	11. Basic linux commands
+48. Troubleshooting
+	1. System performance - CPU, DISK, memory and network
+	2. System Login issues
+	3. System booting issues
+	4. System logs
+49. What is DNS? How does DNS work?
+50. What is a project you have worked on that you are very proud of?
+51. What is the difference between "Connection Refused" and "Connection Timed Out"? What causes these two things to happen?
+52. A user says that whenever they try to use the system, it keeps rebooting, what could be the cause of this? How would you go about trying to find out what's causing the issue?
+53. You are the network administrator and are not able to access root? What is causing this? How would you figure out what's causing this?
+54. A client's system/server is having bad performance, what could potentially be causing this? How would you go about trying to find out the cause of this problem?
+55. Why would you choose HTTPS over HTTP? From a technical perspective, what is HTTPS?
+56. How would you secure a website?/How would you make a website secure?
+57. Do you know what a 3-tiered website is?
+58. What is the difference between example.com and example.org? (think technical)
+59. What is Bash? How would you explain Bash/PowerShell to a non-technical person?
+60. 
