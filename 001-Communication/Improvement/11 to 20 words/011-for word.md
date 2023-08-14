@@ -29,7 +29,7 @@ modification date: Friday 28th July 2023 11:58:52
 		* They played for hours
 	* Representing a favor or benefit
 		* He did it for me
-
+* 
 ### 3 Examples:
 
 * I am studying hard for my upcoming exams

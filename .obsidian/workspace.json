@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21f453d4c4b1f36f",
+        "id": "ba0901f975d22b50",
         "type": "tabs",
         "children": [
           {
-            "id": "99fe2cbb5ec46745",
+            "id": "2158f41c39b9c7f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+                "file": "001-Communication/Improvement/11 to 20 words/011-for word.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+                "file": "001-Communication/Improvement/11 to 20 words/011-for word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+                "file": "001-Communication/Improvement/11 to 20 words/011-for word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md"
+                "file": "001-Communication/Improvement/11 to 20 words/011-for word.md"
               }
             }
           }
@@ -157,8 +157,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "2158f41c39b9c7f2",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md",
     "DSA/Images/Pasted image 20230812214952.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1684. Count the Number of Consistent Strings.md",
@@ -167,7 +168,6 @@
     "DSA/Images/Pasted image 20230812212309.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
     "DSA/Images/Pasted image 20230811224143.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
