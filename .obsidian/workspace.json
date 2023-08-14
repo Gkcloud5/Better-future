@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01-OS interview questions.md",
+                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01-OS interview questions.md",
+                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01-OS interview questions.md",
+                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01-OS interview questions.md"
+                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md"
               }
             }
           }
@@ -165,10 +165,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "4fd5de45b84f7b4e",
   "lastOpenFiles": [
-    "Resume Building/Technical Support/02- Info as per the Job description.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
+    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
+    "05-Interview Point of view/02-Networking",
+    "Resume Building/Technical Support/02- Info as per the Job description.md",
     "05-Interview Point of view/01-OS",
     "05-Interview Point of view",
     "Resume Building/01-Related to Resume Preparation.md",
@@ -198,7 +200,6 @@
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md",
     "Web Development/Javascript/06-Namaste YT/09 - Let, const and temporal dead zone.md",
-    "Web Development/Javascript/06-Namaste YT/04-Hoisting in JS.md",
     "DSA/Images/Pasted image 20230810222545.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum",
     "04-Cloud and Devops Learning/Images/Pasted image 20230810182415.png",
@@ -213,7 +214,6 @@
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-25-20.mp4",
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-08-49.mp4",
     "Web Development/Javascript/05-Advanced work",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
