@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/011-for word.md",
+                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/011-for word.md",
+                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/011-for word.md",
+                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/11 to 20 words/011-for word.md"
+                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md"
               }
             }
           }
@@ -159,6 +159,7 @@
   },
   "active": "2158f41c39b9c7f2",
   "lastOpenFiles": [
+    "001-Communication/Improvement/11 to 20 words/011-for word.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md",
     "DSA/Images/Pasted image 20230812214952.png",
