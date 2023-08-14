@@ -128,4 +128,20 @@
 95. Subnetting
 96. TCP vs UDP
 97. What does NetStat do?
-98. 
+98. Which Linux command finds routing tables?
+99. What is deadlock? When will it happen?
+100. ARP
+101. What is BIOS?
+102. Circular linked list. I don't remember the exact question.
+103. Describe DNS lookup process for Domain name resolution.
+104. Explain deadlock? How can we prevent it? Explain semaphores in layman language?
+105. Explain boot process os windows (choice given between linux and windows)? Lot of cross questioning from this.
+106. Given an array of numbers (example [1, 2,2,3,3,4,4,4,4,5]) find the numbers which are having their frequency equal to themselves and return max of them. Have to tell optimised approach.
+107. What to do if laptop is hanging a lot?
+108. Explain DNS?
+109. Tcp/ip, OSI model with each layer and their protocols, handshaking, flow control, collision domain and broadcast domain, https, cryptography.
+110. Tell me about a time you were wrong.
+111. Explain Domain Name system in detail.
+112. Why Amazon?
+113. If a customer said that their Windows computer was running slowly, how would you go about troubleshooting that issue?
+114. 
