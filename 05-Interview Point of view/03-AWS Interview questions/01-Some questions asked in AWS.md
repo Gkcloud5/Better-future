@@ -144,4 +144,35 @@
 111. Explain Domain Name system in detail.
 112. Why Amazon?
 113. If a customer said that their Windows computer was running slowly, how would you go about troubleshooting that issue?
-114. 
+114. Design a database for the Alumni management system.
+115. Basic CLI
+116. Describe unicast, multicast and broadcast?
+117. Networking
+	1. What exactly are the requirements to make two computers communicate
+	2. Different layers of the OSI model, protocols involved at each layer and name of data units at each layer.
+	3. Hardware devices involved in network, DLL and physical layer
+	4. Why the TCP/IP model used over OSI model
+	5. MSS and MTU
+	6. command to track and print the path traversed between different routers
+	7. Components of TCP header (Flags, window size, etc.)
+	8. How DHCP server is uniquely identified by the client , DHCP DORA process
+	9. router functions
+	10. Port number of HTTP, https, FTP, DHCP
+	11. How TCP/ IP connection is established (via 3-way handshake) and terminated
+	12. Different flag codes in TCP header
+	13. How remote connection is established through SSH
+	14. Subnetting? Numerical based on subnetting where I had to create 5 subnets and 32 hosts.
+	15. Concept of public and private IPs? Can two systems connected to same network have the same public IPs? How conflict is resolved in that case?
+	16. NAT? Mapping of public and private IPs, MAC address
+	17. Flow control and error control related questions
+	18. Difference between TCP/ UDP
+	19. When amazon.com is searched for, how the entire process works
+	20. Will I able to access amazon.com if I'm using private IP (say, if I'm a part of an organization). Or will I need a public IP as well to connect with it?
+	21. Concept of Proxy and firewall? Stateless and stateful firewalls?
+	22. If one person is able to access amazon.com website, while the other person is not, what can be the possible valid reasons for the 2nd person, provided the amazon.com website is working fine. Why clearing cookies also helps in reaching to a website?
+118. OS
+	1. Virtual Memory
+	2. how I'm able to run a 7GB game with my 4 GB RAM? Why the game gets slow in such cases
+	3. which OS I primarily work on and why?
+	4. OS Boot process
+	5. 
