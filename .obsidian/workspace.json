@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+                "file": "Resume Building/Technical Support/02- Info as per the Job description.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+                "file": "Resume Building/Technical Support/02- Info as per the Job description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+                "file": "Resume Building/Technical Support/02- Info as per the Job description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md"
+                "file": "Resume Building/Technical Support/02- Info as per the Job description.md"
               }
             }
           }
@@ -159,6 +158,10 @@
   },
   "active": "2158f41c39b9c7f2",
   "lastOpenFiles": [
+    "Resume Building/01-Related to Resume Preparation.md",
+    "Resume Building/Technical Support/01-TS role JD content.md",
+    "Resume Building/Technical Support/02- Info as per the Job description.md",
+    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/11 to 20 words/011-for word.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md",
@@ -185,12 +188,8 @@
     "Web Development/Javascript/06-Namaste YT/09 - Let, const and temporal dead zone.md",
     "Web Development/Javascript/06-Namaste YT/04-Hoisting in JS.md",
     "Web Development/Javascript/06-Namaste YT/08- Scope Chain and lexical environment.md",
-    "Web Development/Javascript/06-Namaste YT/07-Undefined vs not defined in JS.md",
-    "Web Development/Javascript/06-Namaste YT/06-SHORTEST JS program and this keyword.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to install Jenkins.md",
     "DSA/Images/Pasted image 20230810222545.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum",
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230810182415.png",
     "Web Development/Javascript/Image/Pasted image 20230809224240.png",
     "Web Development/Javascript/Image/Pasted image 20230809223938.png",
