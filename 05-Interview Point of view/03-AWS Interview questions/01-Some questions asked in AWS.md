@@ -1,4 +1,8 @@
 
+### Source:
+1. [GD](https://www.glassdoor.co.in/Interview/Amazon-Cloud-Support-Associate-Interview-Questions-EI_IE6036.0,6_KO7,30_IP18.htm?filter.jobTitleFTS=Cloud+Support+Associate)
+2. [GFG](https://www.geeksforgeeks.org/aws-cloud-support-associate-interview-experience/)
+3. 
 ### Example Questions:
 
 1. How do u secure a website running on a server
@@ -175,4 +179,15 @@
 	2. how I'm able to run a 7GB game with my 4 GB RAM? Why the game gets slow in such cases
 	3. which OS I primarily work on and why?
 	4. OS Boot process
-	5. 
+	5. Difference between buffer and cache
+	6. explain chmod command
+	7. remotely managing a system
+	8. if I have to run a management script in my system at a particular time each day, how will I proceed? What exactly goes inside cron jobs scripts
+	9. Difference between processes and threads, pages and fragments
+119. Troubleshooting
+	1. If I'm unable to copy a file from my system and paste it, what can be the possible reasons and how will I troubleshoot
+120. How is a hub, a router, and a switch different from each other? Explain in terms of broadcast domain.
+121. I am not able to connect to the internet. I do not have a spare device with me. Troubleshoot the scenario and figure out where does the issue lie?
+122. Process management, Memory Management, Virtual Memory, Threads
+123. CPU scheduling Algorithms
+124. 
