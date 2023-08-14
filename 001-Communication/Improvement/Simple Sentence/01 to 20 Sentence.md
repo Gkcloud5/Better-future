@@ -1,4 +1,7 @@
 
+#### Source:
+[YT](https://www.youtube.com/watch?v=XulNK0n2kWw)
+
 ##### 30th July 2023
 
 1. The diligent student always completes her homework on time and actively participate in class discussions
@@ -17,4 +20,11 @@
 	1. நீங்கள் இருக்கும் இடத்திலேயே இருங்கள்
 2. I did not see them at all
 	1. நான் அவர்களை பார்க்கவே இல்லை
-3. 
+3. Take everything you need
+	1. உங்களுக்கு தேவையான அனைத்தையும் எடுத்துக் கொள்ளுங்கள்
+4. I don't know where the heck he has gone
+	1. அவர் எங்கே போனார் என்று தெரியவில்லை
+5. I asked him to come
+	1. வரச் சொன்னேன்
+6. Let them ask first
+	1. முதலில் அவர்கள் கேட்கட்டும்
