@@ -90,4 +90,42 @@
 57. Do you know what a 3-tiered website is?
 58. What is the difference between example.com and example.org? (think technical)
 59. What is Bash? How would you explain Bash/PowerShell to a non-technical person?
-60. 
+60. How do you access root?
+61. Something about Linux server systems. I think it was about how you would access the server configuration files or change the server settings.
+62. Given the following information: 10.0.0.0/8 100,000 hosts on network There is a host with an IP of 10.0.0.1 who cannot connect, why is this? Also, a lot of hosts on the network are reporting that they cannot connect, why is this?
+63. Can CPU goes beyond 100%?
+64. Trouble shoot slow website.
+65. How to ping
+66. TCP/UDP what's the difference
+67. When you first turn on your computer how does it know How to connect to the internet
+68. How to view network stats
+69. What is RAM
+70. What is a thread
+71. What is a Pthread
+72. How to view logs in windows
+73. OSI Model
+74. 3 way handshake
+75. what happens when you type amazon.com in a browser?
+76. what happens if a webpage is loading slowly how do you troubleshoot?
+77. what happens when a machine is running slow, how do you troubleshoot?
+78. commands to check memory and disk space in OS either Linux or windows?
+79. what is SSL and how does it work?
+80. How do you protect a website?
+81. what project are you proud of?
+82. how do you troubleshoot DNS?
+83. what is HTTP and HTTPS and what are the difference?
+84. what is the TCP/IP protocol ?
+85. What is WAF and how does it work?
+86. Tell me a time when you went above and beyond to deliver results?
+87. Tell me a project you were very proud of?
+88. tell me about a time you were criticized at work ?
+89. Suppose your friend asking which laptop he should buy what will you suggest?
+90. Segmented Memory , Virtual Memory
+91. Sliding window Maximum
+92. OSI Model
+93. Maximum Number of Profit Max 2 Transaction
+94. Paging
+95. Subnetting
+96. TCP vs UDP
+97. What does NetStat do?
+98. 
