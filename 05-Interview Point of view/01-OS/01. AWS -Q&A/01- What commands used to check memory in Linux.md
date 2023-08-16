@@ -3,9 +3,9 @@
 
 1. [PN](https://phoenixnap.com/kb/linux-commands-check-memory-usage)
 
-#### Commands:
+## Commands:
 
-* ##### Using `cat`:
+* #### Using `cat`:
 
 ```
 cat /proc/meminfo
@@ -18,7 +18,7 @@ cat /proc/meminfo
 
 ![[Pasted image 20230816180216.png]]
 
-* ##### `free` command:
+* #### `free` command:
 ```
 free
 ```
@@ -29,7 +29,7 @@ free
 
 ![[Pasted image 20230816180706.png]]
 
-* ##### `vmstat` Command:
+* #### `vmstat` Command:
 
 ```
 vmstat
@@ -47,4 +47,13 @@ vmstat
 * so      --> Memory swapped to disk (/s)
 * bi      --> Blocks received from a block device(blocks/s)
 * bo     --> Blocks sent to a block device (blocks/s)
-* 
+* in      --> no.of interrupts per second, including the clock
+* cs      --> number of context switches per second
+* us      --> time spent running non kernel code (user time, including nice time)
+* sy      --> Time spent running kernel code (system code)
+* id      --> time spend idle.
+* wa     --> Time spent waiting for IO
+* st       --> time stolen from virtual machine
+
+* #### `top` Command:
+	* It used to check memory an
