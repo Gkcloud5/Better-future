@@ -4,59 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "b60546ffe7dca044",
+        "id": "ee840fc7682fde73",
         "type": "tabs",
         "children": [
           {
-            "id": "eeee0e3c88d41986",
+            "id": "d12451c2a2689457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1724a8a39d1821cb",
+            "id": "8efa245e76dca3f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d32054448a47fef5",
+            "id": "c89ccd1ee9ac728e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Interview Point of view/01-OS/01-OS interview questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55f220ae8c41a9c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/01- What commands used to check memory in Linux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/01- What commands used to check memory in Linux.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/01- What commands used to check memory in Linux.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/01- What commands used to check memory in Linux.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md"
               }
             }
           }
@@ -194,8 +178,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "8efa245e76dca3f0",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+    "05-Interview Point of view/01-OS/01. AWS -Q&A/01- What commands used to check memory in Linux.md",
     "05-Interview Point of view/Images/Pasted image 20230816181958.png",
     "05-Interview Point of view/Images/Pasted image 20230816180856.png",
     "05-Interview Point of view/Images/Pasted image 20230816180706.png",
@@ -203,14 +191,12 @@
     "05-Interview Point of view/Images/Pasted image 20230816180347.png",
     "05-Interview Point of view/Images/Pasted image 20230816180216.png",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/01- What commands used to check memory in Linux.md",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/2. How would you design a secure server to host a website.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "05-Interview Point of view/03-AWS Interview questions",
     "05-Interview Point of view/02-Networking",
     "Resume Building/Technical Support/02- Info as per the Job description.md",
@@ -236,10 +222,8 @@
     "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
     "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
-    "001-Communication/Improvement/80% using words.md",
     "DSA/Images/Pasted image 20230810222545.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum",
-    "04-Cloud and Devops Learning/Images/Pasted image 20230810182415.png",
     "Web Development/Javascript/06-Namaste YT",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",

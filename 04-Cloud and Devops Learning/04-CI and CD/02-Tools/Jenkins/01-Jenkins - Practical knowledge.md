@@ -69,3 +69,8 @@ modification date: Friday 11th August 2023 16:34:19
 * ##### Community Involvement:
 	* Engage with the Jenkins community.
 
+
+#### Practicing:
+
+1. [[01. Git-Build-Deploy - Jenkins]]
+2. 
