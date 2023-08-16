@@ -18,7 +18,7 @@ cat /proc/meminfo
 
 ![[Pasted image 20230816180216.png]]
 
-* ##### free command:
+* ##### `free` command:
 ```
 free
 ```
@@ -29,3 +29,22 @@ free
 
 ![[Pasted image 20230816180706.png]]
 
+* ##### `vmstat` Command:
+
+```
+vmstat
+```
+
+![[Pasted image 20230816180856.png]]
+
+* r        --> number of processes waiting for run time
+* b       --> no.of processes in uninterruptible sleep
+* swpd --> amount of virtual memory used
+* free   --> amount of idle memory
+* buff   --> the amount of memory used as buffers
+* cache --> amount of memory used as cache
+* si        --> Memory swapped in from disk (/s)
+* so      --> Memory swapped to disk (/s)
+* bi      --> Blocks received from a block device(blocks/s)
+* bo     --> Blocks sent to a block device (blocks/s)
+* 
