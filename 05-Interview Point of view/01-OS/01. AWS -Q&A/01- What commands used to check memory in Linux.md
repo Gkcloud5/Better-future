@@ -12,4 +12,9 @@ cat /proc/meminfo
 ```
 
 * This is the file which have reports the amount of available and used memory.
-* It contains system's memory
+* It contains real time system's memory
+	* Buffer
+	* Shared Memory
+
+![[Pasted image 20230816180216.png]]
+
