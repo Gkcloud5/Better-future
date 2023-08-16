@@ -18,3 +18,14 @@ cat /proc/meminfo
 
 ![[Pasted image 20230816180216.png]]
 
+* ##### free command:
+```
+free
+```
+
+![[Pasted image 20230816180347.png]]
+
+* It display amount of physical and swap memory
+
+![[Pasted image 20230816180706.png]]
+
