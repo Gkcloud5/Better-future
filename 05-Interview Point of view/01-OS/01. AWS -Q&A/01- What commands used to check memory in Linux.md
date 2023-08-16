@@ -56,4 +56,18 @@ vmstat
 * st       --> time stolen from virtual machine
 
 * #### `top` Command:
-	* It used to check memory an
+
+```
+top
+```
+* It used to check memory and CPU usage per process
+*  It display following information
+	* uptime
+	* Average load
+	* tasks running
+	* no.of users loggedin
+	* no.of CPU utilization
+	* memory/swap system processes
+
+![[Pasted image 20230816181958.png]]
+
