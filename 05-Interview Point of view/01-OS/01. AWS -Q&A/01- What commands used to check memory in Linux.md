@@ -12,4 +12,4 @@ cat /proc/meminfo
 ```
 
 * This is the file which have reports the amount of available and used memory.
-* 
+* It contains system's memory
