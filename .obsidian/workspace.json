@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/Q&A/1. How do you secure a website running on a server.md",
+                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/Q&A/1. How do you secure a website running on a server.md",
+                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/Q&A/1. How do you secure a website running on a server.md",
+                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/Q&A/1. How do you secure a website running on a server.md"
+                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md"
               }
             }
           }
@@ -196,9 +196,10 @@
   },
   "active": "e76f3e45993f8dc1",
   "lastOpenFiles": [
-    "05-Interview Point of view/02-Networking/Q&A",
+    "05-Interview Point of view/01-OS/01. AWS -Q&A",
+    "05-Interview Point of view/02-Networking/01. AWS -Q&A",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
-    "05-Interview Point of view/02-Networking/Q&A/1. How do you secure a website running on a server.md",
+    "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
@@ -242,7 +243,6 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/1 to 20 Sums",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-25-20.mp4",
-    "04-Cloud and Devops Learning/Images/Learn Git Branching - Brave 2023-08-07 19-08-49.mp4",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
