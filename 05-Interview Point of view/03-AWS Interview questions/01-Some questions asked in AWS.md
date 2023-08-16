@@ -6,7 +6,7 @@
 ### Example Questions:
 
 1. How do u secure a website running on a server
-2. How would you design a secure server.
+2. How would you design a secure server to host a website
 3. What commands used to check memory
 4. What is network troubleshooting commands
 5. How do you make a program run on startup
