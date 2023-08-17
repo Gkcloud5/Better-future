@@ -18,4 +18,12 @@
 
 ### Ways to run a program on startup:
 
-1. 
+##### Created a script:
+```
+#reboot_message.sh
+
+#!/bin/bash
+echo "Last reboot time: $(date)" > /etc/motd
+
+#
+```
