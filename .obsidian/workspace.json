@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "eea64ba00b7b3097",
+        "id": "ec8b0ba08d4638df",
         "type": "tabs",
         "children": [
           {
-            "id": "4fa15bdac551ba10",
+            "id": "0e0411af331f0997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
+                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ede2915c4cd1e33a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Interview Point of view/01-OS/01-OS interview questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3ce2724d560d9e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/02 - What is network troubleshooting commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b625a21ffb07587d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -93,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/02 - What is network troubleshooting commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/02 - What is network troubleshooting commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md"
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/02 - What is network troubleshooting commands.md"
               }
             }
           }
@@ -156,24 +194,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fa15bdac551ba10",
+  "active": "d3ce2724d560d9e0",
   "lastOpenFiles": [
-    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+    "05-Interview Point of view/01-OS/01-OS interview questions.md",
+    "05-Interview Point of view/01-OS/01. AWS -Q&A/02 - What is network troubleshooting commands.md",
+    "05-Interview Point of view/01-OS/01. AWS -Q&A/01- What commands used to check memory in Linux.md",
+    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
+    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "02-DevOps & Cloud Plans/RoadMap/Resources.md",
     "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
+    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/Day to day sentense",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/01- What commands used to check memory in Linux.md",
     "05-Interview Point of view/Images/Pasted image 20230816181958.png",
     "05-Interview Point of view/Images/Pasted image 20230816180856.png",
     "05-Interview Point of view/Images/Pasted image 20230816180706.png",
     "05-Interview Point of view/Images",
     "05-Interview Point of view/Images/Pasted image 20230816180347.png",
     "05-Interview Point of view/Images/Pasted image 20230816180216.png",
-    "05-Interview Point of view/01-OS/01-OS interview questions.md",
-    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
-    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/2. How would you design a secure server to host a website.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A",
@@ -200,11 +241,8 @@
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Learning CI and CD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/Basics and fundamentals of CI and CD.md",
     "04-Cloud and Devops Learning/04-CI and CD/CI and CD Learn.md",
-    "04-Cloud and Devops Learning/00-Cloud and devops learning things.md",
-    "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "DSA/Images/Pasted image 20230810222545.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum",
-    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"

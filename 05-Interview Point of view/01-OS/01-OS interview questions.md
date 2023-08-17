@@ -6,4 +6,5 @@
 ### Question and answers:
 
 * ##### [[01- What commands used to check memory in Linux]]
+* ##### [[02 - What is network troubleshooting commands]]
 * 
