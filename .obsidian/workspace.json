@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ee840fc7682fde73",
+        "id": "eea64ba00b7b3097",
         "type": "tabs",
         "children": [
           {
-            "id": "d12451c2a2689457",
+            "id": "4fa15bdac551ba10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8efa245e76dca3f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c89ccd1ee9ac728e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md"
+                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md"
               }
             }
           }
@@ -177,11 +156,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8efa245e76dca3f0",
+  "active": "4fa15bdac551ba10",
   "lastOpenFiles": [
+    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
+    "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
+    "001-Communication/Improvement/Day to day sentense",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/01- What commands used to check memory in Linux.md",
     "05-Interview Point of view/Images/Pasted image 20230816181958.png",
     "05-Interview Point of view/Images/Pasted image 20230816180856.png",
@@ -203,7 +185,6 @@
     "05-Interview Point of view",
     "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
-    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/11 to 20 words/011-for word.md",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/709. To Lower Case.md",
     "DSA/Images/Pasted image 20230812214952.png",
@@ -223,8 +204,6 @@
     "001-Communication/Improvement/English song translate/Seven Jung Kook Lyrics.md",
     "DSA/Images/Pasted image 20230810222545.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum",
-    "Web Development/Javascript/06-Namaste YT",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
