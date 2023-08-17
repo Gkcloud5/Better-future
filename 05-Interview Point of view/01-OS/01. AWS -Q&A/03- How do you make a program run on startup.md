@@ -54,7 +54,7 @@ chmod +x /etc/rc.d/rc.local
 * File location `/etc/systemd/system`
 
 ```
-[unit]
+[Unit]
 Description=Reboot message systemd service
 
 [Service]
@@ -66,6 +66,12 @@ WantedBy=multi-user.target
 
 ```
 
--> unit ==> Contains genera metadata, like human-readable description
--> Service ==> Describes the process and demonizing behavior, along with the command to start the service
+* Unit     ==> Contains genera metadata, like human-readable description
+* Service ==> Describes the process and demonizing behavior, along with the command to start the service
+* Install   ==> Enables the service to run at startup using the folder specified in *WantedBy* to handle dependencies.
 
+```
+#Set Permission
+chmod 644 /etc/systemd/system/reboot_message.service
+systemctl enable reboot_message.service
+```
