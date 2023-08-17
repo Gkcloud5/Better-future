@@ -50,18 +50,22 @@ sh /etc/reboot_message.sh
 chmod +x /etc/rc.d/rc.local
 ```
 
-
-##### 3. Using *init.d*:
-* File location `/etc/init.d`
+##### 3. Using *systemd*:
+* File location `/etc/systemd/system`
 
 ```
-#!/bin/sh
-case "$1" in
-	start)
-		sudo sh /etc/reboot_message.sh
-		;;
-	*)
-		;;
-esac
-exit 0
+[unit]
+Description=Reboot message systemd service
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /etc/reboot_message.sh
+
+[Install]
+WantedBy=multi-user.target
+
 ```
+
+-> unit ==> Contains genera metadata, like human-readable description
+-> Service ==> Describes the process and demonizing behavior, along with the command to start the service
+
