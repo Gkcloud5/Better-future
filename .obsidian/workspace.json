@@ -4,59 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "ec8b0ba08d4638df",
+        "id": "bfe4fb82b3453059",
         "type": "tabs",
         "children": [
           {
-            "id": "0e0411af331f0997",
+            "id": "f89d58d55e25507e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ede2915c4cd1e33a",
+            "id": "4246382a1b4223c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01-OS interview questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b625a21ffb07587d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8db2072a2cc03aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. What Are HTTP Status Codes, and which is server side and which is client side.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. What Are HTTP Status Codes, and which is server side and which is client side.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. What Are HTTP Status Codes, and which is server side and which is client side.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. What Are HTTP Status Codes, and which is server side and which is client side.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md"
               }
             }
           }
@@ -194,10 +169,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8db2072a2cc03aad",
+  "active": "f89d58d55e25507e",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+    "05-Interview Point of view/02-Networking/01. AWS -Q&A/3. What Are HTTP Status Codes, and which is server side and which is client side.md",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
-    "3. What Are HTTP Status Codes, and which is server side and which is client side.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/02 - What is network troubleshooting commands.md",
@@ -209,9 +186,7 @@
     "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
     "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/Day to day sentense",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "05-Interview Point of view/Images/Pasted image 20230816181958.png",
     "05-Interview Point of view/Images/Pasted image 20230816180856.png",
     "05-Interview Point of view/Images/Pasted image 20230816180706.png",
