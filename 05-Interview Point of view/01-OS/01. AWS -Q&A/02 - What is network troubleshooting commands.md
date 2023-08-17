@@ -30,4 +30,3 @@
 * ##### Checking firewall
 	* `iptables`
 		* It is used to configure firewall and manage packet filtering.
-* 
