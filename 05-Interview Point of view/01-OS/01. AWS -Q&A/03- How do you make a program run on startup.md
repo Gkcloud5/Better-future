@@ -29,7 +29,7 @@ echo "Last reboot time: $(date)" > /etc/motd
 chmod +x reboot_message.sh
 ```
 
-##### 1. Using *Cron&:
+##### 1. Using *Cron*:
 
 ```
 crontab -e
@@ -52,3 +52,16 @@ chmod +x /etc/rc.d/rc.local
 
 
 ##### 3. Using *init.d*:
+* File location `/etc/init.d`
+
+```
+#!/bin/sh
+case "$1" in
+	start)
+		sudo sh /etc/reboot_message.sh
+		;;
+	*)
+		;;
+esac
+exit 0
+```
