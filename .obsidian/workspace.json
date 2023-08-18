@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "679b5d1a8fe39315",
+            "id": "9c7148ad0dba62e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/011 - setTimeout and closures in JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "539c84c74787b9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md",
+                "file": "012 - Map, Filter and reduce in JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/011 - setTimeout and closures in JS.md",
+                "file": "012 - Map, Filter and reduce in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/011 - setTimeout and closures in JS.md",
+                "file": "012 - Map, Filter and reduce in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/011 - setTimeout and closures in JS.md"
+                "file": "012 - Map, Filter and reduce in JS.md"
               }
             }
           }
@@ -182,9 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "9c7148ad0dba62e7",
   "lastOpenFiles": [
     "Web Development/Javascript/JavaScript.md",
+    "012 - Map, Filter and reduce in JS.md",
     "Web Development/Javascript/06-Namaste YT/011 - setTimeout and closures in JS.md",
     "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
@@ -229,7 +218,6 @@
     "DSA/Images/Pasted image 20230812214519.png",
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1859. Sorting the Sentence.md",
     "DSA/Images/Pasted image 20230812212309.png",
-    "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/1816. Truncate Sentence.md",
     "DSA/Images/Pasted image 20230811224143.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",

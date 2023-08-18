@@ -59,4 +59,5 @@
 * [[09 - Let, const and temporal dead zone]]
 * [[010-Block Scope and shadowing in JS]]
 * [[011 - setTimeout and closures in JS]]
+* [[012 - Map, Filter and reduce in JS]]
 * 
