@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md"
+                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md"
               }
             }
           }
@@ -171,8 +171,8 @@
   },
   "active": "f89d58d55e25507e",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/3. What Are HTTP Status Codes, and which is server side and which is client side.md",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
