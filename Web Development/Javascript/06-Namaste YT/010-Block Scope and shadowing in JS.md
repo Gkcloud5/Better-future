@@ -5,4 +5,5 @@
 #### Explanation:
 
 * Block also known as compound statement
-* 
+* Warping up multiple statement {Multiple statement} -> JS going to consider single statement
+* Variable
