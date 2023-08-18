@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a92c27b41669d56c",
+        "id": "0a5f4fddef3e5476",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9afa8fade88f19",
+            "id": "dbee7611e6c41f8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
+                "file": "Web Development/Javascript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "539c84c74787b9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
+                "file": "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
+                "file": "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md"
+                "file": "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md"
               }
             }
           }
@@ -157,8 +170,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c9afa8fade88f19",
+  "active": "539c84c74787b9c9",
   "lastOpenFiles": [
+    "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
@@ -205,7 +219,6 @@
     "DSA/02-Test/01-Array-List/01- 1D Array/21 to 30 Sum/2114. Maximum Number of Words Found in Sentences.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/How to Use Jenkins.md",
     "DSA/Images/Pasted image 20230811224143.png",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
