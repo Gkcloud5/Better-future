@@ -9,4 +9,14 @@
 
 ##### Key Components of SSH:
 ###### 1. Client and server:
-	* Client initiates a connection to 
+	* Client initiates a connection to the server using SSH.
+	* The server responds and establishes a secure communication channel.
+###### 2. Cryptography:
+	* SSH used encryption and cryptographic techniques to secure data being tranmitted over the network.
+	* Preventing unauthorized access.
+###### 3. Authentication:
+	* SSH requires authentication before allowing access to the server.
+	* This is commonly done using password or public key authentication.
+###### 4. Port Number:
+	* By default port number is 22 for communication.
+	* 
