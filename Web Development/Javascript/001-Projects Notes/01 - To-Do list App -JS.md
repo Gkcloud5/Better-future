@@ -16,4 +16,16 @@
 
 1. Information
 	1. Task Title
-	2. Task 
+		1. Name of tasks
+	2. Task Description
+		1. It's optional
+		2. Give simple info about tasks
+	3. Due Date
+		1. Date where task should be completed
+	4. Task Priority
+		1. Low
+		2. Medium
+		3. High
+	5. Task Status
+		1. Incomplete
+		2. Completed
