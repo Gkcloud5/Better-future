@@ -34,5 +34,6 @@
 	* Public key authentication
 * Public key authentication involves generating a pair of cryptographic keys.
 	* Public key and Private key
-	* 
-		* Public 
+	* Public key is placed on the server, and the private key is kept on the client. 
+		* Client private key is used to authenticate with the server.
+

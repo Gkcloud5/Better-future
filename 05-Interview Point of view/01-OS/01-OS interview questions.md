@@ -10,4 +10,5 @@
 * ##### [[03- How do you make a program run on startup]]
 * ##### [[04- What would you prefer to use Linux or windows and explain why in details]]
 * ##### [[05- what is ssh and port number and related to SSH]]
+* ##### [[06- You are not able to connect to a server via ssh, even though it is running and healthy. What might be the cause of the issue]]
 * 
