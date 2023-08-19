@@ -23,4 +23,25 @@ console.log(output)
 
 ### Filter:
 * Used to filter a value inside an array
-* 
+
+```
+const arr = [5,1,2,3,4]
+
+function isOdd(x) {
+   return x % 2;
+}
+
+const output = arr.filter(isOdd)
+
+#Output
+[5,1,3]
+```
+
+
+### Reduce:
+* It used place where take all elements in array and get single value from array.
+
+```
+//Sum or max
+
+```
