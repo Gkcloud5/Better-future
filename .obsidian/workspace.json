@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "5e89f43efbe45708",
+            "id": "1d8e379c056ed1a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/04- What would you prefer to use Linux or windows and explain why in details.md",
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/05- what is ssh and port number and related to SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/3. What Are HTTP Status Codes, and which is server side and which is client side.md",
+                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/04- What would you prefer to use Linux or windows and explain why in details.md",
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/05- what is ssh and port number and related to SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/04- What would you prefer to use Linux or windows and explain why in details.md",
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/05- what is ssh and port number and related to SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/04- What would you prefer to use Linux or windows and explain why in details.md"
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/05- what is ssh and port number and related to SSH.md"
               }
             }
           }
@@ -194,12 +194,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e89f43efbe45708",
+  "active": "1d8e379c056ed1a0",
   "lastOpenFiles": [
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/04- What would you prefer to use Linux or windows and explain why in details.md",
+    "05-Interview Point of view/01-OS/01. AWS -Q&A/05- what is ssh and port number and related to SSH.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/3. What Are HTTP Status Codes, and which is server side and which is client side.md",
+    "05-Interview Point of view/01-OS/01. AWS -Q&A/04- What would you prefer to use Linux or windows and explain why in details.md",
     "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
     "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
@@ -216,7 +218,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
-    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/02 - What is network troubleshooting commands.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/03- How do you make a program run on startup.md",
     "05-Interview Point of view/Images/Pasted image 20230817152215.png",
@@ -239,7 +240,6 @@
     "05-Interview Point of view/02-Networking",
     "Resume Building/Technical Support/02- Info as per the Job description.md",
     "05-Interview Point of view/01-OS",
-    "Resume Building/01-Related to Resume Preparation.md",
     "DSA/Images/Pasted image 20230812214952.png",
     "DSA/Images/Pasted image 20230812214519.png",
     "DSA/Images/Pasted image 20230812212309.png",

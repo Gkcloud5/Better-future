@@ -11,8 +11,8 @@
 4. What is network troubleshooting commands
 5. How do you make a program run on startup
 6. What Are HTTP Status Codes, and which is server side and which is client side
-*7. What would you prefer to use Linux or windows and explain why in details?
-8. What's ssh port number? easy but then dives deep into more questions about ssh.
+7. What would you prefer to use Linux or windows and explain why in details?
+*8. What's ssh port number? easy but then dives deep into more questions about ssh.
 9. You are not able to connect to a server via ssh, even though it is running and healthy. What might be the cause of the issue?
 10. A customer is having a slow website, what might you do to troubleshoot? and what commands and tools would you use for that?
 11. A customer is getting ddos attacks, what might you do in that situation?
