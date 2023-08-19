@@ -13,3 +13,9 @@
 		* CLI
 		* GUI
 * ##### Stability and Security:
+	* Linux is known for its stability and security features
+	* It has robust permission system
+* ##### CLI:
+	* Perform task efficiently and automate process
+* ##### Compatibility:
+	* Linux has good compatibility with servers, networking equipment and embedded systems.
