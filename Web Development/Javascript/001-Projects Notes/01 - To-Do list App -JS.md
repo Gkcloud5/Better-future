@@ -29,3 +29,13 @@
 	5. Task Status
 		1. Incomplete
 		2. Completed
+
+##### Feature:
+
+1. Filter based on priority
+
+##### Things to implement:
+
+1. Tasks store in JSON format
+2. CRUD operation for task information
+3. JSON acces
