@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md"
               }
             }
           }
@@ -191,8 +191,10 @@
   },
   "active": "1859450efcf58aa3",
   "lastOpenFiles": [
-    "Web Development/RoadMap/Web App developer roadmap.canvas",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/2. Some Basic Practices.md",
+    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
+    "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/Javascript/001-Projects Notes",
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/012 - Map, Filter and reduce in JS.md",
@@ -211,7 +213,6 @@
     "05-Interview Point of view/01-OS/01. AWS -Q&A/03- How do you make a program run on startup.md",
     "05-Interview Point of view/Images/Pasted image 20230817152215.png",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/01- What commands used to check memory in Linux.md",
-    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "02-DevOps & Cloud Plans/RoadMap/Resources.md",
     "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/Day to day sentense",
