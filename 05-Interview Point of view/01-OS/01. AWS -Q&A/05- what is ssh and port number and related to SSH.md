@@ -19,4 +19,20 @@
 	* This is commonly done using password or public key authentication.
 ###### 4. Port Number:
 	* By default port number is 22 for communication.
+	* We can change it if we want
+
+
+### Some other QA
+
+##### 1. Why we use SSH?
+* SSH provides a secure and encrypted way to remotely access and manage systems
+* It's essential for secure remote administration, file transfer and secure communication with servers.
+
+##### 2. How Does SSH Authentication Work?
+* SSH supports different methods like
+	* Password support
+	* Public key authentication
+* Public key authentication involves generating a pair of cryptographic keys.
+	* Public key and Private key
 	* 
+		* Public 
