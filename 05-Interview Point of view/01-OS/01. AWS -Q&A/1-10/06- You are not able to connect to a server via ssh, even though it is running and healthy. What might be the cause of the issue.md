@@ -19,4 +19,10 @@
 	* `systemctl status ssh`
 
 ##### 4. SSH Key issues:
-* 
+* If we use public auth key, ensure that SSH key pair is correctly configured on both client and server sides
+* Verify public key is added `~/.ssh/authorized_keys`
+
+##### 5. Service Restart:
+* Restart SSH service and check able to connect or not
+	* `service ssh restart`
+
