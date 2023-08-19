@@ -40,8 +40,14 @@ const output = arr.filter(isOdd)
 
 ### Reduce:
 * It used place where take all elements in array and get single value from array.
+* reduce(accumulator, current)
+	* Accumulator --> Accumulate value that get from every iteration
 
 ```
 //Sum or max
+const arr = [5,1,2,3,4]
 
+const output = arr.reduce(function (acc, curr) {
+
+})
 ```
