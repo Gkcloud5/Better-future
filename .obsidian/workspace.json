@@ -11,8 +11,12 @@
             "id": "9cf55a773a42fcbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/21 to 30 Sum/2798. Number of Employees Who Met the Target.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/21 to 30 Sum/2798. Number of Employees Who Met the Target.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/21 to 30 Sum/2798. Number of Employees Who Met the Target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/21 to 30 Sum/2798. Number of Employees Who Met the Target.md"
+              }
             }
           }
         ]
@@ -148,8 +157,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "9cf55a773a42fcbf",
   "lastOpenFiles": [
+    "Images/Pasted image 20230819175955.png",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/21 to 30 Sum/2798. Number of Employees Who Met the Target.md",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
@@ -188,7 +199,6 @@
     "05-Interview Point of view/Images",
     "05-Interview Point of view/Images/Pasted image 20230816180347.png",
     "05-Interview Point of view/Images/Pasted image 20230816180216.png",
-    "05-Interview Point of view/02-Networking/01. AWS -Q&A/2. How would you design a secure server to host a website.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A",
     "05-Interview Point of view/03-AWS Interview questions",
