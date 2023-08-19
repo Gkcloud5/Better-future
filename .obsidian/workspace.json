@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "9c7148ad0dba62e7",
+            "id": "80a27e2fae07c1e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "9c7148ad0dba62e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -170,7 +178,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c7148ad0dba62e7",
+  "active": "80a27e2fae07c1e1",
   "lastOpenFiles": [
     "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/012 - Map, Filter and reduce in JS.md",

@@ -19,3 +19,8 @@ const output = arr.map(double)
 
 console.log(output)
 ```
+
+
+### Filter:
+* Used to filter a value inside an array
+* 
