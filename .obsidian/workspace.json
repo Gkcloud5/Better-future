@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f3ed1dea273d26a6",
+        "id": "b2311e3cb1dd73ad",
         "type": "tabs",
         "children": [
           {
-            "id": "da4321b91acd7636",
+            "id": "b928d2f89e1a7f0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md"
+              }
             }
           }
         ]
@@ -149,10 +156,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da4321b91acd7636",
+  "active": "b928d2f89e1a7f0f",
   "lastOpenFiles": [
+    "DSA/Images/Pasted image 20230819175955.png",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/21 to 30 Sum/2798. Number of Employees Who Met the Target.md",
-    "Images/Pasted image 20230819175955.png",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",

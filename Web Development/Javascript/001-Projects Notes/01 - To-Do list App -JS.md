@@ -12,7 +12,7 @@
 6. Get and Push information 
 
 ##### Tasks things to look:
-1. Information
+1. Information that task card have
 	1. Task Title
 		1. Name of tasks
 	2. Task Description
