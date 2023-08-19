@@ -13,46 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1859450efcf58aa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80a27e2fae07c1e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Javascript/06-Namaste YT/012 - Map, Filter and reduce in JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c7148ad0dba62e7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md"
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md"
               }
             }
           }
@@ -190,17 +157,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1859450efcf58aa3",
+  "active": "dbee7611e6c41f8b",
   "lastOpenFiles": [
+    "Web Development/Javascript/JavaScript.md",
+    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/GIT in DevOps.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/3. What Are HTTP Status Codes, and which is server side and which is client side.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/1. Git Practice -First Contribution.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/2. Some Basic Practices.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/Javascript/001-Projects Notes",
-    "Web Development/Javascript/JavaScript.md",
     "Web Development/Javascript/06-Namaste YT/012 - Map, Filter and reduce in JS.md",
     "Web Development/Javascript/06-Namaste YT/011 - setTimeout and closures in JS.md",
     "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md",
