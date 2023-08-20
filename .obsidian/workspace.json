@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -165,7 +166,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "82668bb11c0eba63",
   "lastOpenFiles": [
     "06-Story telling and Content creation/01- Tips to tell better story.md",
     "06-Story telling and Content creation",
