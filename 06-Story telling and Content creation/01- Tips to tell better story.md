@@ -8,4 +8,9 @@
 ### 4-Elements:
 
 * Character
-* 
+	* Person who have a issue
+* Problem
+* Action
+* Solution
+
+### Why use storytelling?
