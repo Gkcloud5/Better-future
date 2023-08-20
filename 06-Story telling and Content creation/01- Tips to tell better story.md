@@ -18,4 +18,8 @@
 * It give more engagement
 * Our post will become something people want to read.
 * It increase attention
-* People will remember our store
+* People will remember our stories
+
+### Elements of a good story
+
+* 
