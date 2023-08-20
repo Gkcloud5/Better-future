@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6e53abe059b3596d",
+        "id": "a9be6906173105c1",
         "type": "tabs",
         "children": [
           {
-            "id": "94cd415bc5be41f1",
+            "id": "8709d3106c78384d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "82668bb11c0eba63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "06-Story telling and Content creation/01- Tips to tell better story.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "06-Story telling and Content creation/01- Tips to tell better story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "06-Story telling and Content creation/01- Tips to tell better story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md"
+                "file": "06-Story telling and Content creation/01- Tips to tell better story.md"
               }
             }
           }
@@ -157,8 +165,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94cd415bc5be41f1",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "06-Story telling and Content creation/01- Tips to tell better story.md",
+    "06-Story telling and Content creation",
+    "001-Communication/01-Story telling techniques",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
     "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/03-Moving Work Around.md",
     "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
@@ -183,7 +195,6 @@
     "Web Development/Javascript/06-Namaste YT/011 - setTimeout and closures in JS.md",
     "Web Development/Javascript/06-Namaste YT/010-Block Scope and shadowing in JS.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/02 - What is network troubleshooting commands.md",
@@ -191,7 +202,6 @@
     "05-Interview Point of view/Images/Pasted image 20230817152215.png",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
     "02-DevOps & Cloud Plans/RoadMap/Resources.md",
-    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "001-Communication/Improvement/Day to day sentense",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements",
     "05-Interview Point of view/Images/Pasted image 20230816181958.png",
@@ -202,8 +212,6 @@
     "05-Interview Point of view/Images/Pasted image 20230816180216.png",
     "05-Interview Point of view/01-OS/01. AWS -Q&A",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A",
-    "05-Interview Point of view/03-AWS Interview questions",
-    "05-Interview Point of view/02-Networking",
     "DSA/Images/Pasted image 20230812214952.png",
     "DSA/Images/Pasted image 20230812214519.png",
     "DSA/Images/Pasted image 20230812212309.png",
