@@ -1,5 +1,7 @@
 
-### What is Story telling?
+### 1. Story telling
+
+### 1. What is Story telling?
 
 * Story telling is about using stories to engage your audience.
 * Our blog post need practical tips and tricks to make their lives easier and solve a problem.
@@ -22,4 +24,8 @@
 
 ### Elements of a good story
 
-* 
+* Entertaining, fun and interesting
+* Educational
+* Easily relatable
+* Organized
+* Memorable
