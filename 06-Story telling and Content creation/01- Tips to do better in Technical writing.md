@@ -1,31 +1,29 @@
 
-### 1. Story telling
+* ### 1. About Story telling things
 
-### 1. What is Story telling?
+	* #### 1.1. What is Story telling?
+		* Story telling is about using stories to engage your audience.
+		* Our blog post need practical tips and tricks to make their lives easier and solve a problem.
+		* Stories simulate to imagination
 
-* Story telling is about using stories to engage your audience.
-* Our blog post need practical tips and tricks to make their lives easier and solve a problem.
-* Stories simulate to imagination
+	* #### 1.2. 4-Elements:
+		* Character
+			* Person who have a issue
+		* Problem
+		* Action
+		* Solution
 
-### 4-Elements:
+	* #### 1.3. Why use storytelling?
+		* It give more engagement
+		* Our post will become something people want to read.
+		* It increase attention
+		* People will remember our stories
 
-* Character
-	* Person who have a issue
-* Problem
-* Action
-* Solution
+	* #### 1.4. Elements of a good story
+		* Entertaining, fun and interesting
+		* Educational
+		* Easily relatable
+		* Organized
+		* Memorable
 
-### Why use storytelling?
-
-* It give more engagement
-* Our post will become something people want to read.
-* It increase attention
-* People will remember our stories
-
-### Elements of a good story
-
-* Entertaining, fun and interesting
-* Educational
-* Easily relatable
-* Organized
-* Memorable
+* ### 2. 
