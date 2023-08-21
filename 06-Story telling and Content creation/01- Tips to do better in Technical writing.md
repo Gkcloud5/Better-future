@@ -26,4 +26,9 @@
 		* Organized
 		* Memorable
 
-* ### 2. 
+* ### 2. Things to keep in mind:
+	* #### 2.1 Master clear Communication:
+		* Need to give information with more clarity
+		* Use simple language
+		* Organized structure
+	* #### 2.2 Lear
