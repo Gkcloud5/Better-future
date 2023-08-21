@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a9be6906173105c1",
+        "id": "493f4c29f457e2f4",
         "type": "tabs",
         "children": [
           {
-            "id": "8709d3106c78384d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "82668bb11c0eba63",
+            "id": "74403469393e9af7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
+                "file": "Resume Building/01-Related to Resume Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Story telling and Content creation/01- Tips to do better in Technical writing.md"
+                "file": "Resume Building/01-Related to Resume Preparation.md"
               }
             }
           }
@@ -166,8 +156,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82668bb11c0eba63",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Resume Building/Technical Support/01-TS role JD content.md",
+    "Resume Building/Technical Support/02- Info as per the Job description.md",
+    "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
+    "05-Interview Point of view/04 -Linedin/Untitled",
+    "05-Interview Point of view/04 -Linkeddin",
     "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
     "06-Story telling and Content creation",
     "001-Communication/01-Story telling techniques",
@@ -199,10 +194,7 @@
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/02 - What is network troubleshooting commands.md",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/03- How do you make a program run on startup.md",
     "05-Interview Point of view/Images/Pasted image 20230817152215.png",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
-    "02-DevOps & Cloud Plans/RoadMap/Resources.md",
     "001-Communication/Improvement/Day to day sentense",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements",
     "05-Interview Point of view/Images/Pasted image 20230816181958.png",
@@ -211,8 +203,6 @@
     "05-Interview Point of view/Images",
     "05-Interview Point of view/Images/Pasted image 20230816180347.png",
     "05-Interview Point of view/Images/Pasted image 20230816180216.png",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A",
-    "05-Interview Point of view/02-Networking/01. AWS -Q&A",
     "DSA/Images/Pasted image 20230812214952.png",
     "DSA/Images/Pasted image 20230812214519.png",
     "DSA/Images/Pasted image 20230812212309.png",
