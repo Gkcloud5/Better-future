@@ -22,6 +22,6 @@ Michael
 
 Hi Avinash,
 
-I have 2+ years experience in system engineer. I came across the Technical support engineer role at **Company name** and am interested in applying. Would you be open to sharing my resume with the hiring team so they know about my interest in this role? Happy to chat more if you have the time. Looking forward to hearing from you.
+I hope this message finds you well. I have 2+ years experience in system engineer. I came across the Technical support engineer role at **Company name** and am interested in applying. Would you be open to sharing my resume with the hiring team so they know about my interest in this role? Happy to chat more if you have the time. Looking forward to hearing from you.
 
 Gokul
