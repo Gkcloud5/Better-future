@@ -7,4 +7,6 @@
 * Keep software updated
 * Strong Authentication
 * Firewall
+* File Permissions
+* Secure Coding Practices
 * 
