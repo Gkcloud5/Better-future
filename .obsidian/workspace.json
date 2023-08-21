@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
+                "file": "06-Story telling and Content creation/Q&A/Networking Related Topics/01 - How do you secure a website running on a server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
+                "file": "06-Story telling and Content creation/Q&A/Networking Related Topics/01 - How do you secure a website running on a server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md"
+                "file": "06-Story telling and Content creation/Q&A/Networking Related Topics/01 - How do you secure a website running on a server.md"
               }
             }
           }
@@ -170,10 +169,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "632888607d6f88f4",
+  "active": "85a44e7cc959259e",
   "lastOpenFiles": [
-    "06-Story telling and Content creation/Q&A/Networking Related Topics/01 - How do you secure a website running on a server.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
+    "06-Story telling and Content creation/Q&A/Networking Related Topics/01 - How do you secure a website running on a server.md",
     "06-Story telling and Content creation/Q&A/Networking Related Topics",
     "06-Story telling and Content creation/Q&A",
     "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
