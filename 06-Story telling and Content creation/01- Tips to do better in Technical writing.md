@@ -31,4 +31,12 @@
 		* Need to give information with more clarity
 		* Use simple language
 		* Organized structure
-	* #### 2.2 Lear
+
+	* #### 2.2 Learn the basics:
+		* Familiarize with foundational concepts of technical writing
+			* Style guides
+			* Document Structure
+			* Formatting
+			* Best practice
+
+* #### 2.3 
