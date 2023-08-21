@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "493f4c29f457e2f4",
+        "id": "b9e5fd341d3bdbf2",
         "type": "tabs",
         "children": [
           {
-            "id": "74403469393e9af7",
+            "id": "24c9f223ea37606b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
+                "file": "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
+                "file": "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
+                "file": "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md"
+                "file": "06-Story telling and Content creation/01- Tips to do better in Technical writing.md"
               }
             }
           }
@@ -156,12 +156,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74403469393e9af7",
+  "active": "24c9f223ea37606b",
   "lastOpenFiles": [
+    "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
     "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
     "Resume Building/Technical Support/02- Info as per the Job description.md",
-    "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
     "05-Interview Point of view/04 -Linedin/Untitled",
     "05-Interview Point of view/04 -Linkeddin",
     "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
