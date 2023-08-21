@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7b013c3097a82b6d",
+        "id": "f4bea7ac4419beed",
         "type": "tabs",
         "children": [
           {
-            "id": "85a44e7cc959259e",
+            "id": "0a2d45c80e6f025e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Story telling and Content creation/Q&A/Networking Related Topics/01 - How do you secure a website running on a server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "632888607d6f88f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d502ed2ed0a9eee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
+                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -119,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
+                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
+                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md"
+                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md"
               }
             }
           }
@@ -182,16 +156,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d502ed2ed0a9eee",
+  "active": "0a2d45c80e6f025e",
   "lastOpenFiles": [
-    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
+    "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
+    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
+    "DSA/03-Analyze and find pattern/01-Array",
+    "DSA/03-Analyze and find pattern",
     "06-Story telling and Content creation/Q&A/Networking Related Topics/01 - How do you secure a website running on a server.md",
+    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/2. How would you design a secure server to host a website.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/05- what is ssh and port number and related to SSH.md",
     "06-Story telling and Content creation/Q&A/Networking Related Topics",
     "06-Story telling and Content creation/Q&A",
-    "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
     "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
     "Resume Building/01-Related to Resume Preparation.md",
     "Resume Building/Technical Support/01-TS role JD content.md",
@@ -220,10 +197,7 @@
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Web Development/Javascript/001-Projects Notes",
     "Web Development/Javascript/06-Namaste YT/012 - Map, Filter and reduce in JS.md",
-    "Web Development/Javascript/06-Namaste YT/011 - setTimeout and closures in JS.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution",
     "05-Interview Point of view/Images/Pasted image 20230817152215.png",
-    "001-Communication/Improvement/Day to day sentense",
     "05-Interview Point of view/Images/Pasted image 20230816181958.png",
     "05-Interview Point of view/Images/Pasted image 20230816180856.png",
     "05-Interview Point of view/Images/Pasted image 20230816180706.png",
