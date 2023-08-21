@@ -39,4 +39,9 @@
 			* Formatting
 			* Best practice
 
-* #### 2.3 
+	* #### 2.3 Tools help to write things better
+	* #### 2.4 Research Skills
+	* #### 2.5 Networking
+		* Join Technical writing communities
+	* #### 2.6 Asking Feedback
+		* It will improve effeciency of a
