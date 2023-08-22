@@ -42,3 +42,8 @@
 2. Implement Data protection strategy
 3. Page views count
 4. Admin dashboard
+
+### Color preference:
+
+BG:
+Ca
