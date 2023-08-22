@@ -10,4 +10,9 @@
 	2. Finding subarrays that satisfy a specific condition
 	3. Sums solved
 		1. [[2108. Find First Palindromic String in the Array]]
-		2. [[]]
+3. **Sorting and Searching**:
+	1. Sorting will help to solve many problems
+	2. Searching will find elements that's in sorted array
+	3. Sums solved
+		1. [[1403. Minimum Subsequence in Non-Increasing Order]]
+		2. 
