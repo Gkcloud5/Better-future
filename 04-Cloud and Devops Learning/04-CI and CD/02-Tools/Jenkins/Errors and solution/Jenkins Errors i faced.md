@@ -8,3 +8,5 @@ ERROR: Build step failed with exception
 org.codehaus.cargo.container.ContainerException: Failed to redeploy
 ```
 
+* Cargo library, which is used by Jenkins to manage container deployments, encountered an issue while trying to redeploy your application
+* 
