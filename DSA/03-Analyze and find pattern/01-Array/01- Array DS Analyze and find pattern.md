@@ -16,4 +16,5 @@
 	3. Sums solved
 		1. [[1403. Minimum Subsequence in Non-Increasing Order]]
 		2. [[2733. Neither Minimum nor Maximum]]
-		3. 
+4. **Frequency Counting**:
+	1. Counting occurrences of elements in the array or determining frequency of certain patterns within the array

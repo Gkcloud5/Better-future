@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "fe8457c61c78dec2",
+            "id": "9a824907eb2607f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md",
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/121. Best Time to Buy and Sell Stock.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md",
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/121. Best Time to Buy and Sell Stock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md",
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/121. Best Time to Buy and Sell Stock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md"
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/121. Best Time to Buy and Sell Stock.md"
               }
             }
           }
@@ -169,7 +170,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe8457c61c78dec2",
+  "active": "9a824907eb2607f0",
   "lastOpenFiles": [
     "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md",
