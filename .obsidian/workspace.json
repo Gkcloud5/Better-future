@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "eaa9ae8fde0eee1b",
+        "id": "f637803c395f66d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e210ff881f4cd90b",
+            "id": "36dea3d3b54a2dd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "Web Development/Bootstrap/Bootstrap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "299f995107e0d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b8791f47f316d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/01-Very Basic/03-First example program.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
-    "collapsed": true
+    "width": 370.5
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "Web Development/Javascript/01-Very Basic/03-First example program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "Web Development/Javascript/01-Very Basic/03-First example program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md"
+                "file": "Web Development/Javascript/01-Very Basic/03-First example program.md"
               }
             }
           }
@@ -157,11 +181,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e210ff881f4cd90b",
+  "active": "4b8791f47f316d80",
   "lastOpenFiles": [
+    "Web Development/Javascript/01-Very Basic/01-Introduction to JS.md",
+    "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
+    "Web Development/Bootstrap/Bootstrap.md",
+    "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
+    "Web Development/Bootstrap/Fundamentals/Alerts in bootstrap.md",
+    "Web Development/Javascript/01-Very Basic/03-First example program.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/121. Best Time to Buy and Sell Stock.md",
     "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md",
@@ -179,14 +209,8 @@
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1534. Count Good Triplets.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1528. Shuffle String.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1108. Defanging an IP Address.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/724. Find Pivot Index.md",
-    "06-Story telling and Content creation/01- Tips to do better in Technical writing.md",
     "DSA/03-Analyze and find pattern/01-Array",
     "DSA/03-Analyze and find pattern",
-    "06-Story telling and Content creation/Q&A/Networking Related Topics/01 - How do you secure a website running on a server.md",
-    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "06-Story telling and Content creation/Q&A/Networking Related Topics",
     "06-Story telling and Content creation/Q&A",
     "05-Interview Point of view/04 -Linedin/Untitled",
