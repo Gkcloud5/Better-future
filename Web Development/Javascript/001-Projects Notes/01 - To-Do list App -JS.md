@@ -46,4 +46,7 @@
 ### Color preference:
 
 BG:
-Ca
+Card:
+Text:
+Heading:
+Small card:
