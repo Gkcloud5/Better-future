@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md"
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md"
               }
             }
           }
@@ -171,10 +171,22 @@
   },
   "active": "fe8457c61c78dec2",
   "lastOpenFiles": [
+    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2733. Neither Minimum nor Maximum.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2678. Number of Senior Citizens.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2656. Maximum Sum With Exactly K Elements.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2652. Sum Multiples.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2108. Find First Palindromic String in the Array.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2089. Find Target Indices After Sorting Array.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2011. Final Value of Variable After Performing Operations.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1929. Concatenation of Array.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1920. Build Array from Permutation.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1913. Maximum Product Difference Between Two Pairs.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1773. Count Items Matching a Rule.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1534. Count Good Triplets.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1528. Shuffle String.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
-    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1108. Defanging an IP Address.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/724. Find Pivot Index.md",
@@ -189,23 +201,11 @@
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/05- what is ssh and port number and related to SSH.md",
     "06-Story telling and Content creation/Q&A/Networking Related Topics",
     "06-Story telling and Content creation/Q&A",
-    "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
-    "Resume Building/01-Related to Resume Preparation.md",
-    "Resume Building/Technical Support/01-TS role JD content.md",
-    "Resume Building/Technical Support/02- Info as per the Job description.md",
     "05-Interview Point of view/04 -Linedin/Untitled",
     "05-Interview Point of view/04 -Linkeddin",
     "06-Story telling and Content creation",
     "001-Communication/01-Story telling techniques",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
-    "04-Cloud and Devops Learning/04-CI and CD/01-Version Control/GIT/Practice/03-Moving Work Around.md",
-    "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
     "DSA/Images/Pasted image 20230819175955.png",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/21 to 30 Sum/2798. Number of Employees Who Met the Target.md",
-    "05-Interview Point of view/01-OS/01-OS interview questions.md",
-    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/06- You are not able to connect to a server via ssh, even though it is running and healthy. What might be the cause of the issue.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",

@@ -15,4 +15,5 @@
 	2. Searching will find elements that's in sorted array
 	3. Sums solved
 		1. [[1403. Minimum Subsequence in Non-Increasing Order]]
-		2. 
+		2. [[2733. Neither Minimum nor Maximum]]
+		3. 
