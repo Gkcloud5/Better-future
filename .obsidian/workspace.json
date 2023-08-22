@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Bootstrap/Bootstrap.md",
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/01-Very Basic/03-First example program.md",
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/01-Very Basic/03-First example program.md",
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/01-Very Basic/03-First example program.md"
+                "file": "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md"
               }
             }
           }
@@ -181,14 +180,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b8791f47f316d80",
+  "active": "36dea3d3b54a2dd0",
   "lastOpenFiles": [
+    "Web Development/Bootstrap/Bootstrap.md",
+    "Web Development/Javascript/01-Very Basic/03-First example program.md",
     "Web Development/Javascript/01-Very Basic/01-Introduction to JS.md",
     "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
-    "Web Development/Bootstrap/Bootstrap.md",
     "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
     "Web Development/Bootstrap/Fundamentals/Alerts in bootstrap.md",
-    "Web Development/Javascript/01-Very Basic/03-First example program.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
