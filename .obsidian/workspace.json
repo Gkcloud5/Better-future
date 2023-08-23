@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c6f9d0b22625030",
+        "id": "cbfd078b86eccf82",
         "type": "tabs",
         "children": [
           {
-            "id": "283bb6aa2bdab00f",
+            "id": "b6bea896284e8496",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
-    "collapsed": true
+    "width": 370.5
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,8 +148,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "283bb6aa2bdab00f",
+  "active": "b6bea896284e8496",
   "lastOpenFiles": [
+    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230823182626.png",
