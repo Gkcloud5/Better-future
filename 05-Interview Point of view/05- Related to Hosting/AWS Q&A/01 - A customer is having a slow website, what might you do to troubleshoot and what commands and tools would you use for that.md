@@ -73,4 +73,24 @@ sudo service apache2 restart
 ```
 
 * GZIP Compression is used to reduce size of files transferred between a web server and client's browser.
-	* This process significantly reduces the amount of data that needs to be transf
+	* This process significantly reduces the amount of data that needs to be transferred over the network.
+
+##### 6. Load testing:
+* Jmeter for load testing
+
+```
+apt-get install jmeter
+jmeter
+```
+
+##### 7. Server Response time:
+```
+curl -s -w "%{time_total}\n" -o /dev/null http://example.com
+```
+
+##### 8. Network monitor:
+* Tool `iftop` used to monitor network bandwidth
+
+```
+apt-get install iftop
+```
