@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
+                "file": "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
+                "file": "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
+                "file": "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md"
+                "file": "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md"
               }
             }
           }
@@ -158,6 +158,9 @@
   },
   "active": "364ff648cb19f364",
   "lastOpenFiles": [
+    "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
+    "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md",
+    "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
     "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
     "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
     "Web Development/Bootstrap/Bootstrap.md",
@@ -181,9 +184,6 @@
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1920. Build Array from Permutation.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1913. Maximum Product Difference Between Two Pairs.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1773. Count Items Matching a Rule.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1678. Goal Parser Interpretation.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1534. Count Good Triplets.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1528. Shuffle String.md",
     "DSA/03-Analyze and find pattern/01-Array",
     "DSA/03-Analyze and find pattern",
     "06-Story telling and Content creation/Q&A/Networking Related Topics",
@@ -207,6 +207,4 @@
     "DSA/Images/Pasted image 20230812214519.png",
     "DSA/Images/Pasted image 20230812212309.png",
     "Untitled.canvas",
-    "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
-  ]
-}
+    "03-Learning/Programming/Program learning Steps/Programe learn.c
