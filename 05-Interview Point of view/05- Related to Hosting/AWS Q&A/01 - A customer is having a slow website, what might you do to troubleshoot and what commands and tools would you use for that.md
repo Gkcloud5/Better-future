@@ -13,4 +13,7 @@
 	* Network speed
 	* Routing issues
 	* Computer speed
-* 
+* Performance Metrics:
+	* First Contentful paint
+	* Speed Index
+	* Largest Content ful
