@@ -1,4 +1,7 @@
 
+### Source:
+1. [Array](https://chat.openai.com/share/762f289f-108b-43bb-9ebb-f4070ab8f215)
+
 ### What type of problem i get in array:
 
 1. **Prefix Sum Array Problems:**
