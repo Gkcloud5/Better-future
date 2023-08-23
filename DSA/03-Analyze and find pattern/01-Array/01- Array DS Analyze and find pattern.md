@@ -10,11 +10,20 @@
 	2. Finding subarrays that satisfy a specific condition
 	3. Sums solved
 		1. [[2108. Find First Palindromic String in the Array]]
-3. **Sorting and Searching**:
+```
+Input: [2, 7, 11, 15], target = 9
+Output: [2, 7] (indices 0 and 1)
+```
+
+1. **Sorting and Searching**:
 	1. Sorting will help to solve many problems
 	2. Searching will find elements that's in sorted array
 	3. Sums solved
 		1. [[1403. Minimum Subsequence in Non-Increasing Order]]
 		2. [[2733. Neither Minimum nor Maximum]]
-4. **Frequency Counting**:
+2. **Frequency Counting**:
 	1. Counting occurrences of elements in the array or determining frequency of certain patterns within the array
+```
+Input: [4, 2, 8, 8, 4, 6, 8]
+Output: 8 (appears 3 times)
+```
