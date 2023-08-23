@@ -21,4 +21,7 @@
 #### Steps to stop DDoS attacks:
 ##### 1. Locate and Block DDoS traffic:
 * Identify abnormal user traffic, consult system log files to seek out where DDoS traffic is originating from
+* Then, Block attackers traffic using tactics like 
+	* IP address filtering
+	* Geo-Blocking
 * 
