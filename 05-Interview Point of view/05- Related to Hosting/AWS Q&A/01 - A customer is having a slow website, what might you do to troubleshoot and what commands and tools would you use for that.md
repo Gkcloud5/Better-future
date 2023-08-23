@@ -54,4 +54,13 @@
 * Use `traceroute` command
 	* It shows path that data takes from local to website server, it include time taken at each hop
 	* You can get where it take so much time
-* 
+
+##### 4. Server Logs:
+* Generally logs recording various events and activities on the server, including requests from clients, server responses, errors and more.
+* ###### Request Duration Analysis:
+	* By comparing request times with response time, we can identify requests that took unusually long to process.
+* ###### Resources loading times:
+	* Logs can shoe how long it takes to serve different type of resources.
+	* We can identify high loading times and optimize it
+* `tail -f /var/log/apache2/error.log`
+
