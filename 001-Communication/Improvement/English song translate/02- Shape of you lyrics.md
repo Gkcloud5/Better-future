@@ -12,4 +12,6 @@
 6. And trust me i will give it chance now
 	1. என்னை நம்புங்கள் நான் இப்போது ஒரு வாய்ப்பு தருகிறேன்
 7. Take my hand, stop, put van the man on the jukebox
-	1. 
+	1. என் கையை எடுத்து, நிறுத்து, வான் தி மேனை ஜூக்பாக்ஸில் வைக்கவும்
+8. And then we start to dance and now i am singing like
+	1. பின்னர் நாங்கள் நடனமாடத் தொடங்குகிறோம், இப்போது நான் பாடுகிறேன்
