@@ -14,7 +14,7 @@
 7. What would you prefer to use Linux or windows and explain why in details?
 8. What's ssh port number? easy but then dives deep into more questions about ssh.
 9. You are not able to connect to a server via ssh, even though it is running and healthy. What might be the cause of the issue?
-10. A customer is having a slow website, what might you do to troubleshoot? and what commands and tools would you use for that?
+**10. A customer is having a slow website, what might you do to troubleshoot? and what commands and tools would you use for that?
 11. A customer is getting ddos attacks, what might you do in that situation?
 12. How would find system information? What commands would you use on Linux and windows?
 13. What happens when you type an URL into the browser?
