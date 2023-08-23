@@ -1,5 +1,5 @@
 
-#### 1.  Error 1:
+#### 1.  Error 1: (ERROR: Build step failed with exception)
 
 ```
 [DeployPublisher][INFO] Deploying /var/lib/jenkins/workspace/webAppExample/target/webappExample.war to container Tomcat 8.x Remote with context webAppExample
