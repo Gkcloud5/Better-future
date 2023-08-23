@@ -1,6 +1,7 @@
 
 ### Source:
 1. [Array](https://chat.openai.com/share/762f289f-108b-43bb-9ebb-f4070ab8f215)
+2. [PDF-1](https://www.rose-hulman.edu/class/cs/csse120/Resources/C/Arrays/arrayPatterns.pdf)
 
 ### What type of problem i get in array:
 
@@ -8,7 +9,13 @@
 	1. Store value of prefix sum of elements up to that position
 		1. [Sum1](https://leetcode.com/problems/running-sum-of-1d-array/)
 		2. [[724. Find Pivot Index]]
-2. **Two Pointer Technique**:
+```
+Input: [10, 2, -2, -20, 10], target = -10
+Output: 3 (subarrays with sum -10: [10, 2, -2], [2, -2, -20, 10], [-20, 10])
+
+```
+
+1. **Two Pointer Technique**:
 	1. It used to solving problems like finding pairs with certain property
 	2. Finding subarrays that satisfy a specific condition
 	3. Sums solved
