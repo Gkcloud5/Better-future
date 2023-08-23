@@ -70,6 +70,8 @@ modification date: Friday 11th August 2023 16:34:19
 	* Engage with the Jenkins community.
 
 
+### [[Things that in Jenkins like options and configuration]]
+
 #### Practicing:
 
 1. [[01. Git-Build-Deploy - Jenkins]]
