@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "448bd7c99f3d8d1b",
+        "id": "2df526cc392e3503",
         "type": "tabs",
         "children": [
           {
-            "id": "53a4636f920dd9e9",
+            "id": "1dc7a69b3c513855",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4606f2624b8743db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Things that in Jenkins like options and configuration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92b78d35900b91b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ef9ab1163a9718b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+                "file": "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md"
+                "file": "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md"
               }
             }
           }
@@ -194,13 +157,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ef9ab1163a9718b",
+  "active": "1dc7a69b3c513855",
   "lastOpenFiles": [
-    "Images/Pasted image 20230823182626.png",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
+    "04-Cloud and Devops Learning/Images/Pasted image 20230823182626.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Things that in Jenkins like options and configuration.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "05-Interview Point of view/05- Related to Hosting/01- Hosting related Questions.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/4 -A customer is getting ddos attacks, what might you do in that situation.md",
     "05-Interview Point of view/05- Related to Hosting/AWS Q&A/1-10",
@@ -243,7 +206,6 @@
     "05-Interview Point of view/Images/Pasted image 20230816180216.png",
     "DSA/Images/Pasted image 20230812214952.png",
     "DSA/Images/Pasted image 20230812214519.png",
-    "DSA/Images/Pasted image 20230812212309.png",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
