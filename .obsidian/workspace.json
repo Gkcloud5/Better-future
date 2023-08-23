@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+                "file": "05-Interview Point of view/05- Related to Hosting/01- Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "892fb85666754a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Interview Point of view/05- Related to Hosting/AWS Q&A/01 - A customer is having a slow website, what might you do to troubleshoot and what commands and tools would you use for that.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+                "file": "05-Interview Point of view/05- Related to Hosting/AWS Q&A/01 - A customer is having a slow website, what might you do to troubleshoot and what commands and tools would you use for that.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+                "file": "05-Interview Point of view/05- Related to Hosting/AWS Q&A/01 - A customer is having a slow website, what might you do to troubleshoot and what commands and tools would you use for that.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md"
+                "file": "05-Interview Point of view/05- Related to Hosting/AWS Q&A/01 - A customer is having a slow website, what might you do to troubleshoot and what commands and tools would you use for that.md"
               }
             }
           }
@@ -183,11 +195,14 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "05-Interview Point of view/04- Related to Hosting",
+    "05-Interview Point of view/05- Related to Hosting/01- Questions.md",
+    "05-Interview Point of view/05- Related to Hosting/AWS Q&A/01 - A customer is having a slow website, what might you do to troubleshoot and what commands and tools would you use for that.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
+    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+    "05-Interview Point of view/05- Related to Hosting/AWS Q&A",
+    "05-Interview Point of view/05- Related to Hosting",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/06- You are not able to connect to a server via ssh, even though it is running and healthy. What might be the cause of the issue.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1. How do you secure a website running on a server.md",
-    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/3. What Are HTTP Status Codes, and which is server side and which is client side.md",
     "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
     "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
@@ -208,7 +223,6 @@
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2678. Number of Senior Citizens.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2656. Maximum Sum With Exactly K Elements.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2652. Sum Multiples.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/2108. Find First Palindromic String in the Array.md",
     "DSA/03-Analyze and find pattern/01-Array",
     "DSA/03-Analyze and find pattern",
     "06-Story telling and Content creation/Q&A/Networking Related Topics",
@@ -218,10 +232,8 @@
     "06-Story telling and Content creation",
     "001-Communication/01-Story telling techniques",
     "DSA/Images/Pasted image 20230819175955.png",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
-    "Web Development/Javascript/001-Projects Notes",
     "05-Interview Point of view/Images/Pasted image 20230817152215.png",
     "05-Interview Point of view/Images/Pasted image 20230816181958.png",
     "05-Interview Point of view/Images/Pasted image 20230816180856.png",
