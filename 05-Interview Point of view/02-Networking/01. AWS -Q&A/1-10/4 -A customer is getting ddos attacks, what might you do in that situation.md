@@ -24,4 +24,7 @@
 * Then, Block attackers traffic using tactics like 
 	* IP address filtering
 	* Geo-Blocking
-* 
+
+##### 2. Reroute DDoS traffic:
+* We can reroute legitimate traffic to a new IP address and change name system(DNS).
+* ISP
