@@ -16,4 +16,37 @@
 * Performance Metrics:
 	* First Contentful paint
 	* Speed Index
-	* Largest Content ful
+	* Largest Contentful paint
+	* Time to interacive
+* Browser Timings:
+	* Redirect Duration
+	* Connection Duration
+	* Backend Duration
+	* First Paint
+	* DOM
+	* Onload time
+* Area of issues:
+	* Website code
+	* CMS related optimizations
+	* Website concerns
+		* Scripts
+		* Disable hotlinking
+	* OS/Server Problems
+	* Hosting issues
+
+#### OS/Server Problems:
+
+##### 1. Server Health Check:
+* use `top` command to monitor
+	* CPU
+	* Memory
+	* Process usage
+
+##### 2. Keep server update:
+* Keep server software updated
+	* Apache
+	* CMS
+	* PHP
+
+##### 3. Network connectivity:
+* 
