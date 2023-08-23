@@ -2,6 +2,7 @@
 ### Source:
 1. [KS](https://kinsta.com/blog/what-is-a-ddos-attack/#:~:text=You%20can%20then%20use%20the,send%20requests%20to%20your%20site.)
 2. [SP](https://www.esecurityplanet.com/networks/how-to-stop-ddos-attacks-tips-for-fighting-ddos-attacks/)
+3. [BI](https://builtin.com/software-engineering-perspectives/how-to-stop-a-ddos-attack)
 
 #### What is a DDoS Attack?
 * DDoS stands for Distributed Denial of Service.
@@ -18,6 +19,6 @@
 3. Lost time and money
 
 #### Steps to stop DDoS attacks:
-##### 1. Block the DDoS Attack:
-* Take immediate steps to attempt to block the attack.
+##### 1. Locate and Block DDoS traffic:
+* Identify abnormal user traffic, consult system log files to seek out where DDoS traffic is originating from
 * 
