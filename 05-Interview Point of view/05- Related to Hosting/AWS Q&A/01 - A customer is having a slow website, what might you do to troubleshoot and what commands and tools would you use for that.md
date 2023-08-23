@@ -49,4 +49,9 @@
 	* PHP
 
 ##### 3. Network connectivity:
+* use `ping` command
+	* Time is high or there's packet loss then it might indicate network connectivity issues
+* Use `traceroute` command
+	* It shows path that data takes from local to website server, it include time taken at each hop
+	* You can get where it take so much time
 * 
