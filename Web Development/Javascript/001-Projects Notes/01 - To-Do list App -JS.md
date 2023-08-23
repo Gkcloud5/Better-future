@@ -46,7 +46,10 @@
 ### Color preference:
 
 BG:
+App name:
+BigCard:
+Heading 1:
 Card:
-Text:
-Heading:
+title:
+Description
 Small card:
