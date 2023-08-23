@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md",
+                "file": "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md",
+                "file": "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md",
+                "file": "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md"
+                "file": "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md"
               }
             }
           }
@@ -158,8 +159,8 @@
   },
   "active": "364ff648cb19f364",
   "lastOpenFiles": [
-    "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
     "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md",
+    "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
     "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
     "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
     "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
@@ -207,4 +208,6 @@
     "DSA/Images/Pasted image 20230812214519.png",
     "DSA/Images/Pasted image 20230812212309.png",
     "Untitled.canvas",
-    "03-Learning/Programming/Program learning Steps/Programe learn.c
+    "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
+  ]
+}
