@@ -64,3 +64,13 @@
 	* We can identify high loading times and optimize it
 * `tail -f /var/log/apache2/error.log`
 
+##### 5. HTTP Compression:
+* Enable GZIP Compression for Apache
+
+```
+sudo a2enmod deflate
+sudo service apache2 restart
+```
+
+* GZIP Compression is used to reduce size of files transferred between a web server and client's browser.
+	* This process significantly reduces the amount of data that needs to be transf
