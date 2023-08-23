@@ -11,5 +11,5 @@ org.codehaus.cargo.container.ContainerException: Failed to redeploy
 * Cargo library, which is used by Jenkins to manage container deployments, encountered an issue while trying to redeploy your application
 * Reason for a error is 
 	* context path, name should be case sensitive
-	* and tomcat url looks like 
+	* and tomcat URL looks like `http://localhost:9090`
 * 
