@@ -5,6 +5,12 @@
 ### Reason for slowness:
 
 * First we need to measure the website performance, for that following websites will useful for it
-	* - [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-	* 
-	* 
+	* [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+	* [Websitetest](https://webpagetest.org/)
+	* [GTMetrics](https://gtmetrix.com/)
+* Some other things for client feel slowness
+	* Distance
+	* Network speed
+	* Routing issues
+	* Computer speed
+* 

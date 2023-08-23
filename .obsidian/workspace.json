@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -193,7 +194,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "892fb85666754a92",
   "lastOpenFiles": [
     "05-Interview Point of view/05- Related to Hosting/01- Questions.md",
     "05-Interview Point of view/05- Related to Hosting/AWS Q&A/01 - A customer is having a slow website, what might you do to troubleshoot and what commands and tools would you use for that.md",
