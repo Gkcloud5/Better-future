@@ -27,4 +27,11 @@
 
 ##### 2. Reroute DDoS traffic:
 * We can reroute legitimate traffic to a new IP address and change name system(DNS).
-* ISP
+* ISP can also be contacted to help reroute DDoS traffic.
+
+##### 3. Use Additional Firewalls and Defense software:
+* Apply additional firewalls and DDoS protection services where possible.
+* Web application firewall plugin can also be installed immediately as an extra measure.
+
+##### 4. Stop the service under attack:
+* In extreme cases, you can completely shutdown the service being attacked to prevent immediate damage.
