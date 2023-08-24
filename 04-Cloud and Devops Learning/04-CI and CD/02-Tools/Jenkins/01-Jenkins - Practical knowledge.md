@@ -70,7 +70,7 @@ modification date: Friday 11th August 2023 16:34:19
 	* Engage with the Jenkins community.
 
 
-### [[02 - Things that in Jenkins like options and configuration]]
+### [[01 - Things that in Jenkins like options and configuration]]
 
 #### Practicing:
 
