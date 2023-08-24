@@ -11,4 +11,5 @@
 * ##### [[04- What would you prefer to use Linux or windows and explain why in details]]
 * ##### [[05- what is ssh and port number and related to SSH]]
 * ##### [[06- You are not able to connect to a server via ssh, even though it is running and healthy. What might be the cause of the issue]]
+* ##### [[07-How would find system information & What commands would you use on Linux and windows]]
 * 
