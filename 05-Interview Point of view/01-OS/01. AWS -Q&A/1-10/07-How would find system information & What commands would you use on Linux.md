@@ -1,4 +1,7 @@
 
-#### Source:
-1. [Mm](https://medium.com/technology-hits/basic-linux-commands-to-check-hardware-and-system-information-62a4436d40db)
+### Source:
+1. [CG](https://chat.openai.com/share/5d0d0db7-f63f-4eaf-a0c5-428cb417ad30)
+
+### 1. Basic system information:
+
 
