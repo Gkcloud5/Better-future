@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/07-How would find system information & What commands would you use on Linux.md",
+                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/07-How would find system information & What commands would you use on Linux.md",
+                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/07-How would find system information & What commands would you use on Linux.md"
+                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md"
               }
             }
           }
@@ -202,12 +202,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3e83f64cb2faf92",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "05-Interview Point of view/01-OS/01-OS interview questions.md",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/07-How would find system information & What commands would you use on Linux.md",
-    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
+    "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/07-How would find system information & What commands would you use on Linux.md",
+    "05-Interview Point of view/01-OS/01-OS interview questions.md",
+    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",

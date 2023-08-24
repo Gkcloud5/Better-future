@@ -26,4 +26,19 @@
 
 ### 6. System load and processes:
 * `top` : provides a dynamic view of system processes, resource usage and system load
-* `ps aux` : list detailed informa
+* `ps aux` : list detailed information about running processes
+* `htop` : A more user friendly alternative to `top`
+
+### 7. Kernel and Modules:
+* `lsmod` : List loaded kernel modules
+* `modinfo <module name>` : Display information about a specific kernel module
+
+### 8. User and group information:
+* `id <username>` : Shows information about a specific user
+* `groups <username>` : Lists groups a user belongs to
+* `cat /etc/passwd` : Display user account information
+
+### 8. System Logs:
+* `dmesg`: Displays kernel ring buffer messages
+* Log files in `/var/log` : Various logs for different services can be found here
+
