@@ -20,4 +20,8 @@
 * `du -h <directory>` : shows disk usage of specific directory
 * `lsblk` : List block devices and related information
 
+### 5. Network information:
+* `ifconfig` : display network information
+* `netstat -tuln` : Shows active network connections
+
 
