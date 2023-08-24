@@ -15,3 +15,9 @@
 * `free -h`: shows memory usage and information in human readable format
 * `cat /proc/meminfo` : Display detailed memory information
 
+### 4. Disk and Filesystem information:
+* `df -h` : Display disk space usage of mounted filesystem
+* `du -h <directory>` : shows disk usage of specific directory
+* `lsblk` : List block devices and related information
+
+
