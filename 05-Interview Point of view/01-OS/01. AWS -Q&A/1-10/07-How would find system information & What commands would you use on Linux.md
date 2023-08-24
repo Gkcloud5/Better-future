@@ -10,3 +10,8 @@
 ### 2. CPU information:
 * `lscpu` : Provides detailed information about the CPU architecture, cores and capabilities
 * `cat /proc/cpuinfo` : Displays detailed information about each CPU core
+
+### 3. Memory information:
+* `free -h`: shows memory usage and information in human readable format
+* `cat /proc/meminfo` : Display detailed memory information
+
