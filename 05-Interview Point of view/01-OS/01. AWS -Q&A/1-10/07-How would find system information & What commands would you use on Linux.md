@@ -6,3 +6,7 @@
 * `uname -a` : Display kernel and system information
 * `hostnamectl`: Provides detailed information about the system hostname and OS
 * `lsb_release -a`: Shows distribution-specific information
+
+### 2. CPU information:
+* `lscpu` : Provides detailed information about the CPU architecture, cores and capabilities
+* `cat /proc/cpuinfo` : Displays detailed information about each CPU core
