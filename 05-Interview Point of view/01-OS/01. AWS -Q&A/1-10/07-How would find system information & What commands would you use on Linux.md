@@ -24,4 +24,6 @@
 * `ifconfig` : display network information
 * `netstat -tuln` : Shows active network connections
 
-
+### 6. System load and processes:
+* `top` : provides a dynamic view of system processes, resource usage and system load
+* `ps aux` : list detailed informa
