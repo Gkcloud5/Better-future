@@ -2,7 +2,6 @@
 ### Dashboard view:
 ![[Pasted image 20230824232115.png]]
 
-
 #### [[02 - New Item in Jenikins |New Items]]:
 * Used to create a new pipeline
 
@@ -15,3 +14,4 @@
 ### Manage Jenkins:
 * It has all the system configuration
 ![[Pasted image 20230824232630.png]]
+

@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "433354cbbc8dbee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md"
               }
             }
           }
@@ -170,8 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "433354cbbc8dbee8",
   "lastOpenFiles": [
+    "Images/Pasted image 20230824233141.png",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230824232630.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/Untitled",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard",
@@ -189,7 +204,6 @@
     "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230823182626.png",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
     "05-Interview Point of view/05- Related to Hosting/01- Hosting related Questions.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/4 -A customer is getting ddos attacks, what might you do in that situation.md",
@@ -209,7 +223,6 @@
     "Web Development/Bootstrap/Bootstrap.md",
     "Web Development/Javascript/01-Very Basic/03-First example program.md",
     "Web Development/Javascript/01-Very Basic/01-Introduction to JS.md",
-    "Web Development/Bootstrap/Fundamentals/Bootstrap Containers.md",
     "DSA/03-Analyze and find pattern/01-Array",
     "DSA/03-Analyze and find pattern",
     "06-Story telling and Content creation/Q&A/Networking Related Topics",
@@ -219,7 +232,6 @@
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "05-Interview Point of view/Images/Pasted image 20230817152215.png",
     "05-Interview Point of view/Images/Pasted image 20230816181958.png",
-    "05-Interview Point of view/Images/Pasted image 20230816180856.png",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
