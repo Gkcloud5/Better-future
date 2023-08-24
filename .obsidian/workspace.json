@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "711b12199f8b8e65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "68ba088cb2ad6c5e",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,9 +196,11 @@
   },
   "active": "433354cbbc8dbee8",
   "lastOpenFiles": [
-    "Images/Pasted image 20230824233141.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
+    "04-Cloud and Devops Learning/Images/Pasted image 20230824233141.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230824232630.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/Untitled",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard",
@@ -194,7 +208,6 @@
     "04-Cloud and Devops Learning/Images/Pasted image 20230824232115.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230824230439.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230824230133.png",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
@@ -231,7 +244,6 @@
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "05-Interview Point of view/Images/Pasted image 20230817152215.png",
-    "05-Interview Point of view/Images/Pasted image 20230816181958.png",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
