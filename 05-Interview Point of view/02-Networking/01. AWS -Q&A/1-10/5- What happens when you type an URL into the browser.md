@@ -74,4 +74,6 @@
 * **SYN** and **ACK** messages are sent between the client and the server to open a TCP connection:
 	* Clients sends an SYN request with a random sequence number
 	* Server responds SYN+ACK. acknowledgement number is set to one more than the received sequence number. 
-		* Server sends another random
+		* Server sends another random sequence number(y)
+	* Client sends ACK. clients sends an acknowledgement number that is one more than the received sequence number.
+* 
