@@ -19,3 +19,15 @@
 	* **Client:** Web browser or mobile device
 	* **Server:** A computer that stores files and information in the form of a website
 * **URL:** Web address to identify a web resources
+
+### Introduction:
+* Client must find a IP address of server to load a requested content.
+
+![[Pasted image 20230825161001.png]]
+
+#### What is DNS(Domain Name System)?
+
+* DNS stores data that used to mapping from domain name to IP address.
+* Hard to remember a IP address that's the reason for we use domain name.
+* Each domain name have unique IP address.
+* Client get IP address by using DNS.
