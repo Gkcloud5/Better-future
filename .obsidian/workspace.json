@@ -44,14 +44,6 @@
             }
           },
           {
-            "id": "055be008b2bce92b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "68ba088cb2ad6c5e",
             "type": "leaf",
             "state": {
@@ -76,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Development/Javascript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Development/Javascript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Development/Javascript/JavaScript.md"
+              }
             }
           }
         ]
@@ -210,7 +206,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "055be008b2bce92b",
+  "active": "929bf1e706611885",
   "lastOpenFiles": [
     "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
