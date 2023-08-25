@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6864527d92cb659d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e087818f9f65a76f",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+                "file": "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+                "file": "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md"
+                "file": "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md"
               }
             }
           }
@@ -169,13 +182,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b46d1c579f7bdcd",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+    "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
+    "Web Development/Javascript/07 - HTML DOM related/Things",
     "Web Development/CSS/Fundamentals/BOX Model.md",
     "Web Development/CSS/CSS.md",
     "Web Development/CSS/Fundamentals/CSS intro.md",
     "Web Development/CSS/Fundamentals/CSS links.md",
-    "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
     "Development Practice/Javascript/Practises/HTML Dom/style.css",
     "Development Practice/Javascript/Practises/HTML Dom/script.js",
     "Development Practice/Javascript/Practises/HTML Dom/script.css",
@@ -208,7 +223,6 @@
     "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/Untitled",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/07-How would find system information & What commands would you use on Linux.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
     "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
@@ -216,7 +230,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
     "05-Interview Point of view/05- Related to Hosting/01- Hosting related Questions.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/4 -A customer is getting ddos attacks, what might you do in that situation.md",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/06- You are not able to connect to a server via ssh, even though it is running and healthy. What might be the cause of the issue.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
