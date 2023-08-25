@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37b441a7e6bb2306",
+        "id": "74f84072f83b489e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc3ce33716299e5c",
+            "id": "05d86a53cc154763",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md",
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md"
+                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md"
               }
             }
           }
@@ -157,11 +157,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc3ce33716299e5c",
+  "active": "05d86a53cc154763",
   "lastOpenFiles": [
-    "Images/Pasted image 20230825190426.png",
-    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
+    "DSA/Images/Pasted image 20230825190426.png",
     "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md",
+    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "DSA/04-Pattern Problems/01-Array/01-Prefix Sum",
     "DSA/04-Pattern Problems/01-Array",
     "DSA/04-Pattern Problems",
@@ -184,7 +184,6 @@
     "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
-    "04-Cloud and Devops Learning/Images/Pasted image 20230824234111.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/Untitled",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard",
