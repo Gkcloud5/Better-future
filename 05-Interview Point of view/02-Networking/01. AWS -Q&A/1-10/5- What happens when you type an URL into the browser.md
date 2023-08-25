@@ -76,4 +76,7 @@
 	* Server responds SYN+ACK. acknowledgement number is set to one more than the received sequence number. 
 		* Server sends another random sequence number(y)
 	* Client sends ACK. clients sends an acknowledgement number that is one more than the received sequence number.
+
+### 3. [[HTTPS in network|HTTPS Upgrade]]
+
 * 
