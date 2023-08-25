@@ -10,4 +10,13 @@
 * Jenkins pulls the source code from version control
 
 ##### 2. Compile and Build:
-* 
+* Converting source code into executable binaries or other intermediate forms
+
+##### 3. Testing:
+* Automating test process.
+	* Unit tests
+	* Integration tests
+
+##### 4. Static Analysis:
+* Used to identify code quality issues, potential vulnerabilities.
+* Adherence to coding standards
