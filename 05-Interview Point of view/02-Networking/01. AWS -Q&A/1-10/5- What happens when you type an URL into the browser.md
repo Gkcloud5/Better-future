@@ -66,4 +66,12 @@
 
 * Client should create a connection the server to transfer and receive data.
 * TCP protocol used to do that stuf.
-* Client perform three way handshake with serv
+* Client perform three way handshake with server to establish TCP connection.
+	* Bi-directional so 3 way
+	* If single directional then 2 way is enough
+![[Pasted image 20230825162805.png]]
+
+* **SYN** and **ACK** messages are sent between the client and the server to open a TCP connection:
+	* Clients sends an SYN request with a random sequence number
+	* Server responds SYN+ACK. acknowledgement number is set to one more than the received sequence number. 
+		* Server sends another random
