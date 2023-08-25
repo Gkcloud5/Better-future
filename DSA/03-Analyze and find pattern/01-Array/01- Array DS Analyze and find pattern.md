@@ -38,3 +38,13 @@ Output: [2, 7] (indices 0 and 1)
 Input: [4, 2, 8, 8, 4, 6, 8]
 Output: 8 (appears 3 times)
 ```
+
+5. **Sliding Window Technique**
+	1. Find the maximum sum of a subarray of size k
+```
+Input: [2, 1, 5, 1, 3, 2], k = 3
+Output: 9 (sum of subarray [5, 1, 3])
+```
+
+6. **Bit Manipulation:**
+	1. Find single non-repeating element in an array where we
