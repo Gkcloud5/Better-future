@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "74f84072f83b489e",
+        "id": "c21847b44588395c",
         "type": "tabs",
         "children": [
           {
-            "id": "05d86a53cc154763",
+            "id": "1b46d1c579f7bdcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md"
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md"
               }
             }
           }
@@ -157,8 +157,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05d86a53cc154763",
+  "active": "1b46d1c579f7bdcd",
   "lastOpenFiles": [
+    "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+    "Web Development/Javascript/07 - HTML DOM related",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
     "DSA/Images/Pasted image 20230825190426.png",
     "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md",
     "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
@@ -182,7 +185,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
     "Web Development/Javascript/JavaScript.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/Untitled",
@@ -203,7 +205,6 @@
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/1. How do you secure a website running on a server.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/3. What Are HTTP Status Codes, and which is server side and which is client side.md",
     "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
-    "DSA/03-Analyze and find pattern/01-Array",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
