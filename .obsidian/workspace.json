@@ -4,71 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "453eac7592c3e89c",
+        "id": "128a5dbc2deca6a5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7555429c7129fb0",
+            "id": "d97cb0bae122e7b8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5242317a30343c9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
+                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "711b12199f8b8e65",
+            "id": "08a77dc52be79a88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
+                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "929bf1e706611885",
+            "id": "22d7ee8587cea8a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68ba088cb2ad6c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "433354cbbc8dbee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
+                "file": "5- What happens when you type an URL into the browser.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "5- What happens when you type an URL into the browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md",
+                "file": "5- What happens when you type an URL into the browser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/JavaScript.md"
+                "file": "5- What happens when you type an URL into the browser.md"
               }
             }
           }
@@ -206,13 +190,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "929bf1e706611885",
+  "active": "22d7ee8587cea8a4",
   "lastOpenFiles": [
+    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
+    "5- What happens when you type an URL into the browser.md",
+    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
+    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
     "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230824234111.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230824233141.png",
@@ -224,8 +211,6 @@
     "04-Cloud and Devops Learning/Images/Pasted image 20230824230439.png",
     "04-Cloud and Devops Learning/Images/Pasted image 20230824230133.png",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
-    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
-    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/07-How would find system information & What commands would you use on Linux.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
     "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
@@ -248,7 +233,6 @@
     "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
     "Web Development/Javascript/001-Projects Notes/01 - To-Do list App -JS.md",
     "Web Development/Bootstrap/Fundamentals/Bootstrap introduction.md",
-    "Web Development/Bootstrap/Bootstrap.md",
     "DSA/03-Analyze and find pattern/01-Array",
     "DSA/03-Analyze and find pattern",
     "06-Story telling and Content creation/Q&A/Networking Related Topics",
