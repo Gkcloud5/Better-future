@@ -35,4 +35,12 @@
 * Jenkins can send notification to developers
 
 ##### 9. Trigger Builds:
-* Je
+* Jenkins can be configured to trigger builds automatically based on various events
+* Such as
+	* Code commits
+	* Pull requests
+
+##### 10. Pipeline Orchestration:
+* Pipeline allows you to define complex workflows for builds.
+* Pipeline typically defined in a **jenkinsfile**.
+	* Specify all the stages, steps and conditions for build process.
