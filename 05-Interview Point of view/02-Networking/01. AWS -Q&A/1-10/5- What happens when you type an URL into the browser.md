@@ -44,3 +44,14 @@
 
 ![[Pasted image 20230825161509.png]]
 
+##### Operations executed in sequential order for DNS resolution:
+
+![[Pasted image 20230825161725.png]]
+
+1. Browser(Clients) checks if the hostname IP address mapping exists in the local cache of the client.
+2. If the last step failed, Clients check OS local cache by executing system call
+3. If above step failed, Client makes a DNS request to the router and check the local cache of the router
+4. If last step failed, Router forwards the request to the ISP and checks the DNS cache of the ISP.
+5. If above step failed, DNS resolver queries the root servers(13 root servers)
+6. DNS resolver queries TLD servers such as .com, .org
+7. DNS resolver queries auth
