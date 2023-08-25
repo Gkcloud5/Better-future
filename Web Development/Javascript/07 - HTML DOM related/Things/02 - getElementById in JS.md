@@ -3,4 +3,9 @@
 
 `document.getElementById()`
 
-* It returns an Element obje
+* It returns an Element object that represents an HTML element with an `id` that matches a specified string.
+
+```
+#syntax
+const element = document.getElementId(id);
+```
