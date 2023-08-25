@@ -6,4 +6,5 @@
 ### Things:
 
 1. [[01 - What is DOM in JS]]
-2. 
+2. [[02 - getElementById in JS]]
+3. 
