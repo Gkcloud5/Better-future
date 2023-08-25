@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
+                "file": "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
+                "file": "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
+                "file": "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md"
+                "file": "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md"
               }
             }
           }
@@ -156,8 +157,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "fc3ce33716299e5c",
   "lastOpenFiles": [
+    "Images/Pasted image 20230825190426.png",
+    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
+    "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md",
     "DSA/04-Pattern Problems/01-Array/01-Prefix Sum",
     "DSA/04-Pattern Problems/01-Array",
     "DSA/04-Pattern Problems",
@@ -186,7 +190,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/07-How would find system information & What commands would you use on Linux.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
-    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
@@ -201,9 +204,7 @@
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/1. How do you secure a website running on a server.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/3. What Are HTTP Status Codes, and which is server side and which is client side.md",
     "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
-    "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md",
     "DSA/03-Analyze and find pattern/01-Array",
-    "DSA/03-Analyze and find pattern",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
