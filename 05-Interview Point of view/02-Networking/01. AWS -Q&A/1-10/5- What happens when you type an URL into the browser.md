@@ -89,4 +89,11 @@
 ##### 3.1 Following Operation are executed when transfer a data:
 1. Browser(clients) uses the HTTPS request headers to make an HTTPS upgrade request to the server
 2. Server responds to the client with a Secure Sockets Layer certification that contain public key of the server
-3. Client can use
+3. Client can use public keys of the CA to verify the validity of the SSL certificate by checking the digital signature.
+4. Client creates a new symmetric private key and encrypts the new symmetric private key with the public key of the server.
+5. Server decrypts the new symmetric private key shared by the client using the server's private key.
+6. Further communication between the client and the server would be encrypted using the new symmetric private key and therefore remains secure.
+![[Pasted image 20230825171230.png]]
+
+### 4. HTTP request/response:
+* 
