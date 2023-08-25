@@ -79,4 +79,14 @@
 
 ### 3. [[HTTPS in network|HTTPS Upgrade]]
 
-* 
+* HTTPS is a extension of HTTP.
+* HTTPS encrypts the transferred data and thereby prevents man in middle attacks
+* HTTPS used port 443 and HTTP uses 80
+* Asymmetric encryption, there is a **key pair** -- Public and private keys
+
+![[Pasted image 20230825170559.png]]
+
+##### 3.1 Following Operation are executed when transfer a data:
+1. Browser(clients) uses the HTTPS request headers to make an HTTPS upgrade request to the server
+2. Server responds to the client with a Secure Sockets Layer certification that contain public key of the server
+3. Client can use

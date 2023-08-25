@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d97cb0bae122e7b8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5242317a30343c9a",
             "type": "leaf",
             "state": {
@@ -52,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,14 +184,15 @@
   },
   "active": "22d7ee8587cea8a4",
   "lastOpenFiles": [
+    "Images/Pasted image 20230825170559.png",
     "03-Learning/Network/02-Internet/01/HTTPS in network.md",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/5- What happens when you type an URL into the browser.md",
-    "Images/Pasted image 20230825162805.png",
+    "05-Interview Point of view/Images/Pasted image 20230825162805.png",
     "03-Learning/Network/02-Internet/01/Three way handshake - TCP.md",
-    "Images/Pasted image 20230825162326.png",
-    "Images/Pasted image 20230825161725.png",
-    "Images/Pasted image 20230825161509.png",
-    "Images/Pasted image 20230825161325.png",
+    "05-Interview Point of view/Images/Pasted image 20230825162326.png",
+    "05-Interview Point of view/Images/Pasted image 20230825161725.png",
+    "05-Interview Point of view/Images/Pasted image 20230825161509.png",
+    "05-Interview Point of view/Images/Pasted image 20230825161325.png",
     "05-Interview Point of view/Images/Pasted image 20230825161001.png",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
@@ -233,7 +226,6 @@
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/3. What Are HTTP Status Codes, and which is server side and which is client side.md",
     "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
     "001-Communication/Improvement/English song translate/01- Seven Jung Kook Lyrics.md",
-    "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
     "DSA/03-Analyze and find pattern/01-Array",
     "DSA/03-Analyze and find pattern",
     "06-Story telling and Content creation/Q&A/Networking Related Topics",
