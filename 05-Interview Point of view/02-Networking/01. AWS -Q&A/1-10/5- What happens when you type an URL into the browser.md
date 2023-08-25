@@ -25,7 +25,7 @@
 
 ![[Pasted image 20230825161001.png]]
 
-#### What is DNS(Domain Name System)?
+### 1. What is DNS(Domain Name System)?
 
 * DNS stores data that used to mapping from domain name to IP address.
 * Hard to remember a IP address that's the reason for we use domain name.
@@ -54,4 +54,16 @@
 4. If last step failed, Router forwards the request to the ISP and checks the DNS cache of the ISP.
 5. If above step failed, DNS resolver queries the root servers(13 root servers)
 6. DNS resolver queries TLD servers such as .com, .org
-7. DNS resolver queries auth
+7. DNS resolver queries authoritative name servers such as google.com
+8. Optionally, DNS resolver queries authoritative subdomain servers such as maps.google.com depending on the query
+
+![[Pasted image 20230825162326.png]]
+
+* Once the DNS query resolved, DNS resolution process would cache the result with a TTL expiry time limit.
+* Cache improves the latency of subsequent client requests
+
+### 2.[[Three way handshake - TCP|TCP Three-way handshake:]]
+
+* Client should create a connection the server to transfer and receive data.
+* TCP protocol used to do that stuf.
+* Client perform three way handshake with serv
