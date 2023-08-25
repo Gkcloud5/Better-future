@@ -31,3 +31,16 @@
 * Hard to remember a IP address that's the reason for we use domain name.
 * Each domain name have unique IP address.
 * Client get IP address by using DNS.
+* DNS have hierarchy approach
+
+![[Pasted image 20230825161325.png]]
+
+* DNS resolution starts at the root domain, TLD and works its way down to the second level domain.
+* URL consists of the following parts:
+	* Protocol
+	* Subdomain
+	* Domain
+	* Top-level domain
+
+![[Pasted image 20230825161509.png]]
+
