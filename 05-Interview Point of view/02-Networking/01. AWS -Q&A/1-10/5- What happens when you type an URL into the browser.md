@@ -96,4 +96,13 @@
 ![[Pasted image 20230825171230.png]]
 
 ### 4. HTTP request/response:
-* 
+* HTTP is a mechanism for transporting data between a client and server.
+* Client issues an HTTPS request to the server to fetch or transfer data.
+* Server responds with relevant content
+![[Pasted image 20230825171523.png]]
+
+### 5. Browser rendering the response from the server:
+* Browser might take multiple HTTP requests to the server to fetch all the relevant data for a website such as CSS, JS, images or videos.
+
+#### Another useful resources:
+[CG](https://chat.openai.com/share/762ae36f-6420-42be-938f-7da4a2f63df3)
