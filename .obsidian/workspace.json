@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md"
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md"
               }
             }
           }
@@ -182,10 +181,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "1b46d1c579f7bdcd",
   "lastOpenFiles": [
-    "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
     "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
+    "Images/Pasted image 20230826003728.png",
+    "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
     "Web Development/Javascript/07 - HTML DOM related/Things",
     "Web Development/CSS/Fundamentals/BOX Model.md",
     "Web Development/CSS/CSS.md",
@@ -215,7 +215,6 @@
     "05-Interview Point of view/Images/Pasted image 20230825161725.png",
     "05-Interview Point of view/Images/Pasted image 20230825161509.png",
     "05-Interview Point of view/Images/Pasted image 20230825161325.png",
-    "05-Interview Point of view/Images/Pasted image 20230825161001.png",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
@@ -229,7 +228,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
     "05-Interview Point of view/05- Related to Hosting/01- Hosting related Questions.md",
-    "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/4 -A customer is getting ddos attacks, what might you do in that situation.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
