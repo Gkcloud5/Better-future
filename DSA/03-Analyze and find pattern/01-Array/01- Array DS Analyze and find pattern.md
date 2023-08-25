@@ -47,4 +47,10 @@ Output: 9 (sum of subarray [5, 1, 3])
 ```
 
 6. **Bit Manipulation:**
-	1. Find single non-repeating element in an array where we
+	1. Find single non-repeating element in an array where every other element appears twice
+	2. Problems involving manipulating or transforming arrays in various ways.
+```
+Input: [4, 3, 6, 4, 3, 5, 6]
+Output: 5
+```
+
