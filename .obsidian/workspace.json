@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
+                "file": "Excalidraw/Drawing 2023-08-26 16.10.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
+                "file": "Excalidraw/Drawing 2023-08-26 16.10.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md"
+                "file": "Excalidraw/Drawing 2023-08-26 16.10.26.excalidraw.md"
               }
             }
           }
@@ -180,10 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9185b9760cfde00",
+  "active": "5ceb1a43bdd8895b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-26 16.10.26.excalidraw.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
+    "Excalidraw/Drawing 2023-08-26 16.10.26.excalidraw.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
     "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
     "05-Interview Point of view/06-Psychology QA/QA/01 - A time where something did not go to plan.md",
