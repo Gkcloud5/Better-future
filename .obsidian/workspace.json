@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ceb1a43bdd8895b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-26 16.10.26.excalidraw.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -172,8 +182,9 @@
   },
   "active": "c9185b9760cfde00",
   "lastOpenFiles": [
-    "05-Interview Point of view/01-OS/01-OS interview questions.md",
+    "Excalidraw/Drawing 2023-08-26 16.10.26.excalidraw.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
+    "05-Interview Point of view/01-OS/01-OS interview questions.md",
     "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
     "05-Interview Point of view/06-Psychology QA/QA/01 - A time where something did not go to plan.md",
     "05-Interview Point of view/06-Psychology QA/01-Psychology QandA.md",
@@ -217,7 +228,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
     "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
