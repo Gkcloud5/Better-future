@@ -11,6 +11,7 @@
 	* Managing Dependencies
 	* Running tests
 	* Packaging the application
+* It's for JAVA projects
 
 #### Some other build tools:
 * Ant
@@ -20,4 +21,7 @@
 	* Groovy based DSL(Domain-Specific language)
 #### Why we need maven?
 * It will maintain project structure.
-* 
+* POM file - Project Object Model
+	* Adding plugin
+	* External libraries
+* Can build a code for us and create document 
