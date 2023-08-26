@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "76e1554f7d80c6d7",
+        "id": "9f8b36962903f3cc",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff669c70e03dd12",
+            "id": "980d7542e7e59dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
+                "file": "05-Interview Point of view/01-OS/01-OS interview questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9185b9760cfde00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md"
+                "file": "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md"
               }
             }
           }
@@ -157,8 +170,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ff669c70e03dd12",
+  "active": "c9185b9760cfde00",
   "lastOpenFiles": [
+    "05-Interview Point of view/01-OS/01-OS interview questions.md",
+    "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
+    "001-Communication/Improvement/English song translate/02- Shape of you lyrics.md",
     "05-Interview Point of view/06-Psychology QA/QA/01 - A time where something did not go to plan.md",
     "05-Interview Point of view/06-Psychology QA/01-Psychology QandA.md",
     "05-Interview Point of view/06-Psychology QA/QA",
@@ -202,8 +218,6 @@
     "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Jenkins - CICD tool.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/07-How would find system information & What commands would you use on Linux.md",
-    "05-Interview Point of view/01-OS/01-OS interview questions.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
