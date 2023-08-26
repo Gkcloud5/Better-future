@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1220a28992c57a7f",
+        "id": "81d8e1a34b3be130",
         "type": "tabs",
         "children": [
           {
-            "id": "81de904742271913",
+            "id": "2034c15260cecb71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "75db8354233ceee8",
+            "id": "64029c4ff6ef31f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md"
+                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md"
               }
             }
           }
@@ -169,12 +165,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75db8354233ceee8",
+  "active": "64029c4ff6ef31f7",
   "lastOpenFiles": [
+    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
+    "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/1588. Sum of All Odd Length Subarrays.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1108. Defanging an IP Address.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/724. Find Pivot Index.md",
-    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
     "02-DevOps & Cloud Plans/RoadMap/Resources.md",
@@ -203,8 +201,6 @@
     "Web Development/Javascript/07 - HTML DOM related/Things",
     "Web Development/CSS/Fundamentals/BOX Model.md",
     "Web Development/CSS/CSS.md",
-    "Web Development/CSS/Fundamentals/CSS intro.md",
-    "Web Development/CSS/Fundamentals/CSS links.md",
     "Development Practice/Javascript/Practises/HTML Dom/style.css",
     "Development Practice/Javascript/Practises/HTML Dom/script.js",
     "Development Practice/Javascript/Practises/HTML Dom/script.css",
