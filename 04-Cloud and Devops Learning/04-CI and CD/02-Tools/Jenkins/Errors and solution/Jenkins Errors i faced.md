@@ -12,4 +12,3 @@ org.codehaus.cargo.container.ContainerException: Failed to redeploy
 * Reason for a error is 
 	* context path, name should be case sensitive
 	* and tomcat URL looks like `http://localhost:9090`
-* 

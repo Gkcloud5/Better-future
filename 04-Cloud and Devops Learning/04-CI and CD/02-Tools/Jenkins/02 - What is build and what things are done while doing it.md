@@ -44,3 +44,4 @@
 * Pipeline allows you to define complex workflows for builds.
 * Pipeline typically defined in a **jenkinsfile**.
 	* Specify all the stages, steps and conditions for build process.
+
