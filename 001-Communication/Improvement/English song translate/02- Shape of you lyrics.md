@@ -1,5 +1,5 @@
 ##### 23rd Aug 2023:
-1. The club isn't the best place to find a lover
+1. The club isn't the best place to find a love
 	1. காதலனைக் கண்டுபிடிக்க கிளப் சிறந்த இடம் அல்ல
 2. So the bar is where I go
 	1. அதனால் நான் செல்லும் இடம்தான் பார்
@@ -15,3 +15,5 @@
 	1. என் கையை எடுத்து, நிறுத்து, வான் தி மேனை ஜூக்பாக்ஸில் வைக்கவும்
 8. And then we start to dance and now i am singing like
 	1. பின்னர் நாங்கள் நடனமாடத் தொடங்குகிறோம், இப்போது நான் பாடுகிறேன்
+
+### 26th Aug 2023:
