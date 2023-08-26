@@ -4,58 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c21847b44588395c",
+        "id": "2c7bdd4f95ee91bb",
         "type": "tabs",
         "children": [
           {
-            "id": "1b46d1c579f7bdcd",
+            "id": "f1463375223a1456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+                "file": "05-Interview Point of view/06-Psychology QA/01-Psychology QandA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "47bc0c743120309c",
+            "id": "c7030e01b88095d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/Things/02 - getElementById in JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6864527d92cb659d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e087818f9f65a76f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/CSS/Fundamentals/CSS intro.md",
+                "file": "05-Interview Point of view/06-Psychology QA/QA/01 - A time where something did not go to plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+                "file": "05-Interview Point of view/06-Psychology QA/QA/01 - A time where something did not go to plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+                "file": "05-Interview Point of view/06-Psychology QA/QA/01 - A time where something did not go to plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md"
+                "file": "05-Interview Point of view/06-Psychology QA/QA/01 - A time where something did not go to plan.md"
               }
             }
           }
@@ -195,9 +172,15 @@
   },
   "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "05-Interview Point of view/06-Psychology QA/QA",
+    "05-Interview Point of view/06-Psychology QA/01-Psychology QandA.md",
+    "05-Interview Point of view/06-Psychology QA/QA/01 - A time where something did not go to plan.md",
+    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+    "05-Interview Point of view/06-Psychology QA",
+    "05-Interview Point of view/05- Related to Hosting/01- Hosting related Questions.md",
+    "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
     "Web Development/Javascript/07 - HTML DOM related/Things/02 - getElementById in JS.md",
     "Web Development/Javascript/Image/Pasted image 20230826013125.png",
-    "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
     "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
     "Web Development/Javascript/Image/Pasted image 20230826003728.png",
     "Web Development/Javascript/07 - HTML DOM related/Things",
@@ -217,7 +200,6 @@
     "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "DSA/04-Pattern Problems/01-Array/01-Prefix Sum",
     "DSA/04-Pattern Problems/01-Array",
-    "DSA/04-Pattern Problems",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/5- What happens when you type an URL into the browser.md",
     "05-Interview Point of view/Images/Pasted image 20230825171523.png",
     "05-Interview Point of view/Images/Pasted image 20230825171230.png",
@@ -229,7 +211,6 @@
     "05-Interview Point of view/Images/Pasted image 20230825161725.png",
     "05-Interview Point of view/Images/Pasted image 20230825161509.png",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
-    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/02 - New Item in Jenikins.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Dashboard/01 - Things that in Jenkins like options and configuration.md",
     "Web Development/Javascript/JavaScript.md",
@@ -237,9 +218,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Jenkins - Practical knowledge.md",
     "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/07-How would find system information & What commands would you use on Linux.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
-    "05-Interview Point of view/04 -Linkeddin/01- Ask person to refer.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
