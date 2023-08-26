@@ -11,11 +11,28 @@
             "id": "81de904742271913",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75db8354233ceee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md"
+              }
             }
           }
         ]
@@ -148,8 +169,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81de904742271913",
+  "active": "75db8354233ceee8",
   "lastOpenFiles": [
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1108. Defanging an IP Address.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
+    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/724. Find Pivot Index.md",
+    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
     "02-DevOps & Cloud Plans/RoadMap/Resources.md",
@@ -187,9 +212,6 @@
     "Development Practice/Javascript/Practises/HTML Dom",
     "Web Development/Javascript/07 - HTML DOM related",
     "DSA/Images/Pasted image 20230825190426.png",
-    "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/2574. Left and Right Sum Differences.md",
-    "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
-    "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/5- What happens when you type an URL into the browser.md",
     "05-Interview Point of view/Images/Pasted image 20230825171523.png",
     "05-Interview Point of view/Images/Pasted image 20230825171230.png",
     "05-Interview Point of view/Images/Pasted image 20230825170559.png",
