@@ -7,4 +7,5 @@
 
 1. [[01 - What is DOM in JS]]
 2. [[02 - getElementById in JS]]
-3. 
+3. [[03 - getElementByName in JS]]
+4. 

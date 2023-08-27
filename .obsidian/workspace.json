@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae8c2c744c60b467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - getElementByName in JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+                "file": "03 - getElementByName in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+                "file": "03 - getElementByName in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md"
+                "file": "03 - getElementByName in JS.md"
               }
             }
           }
@@ -166,8 +178,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64029c4ff6ef31f7",
+  "active": "ae8c2c744c60b467",
   "lastOpenFiles": [
+    "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+    "03 - getElementByName in JS.md",
     "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/1588. Sum of All Odd Length Subarrays.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
@@ -194,14 +208,12 @@
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "05-Interview Point of view/06-Psychology QA",
     "05-Interview Point of view/05- Related to Hosting/01- Hosting related Questions.md",
-    "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
     "Web Development/Javascript/07 - HTML DOM related/Things/02 - getElementById in JS.md",
     "Web Development/Javascript/Image/Pasted image 20230826013125.png",
     "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
     "Web Development/Javascript/Image/Pasted image 20230826003728.png",
     "Web Development/Javascript/07 - HTML DOM related/Things",
     "Web Development/CSS/Fundamentals/BOX Model.md",
-    "Web Development/CSS/CSS.md",
     "Development Practice/Javascript/Practises/HTML Dom/style.css",
     "Development Practice/Javascript/Practises/HTML Dom/script.js",
     "Development Practice/Javascript/Practises/HTML Dom/script.css",
