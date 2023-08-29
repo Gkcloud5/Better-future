@@ -23,3 +23,10 @@ Now, let's see how A talks with C:
 * Step1: A asks for the MAC address of the default gateway using ARP.
 * Step2: The default gateway replies to A with its MAC address.
 * Step3: A sends its IP packets to the default gateway, which delivers the message of A to C.
+
+#### Via wired connections:
+* **Ethernet:**
+	* Devices can communicate over Ethernet cables using TCP/IP protocols.
+	* This is commonly used for networking computers, printers and other devices in a LAN.
+* **USB:**
+	* USB connections allow devices to exchange data directly via USB cables.
