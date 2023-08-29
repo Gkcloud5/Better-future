@@ -30,3 +30,6 @@ Now, let's see how A talks with C:
 	* This is commonly used for networking computers, printers and other devices in a LAN.
 * **USB:**
 	* USB connections allow devices to exchange data directly via USB cables.
+
+#### Via Wireless Connections:
+* 

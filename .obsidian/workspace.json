@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-How would systems communicate locally.md",
+                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-How would systems communicate locally.md",
+                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-How would systems communicate locally.md",
+                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-How would systems communicate locally.md"
+                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md"
               }
             }
           }
@@ -182,11 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e06733a0d072508",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
     "Images/Pasted image 20230829152346.png",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
-    "6-How would systems communicate locally.md",
+    "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "Web Development/Javascript/07 - HTML DOM related/Things/03 - getElementByName in JS.md",
     "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
