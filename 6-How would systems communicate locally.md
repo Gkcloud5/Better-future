@@ -18,3 +18,8 @@
 	* Step2: B replies to A with its MAC address
 	* Step3: A uses frames to communicate with B
 * All Communication between A and B would require a switch (layer 2 device). default gateway(layer 3 device) will not be used in this case.
+
+Now, let's see how A talks with C:
+* Step1: A asks for the MAC address of the default gateway using ARP.
+* Step2: The default gateway replies to A with its MAC address.
+* Step3: A sends its IP packets to the default gateway, which delivers the message of A to C.
