@@ -12,3 +12,9 @@
 
 ![[Pasted image 20230829152346.png]]
 
+* Computer A wants to talk to B and C. The Computer A uses its subnet mask to find out if B and C are local or remote.
+* Then to communicate locally with B, A follows:
+	* Step1: A asks for B's MAC address using ARP
+	* Step2: B replies to A with its MAC address
+	* Step3: A uses frames to communicate with B
+* All Communication between A and B would require a switch (layer 2 device). default gateway(layer 3 device) will not be used in this case.
