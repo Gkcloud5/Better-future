@@ -8,4 +8,5 @@
 * #### [[3. What Are HTTP Status Codes, and which is server side and which is client side]]
 * #### [[4 -A customer is getting ddos attacks, what might you do in that situation]]
 * #### [[5- What happens when you type an URL into the browser]]
+* #### [[6-How would systems communicate locally]]
 * 

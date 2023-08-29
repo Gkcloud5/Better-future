@@ -18,8 +18,8 @@
 11. A customer is getting ddos attacks, what might you do in that situation?
 12. How would find system information? What commands would you use on Linux and windows?
 13. What happens when you type an URL into the browser?
-**14. A time where something did not go to plan
-15. How would systems communicate locally?
+14. A time where something did not go to plan
+**15. How would systems communicate locally?
 16. Troubleshooting is the most important. Troubleshooting websites, servers, and what commands to use when troubleshooting.
 17. Boot Process of an OS your choice(Linux or Windows)
 18. How would you troubleshoot a website?

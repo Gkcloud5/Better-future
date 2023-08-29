@@ -4,36 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "81d8e1a34b3be130",
+        "id": "d697010aa45c4ef4",
         "type": "tabs",
         "children": [
           {
-            "id": "2034c15260cecb71",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "64029c4ff6ef31f7",
+            "id": "d5fa650187f38140",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
+                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ae8c2c744c60b467",
+            "id": "877e9cc244351a34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - getElementByName in JS.md",
+                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e06733a0d072508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-How would systems communicate locally.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - getElementByName in JS.md",
+                "file": "6-How would systems communicate locally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - getElementByName in JS.md",
+                "file": "6-How would systems communicate locally.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - getElementByName in JS.md"
+                "file": "6-How would systems communicate locally.md"
               }
             }
           }
@@ -178,10 +182,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae8c2c744c60b467",
+  "active": "0e06733a0d072508",
   "lastOpenFiles": [
+    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+    "6-How would systems communicate locally.md",
+    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
+    "Web Development/Javascript/07 - HTML DOM related/Things/03 - getElementByName in JS.md",
     "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
-    "03 - getElementByName in JS.md",
     "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/1588. Sum of All Odd Length Subarrays.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
@@ -205,15 +212,12 @@
     "05-Interview Point of view/06-Psychology QA/QA/01 - A time where something did not go to plan.md",
     "05-Interview Point of view/06-Psychology QA/01-Psychology QandA.md",
     "05-Interview Point of view/06-Psychology QA/QA",
-    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "05-Interview Point of view/06-Psychology QA",
     "05-Interview Point of view/05- Related to Hosting/01- Hosting related Questions.md",
     "Web Development/Javascript/07 - HTML DOM related/Things/02 - getElementById in JS.md",
     "Web Development/Javascript/Image/Pasted image 20230826013125.png",
-    "Web Development/Javascript/07 - HTML DOM related/Things/01 - What is DOM in JS.md",
     "Web Development/Javascript/Image/Pasted image 20230826003728.png",
     "Web Development/Javascript/07 - HTML DOM related/Things",
-    "Web Development/CSS/Fundamentals/BOX Model.md",
     "Development Practice/Javascript/Practises/HTML Dom/style.css",
     "Development Practice/Javascript/Practises/HTML Dom/script.js",
     "Development Practice/Javascript/Practises/HTML Dom/script.css",
