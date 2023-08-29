@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d697010aa45c4ef4",
+        "id": "2ece116e8aca68ce",
         "type": "tabs",
         "children": [
           {
-            "id": "d5fa650187f38140",
+            "id": "6aa1c8b062605e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "877e9cc244351a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e06733a0d072508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
+                "file": "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
+                "file": "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
+                "file": "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md"
+                "file": "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md"
               }
             }
           }
@@ -182,11 +157,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "6aa1c8b062605e43",
   "lastOpenFiles": [
-    "Images/Pasted image 20230829152346.png",
-    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
+    "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
+    "04-Cloud and Devops Learning/05- Web Server",
+    "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
+    "02-DevOps & Cloud Plans/RoadMap/Resources.md",
+    "05-Interview Point of view/Images/Pasted image 20230829152346.png",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
+    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
     "Web Development/Javascript/07 - HTML DOM related/Things/03 - getElementByName in JS.md",
     "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
@@ -197,8 +176,6 @@
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/724. Find Pivot Index.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
-    "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
-    "02-DevOps & Cloud Plans/RoadMap/Resources.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Maven/01- What is maven in CI.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Maven",
@@ -223,14 +200,12 @@
     "Development Practice/Javascript/Practises/HTML Dom/script.css",
     "Development Practice/Javascript/Practises/HTML Dom/index.html",
     "Development Practice/Javascript/Practises/HTML Dom",
-    "Web Development/Javascript/07 - HTML DOM related",
     "DSA/Images/Pasted image 20230825190426.png",
     "05-Interview Point of view/Images/Pasted image 20230825171523.png",
     "05-Interview Point of view/Images/Pasted image 20230825171230.png",
     "05-Interview Point of view/Images/Pasted image 20230825170559.png",
     "05-Interview Point of view/Images/Pasted image 20230825162805.png",
     "05-Interview Point of view/Images/Pasted image 20230825162326.png",
-    "05-Interview Point of view/Images/Pasted image 20230825161725.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"

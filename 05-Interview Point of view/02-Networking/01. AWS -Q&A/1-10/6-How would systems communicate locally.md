@@ -36,4 +36,5 @@ Now, let's see how A talks with C:
 	* Wireless Fidelity enables devices to communicate over a local wireless network. this is common for connecting laptops, smartphones, tablets and IoT devices.
 * **Bluetooth:**
 	* Bluetooth is used for short range wireless communication between devices.
-	* It's often used for connecting peripherals like headphon
+	* It's often used for connecting peripherals like headphones, keyboards.
+
