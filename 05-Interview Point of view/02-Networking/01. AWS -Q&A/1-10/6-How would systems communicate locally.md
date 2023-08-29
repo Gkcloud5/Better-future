@@ -32,4 +32,8 @@ Now, let's see how A talks with C:
 	* USB connections allow devices to exchange data directly via USB cables.
 
 #### Via Wireless Connections:
-* 
+* **Wi-fi:** 
+	* Wireless Fidelity enables devices to communicate over a local wireless network. this is common for connecting laptops, smartphones, tablets and IoT devices.
+* **Bluetooth:**
+	* Bluetooth is used for short range wireless communication between devices.
+	* It's often used for connecting peripherals like headphon
