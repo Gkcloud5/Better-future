@@ -11,6 +11,11 @@
 * It locates the requested resource on the server's file system or generates it dynamically based on user input.
 
 **1.3 Sending HTTP responses:**
-* After processing request, web server sends a HTTP response back to the user browser.
+* After processing the request, web server sends a HTTP response back to the user browser.
 * This response contains requested content, along with HTTP headers that provide information about the content.
 
+**1.4 Load Balancing and redundancy:**
+* In high-traffic scenarios, web servers can be configured to distribute incoming requests across multiple servers or ensure service availability through redundancy and failover mechanisms.
+
+
+#### Mostly used web server
