@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "038b9698a9e2db77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6aa1c8b062605e43",
+  "active": "038b9698a9e2db77",
   "lastOpenFiles": [
     "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
     "04-Cloud and Devops Learning/05- Web Server",
