@@ -18,4 +18,5 @@
 * In high-traffic scenarios, web servers can be configured to distribute incoming requests across multiple servers or ensure service availability through redundancy and failover mechanisms.
 
 
-#### Mostly used web server
+
+### [[1. Ngnix Web Server]]
