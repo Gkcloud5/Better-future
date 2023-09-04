@@ -10,3 +10,7 @@
 * Web servers receives the HTTP request and processes it.
 * It locates the requested resource on the server's file system or generates it dynamically based on user input.
 
+**1.3 Sending HTTP responses:**
+* After processing request, web server sends a HTTP response back to the user browser.
+* This response contains requested content, along with HTTP headers that provide information about the content.
+
