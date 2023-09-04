@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
+                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
+                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
+                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md"
+                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md"
               }
             }
           }
@@ -170,11 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "493ab9368e09d4d9",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix",
-    "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
+    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
+    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Untitled",
+    "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
+    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix",
     "04-Cloud and Devops Learning/05- Web Server",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
     "02-DevOps & Cloud Plans/RoadMap/Resources.md",
@@ -211,8 +213,6 @@
     "Development Practice/Javascript/Practises/HTML Dom/style.css",
     "Development Practice/Javascript/Practises/HTML Dom/script.js",
     "Development Practice/Javascript/Practises/HTML Dom/script.css",
-    "Development Practice/Javascript/Practises/HTML Dom/index.html",
-    "Development Practice/Javascript/Practises/HTML Dom",
     "DSA/Images/Pasted image 20230825190426.png",
     "05-Interview Point of view/Images/Pasted image 20230825171523.png",
     "05-Interview Point of view/Images/Pasted image 20230825171230.png",
