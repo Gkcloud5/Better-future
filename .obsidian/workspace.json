@@ -54,30 +54,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "61179d3f9390bf61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/02- Why use Nginx.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d501b8482feb7fb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/01 - What is NGNIX server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -218,12 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "3799054a6a3e3feb",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
-    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/03- Installing Ngnix server.md",
-    "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
+    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/03- Installing Ngnix server.md",
+    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
+    "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/02- Why use Nginx.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/01 - What is NGNIX server.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230905174531.png",
