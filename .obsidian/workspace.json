@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/02- Why use Nginx.md",
+                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/02- Why use Nginx.md",
+                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/02- Why use Nginx.md"
+                "file": "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md"
               }
             }
           }
@@ -206,11 +206,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "61179d3f9390bf61",
+  "active": "493ab9368e09d4d9",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/02- Why use Nginx.md",
+    "04-Cloud and Devops Learning/Images/Pasted image 20230905174531.png",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
-    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/02- Why use Nginx.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/01 - What is NGNIX server.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics",
     "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
@@ -240,7 +241,6 @@
     "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "05-Interview Point of view/01-OS/01-OS interview questions.md",
     "Excalidraw/Drawing 2023-08-26 16.10.26.excalidraw.md",
-    "05-Interview Point of view/01-OS/01. AWS -Q&A/1-10/01- What commands used to check memory in Linux.md",
     "05-Interview Point of view/06-Psychology QA/QA",
     "05-Interview Point of view/06-Psychology QA",
     "Web Development/Javascript/Image/Pasted image 20230826013125.png",
@@ -254,7 +254,6 @@
     "05-Interview Point of view/Images/Pasted image 20230825171230.png",
     "05-Interview Point of view/Images/Pasted image 20230825170559.png",
     "05-Interview Point of view/Images/Pasted image 20230825162805.png",
-    "05-Interview Point of view/Images/Pasted image 20230825162326.png",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"

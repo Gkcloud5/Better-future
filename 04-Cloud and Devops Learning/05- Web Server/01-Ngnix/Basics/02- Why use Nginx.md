@@ -18,3 +18,9 @@
 
 #### Security:
 * It has more security features to protect websites from attacks
+
+#### Lightweight:
+* It's lightweight server that uses fewer resources that other web servers
+
+![[Pasted image 20230905174531.png]]
+
