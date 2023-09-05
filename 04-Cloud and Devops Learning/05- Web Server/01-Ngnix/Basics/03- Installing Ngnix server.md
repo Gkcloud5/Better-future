@@ -9,3 +9,6 @@ systemctl status nginx
 ```
 
 ### Basic configuration:
+
+#### 1. Create a configuration file for website:
+* 
