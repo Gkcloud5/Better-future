@@ -11,4 +11,6 @@
 
 #### Flexibility:
 * Ngnix is a very flexible server that can be used for a variety of tasks.
-* 
+* It can be used as 
+	* Web server
+	* Revers
