@@ -13,4 +13,8 @@
 * Ngnix is a very flexible server that can be used for a variety of tasks.
 * It can be used as 
 	* Web server
-	* Revers
+	* Reverse proxy
+	* Load Balancer
+
+#### Security:
+* It has more security features to protect websites from attacks
