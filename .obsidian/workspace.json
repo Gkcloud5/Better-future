@@ -28,9 +28,19 @@
                 "currentVersion": "1.4.14"
               }
             }
+          },
+          {
+            "id": "068ee71f0db1e482",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +187,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32288b22bbe1bc6b",
+  "active": "068ee71f0db1e482",
   "lastOpenFiles": [
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/03- Installing Ngnix server.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
