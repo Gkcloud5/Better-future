@@ -28,9 +28,19 @@
                 "currentVersion": "1.4.14"
               }
             }
+          },
+          {
+            "id": "8a55c56c33e6fd12",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +164,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -177,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32288b22bbe1bc6b",
+  "active": "8a55c56c33e6fd12",
   "lastOpenFiles": [
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/03- Installing Ngnix server.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
