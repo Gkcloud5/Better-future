@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/Linux/Linux.md",
+                "file": "0-Dashboard of my better future/My Journey.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "32288b22bbe1bc6b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "8a55c56c33e6fd12",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Learning/Linux/Linux.md",
+                "file": "0-Dashboard of my better future/My Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Learning/Linux/Linux.md",
+                "file": "0-Dashboard of my better future/My Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Learning/Linux/Linux.md"
+                "file": "0-Dashboard of my better future/My Journey.md"
               }
             }
           },
@@ -189,8 +169,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a55c56c33e6fd12",
+  "active": "2154ffc27566459a",
   "lastOpenFiles": [
+    "0-Dashboard of my better future/Banner.md",
+    "03-Learning/Linux/Linux.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/03- Installing Ngnix server.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
     "Web Development/CSS/CSS.md",
@@ -223,8 +205,6 @@
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Maven",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/02 - What is build and what things are done while doing it.md",
-    "001-Communication/Improvement/Day to day sentense/Everyday using sentense.md",
-    "001-Communication/Improvement/Simple Sentence/01 to 20 Sentence.md",
     "05-Interview Point of view/06-Psychology QA/QA",
     "05-Interview Point of view/06-Psychology QA",
     "Web Development/Javascript/Image/Pasted image 20230826013125.png",
