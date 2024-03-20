@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a99f89bbe35e2b84",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2154ffc27566459a",
+  "active": "a99f89bbe35e2b84",
   "lastOpenFiles": [
     "0-Dashboard of my better future/Banner.md",
     "03-Learning/Linux/Linux.md",
