@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "1a427ba72410b526",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +183,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2154ffc27566459a",
+  "active": "1a427ba72410b526",
   "lastOpenFiles": [
     "0-Dashboard of my better future/My Journey.md",
     "0-Dashboard of my better future/Banner.md",
