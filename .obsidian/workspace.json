@@ -16,24 +16,13 @@
                 "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
                 "viewState": {
                   "x": -201,
-                  "y": 917.7610062893082,
+                  "y": -4.440251572327099,
                   "zoom": -0.9878509173338839
                 }
               }
             }
-          },
-          {
-            "id": "1a427ba72410b526",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +172,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a427ba72410b526",
+  "active": "2154ffc27566459a",
   "lastOpenFiles": [
     "0-Dashboard of my better future/My Journey.md",
     "0-Dashboard of my better future/Banner.md",
