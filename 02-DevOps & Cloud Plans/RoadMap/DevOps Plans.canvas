@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"text","text":"## DevOps & Cloud","id":"7cd31c0b2fa36a60","x":-818,"y":97,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"## DevOps & Cloud","id":"7cd31c0b2fa36a60","x":-818,"y":97,"width":250,"height":102,"color":"1"},
 		{"type":"text","text":"#### Infrastructure Code","id":"2c9caa5b5d1bd1de","x":-252,"y":199,"width":250,"height":60},
 		{"type":"text","text":"#### DevOps","id":"4167007e8dc5c4e2","x":-252,"y":67,"width":250,"height":60,"color":"2"},
 		{"type":"text","text":"#### Database","id":"354f381348cae3fa","x":-252,"y":-108,"width":250,"height":60,"color":"2"},
@@ -21,7 +21,6 @@
 		{"type":"text","text":"##### Application","id":"6ccef542b4318982","x":131,"y":764,"width":250,"height":60},
 		{"type":"text","text":"##### Logs Management","id":"9f4dbd8c611b7f95","x":134,"y":863,"width":250,"height":60},
 		{"type":"text","text":"","id":"3f929d0d721fa9d0","x":134,"y":970,"width":250,"height":60},
-		{"type":"text","text":"#### Virtualization","id":"e690bf16ec5ccc40","x":-1180,"y":97,"width":250,"height":60},
 		{"type":"text","text":"# DevOps and Cloud Roadmap","id":"60df61f98fc29be7","x":-693,"y":-680,"width":480,"height":80},
 		{"type":"text","text":"#### [[OS]]","id":"396c8063b1823198","x":-252,"y":-556,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"##### [[Linux]]","id":"ea2aeea29db013e8","x":134,"y":-556,"width":250,"height":60,"color":"4"},
@@ -32,7 +31,8 @@
 		{"type":"text","text":"##### Github","id":"a44e3577c53eb1de","x":134,"y":298,"width":250,"height":60},
 		{"type":"text","text":"#### WebServer","id":"25dd7f6ce6288e85","x":-252,"y":484,"width":250,"height":60},
 		{"type":"text","text":"##### Ngnix","id":"fc525892ca9e7793","x":134,"y":484,"width":250,"height":60},
-		{"id":"aa6025cc0af6b035","type":"text","text":"##### Jenkins","x":131,"y":388,"width":250,"height":60}
+		{"id":"aa6025cc0af6b035","type":"text","text":"##### Jenkins","x":131,"y":388,"width":250,"height":60},
+		{"type":"text","text":"#### Virtualization","id":"e690bf16ec5ccc40","x":-1200,"y":118,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"f948217f62241d92","fromNode":"7cd31c0b2fa36a60","fromSide":"right","toNode":"396c8063b1823198","toSide":"left"},
