@@ -11,29 +11,15 @@
             "id": "2154ffc27566459a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -201,
-                  "y": 49.58104738945474,
-                  "zoom": -0.48785091733388386
-                }
-              }
-            }
-          },
-          {
-            "id": "3f39cf422c0faf02",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
+                "file": "02-DevOps & Cloud Plans/Imp things/Important Things.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
-    "collapsed": true
+    "width": 370.5
   },
   "right": {
     "id": "759cbbb323e74305",
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "02-DevOps & Cloud Plans/Imp things/Important Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+                "file": "02-DevOps & Cloud Plans/Imp things/Important Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas"
+                "file": "02-DevOps & Cloud Plans/Imp things/Important Things.md"
               }
             }
           },
@@ -183,10 +168,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f39cf422c0faf02",
+  "active": "2154ffc27566459a",
   "lastOpenFiles": [
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+    "02-DevOps & Cloud Plans/Imp things/Important Things.md",
+    "02-DevOps & Cloud Plans/Imp things",
+    "02-DevOps & Cloud Plans/RoadMap/Resources.md",
+    "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
+    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "0-Dashboard of my better future/My Journey.md",
     "0-Dashboard of my better future/Banner.md",
+    "0-Dashboard of my better future/Dashboard template.md",
     "03-Learning/Linux/Linux.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/03- Installing Ngnix server.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
@@ -200,8 +192,6 @@
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix",
     "04-Cloud and Devops Learning/05- Web Server",
-    "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
-    "02-DevOps & Cloud Plans/RoadMap/Resources.md",
     "05-Interview Point of view/Images/Pasted image 20230829152346.png",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
@@ -214,11 +204,7 @@
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1108. Defanging an IP Address.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
     "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/724. Find Pivot Index.md",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Practical experiements/01. Git-Build-Deploy - Jenkins.md",
-    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Maven/01- What is maven in CI.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Maven",
-    "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/Errors and solution/Jenkins Errors i faced.md",
     "05-Interview Point of view/06-Psychology QA/QA",
     "05-Interview Point of view/06-Psychology QA",
     "Web Development/Javascript/Image/Pasted image 20230826013125.png",
@@ -226,7 +212,6 @@
     "Web Development/Javascript/07 - HTML DOM related/Things",
     "Development Practice/Javascript/Practises/HTML Dom/style.css",
     "Development Practice/Javascript/Practises/HTML Dom/script.js",
-    "Development Practice/Javascript/Practises/HTML Dom/script.css",
     "DSA/Images/Pasted image 20230825190426.png",
     "05-Interview Point of view/Images/Pasted image 20230825171523.png",
     "05-Interview Point of view/Images/Pasted image 20230825171230.png",
