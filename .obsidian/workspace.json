@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-DevOps & Cloud Plans/Imp things/Important Things.md",
+                "file": "Template/Grammar template.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-DevOps & Cloud Plans/Imp things/Important Things.md",
+                "file": "Template/Grammar template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-DevOps & Cloud Plans/Imp things/Important Things.md",
+                "file": "Template/Grammar template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-DevOps & Cloud Plans/Imp things/Important Things.md"
+                "file": "Template/Grammar template.md"
               }
             }
           },
@@ -168,10 +168,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2154ffc27566459a",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
-    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
+    "Untitled",
+    "Template/Simple explain template.md",
+    "Template/Network template.md",
+    "Web Development/Javascript/06-Namaste YT/011 - setTimeout and closures in JS.md",
+    "Web Development/Javascript/JavaScript.md",
+    "Web Development/RoadMap/Web App developer roadmap.canvas",
     "02-DevOps & Cloud Plans/Imp things/Important Things.md",
+    "04-Cloud and Devops Learning/01-Overview/01-Overview about cloud and devops.md",
     "02-DevOps & Cloud Plans/Imp things",
     "02-DevOps & Cloud Plans/RoadMap/Resources.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
@@ -183,7 +189,6 @@
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/03- Installing Ngnix server.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
     "Web Development/CSS/CSS.md",
-    "Web Development/Javascript/JavaScript.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
     "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/02- Why use Nginx.md",
@@ -200,10 +205,6 @@
     "Web Development/Javascript/07 - HTML DOM related/01- HTML DOM related things.md",
     "DSA/03-Analyze and find pattern/01-Array/01- Array DS Analyze and find pattern.md",
     "DSA/04-Pattern Problems/01-Array/01-Prefix Sum/1588. Sum of All Odd Length Subarrays.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1403. Minimum Subsequence in Non-Increasing Order.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/1108. Defanging an IP Address.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/771. Jewels and Stones.md",
-    "DSA/02-Problems Solving/01-Array-List/01- 1D Array/1 to 20 Sums/724. Find Pivot Index.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Maven",
     "05-Interview Point of view/06-Psychology QA/QA",
     "05-Interview Point of view/06-Psychology QA",
@@ -217,7 +218,6 @@
     "05-Interview Point of view/Images/Pasted image 20230825171230.png",
     "05-Interview Point of view/Images/Pasted image 20230825170559.png",
     "05-Interview Point of view/Images/Pasted image 20230825162805.png",
-    "Web Development/RoadMap/Web App developer roadmap.canvas",
     "Untitled.canvas",
     "03-Learning/Programming/Program learning Steps/Programe learn.canvas"
   ]
