@@ -1,2 +1,3 @@
 
-### Important Topics in RHCSA
+### Important Topics in RHCSA:
+
