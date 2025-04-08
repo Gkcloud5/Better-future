@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
+                "file": "03-Learning/01-RHCSA/01-Overview/01- Overview of RHCSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semaphore vs Mutex"
+              "title": "01- Overview of RHCSA"
             }
           }
         ]
@@ -196,6 +196,10 @@
   "active": "2154ffc27566459a",
   "lastOpenFiles": [
     "03-Learning/OS+Linux/OS And Linux.md",
+    "03-Learning/01-RHCSA/01-Overview/01- Overview of RHCSA.md",
+    "03-Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
+    "03-Learning/01-RHCSA/01-Overview",
+    "03-Learning/01-RHCSA",
     "03-Learning/Programming/Python/Practice/Practice in IDE.md",
     "03-Learning/Linux/Linux.md",
     "0-Dashboard of my better future/My Journey.md",
@@ -229,15 +233,11 @@
     "05-Interview Point of view/Images/Pasted image 20230829152346.png",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
     "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
-    "05-Interview Point of view/02-Networking/01-Networking interview questions.md",
-    "Web Development/Javascript/07 - HTML DOM related/Things/03 - getElementByName in JS.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Maven",
     "05-Interview Point of view/06-Psychology QA/QA",
     "05-Interview Point of view/06-Psychology QA",
     "Web Development/Javascript/Image/Pasted image 20230826013125.png",
     "Web Development/Javascript/Image/Pasted image 20230826003728.png",
-    "Web Development/Javascript/07 - HTML DOM related/Things",
-    "Development Practice/Javascript/Practises/HTML Dom/style.css",
     "DSA/Images/Pasted image 20230825190426.png",
     "05-Interview Point of view/Images/Pasted image 20230825171523.png",
     "05-Interview Point of view/Images/Pasted image 20230825171230.png",
