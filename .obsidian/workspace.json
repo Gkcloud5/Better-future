@@ -11,17 +11,14 @@
             "id": "2154ffc27566459a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -211,
-                  "y": 364.44025157232704,
-                  "zoom": -0.9878509173338839
-                }
+                "file": "03-Learning/Operating System/OS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "DevOps Plans"
+              "icon": "lucide-file",
+              "title": "OS"
             }
           }
         ]
@@ -199,6 +196,7 @@
   },
   "active": "2154ffc27566459a",
   "lastOpenFiles": [
+    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "0-Dashboard of my better future/My Journey.md",
     "0-Dashboard of my better future/Dashboard template.md",
     "03-Learning/01-RHCSA/01-Overview/01- Overview of RHCSA.md",
@@ -208,7 +206,6 @@
     "03-Learning/01-RHCSA",
     "03-Learning/Programming/Python/Practice/Practice in IDE.md",
     "03-Learning/Linux/Linux.md",
-    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
     "02-DevOps & Cloud Plans/RoadMap/Resources.md",
     "03-Learning/Network/Networking.md",
@@ -236,7 +233,6 @@
     "04-Cloud and Devops Learning/05- Web Server",
     "05-Interview Point of view/Images/Pasted image 20230829152346.png",
     "05-Interview Point of view/02-Networking/01. AWS -Q&A/1-10/6-How would systems communicate locally.md",
-    "05-Interview Point of view/03-AWS Interview questions/01-Some questions asked in AWS.md",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Maven",
     "05-Interview Point of view/06-Psychology QA/QA",
     "05-Interview Point of view/06-Psychology QA",
