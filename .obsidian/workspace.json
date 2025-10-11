@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f534d80f5728cea1",
+        "id": "84ff027c0f8dfe0d",
         "type": "tabs",
         "children": [
           {
-            "id": "18e2fa1a255e3ec5",
+            "id": "153e93ba2cb29db3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Resume Building/Technical Support/01-TS role JD content.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01-TS role JD content"
             }
           }
         ]
@@ -190,15 +194,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf5ef259f82812a2",
+  "active": "153e93ba2cb29db3",
   "lastOpenFiles": [
-    "03-Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
-    "Untitled.base",
-    "03-Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
+    "Resume Building/01-Related to Resume Preparation.md",
+    "Template/Bash script template.md",
     "03-Learning/Operating System/OS Topics.md",
+    "0-Dashboard of my better future/My Journey.md",
+    "Untitled.base",
+    "03-Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
+    "03-Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "03-Learning/Operating System/OS.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "0-Dashboard of my better future/My Journey.md",
     "0-Dashboard of my better future/Dashboard template.md",
     "03-Learning/01-RHCSA/01-Overview/01- Overview of RHCSA.md",
     "03-Learning/OS+Linux/OS And Linux.md",
@@ -224,8 +230,6 @@
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/03- Installing Ngnix server.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/1. Ngnix Web Server.md",
     "Web Development/CSS/CSS.md",
-    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
-    "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230905174531.png",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix",
