@@ -225,13 +225,17 @@
  - Document technical knowledge in the form of notes and manuals
 ###### Skills:
 ---------------------------------------------------
-**15**
-## Company name: `Nuance Communications`
-### Role: `Product Support Engineer`
-#### Link: [Lin](https://www.linkedin.com/jobs/view/3684317291)
+
+ **13**
+## Company name: `Appfire`
+### Role: `Application Support Engineer`
+#### Link: [LN](https://www.linkedin.com/jobs/view/3682380871)
 ##### JD:
- - Provide technical support via email and web ticket handling to external and internal customers within set SLA.
-###### Skills:     
+ * You will diagnose, configure, troubleshoot, and solve problems
+ * troubleshooting, and identifying solutions to complex application L1-L2 support issues.
+###### Skills:
+ * Scripting, database SQL, and systems skills
+ * Knowledge of Atlassian products
 
 
 ---------------------------------------------------
