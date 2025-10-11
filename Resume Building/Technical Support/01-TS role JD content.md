@@ -231,7 +231,7 @@
 #### Link: [Lin](https://www.linkedin.com/jobs/view/3684317291)
 ##### JD:
  - Provide technical support via email and web ticket handling to external and internal customers within set SLA.
-###### Skills:
+###### Skills:     
 
 
 ---------------------------------------------------
