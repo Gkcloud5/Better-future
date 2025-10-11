@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ecf24f768b9a2e5b",
+        "id": "f534d80f5728cea1",
         "type": "tabs",
         "children": [
           {
-            "id": "2154ffc27566459a",
+            "id": "18e2fa1a255e3ec5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Introduction of OS"
+              "title": "New tab"
             }
           }
         ]
@@ -194,8 +190,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2154ffc27566459a",
+  "active": "cf5ef259f82812a2",
   "lastOpenFiles": [
+    "03-Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
+    "Untitled.base",
     "03-Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "03-Learning/Operating System/OS Topics.md",
     "03-Learning/Operating System/OS.md",
@@ -228,7 +226,6 @@
     "Web Development/CSS/CSS.md",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Agenda.md",
     "04-Cloud and Devops Learning/05- Web Server/001- About Web servers.md",
-    "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics/02- Why use Nginx.md",
     "04-Cloud and Devops Learning/Images/Pasted image 20230905174531.png",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix/Basics",
     "04-Cloud and Devops Learning/05- Web Server/01-Ngnix",
@@ -236,7 +233,6 @@
     "05-Interview Point of view/Images/Pasted image 20230829152346.png",
     "04-Cloud and Devops Learning/04-CI and CD/02-Tools/Jenkins/01-Maven",
     "05-Interview Point of view/06-Psychology QA/QA",
-    "05-Interview Point of view/06-Psychology QA",
     "Web Development/Javascript/Image/Pasted image 20230826013125.png",
     "Web Development/Javascript/Image/Pasted image 20230826003728.png",
     "DSA/Images/Pasted image 20230825190426.png",
