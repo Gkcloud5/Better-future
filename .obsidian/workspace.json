@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "01- TS and SE job description 2025"
             }
+          },
+          {
+            "id": "da7990208526f90f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "513fca8ea04479b6",
+  "active": "da7990208526f90f",
   "lastOpenFiles": [
     "Template/Job Description information.md",
     "Resume Building/Technical Support/2025/01- TS and SE job description 2025.md",
