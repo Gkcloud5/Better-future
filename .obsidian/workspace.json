@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume Building/Technical Support/2025/01- TS and SE job description 2025.md",
+                "file": "02-DevOps & Cloud Plans/RoadMap/Cloud engineer 2025 plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01- TS and SE job description 2025"
-            }
-          },
-          {
-            "id": "da7990208526f90f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Cloud engineer 2025 plan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,10 +194,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da7990208526f90f",
+  "active": "513fca8ea04479b6",
   "lastOpenFiles": [
-    "Template/Job Description information.md",
+    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
+    "02-DevOps & Cloud Plans/RoadMap/Cloud engineer 2025 plan.md",
+    "02-DevOps & Cloud Plans/RoadMap/Resources.md",
+    "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
     "Resume Building/Technical Support/2025/01- TS and SE job description 2025.md",
+    "Template/Job Description information.md",
     "Resume Building/Technical Support/2024/01-TS role JD content.md",
     "Resume Building/Technical Support/2025",
     "Resume Building/Technical Support/2024/02- Info as per the Job description.md",
@@ -227,7 +218,6 @@
     "03-Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
     "03-Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "03-Learning/Operating System/OS.md",
-    "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "0-Dashboard of my better future/Dashboard template.md",
     "03-Learning/01-RHCSA/01-Overview/01- Overview of RHCSA.md",
     "03-Learning/OS+Linux/OS And Linux.md",
@@ -236,13 +226,9 @@
     "03-Learning/01-RHCSA",
     "03-Learning/Programming/Python/Practice/Practice in IDE.md",
     "03-Learning/Linux/Linux.md",
-    "02-DevOps & Cloud Plans/RoadMap/DevOps Roadmap HD.png",
-    "02-DevOps & Cloud Plans/RoadMap/Resources.md",
     "03-Learning/Network/Networking.md",
     "02-DevOps & Cloud Plans/Imp things/Important Things.md",
-    "Web Development/Javascript/JavaScript.md",
     "Untitled",
-    "Web Development/Javascript/06-Namaste YT/011 - setTimeout and closures in JS.md",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
     "02-DevOps & Cloud Plans/Imp things",
     "04-Cloud and Devops Learning/Images/Pasted image 20230905174531.png",
