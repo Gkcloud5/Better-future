@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud engineer learn 2025/OS/Operating system 2025.md",
+                "file": "Cloud engineer learn 2025/OS/01-About OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating system 2025"
+              "title": "01-About OS"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "513fca8ea04479b6",
   "lastOpenFiles": [
-    "Cloud engineer learn 2025/Cloud engineer 2025 plan.md",
     "Cloud engineer learn 2025/OS/Operating system 2025.md",
+    "Cloud engineer learn 2025/OS/01-About OS.md",
+    "Cloud engineer learn 2025/Cloud engineer 2025 plan.md",
     "Cloud engineer learn 2025/OS",
     "Cloud engineer learn 2025",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
