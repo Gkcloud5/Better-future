@@ -1,6 +1,6 @@
 
 #### Things to learn
-1. OS
+1. [[Operating system 2025]]
 2. Linux
 3. Networking
 4. Git
