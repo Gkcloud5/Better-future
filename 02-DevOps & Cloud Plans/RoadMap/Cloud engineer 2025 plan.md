@@ -12,4 +12,3 @@
 10. CI/CD --GitHub Actions, Jenkins
 11. Monitoring -- CloudWatch, Grafana
 12. Security  - AWS IAM
-13. 
