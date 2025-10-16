@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4c954db42ea8bc6e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud engineer learn 2025/OS/Operating system 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Operating system 2025"
+            }
+          },
+          {
             "id": "513fca8ea04479b6",
             "type": "leaf",
             "state": {
@@ -21,7 +37,8 @@
               "title": "01-About OS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
