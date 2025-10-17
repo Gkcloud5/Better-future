@@ -36,3 +36,12 @@
 4. Embedded OS -- Runs on small devices like routers, watches
 5. Mobile OS -- Designed for OS
 6. Network OS -- Manages servers and connected users -- windows server, Linux
+
+### Components of OS:
+
+1. Kernel -- Brain of OS, controls hardware directly
+2. Shell -- Interface for users or program talk to kernel
+3. File system -- Manages data storage and access
+4. Device drivers -- Help OS communicate with hardware
+5. System programs -- Utility tools like file explorer, settings, etc
+
