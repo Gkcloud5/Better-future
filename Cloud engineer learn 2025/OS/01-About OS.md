@@ -28,4 +28,11 @@
 			* Through GUI or CLI
 
 
+### Types of OS:
 
+1. Batch OS -- runs tasks one after another -- used in early computers
+2. Time sharing/ Multitasking OS -- Runs multiple programs at once -- using now days
+3. Distributed OS -- Manages a group of connected computers as one system
+4. Embedded OS -- Runs on small devices like routers, watches
+5. Mobile OS -- Designed for OS
+6. Network OS -- Manages servers and connected users -- windows server, Linux
