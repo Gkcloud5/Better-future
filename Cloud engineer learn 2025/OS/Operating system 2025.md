@@ -14,4 +14,6 @@ Here’s the **20% of OS concepts** that deliver **80% of practical knowledge an
 | **7. System Calls**                  | `fork()`, `exec()`, `wait()`, `open()`, `read()`, `write()`                                    | How programs talk to the OS                        |
 
 1. [[01-About OS]]
-2. 
+2. [[02-Main Functions of OS]]
+3. 
+4. 

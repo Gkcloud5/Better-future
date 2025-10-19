@@ -37,7 +37,7 @@
 5. Mobile OS -- Designed for OS
 6. Network OS -- Manages servers and connected users -- windows server, Linux
 
-### Components of OS:
+### Components of OS: [](https://chatgpt.com/share/68f51121-7a20-800a-896b-8812aa75eb65)
 
 1. Kernel -- Brain of OS, controls hardware directly
 2. Shell -- Interface for users or program talk to kernel
