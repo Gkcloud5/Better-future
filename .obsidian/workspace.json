@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/Operating System/OS.md",
+                "file": "03-Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS"
+              "title": "Semaphore vs Mutex"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "6491ffda34730616",
   "lastOpenFiles": [
-    "03-Learning/Operating System/OS Topics.md",
+    "03-Learning/OS+Linux/OS And Linux.md",
     "03-Learning/Operating System/OS.md",
+    "03-Learning/Operating System/OS Topics.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
     "0-Dashboard of my better future/My Journey.md",
     "0-Dashboard of my better future/Dashboard template.md",
@@ -229,7 +230,6 @@
     "03-Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
     "03-Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
     "03-Learning/01-RHCSA/01-Overview/01- Overview of RHCSA.md",
-    "03-Learning/OS+Linux/OS And Linux.md",
     "03-Learning/01-RHCSA/01-Overview",
     "03-Learning/01-RHCSA",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
