@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e42797349e5ad4c",
+        "id": "3386fa70e54c3ba5",
         "type": "tabs",
         "children": [
           {
-            "id": "6491ffda34730616",
+            "id": "b9bb30acd48184e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
+                "file": "03-Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semaphore vs Mutex"
+              "title": "Basic-Exercise-1"
             }
           }
         ]
@@ -194,14 +194,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6491ffda34730616",
+  "active": "b9bb30acd48184e3",
   "lastOpenFiles": [
+    "03-Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
+    "03-Learning/Programming/Python/Exercise/Exercise Topics.md",
+    "03-Learning/Network/04-CDN/05-Content Delivery Network.md",
+    "03-Learning/Network/Networking.md",
+    "0-Dashboard of my better future/My Journey.md",
+    "0-Dashboard of my better future/Dashboard template.md",
+    "Template/Simple explain template.md",
+    "03-Learning/OS+Linux/Topics/Semaphore vs Mutex.md",
     "03-Learning/OS+Linux/OS And Linux.md",
     "03-Learning/Operating System/OS.md",
     "03-Learning/Operating System/OS Topics.md",
     "02-DevOps & Cloud Plans/RoadMap/DevOps Plans.canvas",
-    "0-Dashboard of my better future/My Journey.md",
-    "0-Dashboard of my better future/Dashboard template.md",
     "Cloud engineer learn 2025/OS/02-Main Functions of OS/01-Process Management",
     "Cloud engineer learn 2025/OS/02-Main Functions of OS",
     "Cloud engineer learn 2025/OS/02-Main Functions of OS/02-Main Functions of OS.md",
@@ -220,16 +226,11 @@
     "Resume Building/Technical Support/2025",
     "Resume Building/Technical Support/2024/02- Info as per the Job description.md",
     "Resume Building/Technical Support/2024",
-    "Template/Simple explain template.md",
     "Template/Theory template.md",
     "Template/Bash script template.md",
     "Template/Grammar template.md",
     "Template/Network template.md",
-    "Resume Building/01-Related to Resume Preparation.md",
     "Untitled.base",
-    "03-Learning/Operating System/Theory Parts/Basics/Introduction of OS.md",
-    "03-Learning/Operating System/Theory Parts/Basics/Basics of OS.md",
-    "03-Learning/01-RHCSA/01-Overview/01- Overview of RHCSA.md",
     "03-Learning/01-RHCSA/01-Overview",
     "03-Learning/01-RHCSA",
     "Web Development/RoadMap/Web App developer roadmap.canvas",
