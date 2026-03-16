@@ -11,17 +11,14 @@
             "id": "ddce700300eb898b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "RoadMap/DevOps Plans.canvas",
-                "viewState": {
-                  "x": -211,
-                  "y": 364.44025157232704,
-                  "zoom": -0.9878509173338839
-                }
+                "file": "OS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "DevOps Plans"
+              "icon": "lucide-file",
+              "title": "OS"
             }
           }
         ]
@@ -174,6 +171,8 @@
   },
   "active": "ddce700300eb898b",
   "lastOpenFiles": [
+    "RoadMap/DevOps Plans.canvas",
+    "OS.md",
     "RoadMap/DevOps Roadmap HD.png"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
+                "file": "03-Learning/Programming/Bash/Bash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic-Exercise-1"
+              "title": "Bash"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "b9bb30acd48184e3",
   "lastOpenFiles": [
+    "03-Learning/Programming/Python/Exercise/Basic/Basic-Exercise-1.md",
     "03-Learning/Programming/Python/Exercise/Basic/Basic Exercise.md",
     "03-Learning/Programming/Python/Exercise/Exercise Topics.md",
     "03-Learning/Network/04-CDN/05-Content Delivery Network.md",
@@ -229,7 +230,6 @@
     "Template/Theory template.md",
     "Template/Bash script template.md",
     "Template/Grammar template.md",
-    "Template/Network template.md",
     "Untitled.base",
     "03-Learning/01-RHCSA/01-Overview",
     "03-Learning/01-RHCSA",
